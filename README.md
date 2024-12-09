@@ -1,6 +1,6 @@
-# first_project
+# NestedScrollViewDemo
 
-A new Flutter project.
+A new Flutter project for NestedScrollView的个人资料页面demo.
 
 ## Getting Started
 
