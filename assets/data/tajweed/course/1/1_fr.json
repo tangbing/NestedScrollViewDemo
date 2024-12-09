@@ -1,0 +1,96 @@
+{
+  "id": 0,
+  "title": "Madd Naturel",
+  "desc1_desc": "Le Madd (مَدّ) désigne l'extension ou l'allongement d'un son. Cela se produit lorsqu'une lettre Madd suit une lettre qui porte le son correspondant de la voyelle, ce qui provoque un allongement du son. Le lecteur doit prolonger la lettre précédant la lettre Madd de 2 battements, un battement correspondant à la durée nécessaire pour prononcer une seule lettre sans allongement.",
+  "desc2_title": "Exemples de Madd Naturel",
+  "desc2_desc": "",
+  "Lesson number": 1,
+  "Quiz number": 5,
+  "Lessons": [
+    {
+      "id": 0,
+      "name": "Madd Asli (Élongation Naturelle)",
+      "pengertian": "L'élongation naturelle est divisée en trois types :",
+      "categories": [
+        "La lettre ا lorsqu'elle est combinée avec Fatha.",
+        "La lettre ي lorsqu'elle est combinée avec Kasrah.",
+        "La lettre و lorsqu'elle est combinée avec Dhammah."
+      ],
+      "examples": [
+        {
+          "withoutMadd": "مَ",
+          "withMadd": "مَا = مَ + ا",
+          "maddLetter": "ا",
+          "image": "1.02.jpg",
+          "audio": "1.02.mp3"
+        },
+        {
+          "withoutMadd": "مِ",
+          "withMadd": "مِي = مِ + ي",
+          "maddLetter": "ي",
+          "image": "1.04.jpg",
+          "audio": "1.04.mp3"
+        },
+        {
+          "withoutMadd": "مُ",
+          "withMadd": "مُو = مُ + و",
+          "maddLetter": "و",
+          "image": "1.06.jpg",
+          "audio": "1.06.mp3"
+        }
+      ]
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "Si une lettre avec un Harakat Fat-Hah rencontre ا, le lecteur doit ... la lettre.",
+      "answers": [
+        { "answer": "écho (قَلۡقَلَةۡ)", "right": 0 },
+        { "answer": "Prolonger", "right": 1 },
+        { "answer": "Raccourcir", "right": 0 },
+        { "answer": "Sauter", "right": 0 }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Quel mot démontre correctement le Madd Naturel?",
+      "answers": [
+        { "answer": "مَا", "right": 1 },
+        { "answer": "مُوَّ", "right": 0 },
+        { "answer": "مَاا", "right": 0 },
+        { "answer": "مِوِ", "right": 0 }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Toutes ces règles doivent être prolongées, sauf...",
+      "answers": [
+        { "answer": "La lettre ا si associée à Fatha", "right": 0 },
+        { "answer": "La lettre ي si associée à Kasrah", "right": 0 },
+        { "answer": "La lettre و si associée à Dhammah", "right": 0 },
+        { "answer": "La lettre ي si associée à Dhammah", "right": 1 }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Lequel des éléments suivants contient une lettre qui doit être prolongée?",
+      "answers": [
+        { "answer": "وَأَوۡفُوۡا", "right": 1 },
+        { "answer": "نَوۡمَكُمۡ", "right": 0 },
+        { "answer": "يُوَسۡوِسُ", "right": 0 },
+        { "answer": "يَوۡمِ", "right": 0 }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Dans quel mot le Madd Naturel est-il appliqué correctement?",
+      "answers": [
+        { "answer": "مُو", "right": 1 },
+        { "answer": "مُووْ", "right": 0 },
+        { "answer": "مَ", "right": 0 },
+        { "answer": "مِووِ", "right": 0 }
+      ]
+    }
+  ]
+}

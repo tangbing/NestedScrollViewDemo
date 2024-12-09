@@ -1,0 +1,96 @@
+{
+  "id": 0,
+  "title": "Madd Alami",
+  "desc1_desc": "Madd (مَدّ) berarti 'memanjangkan' atau 'memperluas' suara. Hal ini terjadi ketika huruf madd mengikuti huruf yang memiliki bunyi vokal yang sesuai, menyebabkan bunyi diperpanjang. Pembaca harus memperpanjang huruf sebelum huruf madd selama 2 ketukan, di mana satu ketukan adalah durasi yang dibutuhkan untuk mengucapkan satu huruf tanpa diperpanjang.",
+  "desc2_title": "Contoh Madd Alami",
+  "desc2_desc": "",
+  "Lesson number": 1,
+  "Quiz number": 5,
+  "Lessons": [
+    {
+      "id": 0,
+      "name": "Madd Asli (Panjangan Alami)",
+      "pengertian": "Madd alami dibagi menjadi tiga jenis:",
+      "categories": [
+        "Huruf ا ketika digabungkan dengan Fatha.",
+        "Huruf ي ketika digabungkan dengan Kasrah.",
+        "Huruf و ketika digabungkan dengan Dhammah."
+      ],
+      "examples": [
+        {
+          "withoutMadd": "مَ",
+          "withMadd": "مَا = مَ + ا",
+          "maddLetter": "ا",
+          "image": "1.02.jpg",
+          "audio": "1.02.mp3"
+        },
+        {
+          "withoutMadd": "مِ",
+          "withMadd": "مِي = مِ + ي",
+          "maddLetter": "ي",
+          "image": "1.04.jpg",
+          "audio": "1.04.mp3"
+        },
+        {
+          "withoutMadd": "مُ",
+          "withMadd": "مُو = مُ + و",
+          "maddLetter": "و",
+          "image": "1.06.jpg",
+          "audio": "1.06.mp3"
+        }
+      ]
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "Jika ada huruf dengan harakat Fatha bertemu ا, maka pembaca harus ... huruf tersebut.",
+      "answers": [
+        { "answer": "gema (قَلۡقَلَةۡ)", "right": 0 },
+        { "answer": "panjang", "right": 1 },
+        { "answer": "pendek", "right": 0 },
+        { "answer": "lewati", "right": 0 }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Kata mana yang menunjukkan Madd Alami dengan benar?",
+      "answers": [
+        { "answer": "مَا", "right": 1 },
+        { "answer": "مُوَّ", "right": 0 },
+        { "answer": "مَاا", "right": 0 },
+        { "answer": "مِوِ", "right": 0 }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Semua aturan ini harus diperpanjang, kecuali...",
+      "answers": [
+        { "answer": "Huruf ا jika digabung dengan Fatha", "right": 0 },
+        { "answer": "Huruf ي jika digabung dengan Kasrah", "right": 0 },
+        { "answer": "Huruf و jika digabung dengan Dhammah", "right": 0 },
+        { "answer": "Huruf ي jika digabung dengan Dhammah", "right": 1 }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Mana di bawah ini yang mengandung huruf yang harus diperpanjang?",
+      "answers": [
+        { "answer": "وَأَوۡفُوۡا", "right": 1 },
+        { "answer": "نَوۡمَكُمۡ", "right": 0 },
+        { "answer": "يُوَسۡوِسُ", "right": 0 },
+        { "answer": "يَوۡمِ", "right": 0 }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Di kata mana Madd Alami diterapkan dengan benar?",
+      "answers": [
+        { "answer": "مُو", "right": 1 },
+        { "answer": "مُووْ", "right": 0 },
+        { "answer": "مَ", "right": 0 },
+        { "answer": "مِووِ", "right": 0 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+    "id": 2,
+    "title": "To‘xtash Qoidalari",
+    "desc1_desc": "To‘xtash qoidalari Qur’onni o‘qishda qanday qilib to‘g‘ri to‘xtash yoki pauza qilish kerakligini tushuntiradi, bu esa tajvid qoidalariga va to‘g‘ri talaffuzga rioya qilishni ta’minlaydi.",
+    "desc2_title": "Misollar va Vaziyatlar",
+    "desc2_desc": "Turli to‘xtash qoidalari, masalan, tovushlarda, Fatha Tanvinida, Mushaddad harflarda va boshqalarda misollar orqali tushuntiriladi.",
+    "Lesson number": 7,
+    "Quiz number": 10,
+    "Lessons": [
+        {
+            "id": 0,
+            "name": "Fatha Tanvinidan Tashqari Tovushlarda To‘xtash",
+            "pengertian": "To‘xtaganda, oxirgi harfni sukun (jim tugash) sifatida qabul qiling.",
+            "caraMembaca": "Oxirgi tovushni neytrallashtirib, yumshoq pauza qiling.",
+            "example": "أَكْبَرُ",
+            "gambar": "3.01.jpg",
+            "suara": "3.01.mp3"
+        },
+        {
+            "id": 1,
+            "name": "Fatha Tanvinida To‘xtash",
+            "pengertian": "Agar oxirgi harf Fatha Tanvini bo‘lsa yoki undan keyin Alif-Madd kelsa, Fatha Tanvin qoidalariga muvofiq to‘xtang.",
+            "caraMembaca": "Tanvin tovushini tashlab, aniq to‘xtang.",
+            "example": "يُسْرًا",
+            "gambar": "3.02.jpg",
+            "suara": "3.02.mp3"
+        },
+        {
+            "id": 2,
+            "name": "ة Harfida To‘xtash",
+            "pengertian": "ة harfini xuddi ه harfi kabi sukunni ushlab turganday qabul qiling.",
+            "caraMembaca": "Tovushsiz yumshoq talaffuz qiling.",
+            "example": "بَصِيْرَةٌ",
+            "gambar": "3.03.jpg",
+            "suara": "3.03.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Mushaddad Harflarda To‘xtash",
+            "subrules": [
+                {
+                    "title": "Qalqala Harflari (ق, ط, ب, ج, د)",
+                    "pengertian": "Harfni uning Saakin holatida kuchli qalqala (yankiy ta’siri) bilan talaffuz qiling.",
+                    "example": "وَٱلۡحَجُّ",
+                    "gambar": "3.04.jpg",
+                    "suara": "3.04.mp3"
+                },
+                {
+                    "title": "Boshqa Harflar",
+                    "pengertian": "Harfni sukun bilan qabul qiling, lekin 2 urinish davomida burunda tovushni ushlab turing (G‘unna).",
+                    "example": "مِنْ",
+                    "gambar": "3.05.jpg",
+                    "suara": "3.05.mp3"
+                },
+                {
+                    "title": "Qalqala Bo‘lmagan Mushaddad Harflar",
+                    "pengertian": "Shaddani sukun bilan almashtirib, ozgina pauza qiling (nabr).",
+                    "example": "فِي شَكٍّ",
+                    "gambar": "3.06.jpg",
+                    "suara": "3.06.mp3"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Saakin yoki Madd Harflarda To‘xtash (ء, ى, ا)",
+            "pengertian": "O‘zgarishsiz, yozilganidek to‘xtang.",
+            "examples": [
+                {
+                    "text": "فَكَبِّرْ",
+                    "gambar": "3.07.jpg",
+                    "suara": "3.07.mp3"
+                },
+                {
+                    "text": "مُوسَى",
+                    "gambar": "3.08.jpg",
+                    "suara": "3.08.mp3"
+                }
+            ],
+            "exceptions": [
+                {
+                    "title": "ى yoki ء bilan Tugagan So‘zlarda To‘xtash",
+                    "pengertian": "ى yoki ء ni sukun bilan almashtiring.",
+                    "example": "رَسُولَهُ",
+                    "gambar": "3.09.jpg",
+                    "suara": "3.09.mp3"
+                },
+                {
+                    "title": "Qalqala Harflarda To‘xtash",
+                    "pengertian": "Kuchli qalqala qo‘llang.",
+                    "example": "يُولَدُ",
+                    "gambar": "3.10.jpg",
+                    "suara": "3.10.mp3"
+                },
+                {
+                    "title": "Juda Uzun Madd bilan Tugagan So‘zlarda To‘xtash",
+                    "pengertian": "Asli Madd bilan almashtiring.",
+                    "example": "أَنَا",
+                    "gambar": "3.11.jpg",
+                    "suara": "3.11.mp3"
+                }
+            ]
+        }
+    ],
+    "Quizs": [
+        {
+            "id": 0,
+            "question": "فِي شَكٍّ da to‘xtashning to‘g‘ri usuli qanday?",
+            "answers": [
+                {"answer": "Sukunni qo‘llang va ozgina pauza qiling.", "right": 1},
+                {"answer": "Shaddani e’tiborsiz qoldiring.", "right": 0},
+                {"answer": "Harfni Damma sifatida qabul qiling.", "right": 0},
+                {"answer": "Uni Madd bilan o‘qing.", "right": 0}
+            ]
+        },
+        {
+            "id": 1,
+            "question": "قُلِ ٱللَّهُمَّ da to‘xtashning to‘g‘ri qoidasi qanday?",
+            "answers": [
+                {"answer": "Sukun bilan almashtiring.", "right": 1},
+                {"answer": "So‘zga Tanvin qo‘shing.", "right": 0},
+                {"answer": "To‘xtash qoidalarini e’tiborsiz qoldiring.", "right": 0},
+                {"answer": "Uni Kasra sifatida qabul qiling.", "right": 0}
+            ]
+        },
+        {
+            "id": 2,
+            "question": "بَصِيْرَةٌ so‘zida ة harfi qanday qabul qilinadi?",
+            "answers": [
+                {"answer": "Xuddi ه harfi kabi sukunni ushlab turganday qabul qiling.", "right": 1},
+                {"answer": "Uni Tanvin bilan o‘qing.", "right": 0},
+                {"answer": "To‘xtash paytida ة harfini e’tiborsiz qoldiring.", "right": 0},
+                {"answer": "Uni Madd sifatida qabul qiling.", "right": 0}
+            ]
+        },
+        {
+            "id": 3,
+            "question": "يُولَدُ so‘zida qalqala qanday qo‘llanadi?",
+            "answers": [
+                {"answer": "Kuchli qalqala qo‘llang.", "right": 1},
+                {"answer": "Sukun qo‘shing.", "right": 0},
+                {"answer": "Qalqalani e’tiborsiz qoldiring.", "right": 0},
+                {"answer": "Uni Madd sifatida o‘qing.", "right": 0}
+            ]
+        },
+        {
+            "id": 4,
+            "question": "أَنَا so‘zida to‘xtashning to‘g‘ri usuli qanday?",
+            "answers": [
+                {"answer": "Uzun Maddni Asli Madd bilan almashtiring.", "right": 1},
+                {"answer": "Maddni butunlay olib tashlang.", "right": 0},
+                {"answer": "Maddni yana cho‘zing.", "right": 0},
+                {"answer": "Oxiriga Tanvin qo‘shing.", "right": 0}
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Saakin harflarda (ء, ى, ا) to‘xtashning qoidasi qanday?",
+            "answers": [
+                {"answer": "Yozilganidek, o‘zgarishsiz to‘xtang.", "right": 1},
+                {"answer": "Harfga Sukun qo‘shing.", "right": 0},
+                {"answer": "Maddni qo‘llang.", "right": 0},
+                {"answer": "To‘xtash qoidalarini e’tiborsiz qoldiring.", "right": 0}
+            ]
+        }
+    ]
+}

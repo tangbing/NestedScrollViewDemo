@@ -1,0 +1,134 @@
+{
+    "id": 1,
+    "title": "Extended Madd",
+    "desc1_desc": "Extended Madd occurs when a letter with a madd sign (~) is followed by specific conditions, requiring the elongation of the sound. This can include meeting Hamzah (ء), Sukoon, or Shaddah, extending the sound for a specific number of beats.",
+    "desc2_title": "The Scenarios for Extended Madd",
+    "desc2_desc": "The duration of elongation depends on the type of Madd encountered. Below are the scenarios where the very long Madd applies:",
+    "Lessons": [
+        {
+            "id": 0,
+            "name": "Prolonged Sign Meets Hamzah (ء) in the Next Word",
+            "pengertian": "When the madd letter is followed by Hamzah (ء) in the next word, the sound must be elongated for 2, 4, or 5 beats.",
+            "caraMembaca": "The reader stretches the sound based on context, ensuring a proper rhythm in recitation.",
+            "example": "يَا أَيُّهَا",
+            "gambar": "2.01.png",
+            "suaraList": [
+                {"beats": 2, "file": "2.01-1.mp3"},
+                {"beats": 4, "file": "2.01-2.mp3"},
+                {"beats": 5, "file": "2.01-3.mp3"}
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Prolonged Sign Meets Hamzah (ء) in the Same Word",
+            "pengertian": "If the madd letter is followed by Hamzah (ء) in the same word, the elongation extends for 4 or 5 beats.",
+            "caraMembaca": "The reader ensures a clear elongation, respecting the rules of Tajweed.",
+            "example": "وَٱلسَّمَآءِ",
+            "gambar": "2.04.png",
+            "suara": "2.04.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Prolonged Sign Meets Sukoon",
+            "pengertian": "If a madd letter meets Sukoon, the sound must be extended for 6 beats.",
+            "caraMembaca": "The reader carefully observes the Sukoon for precise elongation.",
+            "example": "ءَالْـَٰٔنَ",
+            "gambar": "2.05.png",
+            "suara": "2.05.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Prolonged Sign Meets Shaddah",
+            "pengertian": "When the madd letter meets Shaddah, the extension is 6 beats.",
+            "caraMembaca": "The reader emphasizes the Shaddah while maintaining a steady rhythm.",
+            "example": "ٱلۡحَاقَّةُ",
+            "gambar": "2.06.png",
+            "suara": "2.06.mp3"
+        }
+    ],
+    "tips": {
+        "title": "Mastering the Very Long Madd",
+        "advice": "To avoid errors or interruptions during elongation, one can follow the guidance of the Prophet (peace be upon him), as narrated by Al Baroo': 'Beautify the Quran with your voice.'"
+    },
+    "muqattaat": {
+        "title": "MuqaTTa'at (مُقَطَّعَات) Words",
+        "pengertian": "Certain chapters of the Quran begin with disconnected letters known as Huroof al MuqaTTa'at. These letters must be stretched with the very-long Madd for 6 beats.",
+        "example": "الٓمٓ",
+        "gambar": "2.07.png",
+        "suara": "2.07.mp3"
+    },
+    "Quizs": [
+        {
+            "id": 0,
+            "question": "Which of the following symbols shows that a letter must be prolonged very long?",
+            "answers": [
+                {"answer": "ا", "right": 0},
+                {"answer": "ي", "right": 0},
+                {"answer": "و", "right": 0},
+                {"answer": "ٓ", "right": 1}
+            ]
+        },
+        {
+            "id": 1,
+            "question": "Which phrase demonstrates the very long madd?",
+            "answers": [
+                {"answer": "يَا أَيُّهَا", "right": 1},
+                {"answer": "قَالَ", "right": 0},
+                {"answer": "كَانَ", "right": 0},
+                {"answer": "يَغْشَىٰ", "right": 0}
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Reciting the first ي in this example could be recited for these beats, except...",
+            "answers": [
+                {"answer": "4", "right": 0},
+                {"answer": "5", "right": 0},
+                {"answer": "6", "right": 1},
+                {"answer": "2", "right": 0}
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Which phrase represents the correct recitation of 'عسق'?",
+            "answers": [
+                {"answer": "عۡسۡقَ", "right": 0},
+                {"answer": "عَسَقَ", "right": 0},
+                {"answer": "عۡسۡقُ", "right": 1},
+                {"answer": "عُسِقَ", "right": 0}
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Select the option which madd has the longest stretch?",
+            "answers": [
+                {"answer": "عَسَىٰ", "right": 0},
+                {"answer": "جَآءَ", "right": 1},
+                {"answer": "كَانٌَ", "right": 0},
+                {"answer": "وَٱلنَّهَارِ", "right": 0}
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Select all the words that contain a letter that must be prolonged very long.",
+            "answers": [
+                {"answer": "جَآءَتِ", "right": 1},
+                {"answer": "أَعۡطَىٰ", "right": 0},
+                {"answer": "وَالسَّمَآءِ", "right": 1},
+                {"answer": "صَلَاتُهُمۡ", "right": 0},
+                {"answer": "عِيسَىٰ", "right": 0},
+                {"answer": "ءَآلۡأَٰنَ", "right": 1}
+            ]
+        },
+        {
+            "id": 6,
+            "question": "How long is the stretch in the example of Extended Madd? (in beats)",
+            "answers": [
+                {"answer": "2", "right": 0},
+                {"answer": "4", "right": 0},
+                {"answer": "6", "right": 1},
+                {"answer": "8", "right": 0}
+            ]
+        }
+    ]
+}

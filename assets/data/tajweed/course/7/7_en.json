@@ -1,0 +1,306 @@
+
+  {
+    "id": 6,
+    "title": "Rules for Hamzatul Wasl",
+    "desc1_desc": "Hamzatul Wasl appears at the beginning of words and has no inherent vowel sound. Its pronunciation depends on whether it is connected to or starts the recitation.",
+    "Lessons": [
+      {
+        "id": 0,
+        "name": "Skipped Pronunciation",
+        "pengertian": "If the word beginning with Hamzatul Wasl (ٱ) is connected to the word preceding it, the Hamzatul Wasl is skipped.",
+        "examples": [
+          {
+            "gambar": "701.png",
+            "suara": "701.mp3"
+          },
+          {
+            "gambar": "702.png",
+            "suara": "702.mp3"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Pronounced Pronunciation",
+        "pengertian": "If recitation begins with a word starting with Hamzatul Wasl (ٱ), the Hamzatul Wasl is pronounced. Depending on the context, it may take a Fat-hah, Kasrah, or Dhammah.",
+        "examples": [
+          {
+            "gambar": "703.png",
+            "suara": "703.mp3"
+          }
+        ],
+        "rules": [
+          {
+            "id": "1A",
+            "title": "At the Beginning of Nouns",
+            "subrules": [
+              {
+                "rule": "Fat-Hah on Nouns",
+                "definition": "If a noun begins with Hamzatul Wasl, it takes a Fat-hah.",
+                "examples": [
+                  {
+                    "text": "ٱسْمَاءُ",
+                    "gambar": "704.png",
+                    "suara": "704.mp3"
+                  }
+                ]
+              },
+              {
+                "rule": "Kasrah on Nouns",
+                "definition": "When there is no preceding word connected to Hamzatul Wasl, the noun is given a Kasrah.",
+                "examples": [
+                  "اِبْتِدَآءُ",
+                  "إِبْتِغَآءُ",
+                  "اِسْمَآءِ",
+                  "اِمْرَأَتِي",
+                  "اِمْرَأَتُكَ"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1B",
+            "title": "At the Beginning of Verbs",
+            "subrules": [
+              {
+                "rule": "Dhammah on Verbs",
+                "definition": "If the third letter of a verb has a Dhammah, the Hamzatul Wasl takes a Dhammah.",
+                "examples": [
+                  {
+                    "text": "ٱدْخُلُوا",
+                    "gambar": "705.png",
+                    "suara": "705.mp3"
+                  }
+                ]
+              },
+              {
+                "rule": "Kasrah on Verbs",
+                "definition": "If the third letter of a verb has a Fat-hah or Kasrah, the Hamzatul Wasl takes a Kasrah.",
+                "examples": [
+                  {
+                    "text": "ٱصْبِرُوا",
+                    "gambar": "706.png",
+                    "suara": "706.mp3"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "exceptions": [
+          {
+            "text": "ٱتَّقُوا",
+            "gambar": "707.png",
+            "suara": "707.mp3"
+          },
+          {
+            "text": "ٱصْبِرُوا",
+            "gambar": "708.png",
+            "suara": "708.mp3"
+          },
+          {
+            "text": "ٱدْفَعُوا",
+            "gambar": "709.png",
+            "suara": "709.mp3"
+          },
+          {
+            "text": "ٱبْتَغُوا",
+            "gambar": "710.png",
+            "suara": "710.mp3"
+          },
+          {
+            "text": "ٱفْتَحُوا",
+            "gambar": "711.png",
+            "suara": "711.mp3"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Lam At-Tareef",
+        "pengertian": "Lam At-Tareef is the Lam (ل) that comes after Hamzatul Wasl in nouns. It is always Sakinah (silent) and can be categorized into two types.",
+        "examples": [
+          {
+            "text": "اَلنَّجْمُ",
+            "gambar": "712.png",
+            "suara": "712.mp3"
+          },
+          {
+            "text": "اَلْقَمَرُ",
+            "gambar": "704.png",
+            "suara": "704.mp3"
+          }
+        ]
+      }
+    ],
+    "Quizs": [
+      {
+        "id": 0,
+        "question": "Select the incorrect statement regarding ٱ.",
+        "answers": [
+          {
+            "answer": "It occurs at the beginning of words",
+            "right": 0
+          },
+          {
+            "answer": "It does not have any mark",
+            "right": 0
+          },
+          {
+            "answer": "It is pronounced as per the sign",
+            "right": 1
+          },
+          {
+            "answer": "It can be skipped or pronounced",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "question": "Select the correct writings.",
+        "answers": [
+          {
+            "answer": "وَٱلۡأُولَىٰ",
+            "right": 1
+          },
+          {
+            "answer": "وَٱلۡأُلَىٰ",
+            "right": 0
+          },
+          {
+            "answer": "وَٱلۡأُلَ",
+            "right": 0
+          },
+          {
+            "answer": "وَأٱلۡأُلَى",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Select the correct example that contains skipped ٱ.",
+        "answers": [
+          {
+            "answer": "فِي ٱلدُّنۡيَا",
+            "right": 1
+          },
+          {
+            "answer": "ٱلۡمُسۡتَعَانُ",
+            "right": 0
+          },
+          {
+            "answer": "ٱمۡرَأَتُ",
+            "right": 0
+          },
+          {
+            "answer": "اِتَّبِعُوۡا",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Select 3 correct examples of ٱ that should be given a Kasrah.",
+        "answers": [
+          {
+            "answer": "ٱئۡتُونِى",
+            "right": 1
+          },
+          {
+            "answer": "ٱسۡتَجِيۡبُواۡ",
+            "right": 1
+          },
+          {
+            "answer": "ٱثۡنَانِ",
+            "right": 1
+          },
+          {
+            "answer": "فِي ٱلدُّنۡيَا",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Select the correct example of ٱ that is skipped.",
+        "answers": [
+          {
+            "answer": "وَٱلسَّـٰبِقَـٰتِ سَبۡقًا",
+            "right": 1
+          },
+          {
+            "answer": "ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+            "right": 0
+          },
+          {
+            "answer": "ٱلۡأٓخِرَةِ وَ ٱلۡأُوۡلَىٰ",
+            "right": 0
+          },
+          {
+            "answer": "ٱلۡحَقُّ وَأَنَّ مَا يَدۡعُونَ مِن دُونِهِ",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "How to recite the ٱ in ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضَ?",
+        "answers": [
+          {
+            "answer": "Fat-Hah - Skipped - Skipped",
+            "right": 1
+          },
+          {
+            "answer": "Fat-Hah - Fat-Hah - Skipped",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Select the correct example of ٱ that should be given a Dhammah.",
+        "answers": [
+          {
+            "answer": "ٱسۡمُهُ ٱلۡمَسِيحُ عِيسَىٰ",
+            "right": 1
+          },
+          {
+            "answer": "ٱلۡمُدَبِّرَاتِ أَمۡرًا",
+            "right": 0
+          },
+          {
+            "answer": "ٱلۡمُسۡتَعَانُ",
+            "right": 0
+          },
+          {
+            "answer": "اِتَّبِعُوۡا",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "What are the examples of ٱ that should be pronounced with a Fat-hah?",
+        "answers": [
+          {
+            "answer": "ٱسۡمَاءُ",
+            "right": 1
+          },
+          {
+            "answer": "ٱفْتَحُوا",
+            "right": 0
+          },
+          {
+            "answer": "فِي ٱلدُّنۡيَا",
+            "right": 0
+          },
+          {
+            "answer": "وَٱلۡأُوۡلَىٰ",
+            "right": 0
+          }
+        ]
+      }
+    ]
+  }

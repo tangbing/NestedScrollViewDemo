@@ -1,0 +1,134 @@
+{
+    "id": 1,
+    "title": "Uzun Madd",
+    "desc1_desc": "Uzun Madd, bir harfin üzerinde madd işareti (~) olduğunda ve belirli koşullar altında geldiğinde ortaya çıkar, sesin uzatılmasını gerektirir. Bu, Hamze (ء), Sükun veya Şedde ile karşılaşmayı içerebilir ve ses belirli bir süre boyunca uzatılır.",
+    "desc2_title": "Uzun Madd Örnekleri",
+    "desc2_desc": "Uzunluk süresi karşılaşılan Madd türüne bağlıdır. Aşağıda Uzun Madd'in uygulandığı senaryolar verilmiştir:",
+    "Lessons": [
+        {
+            "id": 0,
+            "name": "Uzun İşaret Hamze (ء) ile Sonraki Kelimede Buluşur",
+            "pengertian": "Madd harfi sonraki kelimede Hamze (ء) ile karşılaştığında, ses 2, 4 veya 5 vuruş süresince uzatılmalıdır.",
+            "caraMembaca": "Okuyucu, bağlama göre sesi uzatarak doğru bir ritim sağlar.",
+            "example": "يَا أَيُّهَا",
+            "gambar": "2.01.jpg",
+            "suara": [
+                {"beats": 2, "file": "2.01-1.mp3"},
+                {"beats": 4, "file": "2.01-2.mp3"},
+                {"beats": 5, "file": "2.01-3.mp3"}
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Uzun İşaret Hamze (ء) ile Aynı Kelimede Buluşur",
+            "pengertian": "Eğer Madd harfi aynı kelimede Hamze (ء) ile karşılaşırsa, ses 4 veya 5 vuruş süresince uzatılır.",
+            "caraMembaca": "Okuyucu, Tajvid kurallarına saygı duyarak açık bir uzatma sağlar.",
+            "example": "وَٱلسَّمَآءِ",
+            "gambar": "2.04.jpg",
+            "suara": "2.04.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Uzun İşaret Sükun ile Buluşur",
+            "pengertian": "Eğer Madd harfi Sükun ile karşılaşırsa, ses 6 vuruş boyunca uzatılmalıdır.",
+            "caraMembaca": "Okuyucu doğru bir uzatma sağlamak için Sükun'u dikkatlice izler.",
+            "example": "ءَالْـَٰٔنَ",
+            "gambar": "2.05.jpg",
+            "suara": "2.05.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Uzun İşaret Şedde ile Buluşur",
+            "pengertian": "Madd harfi Şedde ile karşılaştığında uzatma süresi 6 vuruştur.",
+            "caraMembaca": "Okuyucu, sabit bir ritmi korurken Şedde'yi vurgular.",
+            "example": "ٱلۡحَاقَّةُ",
+            "gambar": "2.06.jpg",
+            "suara": "2.06.mp3"
+        }
+    ],
+    "tips": {
+        "title": "Uzun Madd'i Ustalaştırmak",
+        "advice": "Uzunluk sırasında hatalardan veya kesintilerden kaçınmak için Peygamber'in (s.a.v) şu tavsiyesine uyulabilir: 'Kur'an'ı sesinizle güzelleştirin.'"
+    },
+    "muqattaat": {
+        "title": "Muqatta'at (مُقَطَّعَات) Kelimeleri",
+        "pengertian": "Kur'an'ın bazı sureleri, Muqatta'at olarak bilinen bağlantısız harflerle başlar. Bu harfler, 6 vuruş süresince Uzun Madd ile uzatılmalıdır.",
+        "example": "الٓمٓ",
+        "gambar": "2.07.jpg",
+        "suara": "2.07.mp3"
+    },
+    "Quizs": [
+        {
+            "id": 0,
+            "question": "Aşağıdaki sembollerden hangisi bir harfin çok uzun uzatılması gerektiğini gösterir?",
+            "answers": [
+                {"answer": "ا", "right": 0},
+                {"answer": "ي", "right": 0},
+                {"answer": "و", "right": 0},
+                {"answer": "ٓ", "right": 1}
+            ]
+        },
+        {
+            "id": 1,
+            "question": "Hangi ifade Uzun Madd'i doğru şekilde gösterir?",
+            "answers": [
+                {"answer": "يَا أَيُّهَا", "right": 1},
+                {"answer": "قَالَ", "right": 0},
+                {"answer": "كَانَ", "right": 0},
+                {"answer": "يَغْشَىٰ", "right": 0}
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Bu örnekte ilk 'ي' şu vuruşlarla okunabilir, ancak...",
+            "answers": [
+                {"answer": "4", "right": 0},
+                {"answer": "5", "right": 0},
+                {"answer": "6", "right": 1},
+                {"answer": "2", "right": 0}
+            ]
+        },
+        {
+            "id": 3,
+            "question": "'عسق' kelimesinin doğru okunuşunu gösteren ifade hangisidir?",
+            "answers": [
+                {"answer": "عۡسۡقَ", "right": 0},
+                {"answer": "عَسَقَ", "right": 0},
+                {"answer": "عۡسۡقُ", "right": 1},
+                {"answer": "عُسِقَ", "right": 0}
+            ]
+        },
+        {
+            "id": 4,
+            "question": "En uzun Madd'in bulunduğu seçeneği seçin.",
+            "answers": [
+                {"answer": "عَسَىٰ", "right": 0},
+                {"answer": "جَآءَ", "right": 1},
+                {"answer": "كَانٌَ", "right": 0},
+                {"answer": "وَٱلنَّهَارِ", "right": 0}
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Çok uzun uzatılması gereken harfleri içeren tüm kelimeleri seçin.",
+            "answers": [
+                {"answer": "جَآءَتِ", "right": 1},
+                {"answer": "أَعۡطَىٰ", "right": 0},
+                {"answer": "وَالسَّمَآءِ", "right": 1},
+                {"answer": "صَلَاتُهُمۡ", "right": 0},
+                {"answer": "عِيسَىٰ", "right": 0},
+                {"answer": "ءَآلۡأَٰنَ", "right": 1}
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Uzun Madd örneğinde uzatmanın süresi nedir? (vuruş cinsinden)",
+            "answers": [
+                {"answer": "2", "right": 0},
+                {"answer": "4", "right": 0},
+                {"answer": "6", "right": 1},
+                {"answer": "8", "right": 0}
+            ]
+        }
+    ]
+}

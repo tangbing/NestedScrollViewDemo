@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Tabiiy Madd",
+        "description": "Ushbu dars Madd Asli, yaʼni tabiiy choʻzilishga qaratilgan boʻlib, u maʼlum harflarda yuzaga keladi va tajvidda toʻgʻri talaffuzning asosi hisoblanadi. Oʻquvchilar Madd Aslini qachon va qanday qoʻllashni oʻrganadilar, bu esa Qurʼonni oqish qobiliyatlarini oshiradi."
+    },
+    {
+        "title": "Uzoq Madd",
+        "description": "Ushbu darsda oʻquvchilar Juda Uzun Madd tushunchasini oʻrganadilar, bu tovushni uzoq davom ettirishni anglatadi. Kurs uning qoʻllanilishiga oid qoidalarni oʻz ichiga oladi va oʻquvchilarga ushbu ilgʻor texnikani oʻzlashtirishga yordam beruvchi amaliy mashqlarni taqdim etadi."
+    },
+    {
+        "title": "Toʻxtash Qoidalari",
+        "description": "Ushbu dars Qurʼon tilovatida vaqf qilish qoidalariga qaratilgan. Oʻquvchilar turli xil toʻxtash turlarini, jumladan, ruxsat etilgan va man etilgan toʻxtashlarni oʻrganadilar, bu esa ularning tilovati oqimiga yaxshilik kirgizadi va toʻgʻri talaffuz hamda maʼnoni taʼminlaydi."
+    },
+    {
+        "title": "Vaqf Belgilari",
+        "description": "Ushbu darsda oʻquvchilar Qurʼonda ishlatiladigan turli vaqf belgilari haqida bilib oladilar, qayerda toʻxtash va qayerda davom ettirish kerakligini koʻrsatadi. Ushbu belgilarni tushunish oʻquvchilarga tilovat davomida toʻgʻri qaror qabul qilishga yordam beradi."
+    },
+    {
+        "title": "Nun Sokin va Tanvin Qoidalari",
+        "description": "Ushbu dars ن (nun) harfini talaffuz qilishga oid maxsus qoidalarni oʻrgatadi, agar undan keyin Sukoon (نۡ) yoki Tanvin boʻlsa. Oʻquvchilar ushbu qoidalar tilovat oqimiga va tovushlarning talaffuziga qanday taʼsir qilishini tushunadilar."
+    },
+    {
+        "title": "Mim Sokin Qoidalari",
+        "description": "Ushbu darsda oʻquvchilar م (mim) harfiga oid qoidalarni oʻrganadilar, agar u Sukoon (مۡ) bilan chiqsa. Eʼtibor toʻgʻri artikulyatsiya va tilovat aniqligiga qaratiladi."
+    },
+    {
+        "title": "Hamzatul Vasl Qoidalari",
+        "description": "Ushbu darsda oʻquvchilar ٱ (alif) harfi bilan bogʻliq talaffuz qoidalarini va uning boshqa harflar bilan oʻzaro taʼsirini oʻrganadilar. Ushbu qoidalarni tushunish tilovat aniqligini oshirishga yordam beradi."
+    },
+    {
+        "title": "Hosila Madd",
+        "description": "Ushbu dars Madd Farʼiy, yaʼni ikkilamchi choʻzilishga qaratilgan boʻlib, bu maʼlum sharoitlarda yuzaga keladi. Oʻquvchilar Madd Farʼi turlarini oʻrganadilar va uni tilovatlarida qanday tanib, qoʻllashni bilib oladilar."
+    },
+    {
+        "title": "Takomillashtirilgan Idg‘om Texnikalari",
+        "description": "Ushbu darsda oʻquvchilar Ilgʻor Idgʻom qoidalarini oʻrganadilar, bu esa maʼlum harflarning qoʻshilishini oʻz ichiga oladi. Ushbu ilgʻor oʻrganish Qurʼon tilovatidagi ravonlik va aniqlikni oshirishga yordam beradi."
+    }
+]

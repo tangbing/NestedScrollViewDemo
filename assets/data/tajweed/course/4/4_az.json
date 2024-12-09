@@ -1,0 +1,162 @@
+{
+  "id": 3,
+  "title": "Vaqf Simvolları",
+  "desc1_desc": "Bu bələdçi Quranda olan müxtəlif Vaqf işarələrini, onların mənalarını və tilavət zamanı istifadəsini izah edir.",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Altı növ Vaqf İşarəsi",
+      "types": [
+        {
+          "id": 0,
+          "name": "Vacib Dayanma",
+          "symbol": "م",
+          "rule": "Bu işarəni görəndə dayanmalısınız.",
+          "example": {
+            "text": "إِنَّمَا يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ وَٱلْمَوْتَىٰ يَبْعَثُهُمُ ٱللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ",
+            "gambar": "/quran/tajweed/pictures/4.01.jpg",
+            "suara": "/quran/tajweed/audio/4.01.mp3"
+          }
+        },
+        {
+          "id": 1,
+          "name": "Tövsiyə Edilən Dayanma",
+          "symbol": ["ط", "قلى"],
+          "rule": "Tilavəti daha rahat etmək üçün bu işarədə dayanmaq tövsiyə edilir.",
+          "example": {
+            "text": "وَإِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا فَضَرْبَ الرِّقَابِ حَتَّىٰ إِذَا أَثْخَنتُمُوهُمْ فَشُدُّوا ٱلْوَثَاقَ فَإِمَّا مَنًّا بَعْدُ وَإِمَّا فِدَاءً",
+            "gambar": "/quran/tajweed/pictures/4.02.jpg",
+            "suara": "/quran/tajweed/audio/4.02.mp3"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Seçimli Dayanma və ya Davam Etmə",
+          "symbol": "ج",
+          "rule": "Bu işarəni görəndə dayanmaq və ya davam etmək arasında seçim edə bilərsiniz.",
+          "example": {
+            "text": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسۡعَهَا لَهَا مَا كَسَبَتْ وَعَلَيۡهَا مَا ٱكۡتَسَبَتْ",
+            "gambar": "/quran/tajweed/pictures/4.03.jpg",
+            "suara": "/quran/tajweed/audio/4.03.mp3"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Tövsiyə Edilən Davam",
+          "symbol": ["صلى", "ز"],
+          "rule": "Bu işarədə dayanmadan davam etmək daha yaxşıdır.",
+          "example": {
+            "text": "وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا بَلْ أَحْيَاءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ",
+            "gambar": "/quran/tajweed/pictures/4.04.jpg",
+            "suara": "/quran/tajweed/audio/4.04.mp3"
+          }
+        },
+        {
+          "id": 4,
+          "name": "Vacib Davam",
+          "symbol": "لا",
+          "rule": "Bu işarədə dayanmaq qadağandır və davam etmək lazımdır.",
+          "example": {
+            "text": "وَمَا أُهِلَّ بِهِ لِغَيْرِ اللَّهِ",
+            "gambar": "/quran/tajweed/pictures/4.05.jpg",
+            "suara": "/quran/tajweed/audio/4.05.mp3"
+          }
+        },
+        {
+          "id": 5,
+          "name": "Birində Dayan, Amma İkisində Yox",
+          "symbol": "İki 'ق' işarəsi",
+          "rule": "Bu işarələrdən birində dayanmaq tövsiyə olunur, lakin hər ikisində dayanmamaq lazımdır.",
+          "example": {
+            "text": "ذَٰلِكَ ٱلْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ",
+            "gambar": "/quran/tajweed/pictures/4.06.jpg",
+            "suara": "/quran/tajweed/audio/4.06.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "title": "'ع' İşarəsi",
+      "details": {
+        "meaning": "Bir ayənin sonunda və ya Quran səhifəsinin kənarında yerləşir və Quran daxilində Rüku' (ركوع) adlanan bölmələri işarə edir.",
+        "purpose": "Bu bölmələr, təxminən 540 ədəddir, namaz zamanı rahat dayanma nöqtələri kimi istifadə olunur.",
+        "additional_info": {
+          "count": "114 surə boyunca təxminən 200 bölmə.",
+          "description": "Hər bir rüku' adətən 3-10 ayədən ibarətdir və Quranı daha rahat oxumaq üçün təşkil etməyə kömək edir."
+        }
+      }
+    }
+  ],
+  "summary": {
+    "Vacib Dayanma": "Bu 'م' işarəsi ilə göstərilir.",
+    "Tövsiyə Edilən Dayanma": "Bu 'ط' və ya 'قلى' işarəsi ilə göstərilir.",
+    "Seçimli Dayanma": "Bu 'ج' işarəsi ilə göstərilir.",
+    "Tövsiyə Edilən Davam": "Bu 'صلى' və ya 'ز' işarəsi ilə göstərilir.",
+    "Vacib Davam": "Bu 'لا' işarəsi ilə göstərilir.",
+    "Birində Dayan, Amma İkisində Yox": "Bu iki 'ق' işarəsi ilə göstərilir.",
+    "Rüku' İşarəsi": "'ع' işarəsi tələffüz zamanı uyğun dayanma nöqtəsini göstərir."
+  },
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "Yuxarıdakı ayədə oxuyanın ... işarəsi var.",
+      "answers": [
+        { "answer": "Davam etməlidir", "right": 0 },
+        { "answer": "Dayanmaq və ya davam etmək azaddır", "right": 0 },
+        { "answer": "Davam etmək daha yaxşıdır", "right": 0 },
+        { "answer": "Dayanmalıdır", "right": 1 }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Hansı işarələr oxuyanın birində dayandığını, amma hər ikisində dayanmadığını göstərir?",
+      "answers": [
+        { "answer": "ۖ", "right": 0 },
+        { "answer": "ۙ", "right": 0 },
+        { "answer": "ۛ", "right": 1 },
+        { "answer": "ۚ", "right": 0 }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Oxuyanın dayanmasının daha yaxşı olduğunu göstərən işarəni seçin.",
+      "answers": [
+        { "answer": "ۖ", "right": 0 },
+        { "answer": "ۗ", "right": 1 },
+        { "answer": "ۙ", "right": 0 },
+        { "answer": "ۚ", "right": 0 }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Bu növ dayanma işarəsi necə oxunmalıdır?",
+      "answers": [
+        { "answer": "Dayanmaq və ya davam etmək azaddır", "right": 1 },
+        { "answer": "Dayanmaq daha yaxşıdır", "right": 0 },
+        { "answer": "Davam etmək daha yaxşıdır", "right": 0 },
+        { "answer": "Bir işarədə dayanmaq daha yaxşıdır, amma hər ikisində yox", "right": 0 }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Oxuyanın davam etməli olduğunu göstərən doğru nümunəni seçin.",
+      "answers": [
+        { "answer": "إِلَّا ٱمۡرَأَتَهُۥ قَدَّرۡنَآ ۙ إِنَّهَا لَمِنَ ٱلۡغَٰبِرِينَ ◯", "right": 1 },
+        { "answer": "وَقَالُواْ كُونُواْ هُودًا أَوۡ نَصَٰرَىٰ تَهۡتَدُوا۟ ۗ قُلۡ بَلۡ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفًا ◯", "right": 0 },
+        { "answer": "وَلَا تَعَاوَنُواْ عَلَى ٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ ۖ وَٱتَّقُواْ ٱللَّهَ ◯", "right": 0 },
+        { "answer": "لَا يُكَلِّفُ ٱللَّهُ نَفۡسًا إِلَّا وُسۡعَهَا ۚ لَهَا مَا كَسَبَتۡ وَعَلَيۡهَا مَا ٱكۡتَسَبَتۡ ◯", "right": 0 }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Aşağıdakı nümunələrdən hansı davam etməyin daha yaxşı olduğunu göstərir?",
+      "answers": [
+        { "answer": "وَمَا أُهِلَّ بِهِ لِغَيْرِ اللَّهِ ◯", "right": 0 },
+        { "answer": "وَإِذَا قِيلَ لَهُمُ ٱتَّقُواْ ٱللَّهَ ◯", "right": 0 },
+        { "answer": "وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ ◯", "right": 1 },
+        { "answer": "يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ ◯", "right": 0 }
+      ]
+    }
+  ]
+}

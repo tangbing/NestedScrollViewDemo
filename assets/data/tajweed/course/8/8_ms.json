@@ -1,0 +1,317 @@
+[
+  {
+    "id": 7,
+    "title": "Madd Far'i",
+    "desc1_desc": "Madd Far'i merujuk kepada pemanjangan dalam bacaan kerana kehadiran Hamzah (همزة) atau Sukoon (سكون).",
+    "desc2_title": "Jenis-jenis Madd Far'i",
+    "desc2_desc": "Madd Far'i dibahagikan kepada beberapa kategori berdasarkan sebab pemanjangan, seperti Hamzah atau Sukoon, dan merangkumi peraturan tertentu untuk penggunaannya.",
+    "Lessons": [
+      {
+        "id": 0,
+        "name": "Pemanjangan Disebabkan oleh Hamzah",
+        "pengertian": "Terjadi apabila Hamzah berinteraksi dengan huruf Madd dalam pelbagai konfigurasi. Ia merangkumi jenis tertentu berdasarkan interaksi dalam atau antara perkataan.",
+        "rules": [
+          {
+            "name": "Madd Badal",
+            "description": "Terjadi apabila Hamzah mendahului huruf Madd. Pada asalnya, perkataan tersebut mempunyai dua Hamzah, tetapi salah satunya ditukar menjadi Madd untuk memudahkan sebutan.",
+            "duration": "2 harakat",
+            "examples": [
+              {
+                "text": "آمَنَا",
+                "image": "801.jpg",
+                "audio": "801.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Wajib Muttasil",
+            "description": "Apabila Madd Asli bertemu dengan Hamzah dalam perkataan yang sama, bacaan mesti dipanjangkan.",
+            "duration": "4 atau 5 harakat",
+            "examples": [
+              {
+                "text": "جَاءَ",
+                "image": "802.jpg",
+                "audio": "802.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Jaiz Munfasil",
+            "description": "Jika Madd Asli dalam satu perkataan disambungkan kepada Hamzah dalam perkataan berikutnya, tempoh pemanjangan boleh berbeza. Konsistensi perlu dikekalkan sepanjang sesi.",
+            "duration": "2, 4, atau 5 harakat",
+            "examples": [
+              {
+                "text": "يَا أَيُّهَا",
+                "image": "803.jpg",
+                "audio": "803.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Silah Thawilah",
+            "description": "Terjadi apabila Ha' Dhamir (ه) diikuti oleh Hamzah dalam perkataan lain.",
+            "duration": "4 atau 5 harakat",
+            "examples": [
+              {
+                "text": "بِهِۦۤۦ أَمْرُ",
+                "image": "804.jpg",
+                "audio": "804.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Pemanjangan Disebabkan oleh Sukoon",
+        "pengertian": "Terjadi apabila Madd Asli diikuti oleh Sukoon atau Shaddah, yang memerlukan pemanjangan lebih lama.",
+        "rules": [
+          {
+            "name": "Madd Lazim Mutsaqqal Kalimi",
+            "description": "Terjadi apabila Madd Asli diikuti oleh Shaddah dalam perkataan yang sama.",
+            "duration": "6 harakat",
+            "examples": [
+              {
+                "text": "الطَّآمَّةُ",
+                "image": "805.jpg",
+                "audio": "805.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Lazim Mukhaffaf Kalimi",
+            "description": "Terjadi apabila Madd Asli bertemu dengan Sukoon dalam satu perkataan.",
+            "duration": "6 harakat",
+            "examples": [
+              {
+                "text": "آلآنَ",
+                "image": "806.jpg",
+                "audio": "806.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Farqi",
+            "description": "Apabila Madd Badal diikuti oleh huruf dengan Shaddah.",
+            "duration": "5 atau 6 harakat",
+            "examples": [
+              {
+                "text": "أَلَّذِينَ كَفَرُوا",
+                "image": "807.jpg",
+                "audio": "807.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Pemanjangan Disebabkan oleh Sukoon dan Waqf",
+        "pengertian": "Terjadi apabila Madd berinteraksi dengan Sukoon dan dipengaruhi oleh titik berhenti (Waqf).",
+        "rules": [
+          {
+            "name": "Madd Leen",
+            "description": "Apabila huruf kedua terakhir dalam perkataan ialah huruf Leen (و atau ي selepas Fathah).",
+            "duration": "2, 4, 5, atau 6 harakat",
+            "examples": [
+              {
+                "text": "قُرَيْشٍ",
+                "image": "810.jpg",
+                "audio": "810.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Aridh Lis-Sukoon",
+            "description": "Terjadi apabila Madd diikuti oleh Sukoon disebabkan oleh berhenti.",
+            "duration": "2, 4, atau 6 harakat",
+            "examples": [
+              {
+                "text": "النَّاسِ",
+                "image": "811.jpg",
+                "audio": "811.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Quizs": [
+      {
+        "id": 0,
+        "question": "Penulisan manakah yang mewakili Madd Far'i secara betul dalam perkataan سَوَآءٌ?",
+        "answers": [
+          {
+            "answer": "سَوَاءٌ",
+            "right": 0
+          },
+          {
+            "answer": "سَوَآءٌ (dengan Alif Madd)",
+            "right": 1
+          },
+          {
+            "answer": "سَوَءٌ",
+            "right": 0
+          },
+          {
+            "answer": "سَوَّآءٌ (dengan Shaddah dan Alif Madd)",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 1,
+      "question": "Penulisan manakah yang betul untuk Madd Far'i dalam ayat إِنَّا أَنزَلْنَاهُ?",
+      "answers": [
+        {
+          "answer": "إِنَّا أَنزَلْنَاحُ",
+          "right": 0
+        },
+        {
+          "answer": "إِنَّا أَنزَلْنَاهُ (penulisan yang betul)",
+          "right": 1
+        },
+        {
+          "answer": "إِنَّ أَنزَلْنَاهُ (tanpa Madd)",
+          "right": 0
+        },
+        {
+          "answer": "إِنَّا أَنزَلْنَاهَا (akhiran yang salah)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Bagaimanakah cara membaca Madd Far'i dengan betul dalam ayat الم?",
+      "answers": [
+        {
+          "answer": "Memanjangkan bacaan م kepada 6 harakat",
+          "right": 1
+        },
+        {
+          "answer": "Mengambil nafas selepas ل",
+          "right": 0
+        },
+        {
+          "answer": "Membaca setiap huruf dengan cepat",
+          "right": 0
+        },
+        {
+          "answer": "Melangkau bacaan م",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Penulisan manakah yang betul untuk Madd Far'i dalam ayat قُلۡ ءَآلذَّكَرَيۡنِ?",
+      "answers": [
+        {
+          "answer": "قُلۡ ءَآلذَّكَرَيۡنِ (penulisan yang betul)",
+          "right": 1
+        },
+        {
+          "answer": "قُلۡ ءَالذَّكَرَيۡنِ (tanpa Madd)",
+          "right": 0
+        },
+        {
+          "answer": "قُ ءَآلذَّكَرَيۡنِ (tanpa QUL)",
+          "right": 0
+        },
+        {
+          "answer": "قُلۡ عَآلذَّكَرَيۡنِ (perkataan salah)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Penulisan manakah yang mewakili Madd Far'i secara betul dalam perkataan حم?",
+      "answers": [
+        {
+          "answer": "هم",
+          "right": 0
+        },
+        {
+          "answer": "حم (penulisan yang betul)",
+          "right": 1
+        },
+        {
+          "answer": "حآمآ",
+          "right": 0
+        },
+        {
+          "answer": "حَآمَآ (dengan harakat yang salah)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Penulisan manakah yang betul untuk Madd Far'i dalam ayat مَلِكِ ٱلنَّاسِ?",
+      "answers": [
+        {
+          "answer": "مَلِكِ ٱلنَّاسِ (penulisan yang betul)",
+          "right": 1
+        },
+        {
+          "answer": "مَالِكِ ٱلنَّسِ (harakat salah)",
+          "right": 0
+        },
+        {
+          "answer": "مَلِكِ ٱلنَّسِي (akhiran salah)",
+          "right": 0
+        },
+        {
+          "answer": "مَلِكِ ٱلنَّسِ (tanpa harakat)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Apakah contoh yang betul untuk Madd Wajib Muttasil?",
+      "answers": [
+        {
+          "answer": "آمَنَا",
+          "right": 0
+        },
+        {
+          "answer": "جَاءَ (contoh yang betul)",
+          "right": 1
+        },
+        {
+          "answer": "قُرَيْشٍ",
+          "right": 0
+        },
+        {
+          "answer": "يَا أَيُّهَا",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Berapa lamakah durasi untuk Madd Lazim Mutsaqqal Kalimi?",
+      "answers": [
+        {
+          "answer": "2 harakat",
+          "right": 0
+        },
+        {
+          "answer": "4 harakat",
+          "right": 0
+        },
+        {
+          "answer": "6 harakat (durasi yang betul)",
+          "right": 1
+        },
+        {
+          "answer": "Durasi berubah-ubah",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

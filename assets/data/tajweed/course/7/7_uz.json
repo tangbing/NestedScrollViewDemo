@@ -1,0 +1,306 @@
+{
+  "id": 6,
+    "title": "Hamzatul Vasl qoidalari",
+    "desc1_desc": "Hamzatul Vasl so‘zlarning boshida paydo bo‘ladi va uning o‘ziga xos tovushi yo‘q. Uning talaffuzi so‘zning bog‘langanligi yoki tilovatning boshlanishiga bog‘liq.",
+    "Lessons": [
+      {
+        "id": 0,
+        "name": "O‘tkazib yuborilgan talaffuz",
+        "pengertian": "Agar Hamzatul Vasl (ٱ) bilan boshlangan so‘z undan oldingi so‘zga bog‘langan bo‘lsa, Hamzatul Vasl o‘tkazib yuboriladi.",
+        "examples": [
+          {
+            "gambar": "701.jpg",
+            "suara": "701.mp3"
+          },
+          {
+            "gambar": "702.jpg",
+            "suara": "702.mp3"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Talaffuz qilingan talaffuz",
+        "pengertian": "Agar tilovat Hamzatul Vasl (ٱ) bilan boshlangan so‘zdan boshlansa, Hamzatul Vasl talaffuz qilinadi. Vaziyatga qarab, u Fatha, Kasra yoki Damma olishi mumkin.",
+        "examples": [
+          {
+            "gambar": "703.jpg",
+            "suara": "703.mp3"
+          }
+        ],
+        "rules": [
+          {
+            "id": "1A",
+            "title": "Otlarning boshida",
+            "subrules": [
+              {
+                "rule": "Otlar uchun Fatha",
+                "definition": "Agar ot Hamzatul Vasl bilan boshlansa, u Fatha oladi.",
+                "examples": [
+                  {
+                    "text": "ٱسْمَاءُ",
+                    "gambar": "704.jpg",
+                    "suara": "704.mp3"
+                  }
+                ]
+              },
+              {
+                "rule": "Otlar uchun Kasra",
+                "definition": "Hamzatul Vasl bilan boshlangan so‘zga oldingi so‘z bog‘lanmagan bo‘lsa, ot Kasra oladi.",
+                "examples": [
+                  "اِبْتِدَآءُ",
+                  "إِبْتِغَآءُ",
+                  "اِسْمَآءِ",
+                  "اِمْرَأَتِي",
+                  "اِمْرَأَتُكَ"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1B",
+            "title": "Fe’llarning boshida",
+            "subrules": [
+              {
+                "rule": "Fe’llar uchun Damma",
+                "definition": "Agar fe’lning uchinchi harfi Damma olgan bo‘lsa, Hamzatul Vasl ham Damma oladi.",
+                "examples": [
+                  {
+                    "text": "ٱدْخُلُوا",
+                    "gambar": "705.jpg",
+                    "suara": "705.mp3"
+                  }
+                ]
+              },
+              {
+                "rule": "Fe’llar uchun Kasra",
+                "definition": "Agar fe’lning uchinchi harfi Fatha yoki Kasra olgan bo‘lsa, Hamzatul Vasl Kasra oladi.",
+                "examples": [
+                  {
+                    "text": "ٱصْبِرُوا",
+                    "gambar": "706.jpg",
+                    "suara": "706.mp3"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "exceptions": [
+          {
+            "text": "ٱتَّقُوا",
+            "gambar": "707.jpg",
+            "suara": "707.mp3"
+          },
+          {
+            "text": "ٱصْبِرُوا",
+            "gambar": "708.jpg",
+            "suara": "708.mp3"
+          },
+          {
+            "text": "ٱدْفَعُوا",
+            "gambar": "709.jpg",
+            "suara": "709.mp3"
+          },
+          {
+            "text": "ٱبْتَغُوا",
+            "gambar": "710.jpg",
+            "suara": "710.mp3"
+          },
+          {
+            "text": "ٱفْتَحُوا",
+            "gambar": "711.jpg",
+            "suara": "711.mp3"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Lam At-Tarif",
+        "pengertian": "Lam At-Tarif bu Hamzatul Vasl'dan keyin keladigan Lam (ل). U doim Sakinah (jim) bo‘ladi va ikki turga bo‘linadi.",
+        "examples": [
+          {
+            "text": "اَلنَّجْمُ",
+            "gambar": "712.jpg",
+            "suara": "712.mp3"
+          },
+          {
+            "text": "اَلْقَمَرُ",
+            "gambar": "704.jpg",
+            "suara": "704.mp3"
+          }
+        ]
+      }
+    ],
+    "Quizs": [
+      {
+        "id": 0,
+        "question": "ٱ haqida noto‘g‘ri fikrni tanlang.",
+        "answers": [
+          {
+            "answer": "Bu so‘zlarning boshida keladi",
+            "right": 0
+          },
+          {
+            "answer": "Unda hech qanday belgi yo‘q",
+            "right": 0
+          },
+          {
+            "answer": "Bu belgi asosida talaffuz qilinadi",
+            "right": 1
+          },
+          {
+            "answer": "Uni o‘tkazib yuborish yoki talaffuz qilish mumkin",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "question": "To‘g‘ri yozuvni tanlang.",
+        "answers": [
+          {
+            "answer": "وَٱلۡأُولَىٰ",
+            "right": 1
+          },
+          {
+            "answer": "وَٱلۡأُلَىٰ",
+            "right": 0
+          },
+          {
+            "answer": "وَٱلۡأُلَ",
+            "right": 0
+          },
+          {
+            "answer": "وَأٱلۡأُلَى",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "ٱ o‘tkazib yuborilgan to‘g‘ri misolni tanlang.",
+        "answers": [
+          {
+            "answer": "فِي ٱلدُّنۡيَا",
+            "right": 1
+          },
+          {
+            "answer": "ٱلۡمُسۡتَعَانُ",
+            "right": 0
+          },
+          {
+            "answer": "ٱمۡرَأَتُ",
+            "right": 0
+          },
+          {
+            "answer": "اِتَّبِعُوۡا",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Kasra berilishi kerak bo‘lgan 3 ta to‘g‘ri ٱ misolini tanlang.",
+        "answers": [
+          {
+            "answer": "ٱئۡتُونِى",
+            "right": 1
+          },
+          {
+            "answer": "ٱسۡتَجِيۡبُواۡ",
+            "right": 1
+          },
+          {
+            "answer": "ٱثۡنَانِ",
+            "right": 1
+          },
+          {
+            "answer": "فِي ٱلدُّنۡيَا",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "ٱ o‘tkazib yuborilgan to‘g‘ri misolni tanlang.",
+        "answers": [
+          {
+            "answer": "وَٱلسَّـٰبِقَـٰتِ سَبۡقًا",
+            "right": 1
+          },
+          {
+            "answer": "ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+            "right": 0
+          },
+          {
+            "answer": "ٱلۡأٓخِرَةِ وَ ٱلۡأُوۡلَىٰ",
+            "right": 0
+          },
+          {
+            "answer": "ٱلۡحَقُّ وَأَنَّ مَا يَدۡعُونَ مِن دُونِهِ",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضَ ichida ٱ qanday talaffuz qilinadi?",
+        "answers": [
+          {
+            "answer": "Fatha - O‘tkazib yuborildi - O‘tkazib yuborildi",
+            "right": 1
+          },
+          {
+            "answer": "Fatha - Fatha - O‘tkazib yuborildi",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Damma berilishi kerak bo‘lgan to‘g‘ri ٱ misolini tanlang.",
+        "answers": [
+          {
+            "answer": "ٱسۡمُهُ ٱلۡمَسِيحُ عِيسَىٰ",
+            "right": 1
+          },
+          {
+            "answer": "ٱلۡمُدَبِّرَاتِ أَمۡرًا",
+            "right": 0
+          },
+          {
+            "answer": "ٱلۡمُسۡتَعَانُ",
+            "right": 0
+          },
+          {
+            "answer": "اِتَّبِعُوۡا",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Fatha bilan talaffuz qilinishi kerak bo‘lgan ٱ misollarni tanlang.",
+        "answers": [
+          {
+            "answer": "ٱسۡمَاءُ",
+            "right": 1
+          },
+          {
+            "answer": "ٱفْتَحُوا",
+            "right": 0
+          },
+          {
+            "answer": "فِي ٱلدُّنۡيَا",
+            "right": 0
+          },
+          {
+            "answer": "وَٱلۡأُوۡلَىٰ",
+            "right": 0
+          }
+        ]
+      }
+    ]
+  }
+]

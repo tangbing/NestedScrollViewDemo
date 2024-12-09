@@ -1,0 +1,211 @@
+{
+  "id": 8,
+  "title": "Teknik Idghaam Lanjutan",
+  "desc1_desc": "Idghaam berlaku apabila dua huruf bertemu dalam bacaan Al-Quran, di mana huruf pertama mempunyai sukun (saakinah) dan huruf kedua berharakat (fathah, kasrah, atau dhammah). Teknik ini memastikan kelancaran dan ketepatan dalam bacaan.",
+  "Lessons": [
+    {
+      "id": 0,
+      "name": "Huruf yang Sama (المثلين)",
+      "pengertian": "Aturan ini berlaku apabila dua huruf yang bertemu mempunyai sifat yang sama. Peraturan idghaam digunakan untuk menggabungkan huruf-huruf ini menjadi satu bunyi yang lancar. Jika huruf itu adalah ن (Nun) atau م (Mim), ghunnah (dengungan) ditambah selama 2 atau 3 harakat.",
+      "examples": [
+        {
+          "text": "يَدْكُرُونَ",
+          "image": "901.jpg",
+          "audio": "901.mp3"
+        },
+        {
+          "text": "مَن يُنْصَرُ",
+          "image": "901.jpg",
+          "audio": "901.mp3"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Huruf dengan Tempat Keluar yang Sama (المتقاربين)",
+      "pengertian": "Peraturan ini digunakan apabila dua huruf mempunyai tempat keluar (makhraj) yang sama tetapi berbeza dalam sifatnya. Idghaam digunakan untuk memastikan penggabungan bunyi yang harmoni.",
+      "examples": [
+        {
+          "text": "قَد تَّبَيَّنَ",
+          "image": "902.jpg",
+          "audio": "902.mp3"
+        },
+        {
+          "text": "أَثْقَلَت دَّعَوَا",
+          "image": "903.jpg",
+          "audio": "903.mp3"
+        },
+        {
+          "text": "إِذْ تَسْتَغْفِرُ",
+          "image": "904.jpg",
+          "audio": "904.mp3"
+        },
+        {
+          "text": "يَذْهَبْ بِهِمْ",
+          "image": "906.jpg",
+          "audio": "906.mp3"
+        },
+        {
+          "text": "يَلْهَثْ تَتْلُوهَا",
+          "image": "907.jpg",
+          "audio": "907.mp3"
+        },
+        {
+          "text": "أَلَمْ نَخْلُقكُّم",
+          "image": "908.jpg",
+          "audio": "908.mp3"
+        },
+        {
+          "text": "بَلْ رَفَعَهُ اللهُ",
+          "image": "909.jpg",
+          "audio": "909.mp3"
+        },
+        {
+          "text": "لَئِن بَسَطْتَ",
+          "image": "910.jpg",
+          "audio": "910.mp3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Huruf dengan Tempat Keluar yang Hampir Sama (المتقاربين)",
+      "pengertian": "Peraturan ini digunakan apabila huruf-huruf mempunyai tempat keluar yang hampir sama tetapi sifatnya berbeza. Secara umum, peraturan Idzhar (sebutan jelas) digunakan.",
+      "examples": [
+        {
+          "text": "قُلْ رَبِّ",
+          "image": "911.jpg",
+          "audio": "911.mp3"
+        },
+        {
+          "text": "أَلَمْ نَخْلُقكُّم",
+          "image": "912.jpg",
+          "audio": "912.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Huruf dengan Tempat Keluar yang Jauh Berbeza (المتباعدين)",
+      "pengertian": "Peraturan ini digunakan apabila huruf-huruf mempunyai tempat keluar dan sifat yang sangat berbeza. Dalam kes ini, peraturan Idzhar sentiasa digunakan.",
+      "examples": [
+        {
+          "text": "فَسَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+          "image": "913.jpg",
+          "audio": "913.mp3"
+        }
+      ]
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "Bagaimana Idghaam diterapkan dalam frasa وَقَد دَّخَلُوا بِٱلۡكُفۡرِ وَهُمۡ قَدۡ خَرَجُواۡ بِهِ?",
+      "answers": [
+        {
+          "answer": "Gabungkan قَد dan دَّ menjadi satu bunyi dengan penekanan",
+          "right": 1
+        },
+        {
+          "answer": "Sebutan قَد dan دَّ diasingkan sepenuhnya",
+          "right": 0
+        },
+        {
+          "answer": "Langkau sebutan دَّ",
+          "right": 0
+        },
+        {
+          "answer": "Panjangkan قَد kepada 6 harakat",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Bagaimana Idghaam diterapkan dalam frasa وَلَكُمۡ مَّاكَسَبۡتُمۡ?",
+      "answers": [
+        {
+          "answer": "Gabungkan وَلَكُمۡ dan مَّاكَسَبۡتُمۡ dengan ghunnah",
+          "right": 1
+        },
+        {
+          "answer": "Sebutan setiap perkataan diasingkan",
+          "right": 0
+        },
+        {
+          "answer": "Langkau sebutan مَّاكَسَبۡتُمۡ",
+          "right": 0
+        },
+        {
+          "answer": "Panjangkan وَلَكُمۡ kepada 6 harakat",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Bagaimana Idghaam diterapkan dalam frasa أَثۡقَلَتۡ دَّعَوَا?",
+      "answers": [
+        {
+          "answer": "Gabungkan أَثۡقَلَتۡ dan دَّعَوَا dengan ghunnah",
+          "right": 1
+        },
+        {
+          "answer": "Sebutan أَثۡقَلَتۡ dan دَّعَوَا diasingkan sepenuhnya",
+          "right": 0
+        },
+        {
+          "answer": "Langkau sebutan دَّعَوَا",
+          "right": 0
+        },
+        {
+          "answer": "Panjangkan أَثۡقَلَتۡ kepada 6 harakat",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Bagaimana Idghaam diterapkan apabila huruf yang sama bertemu semasa bacaan?",
+      "answers": [
+        {
+          "answer": "Huruf-huruf digabungkan dengan lancar menggunakan ghunnah jika perlu",
+          "right": 1
+        },
+        {
+          "answer": "Huruf-huruf disebut dengan jelas secara berasingan",
+          "right": 0
+        },
+        {
+          "answer": "Huruf pertama tidak disebut",
+          "right": 0
+        },
+        {
+          "answer": "Bacaan dipanjangkan hingga 6 harakat",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Manakah contoh yang betul bagi penerapan Idzhar dalam bacaan?",
+      "answers": [
+        {
+          "answer": "فَسَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+          "right": 1
+        },
+        {
+          "answer": "قَد تَّبَيَّنَ",
+          "right": 0
+        },
+        {
+          "answer": "وَلَكُمۡ مَّاكَسَبۡتُمۡ",
+          "right": 0
+        },
+        {
+          "answer": "أَثۡقَلَتۡ دَّعَوَا",
+          "right": 0
+        }
+      ]
+    }
+  ]

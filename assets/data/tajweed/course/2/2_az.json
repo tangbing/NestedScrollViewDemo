@@ -1,0 +1,134 @@
+{
+    "id": 1,
+    "title": "Uzadılmış Madd",
+    "desc1_desc": "Uzadılmış Madd (~) işarəsi ilə qeyd olunan hərf müəyyən şərtlər altında gələndə meydana çıxır və səsin uzadılmasını tələb edir. Bu, məsələn, Həmzə (ء), Sükun və ya Şəddə ilə qarşılaşmanı əhatə edə bilər və səs müəyyən vuruş sayına qədər uzadılır.",
+    "desc2_title": "Uzadılmış Madd Nümunələri",
+    "desc2_desc": "Uzadılma müddəti qarşılaşılan Madd növündən asılıdır. Aşağıda Uzadılmış Madd tətbiq olunan halları görəcəksiniz:",
+    "Lessons": [
+        {
+            "id": 0,
+            "name": "Həmzə (ء) ilə növbəti sözdə görüş",
+            "pengertian": "Madd hərfi növbəti sözdə Həmzə (ء) ilə qarşılaşdıqda, səs 2, 4 və ya 5 vuruş müddətində uzadılmalıdır.",
+            "caraMembaca": "Oxuyucu səsi kontekstə əsasən uzadır, düzgün ritm saxlanılır.",
+            "example": "يَا أَيُّهَا",
+            "gambar": "2.01.jpg",
+            "suara": [
+                {"beats": 2, "file": "2.01-1.mp3"},
+                {"beats": 4, "file": "2.01-2.mp3"},
+                {"beats": 5, "file": "2.01-3.mp3"}
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Həmzə (ء) ilə eyni sözdə görüş",
+            "pengertian": "Əgər Madd hərfi eyni sözdə Həmzə (ء) ilə qarşılaşırsa, səs 4 və ya 5 vuruş müddətində uzadılır.",
+            "caraMembaca": "Oxuyucu aydın bir uzatma təmin edir, təcvid qaydalarına hörmət göstərir.",
+            "example": "وَٱلسَّمَآءِ",
+            "gambar": "2.04.jpg",
+            "suara": "2.04.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Sükun ilə görüş",
+            "pengertian": "Madd hərfi Sükun ilə qarşılaşırsa, səs 6 vuruş müddətində uzadılmalıdır.",
+            "caraMembaca": "Oxuyucu dəqiqliklə Sükun qaydasına əməl edir.",
+            "example": "ءَالْـَٰٔنَ",
+            "gambar": "2.05.jpg",
+            "suara": "2.05.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Şəddə ilə görüş",
+            "pengertian": "Madd hərfi Şəddə ilə qarşılaşdıqda, səs 6 vuruş müddətində uzadılır.",
+            "caraMembaca": "Oxuyucu Şəddəni vurğulayır və sabit ritmi qoruyur.",
+            "example": "ٱلۡحَاقَّةُ",
+            "gambar": "2.06.jpg",
+            "suara": "2.06.mp3"
+        }
+    ],
+    "tips": {
+        "title": "Uzun Madd-i mənimsəmək",
+        "advice": "Uzadılma zamanı səhvlərdən və ya dayanmalardan qaçmaq üçün Peyğəmbərin (s.a.s.) Al Baroo tərəfindən nəql etdiyi tövsiyəyə əməl etmək olar: 'Quranı səsinizlə gözəlləşdirin.'"
+    },
+    "muqattaat": {
+        "title": "Huroof al MuqaTTa'at",
+        "pengertian": "Quranın bəzi surələri Huroof al MuqaTTa'at adlanan ayrılmış hərflərlə başlayır. Bu hərflər çox uzun Madd ilə 6 vuruş uzadılmalıdır.",
+        "example": "الٓمٓ",
+        "gambar": "2.07.jpg",
+        "suara": "2.07.mp3"
+    },
+    "Quizs": [
+        {
+            "id": 0,
+            "question": "Uzun müddət uzadılmalı hərfi göstərən işarələrdən hansıdır?",
+            "answers": [
+                {"answer": "ا", "right": 0},
+                {"answer": "ي", "right": 0},
+                {"answer": "و", "right": 0},
+                {"answer": "ٓ", "right": 1}
+            ]
+        },
+        {
+            "id": 1,
+            "question": "Hansı ifadə Uzadılmış Madd-i düzgün şəkildə nümayiş etdirir?",
+            "answers": [
+                {"answer": "يَا أَيُّهَا", "right": 1},
+                {"answer": "قَالَ", "right": 0},
+                {"answer": "كَانَ", "right": 0},
+                {"answer": "يَغْشَىٰ", "right": 0}
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Bu misalda ilk 'ي' neçə vuruş uzadılır? Ancaq...",
+            "answers": [
+                {"answer": "4", "right": 0},
+                {"answer": "5", "right": 0},
+                {"answer": "6", "right": 1},
+                {"answer": "2", "right": 0}
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Hansı ifadə 'عسق' ifadəsinin düzgün oxunuşunu göstərir?",
+            "answers": [
+                {"answer": "عۡسۡقَ", "right": 0},
+                {"answer": "عَسَقَ", "right": 0},
+                {"answer": "عۡسۡقُ", "right": 1},
+                {"answer": "عُسِقَ", "right": 0}
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Uzun müddət uzanan Madd-i göstərən variantı seçin:",
+            "answers": [
+                {"answer": "عَسَىٰ", "right": 0},
+                {"answer": "جَآءَ", "right": 1},
+                {"answer": "كَانٌَ", "right": 0},
+                {"answer": "وَٱلنَّهَارِ", "right": 0}
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Uzun müddət uzadılmalı hərfləri olan bütün sözləri seçin.",
+            "answers": [
+                {"answer": "جَآءَتِ", "right": 1},
+                {"answer": "أَعۡطَىٰ", "right": 0},
+                {"answer": "وَالسَّمَآءِ", "right": 1},
+                {"answer": "صَلَاتُهُمۡ", "right": 0},
+                {"answer": "عِيسَىٰ", "right": 0},
+                {"answer": "ءَآلۡأَٰنَ", "right": 1}
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Uzadılmış Madd nümunəsində uzatma neçə vuruşdur?",
+            "answers": [
+                {"answer": "2", "right": 0},
+                {"answer": "4", "right": 0},
+                {"answer": "6", "right": 1},
+                {"answer": "8", "right": 0}
+            ]
+        }
+    ]
+}

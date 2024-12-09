@@ -1,0 +1,119 @@
+{
+  "id": 5,
+  "title": "Peraturan Meem Sakin",
+  "desc1_desc": "Semasa membaca Al-Quran, apabila Meem Sakin (م) muncul, salah satu daripada tiga peraturan berikut perlu digunakan bergantung pada huruf yang mengikutinya:",
+  "sections": [
+    {
+      "id": 0,
+      "title": "Idgham Syafawi",
+      "definition": "Peraturan ini berlaku apabila Meem Sakin diikuti oleh Meem lain yang mempunyai tanda vokal. Biasanya, Meem kedua akan mempunyai Tasyid (ّ).",
+      "how_to_pronounce": "Gabungkan kedua-dua Meem dengan lancar menggunakan Ghunnah (bunyi hidung) selama 2-3 kiraan.",
+      "example": {
+        "text": "لَهُم مَا",
+        "gambar": "/quran/tajweed/pictures/601.jpg",
+        "suara": "/quran/tajweed/audio/601.mp3"
+      }
+    },
+    {
+      "id": 1,
+      "title": "Ikhfa Syafawi",
+      "definition": "Peraturan ini digunakan apabila Meem Sakin diikuti oleh huruf Ba (ب) dengan tanda vokal.",
+      "how_to_pronounce": "Sembunyikan bunyi Meem dan lafazkannya dengan Ghunnah selama 2-3 kiraan.",
+      "example": {
+        "text": "رَبَّهُم بِهِم",
+        "gambar": "/quran/tajweed/pictures/602.jpg",
+        "suara": "/quran/tajweed/audio/602.mp3"
+      },
+      "note": "Peraturan ini sering diabaikan, jadi beri perhatian khusus untuk memastikan ia digunakan dengan betul."
+    },
+    {
+      "id": 2,
+      "title": "Izhar Syafawi",
+      "definition": "Izhar Syafawi berlaku apabila Meem Sakin diikuti oleh huruf selain daripada Meem atau Ba.",
+      "how_to_pronounce": "Lafazkan Meem dengan jelas tanpa Ghunnah (bunyi hidung).",
+      "example": {
+        "text": "أَلَم تَرَ",
+        "gambar": "/quran/tajweed/pictures/603.jpg",
+        "suara": "/quran/tajweed/audio/603.mp3"
+      }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 0,
+      "question": "Apakah peraturan Meem Sakin yang digunakan dalam frasa تَرۡمِيۡهِم بِحِجَارَةٍ?",
+      "answers": [
+        {
+          "answer": "Ikhfa Syafawi: Meem Sakin diikuti oleh Ba dan dilafazkan dengan bunyi hidung.",
+          "right": 1
+        },
+        {
+          "answer": "Idgham Syafawi: Meem Sakin digabungkan dengan Meem seterusnya.",
+          "right": 0
+        },
+        {
+          "answer": "Izhar Syafawi: Meem Sakin dilafazkan dengan jelas tanpa gabungan.",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Apakah peraturan Meem Sakin yang digunakan dalam frasa كُنتُم مُّؤۡمِنِينَ?",
+      "answers": [
+        {
+          "answer": "Ikhfa Syafawi: Meem Sakin diikuti oleh Ba dan dilafazkan dengan bunyi hidung.",
+          "right": 0
+        },
+        {
+          "answer": "Idgham Syafawi: Meem Sakin digabungkan dengan Meem seterusnya.",
+          "right": 1
+        },
+        {
+          "answer": "Izhar Syafawi: Meem Sakin dilafazkan dengan jelas tanpa gabungan.",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Apakah peraturan Meem Sakin yang digunakan dalam frasa وَهُمۡ سَـالِمُونَ?",
+      "answers": [
+        {
+          "answer": "Ikhfa Syafawi: Meem Sakin diikuti oleh Ba dan dilafazkan dengan bunyi hidung.",
+          "right": 0
+        },
+        {
+          "answer": "Idgham Syafawi: Meem Sakin digabungkan dengan Meem seterusnya.",
+          "right": 0
+        },
+        {
+          "answer": "Izhar Syafawi: Meem Sakin dilafazkan dengan jelas tanpa gabungan.",
+          "right": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Pilih pilihan yang tidak mengandungi Ghunnah:",
+      "answers": [
+        {
+          "answer": "لَهُمۡ مَّا",
+          "right": 0
+        },
+        {
+          "answer": "رَبَّهُم بِهِم",
+          "right": 0
+        },
+        {
+          "answer": "أَلَمۡ تَرَ",
+          "right": 1
+        },
+        {
+          "answer": "وَ أَنِ احۡكُم بَيۡنَهُم",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

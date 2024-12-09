@@ -1,0 +1,306 @@
+{
+  "id": 6,
+    "title": "Règles de Hamzatul Wasl",
+    "desc1_desc": "Hamzatul Wasl apparaît au début des mots et n'a pas de son vocalique propre. Sa prononciation dépend du fait qu'il soit connecté ou qu'il commence la récitation.",
+    "Lessons": [
+      {
+        "id": 0,
+        "name": "Prononciation supprimée",
+        "pengertian": "Si un mot commençant par Hamzatul Wasl (ٱ) est connecté au mot précédent, Hamzatul Wasl est supprimé.",
+        "examples": [
+          {
+            "gambar": "701.jpg",
+            "suara": "701.mp3"
+          },
+          {
+            "gambar": "702.jpg",
+            "suara": "702.mp3"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Prononciation déclarée",
+        "pengertian": "Si la récitation commence par un mot qui commence par Hamzatul Wasl (ٱ), Hamzatul Wasl est prononcé. Selon le contexte, il peut prendre un Fat-ha, Kasra ou Damma.",
+        "examples": [
+          {
+            "gambar": "703.jpg",
+            "suara": "703.mp3"
+          }
+        ],
+        "rules": [
+          {
+            "id": "1A",
+            "title": "Au début des noms",
+            "subrules": [
+              {
+                "rule": "Fat-ha sur les noms",
+                "definition": "Si un nom commence par Hamzatul Wasl, il prend un Fat-ha.",
+                "examples": [
+                  {
+                    "text": "ٱسْمَاءُ",
+                    "gambar": "704.jpg",
+                    "suara": "704.mp3"
+                  }
+                ]
+              },
+              {
+                "rule": "Kasra sur les noms",
+                "definition": "Lorsqu'il n'y a pas de mot précédent connecté à Hamzatul Wasl, le nom prend un Kasra.",
+                "examples": [
+                  "اِبْتِدَآءُ",
+                  "إِبْتِغَآءُ",
+                  "اِسْمَآءِ",
+                  "اِمْرَأَتِي",
+                  "اِمْرَأَتُكَ"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1B",
+            "title": "Au début des verbes",
+            "subrules": [
+              {
+                "rule": "Damma sur les verbes",
+                "definition": "Si la troisième lettre d'un verbe a un Damma, Hamzatul Wasl prend un Damma.",
+                "examples": [
+                  {
+                    "text": "ٱدْخُلُوا",
+                    "gambar": "705.jpg",
+                    "suara": "705.mp3"
+                  }
+                ]
+              },
+              {
+                "rule": "Kasra sur les verbes",
+                "definition": "Si la troisième lettre d'un verbe a un Fat-ha ou un Kasra, Hamzatul Wasl prend un Kasra.",
+                "examples": [
+                  {
+                    "text": "ٱصْبِرُوا",
+                    "gambar": "706.jpg",
+                    "suara": "706.mp3"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "exceptions": [
+          {
+            "text": "ٱتَّقُوا",
+            "gambar": "707.jpg",
+            "suara": "707.mp3"
+          },
+          {
+            "text": "ٱصْبِرُوا",
+            "gambar": "708.jpg",
+            "suara": "708.mp3"
+          },
+          {
+            "text": "ٱدْفَعُوا",
+            "gambar": "709.jpg",
+            "suara": "709.mp3"
+          },
+          {
+            "text": "ٱبْتَغُوا",
+            "gambar": "710.jpg",
+            "suara": "710.mp3"
+          },
+          {
+            "text": "ٱفْتَحُوا",
+            "gambar": "711.jpg",
+            "suara": "711.mp3"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Lam At-Tarif",
+        "pengertian": "Lam At-Tarif est le Lam (ل) qui vient après Hamzatul Wasl dans les noms. Il est toujours Sakinah (silencieux) et peut être classé en deux types.",
+        "examples": [
+          {
+            "text": "اَلنَّجْمُ",
+            "gambar": "712.jpg",
+            "suara": "712.mp3"
+          },
+          {
+            "text": "اَلْقَمَرُ",
+            "gambar": "704.jpg",
+            "suara": "704.mp3"
+          }
+        ]
+      }
+    ],
+    "Quizs": [
+      {
+        "id": 0,
+        "question": "Sélectionnez l'affirmation incorrecte concernant ٱ.",
+        "answers": [
+          {
+            "answer": "Il se produit au début des mots",
+            "right": 0
+          },
+          {
+            "answer": "Il n'a pas de signe",
+            "right": 0
+          },
+          {
+            "answer": "Il est prononcé selon le signe",
+            "right": 1
+          },
+          {
+            "answer": "Il peut être sauté ou prononcé",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "question": "Sélectionnez les écritures correctes.",
+        "answers": [
+          {
+            "answer": "وَٱلۡأُولَىٰ",
+            "right": 1
+          },
+          {
+            "answer": "وَٱلۡأُلَىٰ",
+            "right": 0
+          },
+          {
+            "answer": "وَٱلۡأُلَ",
+            "right": 0
+          },
+          {
+            "answer": "وَأٱلۡأُلَى",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Sélectionnez l'exemple correct où ٱ est sauté.",
+        "answers": [
+          {
+            "answer": "فِي ٱلدُّنۡيَا",
+            "right": 1
+          },
+          {
+            "answer": "ٱلۡمُسۡتَعَانُ",
+            "right": 0
+          },
+          {
+            "answer": "ٱمۡرَأَتُ",
+            "right": 0
+          },
+          {
+            "answer": "اِتَّبِعُوۡا",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Sélectionnez 3 exemples corrects de ٱ qui devraient recevoir une Kasra.",
+        "answers": [
+          {
+            "answer": "ٱئۡتُونِى",
+            "right": 1
+          },
+          {
+            "answer": "ٱسۡتَجِيۡبُواۡ",
+            "right": 1
+          },
+          {
+            "answer": "ٱثۡنَانِ",
+            "right": 1
+          },
+          {
+            "answer": "فِي ٱلدُّنۡيَا",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Sélectionnez l'exemple correct où ٱ est sauté.",
+        "answers": [
+          {
+            "answer": "وَٱلسَّـٰبِقَـٰتِ سَبۡقًا",
+            "right": 1
+          },
+          {
+            "answer": "ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+            "right": 0
+          },
+          {
+            "answer": "ٱلۡأٓخِرَةِ وَ ٱلۡأُوۡلَىٰ",
+            "right": 0
+          },
+          {
+            "answer": "ٱلۡحَقُّ وَأَنَّ مَا يَدۡعُونَ مِن دُونِهِ",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "Comment prononcer ٱ dans ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضَ ?",
+        "answers": [
+          {
+            "answer": "Fat-ha - Sauté - Sauté",
+            "right": 1
+          },
+          {
+            "answer": "Fat-ha - Fat-ha - Sauté",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Sélectionnez l'exemple correct où ٱ devrait recevoir un Damma.",
+        "answers": [
+          {
+            "answer": "ٱسۡمُهُ ٱلۡمَسِيحُ عِيسَىٰ",
+            "right": 1
+          },
+          {
+            "answer": "ٱلۡمُدَبِّرَاتِ أَمۡرًا",
+            "right": 0
+          },
+          {
+            "answer": "ٱلۡمُسۡتَعَانُ",
+            "right": 0
+          },
+          {
+            "answer": "اِتَّبِعُوۡا",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Sélectionnez les exemples où ٱ devrait être prononcé avec un Fat-ha.",
+        "answers": [
+          {
+            "answer": "ٱسۡمَاءُ",
+            "right": 1
+          },
+          {
+            "answer": "ٱفْتَحُوا",
+            "right": 0
+          },
+          {
+            "answer": "فِي ٱلدُّنۡيَا",
+            "right": 0
+          },
+          {
+            "answer": "وَٱلۡأُوۡلَىٰ",
+            "right": 0
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,281 @@
+{
+  "id": 8,
+  "title": "Enhanced Idghaam Techniques",
+  "desc1_desc": "When two letters come together in Quranic recitation, with the first letter carrying a sukoon (saakinah) and the second having a vowel (fat-hah, kasrah, or dhammah), one of four assimilation rules is applied.",
+  "Lessons": [
+    {
+      "id": 0,
+      "name": "Identical Letters (المثلين)",
+      "pengertian": "This rule applies when the two letters are the same. The Idgham rule is used, merging the letters smoothly. If the letter is ن (Noon) or م (Meem), add a ghunnah (nasal sound) for 2 or 3 counts.",
+      "examples": [
+        {
+          "text": "يَدْكُرُونَ",
+          "image": "901.png",
+          "audio": "901.mp3"
+        },
+        {
+          "text": "مَن يُنْصَرُ",
+          "image": "901.png",
+          "audio": "901.mp3"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Letters with Similar Articulation (المتقاربين)",
+      "pengertian": "This occurs when two letters share the same articulation point but differ in attributes. Idgham is applied here.",
+      "examples": [
+        {
+          "text": "قَد تَّبَيَّنَ",
+          "image": "902.png",
+          "audio": "902.mp3"
+        },
+        {
+          "text": "أَثْقَلَت دَّعَوَا",
+          "image": "903.png",
+          "audio": "903.mp3"
+        },
+        {
+          "text": "إِذْ تَسْتَغْفِرُ",
+          "image": "904.png",
+          "audio": "904.mp3"
+        },
+        {
+          "text": "يَذْهَبْ بِهِمْ",
+          "image": "906.png",
+          "audio": "906.mp3"
+        },
+        {
+          "text": "يَلْهَثْ تَتْلُوهَا",
+          "image": "907.png",
+          "audio": "907.mp3"
+        },
+        {
+          "text": "أَلَمْ نَخْلُقكُّم",
+          "image": "908.png",
+          "audio": "908.mp3"
+        },
+        {
+          "text": "بَلْ رَفَعَهُ اللهُ",
+          "image": "909.png",
+          "audio": "909.mp3"
+        },
+        {
+          "text": "لَئِن بَسَطْتَ",
+          "image": "910.png",
+          "audio": "910.mp3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Letters Close in Articulation (المتقاربين)",
+      "pengertian": "This rule applies when the letters are close in their articulation points but not identical in characteristics. The general rule here is Idhaar (clear pronunciation), except in specific cases.",
+      "examples": [
+        {
+          "text": "قُلْ رَبِّ",
+          "image": "911.png",
+          "audio": "911.mp3"
+        },
+        {
+          "text": "أَلَمْ نَخْلُقكُّم",
+          "image": "912.png",
+          "audio": "912.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Letters Far Apart in Articulation (المتباعدين)",
+      "pengertian": "This applies when the two letters differ significantly in articulation points and characteristics. The rule here is always Idhaar.",
+      "examples": [
+        {
+          "text": "فَسَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+          "image": "913.png",
+          "audio": "913.mp3"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Letters with Similar Articulation (المتقاربين)",
+      "pengertian": "This occurs when two letters share the same articulation point but differ slightly in attributes. Idghaam is applied, merging the sounds harmoniously.",
+      "rules": [
+        {
+          "rule": "Apply Idghaam when articulation points are identical but attributes differ.",
+          "notes": "Practice to maintain clarity while merging."
+        }
+      ],
+      "examples": [
+        {
+          "text": "قَد تَّبَيَّنَ",
+          "image": "903.png",
+          "audio": "903.mp3"
+        },
+        {
+          "text": "أَثْقَلَت دَّعَوَا",
+          "image": "904.png",
+          "audio": "904.mp3"
+        },
+        {
+          "text": "إِذْ تَسْتَغْفِرُ",
+          "image": "905.png",
+          "audio": "905.mp3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Letters Close in Articulation (المتقاربين)",
+      "pengertian": "This rule applies when the letters are close in articulation points but not identical. The general rule here is Idhaar (clear pronunciation), unless specific exceptions call for assimilation.",
+      "rules": [
+        {
+          "rule": "Pronounce both letters clearly unless an exception allows assimilation.",
+          "notes": "Clarity is crucial to avoid misinterpretation."
+        }
+      ],
+      "examples": [
+        {
+          "text": "قُلْ رَبِّ",
+          "image": "906.png",
+          "audio": "906.mp3"
+        },
+        {
+          "text": "أَلَمْ نَخْلُقكُّم",
+          "image": "907.png",
+          "audio": "907.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Letters Far Apart in Articulation (المتباعدين)",
+      "pengertian": "This applies when the two letters differ significantly in their articulation points and attributes. In such cases, the rule of Idhaar (clear pronunciation) is strictly followed.",
+      "rules": [
+        {
+          "rule": "Always use Idhaar for distinct letters with no shared articulation traits.",
+          "notes": "Maintain the natural flow of recitation."
+        }
+      ],
+      "examples": [
+        {
+          "text": "فَسَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+          "image": "908.png",
+          "audio": "908.mp3"
+        }
+      ]
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "What is the correct way to apply Idghaam in the phrase وَقَد دَّخَلُوا بِٱلۡكُفۡرِ وَهُمۡ قَدۡ خَرَجُواۡ بِهِ?",
+      "answers": [
+        {
+          "answer": "Merge the قَد and دَّ into one sound with emphasis",
+          "right": 1
+        },
+        {
+          "answer": "Separate قَد and دَّ completely",
+          "right": 0
+        },
+        {
+          "answer": "Skip the recitation of دَّ",
+          "right": 0
+        },
+        {
+          "answer": "Prolong قَد for 6 beats",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "What is the correct way to apply Idghaam in the phrase وَلَكُمۡ مَّاكَسَبۡتُمۡ?",
+      "answers": [
+        {
+          "answer": "Merge وَلَكُمۡ and مَّاكَسَبۡتُمۡ with a nasal sound",
+          "right": 1
+        },
+        {
+          "answer": "Recite each word separately",
+          "right": 0
+        },
+        {
+          "answer": "Skip the recitation of مَّاكَسَبۡتُمۡ",
+          "right": 0
+        },
+        {
+          "answer": "Prolong وَلَكُمۡ for 6 beats",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the correct way to apply Idghaam in the phrase أَثۡقَلَتۡ دَّعَوَا?",
+      "answers": [
+        {
+          "answer": "Merge أَثۡقَلَتۡ and دَّعَوَا with a nasal sound",
+          "right": 1
+        },
+        {
+          "answer": "Separate أَثۡقَلَتۡ and دَّعَوَا completely",
+          "right": 0
+        },
+        {
+          "answer": "Skip the recitation of دَّعَوَا",
+          "right": 0
+        },
+        {
+          "answer": "Prolong أَثۡقَلَتۡ for 6 beats",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "How is Idghaam applied when identical letters are joined in recitation?",
+      "answers": [
+        {
+          "answer": "The letters are merged smoothly with ghunnah if applicable",
+          "right": 1
+        },
+        {
+          "answer": "The letters are pronounced distinctly",
+          "right": 0
+        },
+        {
+          "answer": "The first letter is skipped",
+          "right": 0
+        },
+        {
+          "answer": "The recitation is elongated for 6 counts",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is an example of Idhaar in recitation?",
+      "answers": [
+        {
+          "answer": "فَسَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+          "right": 1
+        },
+        {
+          "answer": "قَد تَّبَيَّنَ",
+          "right": 0
+        },
+        {
+          "answer": "وَلَكُمۡ مَّاكَسَبۡتُمۡ",
+          "right": 0
+        },
+        {
+          "answer": "أَثۡقَلَتۡ دَّعَوَا",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+[
+    {
+      "juz": 1,
+      "surahStart": 1,
+      "verseStart": 1,
+      "surahEnd": 2,
+      "verseEnd": 141,
+      "numOfAyahs": 148
+    },
+    {
+      "juz": 2,
+      "surahStart": 2,
+      "verseStart": 142,
+      "surahEnd": 2,
+      "verseEnd": 252,
+      "numOfAyahs": 111
+    },
+    {
+      "juz": 3,
+      "surahStart": 2,
+      "verseStart": 253,
+      "surahEnd": 3,
+      "verseEnd": 92,
+      "numOfAyahs": 102
+    },
+    {
+      "juz": 4,
+      "surahStart": 3,
+      "verseStart": 93,
+      "surahEnd": 4,
+      "verseEnd": 23,
+      "numOfAyahs": 131
+    },
+    {
+      "juz": 5,
+      "surahStart": 4,
+      "verseStart": 24,
+      "surahEnd": 4,
+      "verseEnd": 147,
+      "numOfAyahs": 124
+    },
+    {
+      "juz": 6,
+      "surahStart": 4,
+      "verseStart": 148,
+      "surahEnd": 5,
+      "verseEnd": 81,
+      "numOfAyahs": 110
+    },
+    {
+      "juz": 7,
+      "surahStart": 5,
+      "verseStart": 82,
+      "surahEnd": 6,
+      "verseEnd": 110,
+      "numOfAyahs": 124
+    },
+    {
+      "juz": 8,
+      "surahStart": 6,
+      "verseStart": 111,
+      "surahEnd": 7,
+      "verseEnd": 87,
+      "numOfAyahs": 142
+    },
+    {
+      "juz": 9,
+      "surahStart": 7,
+      "verseStart": 88,
+      "surahEnd": 8,
+      "verseEnd": 40,
+      "numOfAyahs": 125
+    },
+    {
+      "juz": 10,
+      "surahStart": 8,
+      "verseStart": 41,
+      "surahEnd": 9,
+      "verseEnd": 92,
+      "numOfAyahs": 109
+    },
+    {
+      "juz": 11,
+      "surahStart": 9,
+      "verseStart": 93,
+      "surahEnd": 11,
+      "verseEnd": 5,
+      "numOfAyahs": 118
+    },
+    {
+      "juz": 12,
+      "surahStart": 11,
+      "verseStart": 6,
+      "surahEnd": 12,
+      "verseEnd": 52,
+      "numOfAyahs": 121
+    },
+    {
+      "juz": 13,
+      "surahStart": 12,
+      "verseStart": 53,
+      "surahEnd": 14,
+      "verseEnd": 52,
+      "numOfAyahs": 150
+    },
+    {
+      "juz": 14,
+      "surahStart": 15,
+      "verseStart": 1,
+      "surahEnd": 16,
+      "verseEnd": 128,
+      "numOfAyahs": 176
+    },
+    {
+      "juz": 15,
+      "surahStart": 17,
+      "verseStart": 1,
+      "surahEnd": 18,
+      "verseEnd": 74,
+      "numOfAyahs": 111
+    },
+    {
+      "juz": 16,
+      "surahStart": 18,
+      "verseStart": 75,
+      "surahEnd": 20,
+      "verseEnd": 135,
+      "numOfAyahs": 137
+    },
+    {
+      "juz": 17,
+      "surahStart": 21,
+      "verseStart": 1,
+      "surahEnd": 22,
+      "verseEnd": 78,
+      "numOfAyahs": 111
+    },
+    {
+      "juz": 18,
+      "surahStart": 23,
+      "verseStart": 1,
+      "surahEnd": 25,
+      "verseEnd": 20,
+      "numOfAyahs": 118
+    },
+    {
+      "juz": 19,
+      "surahStart": 25,
+      "verseStart": 21,
+      "surahEnd": 27,
+      "verseEnd": 55,
+      "numOfAyahs": 145
+    },
+    {
+      "juz": 20,
+      "surahStart": 27,
+      "verseStart": 56,
+      "surahEnd": 29,
+      "verseEnd": 45,
+      "numOfAyahs": 171
+    },
+    {
+      "juz": 21,
+      "surahStart": 29,
+      "verseStart": 46,
+      "surahEnd": 33,
+      "verseEnd": 30,
+      "numOfAyahs": 129
+    },
+    {
+      "juz": 22,
+      "surahStart": 33,
+      "verseStart": 31,
+      "surahEnd": 36,
+      "verseEnd": 27,
+      "numOfAyahs": 135
+    },
+    {
+      "juz": 23,
+      "surahStart": 36,
+      "verseStart": 28,
+      "surahEnd": 39,
+      "verseEnd": 31,
+      "numOfAyahs": 143
+    },
+    {
+      "juz": 24,
+      "surahStart": 39,
+      "verseStart": 32,
+      "surahEnd": 41,
+      "verseEnd": 46,
+      "numOfAyahs": 140
+    },
+    {
+      "juz": 25,
+      "surahStart": 41,
+      "verseStart": 47,
+      "surahEnd": 45,
+      "verseEnd": 37,
+      "numOfAyahs": 145
+    },
+    {
+      "juz": 26,
+      "surahStart": 46,
+      "verseStart": 1,
+      "surahEnd": 51,
+      "verseEnd": 30,
+      "numOfAyahs": 169
+    },
+    {
+      "juz": 27,
+      "surahStart": 51,
+      "verseStart": 31,
+      "surahEnd": 57,
+      "verseEnd": 29,
+      "numOfAyahs": 165
+    },
+    {
+      "juz": 28,
+      "surahStart": 58,
+      "verseStart": 1,
+      "surahEnd": 66,
+      "verseEnd": 12,
+      "numOfAyahs": 137
+    },
+    {
+      "juz": 29,
+      "surahStart": 67,
+      "verseStart": 1,
+      "surahEnd": 77,
+      "verseEnd": 50,
+      "numOfAyahs": 431
+    },
+    {
+      "juz": 30,
+      "surahStart": 78,
+      "verseStart": 1,
+      "surahEnd": 114,
+      "verseEnd": 6,
+      "numOfAyahs": 564
+    }
+  ]

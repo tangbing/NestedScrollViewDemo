@@ -1,0 +1,96 @@
+{
+  "id": 0,
+  "title": "Tabiiy Madd",
+  "desc1_desc": "Madd (مَدّ) so'zini 'uzaytirish' yoki 'cho'zish' deb tushuniladi. Bu, agar bir madd harfi, o'ziga mos unli tovushga ega bo'lgan harfdan keyin kelsa, tovushning cho'zilishiga sabab bo'ladi. O'quvchi, madd harfi oldidagi harfni 2 urishga cho'zishi kerak, bunda bir urish cho'zilmasdan bitta harfni talaffuz qilish uchun ketadigan vaqtga teng.",
+  "desc2_title": "Tabiiy Madd Misollari",
+  "desc2_desc": "",
+  "Lesson number": 1,
+  "Quiz number": 5,
+  "Lessons": [
+    {
+      "id": 0,
+      "name": "Asli Madd (Tabiiy Uzaytirish)",
+      "pengertian": "Tabiiy uzaytirish uch turga bo'linadi:",
+      "categories": [
+        "Harfi ا agar Fatha bilan biriksa.",
+        "Harfi ي agar Kasra bilan biriksa.",
+        "Harfi و agar Dhamma bilan biriksa."
+      ],
+      "examples": [
+        {
+          "withoutMadd": "مَ",
+          "withMadd": "مَا = مَ + ا",
+          "maddLetter": "ا",
+          "image": "1.02.jpg",
+          "audio": "1.02.mp3"
+        },
+        {
+          "withoutMadd": "مِ",
+          "withMadd": "مِي = مِ + ي",
+          "maddLetter": "ي",
+          "image": "1.04.jpg",
+          "audio": "1.04.mp3"
+        },
+        {
+          "withoutMadd": "مُ",
+          "withMadd": "مُو = مُ + و",
+          "maddLetter": "و",
+          "image": "1.06.jpg",
+          "audio": "1.06.mp3"
+        }
+      ]
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "Agar bir harf Fatha harakat bilan ا uchrasa, o'quvchi harfni ... qilishi kerak.",
+      "answers": [
+        { "answer": "aks-sado (قَلۡقَلَةۡ)", "right": 0 },
+        { "answer": "uzaytirish", "right": 1 },
+        { "answer": "qisqartirish", "right": 0 },
+        { "answer": "o'tkazib yuborish", "right": 0 }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Tabiiy Maddni to'g'ri ko'rsatgan so'z qaysi?",
+      "answers": [
+        { "answer": "مَا", "right": 1 },
+        { "answer": "مُوَّ", "right": 0 },
+        { "answer": "مَاا", "right": 0 },
+        { "answer": "مِوِ", "right": 0 }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Ushbu qoidalarning barchasi uzaytirilishi kerak, bundan tashqari...",
+      "answers": [
+        { "answer": "Harfi ا Fatha bilan bo'lsa", "right": 0 },
+        { "answer": "Harfi ي Kasra bilan bo'lsa", "right": 0 },
+        { "answer": "Harfi و Dhamma bilan bo'lsa", "right": 0 },
+        { "answer": "Harfi ي Dhamma bilan bo'lsa", "right": 1 }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qaysi so'z cho'zilishi kerak bo'lgan harfni o'z ichiga oladi?",
+      "answers": [
+        { "answer": "وَأَوۡفُوۡا", "right": 1 },
+        { "answer": "نَوۡمَكُمۡ", "right": 0 },
+        { "answer": "يُوَسۡوِسُ", "right": 0 },
+        { "answer": "يَوۡمِ", "right": 0 }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Tabiiy Madd to'g'ri qo'llanilgan qaysi so'zda?",
+      "answers": [
+        { "answer": "مُو", "right": 1 },
+        { "answer": "مُووْ", "right": 0 },
+        { "answer": "مَ", "right": 0 },
+        { "answer": "مِووِ", "right": 0 }
+      ]
+    }
+  ]
+}

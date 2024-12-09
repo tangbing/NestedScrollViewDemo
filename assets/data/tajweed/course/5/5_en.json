@@ -1,0 +1,369 @@
+{
+  "id": 4,
+  "title": "Rules for Noon Saakin and Tanween",
+  "desc1_desc": "When reciting Noon Saakin (ن) or Tanween, specific rules apply based on the letter that follows. These rules ensure proper Tajweed in Quranic recitation.",
+  "sections": [
+    {
+      "id": 0,
+      "title": "Izhar (إظهار) - Clear Pronunciation",
+      "definition": "Izhar means to pronounce the ن or Tanween clearly without merging or nasalization.",
+      "conditions": "Apply Izhar when ن or Tanween is followed by one of these letters: ء (Hamzah), ه (Ha), ع ('Ayn), ح (Ha), غ (Ghayn), خ (Kha).",
+      "examples": [
+        {
+          "text": "كُلٌّ ءَامَنَ",
+          "gambar": "5.01.png",
+          "suara": "5.01.mp3"
+        },
+        {
+          "text": "أَنْعَمْتَ",
+          "gambar": "5.02.png",
+          "suara": "5.02.mp3"
+        },
+        {
+          "text": "قَوْلًا غَيْرَ",
+          "gambar": "5.03.png",
+          "suara": "5.03.mp3"
+        },
+        {
+          "text": "عَلِيمٌ حَكِيمٌ",
+          "gambar": "5.04.png",
+          "suara": "5.04.mp3"
+        },
+        {
+          "text": "عَلِيمٌ خَبِيرٌ",
+          "gambar": "5.05.png",
+          "suara": "5.05.mp3"
+        },
+        {
+          "text": "مِنْهُ",
+          "gambar": "5.06.png",
+          "suara": "5.06.mp3"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Idgham (إدغام) - Merging",
+      "definition": "Idgham involves merging the ن or Tanween with the following letter. It has two subcategories:",
+      "subtypes": [
+        {
+          "id": "1a",
+          "name": "With Ghunnah (Nasality)",
+          "definition": "Pronounce the sound with a nasal tone lasting 2-3 beats.",
+          "letters": "ي (Ya), ن (Nun), م (Meem), و (Waw)",
+          "examples": [
+            {
+              "text": "مَن يَقُولُ",
+              "gambar": "5.07.png",
+              "suara": "5.07.mp3"
+            },
+            {
+              "text": "وَآتَوْهُم مِّن مَّا",
+              "gambar": "5.08.png",
+              "suara": "5.08.mp3"
+            },
+            {
+              "text": "وَلِكُلٍّ وِجْهَةٌ",
+              "gambar": "5.09.png",
+              "suara": "5.09.mp3"
+            },
+            {
+              "text": "يَوْمَئِذٍ نَاعِمَةٌ",
+              "gambar": "5.10.png",
+              "suara": "5.10.mp3"
+            }
+          ]
+        },
+        {
+          "id": "1b",
+          "name": "Without Ghunnah (No Nasality)",
+          "definition": "Merge the ن or Tanween sound without nasalization.",
+          "letters": "ر (Ra), ل (Lam)",
+          "examples": [
+            {
+              "text": "مِنْ رَبِّهِمْ",
+              "gambar": "5.11.png",
+              "suara": "5.11.mp3"
+            },
+            {
+              "text": "وَيْلٌ لِّكُلِّ",
+              "gambar": "5.12.png",
+              "suara": "5.12.mp3"
+            }
+          ]
+        },
+        {
+          "id": "1c",
+          "name": "Idgham Mutlaq (Complete Merging)",
+          "definition": "Occurs only in four specific words where ن merges fully with ل (Lam).",
+          "words": ["الدُّنْيَا", "بُنْيَانٌ", "قِنْوَانٌ", "صِنْوَانٌ"],
+          "example": {
+            "text": "الدُّنْيَا",
+            "gambar": "5.13.png",
+            "suara": "5.13.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ikhfa (إخفاء) - Concealment",
+      "definition": "Conceal the ن or Tanween sound and pronounce it softly with nasalization lasting 2-3 beats.",
+      "letters": "ت (Ta), ث (Tha), ج (Jim), د (Dal), ذ (Dhal), ز (Zay), س (Seen), ش (Sheen), ص (Sad), ض (Dad), ط (Ta), ظ (Dha), ف (Fa), ق (Qaf), ك (Kaf)",
+      "examples": [
+        {
+          "text": "جَنَّاتٍ تَجْرِي",
+          "gambar": "5.14.png",
+          "suara": "5.14.mp3"
+        },
+        {
+          "text": "مِنْ ثَمَرٍ",
+          "gambar": "5.15.png",
+          "suara": "5.15.mp3"
+        },
+        {
+          "text": "خَلْقٍ جَدِيدٍ",
+          "gambar": "5.16.png",
+          "suara": "5.16.mp3"
+        },
+        {
+          "text": "أَندَادًا",
+          "gambar": "5.17.png",
+          "suara": "5.17.mp3"
+        }
+      ]
+    },
+   { 
+      "id": 3,
+      "title": "Iqlab (إقلاب) - Conversion",
+      "definition": "Convert the ن or Tanween sound to م when it is followed by ب (Ba). The conversion includes nasalization for 2-3 beats.",
+      "example": {
+        "text": "سَمِيعٌ بَصِيرٌ",
+        "gambar": "5.29.png",
+        "suara": "5.29.mp3"
+    }}
+  
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "Which phrase correctly applies the Izhar rule?",
+      "answers": [
+        {
+          "answer": "كُلٌّ ءَامَنَ",
+          "right": 1
+        },
+        {
+          "answer": "مَن يَقُولُ",
+          "right": 0
+        },
+        {
+          "answer": "جَنَّاتٍ تَجْرِي",
+          "right": 0
+        },
+        {
+          "answer": "سَمِيعٌ بَصِيرٌ",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Which letters trigger the Idgham with Ghunnah rule?",
+      "answers": [
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ي, ن, م, و",
+          "right": 1
+        },
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right": 0
+        },
+        {
+          "answer": "ت, ث, ج, د",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "When ن or Tanween is followed by ب, which Tajweed rule applies?",
+      "answers": [
+        {
+          "answer": "Ikhfa",
+          "right": 0
+        },
+        {
+          "answer": "Iqlab",
+          "right": 1
+        },
+        {
+          "answer": "Idgham with Ghunnah",
+          "right": 0
+        },
+        {
+          "answer": "Izhar",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "In the phrase 'سَمِيعٌ بَصِيرٌ', how is the Tanween pronounced?",
+      "answers": [
+        {
+          "answer": "Clearly without any conversion",
+          "right": 0
+        },
+        {
+          "answer": "Converted to م with nasalization",
+          "right": 1
+        },
+        {
+          "answer": "Merged with ب without nasalization",
+          "right": 0
+        },
+        {
+          "answer": "Softly hidden with nasalization",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which letters require the application of the Ikhfa rule?",
+      "answers": [
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right": 0
+        },
+        {
+          "answer": "ت, ث, ج, د, ذ, ز, س, ش, ص, ض, ط, ظ, ف, ق, ك",
+          "right": 1
+        },
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ب",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What is the difference between Izhar and Ikhfa?",
+      "answers": [
+        {
+          "answer": "Izhar involves clear pronunciation, while Ikhfa hides the sound with nasalization.",
+          "right": 1
+        },
+        {
+          "answer": "Izhar merges letters, while Ikhfa separates them.",
+          "right": 0
+        },
+        {
+          "answer": "Izhar uses nasalization, while Ikhfa does not.",
+          "right": 0
+        },
+        {
+          "answer": "Izhar applies only to Tanween, while Ikhfa applies only to Noon Saakin.",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which of the following phrases demonstrates Idgham without Ghunnah?",
+      "answers": [
+        {
+          "answer": "مِن رَبِّهِمْ",
+          "right": 1
+        },
+        {
+          "answer": "مَن يَقُولُ",
+          "right": 0
+        },
+        {
+          "answer": "كُلٌّ ءَامَنَ",
+          "right": 0
+        },
+        {
+          "answer": "سَمِيعٌ بَصِيرٌ",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "In the phrase 'جَنَّاتٍ تَجْرِي', how is Tanween pronounced?",
+      "answers": [
+        {
+          "answer": "Clearly and distinctly without nasalization",
+          "right": 0
+        },
+        {
+          "answer": "Hidden with a soft nasal sound",
+          "right": 1
+        },
+        {
+          "answer": "Merged with the following letter",
+          "right": 0
+        },
+        {
+          "answer": "Converted to م sound",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is the Tajweed rule in the following phrase: 'مَن يَقُولُ'?",
+      "answers": [
+        {
+          "answer": "Izhar",
+          "right": 0
+        },
+        {
+          "answer": "Idgham with Ghunnah",
+          "right": 1
+        },
+        {
+          "answer": "Ikhfa",
+          "right": 0
+        },
+        {
+          "answer": "Iqlab",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which letters require Izhar when they follow Noon Saakin or Tanween?",
+      "answers": [
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right": 1
+        },
+        {
+          "answer": "ت, ث, ج, د, ذ, ز, س, ش, ص, ض, ط, ظ, ف, ق, ك",
+          "right": 0
+        },
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ب",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

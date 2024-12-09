@@ -1,0 +1,134 @@
+{
+    "id": 1,
+    "title": "Madd Memanjang",
+    "desc1_desc": "Madd memanjang terjadi ketika sebuah huruf memiliki tanda madd (~) dan diikuti oleh kondisi tertentu, yang mengharuskan perpanjangan suara. Hal ini bisa termasuk pertemuan dengan Hamzah (ء), Sukoon, atau Shaddah, dan suara diperpanjang selama jumlah ketukan tertentu.",
+    "desc2_title": "Contoh Madd Memanjang",
+    "desc2_desc": "Durasi perpanjangan tergantung pada jenis Madd yang ditemui. Berikut adalah skenario di mana Madd memanjang diterapkan:",
+    "Lessons": [
+        {
+            "id": 0,
+            "name": "Pertemuan Tanda Memanjang dengan Hamzah (ء) di Kata Berikutnya",
+            "pengertian": "Ketika huruf Madd diikuti oleh Hamzah (ء) di kata berikutnya, suara harus diperpanjang selama 2, 4, atau 5 ketukan.",
+            "caraMembaca": "Pembaca memperpanjang suara berdasarkan konteks, memastikan ritme yang benar selama pembacaan.",
+            "example": "يَا أَيُّهَا",
+            "gambar": "2.01.jpg",
+            "suara": [
+                {"beats": 2, "file": "2.01-1.mp3"},
+                {"beats": 4, "file": "2.01-2.mp3"},
+                {"beats": 5, "file": "2.01-3.mp3"}
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Pertemuan Tanda Memanjang dengan Hamzah (ء) di Kata yang Sama",
+            "pengertian": "Jika huruf Madd diikuti oleh Hamzah (ء) di kata yang sama, suara diperpanjang selama 4 atau 5 ketukan.",
+            "caraMembaca": "Pembaca memastikan perpanjangan yang jelas sambil menghormati aturan Tajwid.",
+            "example": "وَٱلسَّمَآءِ",
+            "gambar": "2.04.jpg",
+            "suara": "2.04.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Pertemuan Tanda Memanjang dengan Sukoon",
+            "pengertian": "Jika huruf Madd bertemu dengan Sukoon, suara harus diperpanjang selama 6 ketukan.",
+            "caraMembaca": "Pembaca mengamati Sukoon dengan hati-hati untuk memastikan perpanjangan yang tepat.",
+            "example": "ءَالْـَٰٔنَ",
+            "gambar": "2.05.jpg",
+            "suara": "2.05.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Pertemuan Tanda Memanjang dengan Shaddah",
+            "pengertian": "Ketika huruf Madd bertemu dengan Shaddah, suara diperpanjang selama 6 ketukan.",
+            "caraMembaca": "Pembaca menekankan Shaddah sambil mempertahankan ritme yang stabil.",
+            "example": "ٱلۡحَاقَّةُ",
+            "gambar": "2.06.jpg",
+            "suara": "2.06.mp3"
+        }
+    ],
+    "tips": {
+        "title": "Menguasai Madd Memanjang",
+        "advice": "Untuk menghindari kesalahan atau gangguan selama perpanjangan, Anda dapat mengikuti panduan Nabi (saw) sebagaimana diriwayatkan oleh Al Baroo': 'Hiasilah Al-Quran dengan suara Anda.'"
+    },
+    "muqattaat": {
+        "title": "Huruf Muqatta'at (مُقَطَّعَات)",
+        "pengertian": "Beberapa bab dalam Al-Quran dimulai dengan huruf-huruf terputus yang dikenal sebagai Huroof al MuqaTTa'at. Huruf-huruf ini harus diperpanjang dengan Madd memanjang selama 6 ketukan.",
+        "example": "الٓمٓ",
+        "gambar": "2.07.jpg",
+        "suara": "2.07.mp3"
+    },
+    "Quizs": [
+        {
+            "id": 0,
+            "question": "Manakah dari simbol berikut yang menunjukkan bahwa sebuah huruf harus diperpanjang sangat lama?",
+            "answers": [
+                {"answer": "ا", "right": 0},
+                {"answer": "ي", "right": 0},
+                {"answer": "و", "right": 0},
+                {"answer": "ٓ", "right": 1}
+            ]
+        },
+        {
+            "id": 1,
+            "question": "Frasa mana yang dengan benar menggambarkan Madd memanjang?",
+            "answers": [
+                {"answer": "يَا أَيُّهَا", "right": 1},
+                {"answer": "قَالَ", "right": 0},
+                {"answer": "كَانَ", "right": 0},
+                {"answer": "يَغْشَىٰ", "right": 0}
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Dalam contoh ini, huruf 'ي' pertama dapat dibaca selama ketukan berikut, kecuali...",
+            "answers": [
+                {"answer": "4", "right": 0},
+                {"answer": "5", "right": 0},
+                {"answer": "6", "right": 1},
+                {"answer": "2", "right": 0}
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Frasa mana yang menunjukkan bacaan 'عسق' yang benar?",
+            "answers": [
+                {"answer": "عۡسۡقَ", "right": 0},
+                {"answer": "عَسَقَ", "right": 0},
+                {"answer": "عۡسۡقُ", "right": 1},
+                {"answer": "عُسِقَ", "right": 0}
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Pilih opsi yang menunjukkan Madd dengan perpanjangan terpanjang.",
+            "answers": [
+                {"answer": "عَسَىٰ", "right": 0},
+                {"answer": "جَآءَ", "right": 1},
+                {"answer": "كَانٌَ", "right": 0},
+                {"answer": "وَٱلنَّهَارِ", "right": 0}
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Pilih semua kata yang mengandung huruf yang harus diperpanjang sangat lama.",
+            "answers": [
+                {"answer": "جَآءَتِ", "right": 1},
+                {"answer": "أَعۡطَىٰ", "right": 0},
+                {"answer": "وَالسَّمَآءِ", "right": 1},
+                {"answer": "صَلَاتُهُمۡ", "right": 0},
+                {"answer": "عِيسَىٰ", "right": 0},
+                {"answer": "ءَآلۡأَٰنَ", "right": 1}
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Berapa lama perpanjangan dalam contoh Madd memanjang? (dalam ketukan)",
+            "answers": [
+                {"answer": "2", "right": 0},
+                {"answer": "4", "right": 0},
+                {"answer": "6", "right": 1},
+                {"answer": "8", "right": 0}
+            ]
+        }
+    ]
+}

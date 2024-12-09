@@ -1,0 +1,96 @@
+{
+  "id": 0,
+  "title": "Doğal Med",
+  "desc1_desc": "Med (مَدّ), bir sesi 'uzatmak' veya 'uzatılmış hale getirmek' anlamına gelir. Bu, bir med harfi, kendisinden önceki harfin uygun sesli harfini takip ettiğinde meydana gelir ve sesin uzamasına neden olur. Okuyucu, med harfinden önceki harfi 2 vuruş kadar uzatmalıdır. Bir vuruş, uzatılmadan tek bir harfi telaffuz etmek için gereken süreye eşittir.",
+  "desc2_title": "Doğal Med Örnekleri",
+  "desc2_desc": "",
+  "Lesson number": 1,
+  "Quiz number": 5,
+  "Lessons": [
+    {
+      "id": 0,
+      "name": "Asli Med (Doğal Uzatma)",
+      "pengertian": "Doğal uzatma üç tipe ayrılır:",
+      "categories": [
+        "Harf ا, Fetha ile birleştiğinde.",
+        "Harf ي, Kesra ile birleştiğinde.",
+        "Harf و, Damma ile birleştiğinde."
+      ],
+      "examples": [
+        {
+          "withoutMadd": "مَ",
+          "withMadd": "مَا = مَ + ا",
+          "maddLetter": "ا",
+          "image": "1.02.jpg",
+          "audio": "1.02.mp3"
+        },
+        {
+          "withoutMadd": "مِ",
+          "withMadd": "مِي = مِ + ي",
+          "maddLetter": "ي",
+          "image": "1.04.jpg",
+          "audio": "1.04.mp3"
+        },
+        {
+          "withoutMadd": "مُ",
+          "withMadd": "مُو = مُ + و",
+          "maddLetter": "و",
+          "image": "1.06.jpg",
+          "audio": "1.06.mp3"
+        }
+      ]
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "Eğer Fat-Hah harekatlı bir harf ا ile buluşursa, okuyucu harfi ... yapmalıdır.",
+      "answers": [
+        { "answer": "yankı (قَلۡقَلَةۡ)", "right": 0 },
+        { "answer": "uzatmak", "right": 1 },
+        { "answer": "kısaltmak", "right": 0 },
+        { "answer": "geçmek", "right": 0 }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Hangi kelime Doğal Med'i doğru şekilde gösterir?",
+      "answers": [
+        { "answer": "مَا", "right": 1 },
+        { "answer": "مُوَّ", "right": 0 },
+        { "answer": "مَاا", "right": 0 },
+        { "answer": "مِوِ", "right": 0 }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Tüm bu kurallar uzatılmalıdır, hariç...",
+      "answers": [
+        { "answer": "Harf ا Fetha ile birleştiğinde", "right": 0 },
+        { "answer": "Harf ي Kesra ile birleştiğinde", "right": 0 },
+        { "answer": "Harf و Damma ile birleştiğinde", "right": 0 },
+        { "answer": "Harf ي Damma ile birleştiğinde", "right": 1 }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Aşağıdakilerden hangisinde uzatılması gereken bir harf var?",
+      "answers": [
+        { "answer": "وَأَوۡفُوۡا", "right": 1 },
+        { "answer": "نَوۡمَكُمۡ", "right": 0 },
+        { "answer": "يُوَسۡوِسُ", "right": 0 },
+        { "answer": "يَوۡمِ", "right": 0 }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Doğal Med'in doğru uygulandığı kelime hangisidir?",
+      "answers": [
+        { "answer": "مُو", "right": 1 },
+        { "answer": "مُووْ", "right": 0 },
+        { "answer": "مَ", "right": 0 },
+        { "answer": "مِووِ", "right": 0 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "id": 4,
+  "title": "Noon Saakin və Tanvin üçün Qaydalar",
+  "desc1_desc": "Noon Saakin (ن) və ya Tanvin oxuyarkən, sonrakı hərfə əsaslanan xüsusi qaydalar tətbiq olunur. Bu qaydalar Quranın düzgün təcvidlə oxunmasını təmin edir.",
+  "sections": [
+    {
+      "id": 0,
+      "title": "İzhar (إظهار) - Aydın Tələffüz",
+      "definition": "İzhar, ن və ya Tanvinin birləşmə və ya burun tonu olmadan aydın şəkildə tələffüz edilməsi deməkdir.",
+      "conditions": "İzhar tətbiq edilir, əgər ن və ya Tanvin bu hərflərdən birindən sonra gəlirsə: ء (Həmzə), ه (Ha), ع ('Ayn), ح (Ha), غ (Ğayn), خ (Xa).",
+      "examples": [
+        {
+          "text": "كُلٌّ ءَامَنَ",
+          "gambar": "/quran/tajweed/pictures/5.01.jpg",
+          "suara": "/quran/tajweed/audio/5.01.mp3"
+        },
+        {
+          "text": "أَنْعَمْتَ",
+          "gambar": "/quran/tajweed/pictures/5.02.jpg",
+          "suara": "/quran/tajweed/audio/5.02.mp3"
+        },
+        {
+          "text": "قَوْلًا غَيْرَ",
+          "gambar": "/quran/tajweed/pictures/5.03.jpg",
+          "suara": "/quran/tajweed/audio/5.03.mp3"
+        },
+        {
+          "text": "عَلِيمٌ حَكِيمٌ",
+          "gambar": "/quran/tajweed/pictures/5.04.jpg",
+          "suara": "/quran/tajweed/audio/5.04.mp3"
+        },
+        {
+          "text": "عَلِيمٌ خَبِيرٌ",
+          "gambar": "/quran/tajweed/pictures/5.05.jpg",
+          "suara": "/quran/tajweed/audio/5.05.mp3"
+        },
+        {
+          "text": "مِنْهُ",
+          "gambar": "/quran/tajweed/pictures/5.06.jpg",
+          "suara": "/quran/tajweed/audio/5.06.mp3"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "İdğam (إدغام) - Birləşmə",
+      "definition": "İdğam ن və ya Tanvinin sonrakı hərflə birləşdirilməsini nəzərdə tutur. İki alt kateqoriyası var:",
+      "subtypes": [
+        {
+          "id": "1a",
+          "name": "Burun Tonu ilə (Qünnə ilə)",
+          "definition": "Səsi 2-3 sayma davam edən burun tonu ilə tələffüz edin.",
+          "letters": "ي (Ya), ن (Nun), م (Mim), و (Vav)",
+          "examples": [
+            {
+              "text": "مَن يَقُولُ",
+              "gambar": "/quran/tajweed/pictures/5.07.jpg",
+              "suara": "/quran/tajweed/audio/5.07.mp3"
+            },
+            {
+              "text": "وَآتَوْهُم مِّن مَّا",
+              "gambar": "/quran/tajweed/pictures/5.08.jpg",
+              "suara": "/quran/tajweed/audio/5.08.mp3"
+            },
+            {
+              "text": "وَلِكُلٍّ وِجْهَةٌ",
+              "gambar": "/quran/tajweed/pictures/5.09.jpg",
+              "suara": "/quran/tajweed/audio/5.09.mp3"
+            },
+            {
+              "text": "يَوْمَئِذٍ نَاعِمَةٌ",
+              "gambar": "/quran/tajweed/pictures/5.10.jpg",
+              "suara": "/quran/tajweed/audio/5.10.mp3"
+            }
+          ]
+        },
+        {
+          "id": "1b",
+          "name": "Burun Tonu olmadan (Qünnəsiz)",
+          "definition": "Səsi burun tonu olmadan birləşdirin.",
+          "letters": "ر (Ra), ل (Lam)",
+          "examples": [
+            {
+              "text": "مِنْ رَبِّهِمْ",
+              "gambar": "/quran/tajweed/pictures/5.11.jpg",
+              "suara": "/quran/tajweed/audio/5.11.mp3"
+            },
+            {
+              "text": "وَيْلٌ لِّكُلِّ",
+              "gambar": "/quran/tajweed/pictures/5.12.jpg",
+              "suara": "/quran/tajweed/audio/5.12.mp3"
+            }
+          ]
+        },
+        {
+          "id": "1c",
+          "name": "Tam Birləşmə (İdğam Mutlaq)",
+          "definition": "Yalnız dörd xüsusi sözdə ن tamamilə ل (Lam) ilə birləşir.",
+          "words": ["الدُّنْيَا", "بُنْيَانٌ", "قِنْوَانٌ", "صِنْوَانٌ"],
+          "example": {
+            "text": "الدُّنْيَا",
+            "gambar": "/quran/tajweed/pictures/5.13.jpg",
+            "suara": "/quran/tajweed/audio/5.13.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "İxfa (إخفاء) - Gizlətmə",
+      "definition": "ن və ya Tanvin səsini 2-3 sayma davam edən burun tonu ilə yumşaq bir şəkildə tələffüz edin.",
+      "letters": "ت (Tə), ث (Sə), ج (Cim), د (Dal), ذ (Zəl), ز (Zə), س (Sin), ش (Şin), ص (Sad), ض (Dad), ط (Tə), ظ (Zə), ف (Fə), ق (Qaf), ك (Kəf)",
+      "examples": [
+        {
+          "text": "جَنَّاتٍ تَجْرِي",
+          "gambar": "/quran/tajweed/pictures/5.14.jpg",
+          "suara": "/quran/tajweed/audio/5.14.mp3"
+        },
+        {
+          "text": "مِنْ ثَمَرٍ",
+          "gambar": "/quran/tajweed/pictures/5.15.jpg",
+          "suara": "/quran/tajweed/audio/5.15.mp3"
+        },
+        {
+          "text": "خَلْقٍ جَدِيدٍ",
+          "gambar": "/quran/tajweed/pictures/5.16.jpg",
+          "suara": "/quran/tajweed/audio/5.16.mp3"
+        },
+        {
+          "text": "أَندَادًا",
+          "gambar": "/quran/tajweed/pictures/5.17.jpg",
+          "suara": "/quran/tajweed/audio/5.17.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "İqlab (إقلاب) - Çevrilmə",
+      "definition": "ن və ya Tanvin səsi م (Mim) olaraq çevrilir, əgər sonra ب (Bə) gəlirsə. Çevrilmə 2-3 sayma davam edən burun tonu ilə olur.",
+      "example": {
+        "text": "سَمِيعٌ بَصِيرٌ",
+        "gambar": "/quran/tajweed/pictures/5.29.jpg",
+        "suara": "/quran/tajweed/audio/5.29.mp3"
+      }
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "İzhar qaydası düzgün tətbiq olunan ifadə hansıdır?",
+      "answers": [
+        {
+          "answer": "كُلٌّ ءَامَنَ",
+          "right": 1
+        },
+        {
+          "answer": "مَن يَقُولُ",
+          "right": 0
+        },
+        {
+          "answer": "جَنَّاتٍ تَجْرِي",
+          "right": 0
+        },
+        {
+          "answer": "سَمِيعٌ بَصِيرٌ",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Hansı hərflər Qünnə ilə İdğam qaydasını tələb edir?",
+      "answers": [
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ي, ن, م, و",
+          "right": 1
+        },
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right": 0
+        },
+        {
+          "answer": "ت, ث, ج, د",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Əgər ن və ya Tanvin ب-dən sonra gəlirsə, hansı Təcvid qaydası tətbiq olunur?",
+      "answers": [
+        {
+          "answer": "İxfa",
+          "right": 0
+        },
+        {
+          "answer": "İqlab",
+          "right": 1
+        },
+        {
+          "answer": "Qünnə ilə İdğam",
+          "right": 0
+        },
+        {
+          "answer": "İzhar",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "'سَمِيعٌ بَصِيرٌ' ifadəsində Tanvin necə tələffüz olunur?",
+      "answers": [
+        {
+          "answer": "Heç bir çevrilmə olmadan aydın şəkildə",
+          "right": 0
+        },
+        {
+          "answer": "M olaraq çevrilir və burun tonu ilə tələffüz olunur",
+          "right": 1
+        },
+        {
+          "answer": "B ilə birləşdirilir, amma burun tonu olmadan",
+          "right": 0
+        },
+        {
+          "answer": "Burun tonu ilə yumşaq şəkildə gizlədilir",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Hansı hərflər İxfa qaydasını tələb edir?",
+      "answers": [
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right": 0
+        },
+        {
+          "answer": "ت, ث, ج, د, ذ, ز, س, ش, ص, ض, ط, ظ, ف, ق, ك",
+          "right": 1
+        },
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ب",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "İzhar və İxfa arasındakı fərq nədir?",
+      "answers": [
+        {
+          "answer": "İzhar aydın tələffüzü əhatə edir, İxfa isə səsi burun tonu ilə gizlədir.",
+          "right": 1
+        },
+        {
+          "answer": "İzhar hərfləri birləşdirir, İxfa isə ayırır.",
+          "right": 0
+        },
+        {
+          "answer": "İzhar burun tonu tələb edir, İxfa isə tələb etmir.",
+          "right": 0
+        },
+        {
+          "answer": "İzhar yalnız Tanvin üçün tətbiq olunur, İxfa isə yalnız Noon Saakin üçün.",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Aşağıdakı ifadələrdən hansı Qünnəsiz İdğam qaydasını göstərir?",
+      "answers": [
+        {
+          "answer": "مِن رَبِّهِمْ",
+          "right": 1
+        },
+        {
+          "answer": "مَن يَقُولُ",
+          "right": 0
+        },
+        {
+          "answer": "كُلٌّ ءَامَنَ",
+          "right": 0
+        },
+        {
+          "answer": "سَمِيعٌ بَصِيرٌ",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "'جَنَّاتٍ تَجْرِي' ifadəsində Tanvin necə tələffüz olunur?",
+      "answers": [
+        {
+          "answer": "Heç bir burun tonu olmadan aydın şəkildə",
+          "right": 0
+        },
+        {
+          "answer": "Burun tonu ilə yumşaq şəkildə gizlədilir",
+          "right": 1
+        },
+        {
+          "answer": "Sonrakı hərflə birləşdirilir",
+          "right": 0
+        },
+        {
+          "answer": "M səsi ilə çevrilir",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "'مَن يَقُولُ' ifadəsində Təcvid qaydası hansıdır?",
+      "answers": [
+        {
+          "answer": "İzhar",
+          "right": 0
+        },
+        {
+          "answer": "Qünnə ilə İdğam",
+          "right": 1
+        },
+        {
+          "answer": "İxfa",
+          "right": 0
+        },
+        {
+          "answer": "İqlab",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Noon Saakin və ya Tanvin-dən sonra gələndə İzhar tələb edən hərflər hansılardır?",
+      "answers": [
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right": 1
+        },
+        {
+          "answer": "ت, ث, ج, د, ذ, ز, س, ش, ص, ض, ط, ظ, ف, ق, ك",
+          "right": 0
+        },
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ب",
+          "right": 0
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,167 @@
+{
+    "id": 2,
+    "title": "停頓規則",
+    "desc1_desc": "停頓規則解釋了在誦讀《古蘭經》時如何正確停頓或暫停，以確保正確的發音並遵守泰基德（Tajwid）規則。",
+    "desc2_title": "示例與場景",
+    "desc2_desc": "不同的停頓規則，例如在音節、Fatha Tanwin、Mushaddad 字母等上的停頓，通過示例進行解釋。",
+    "Lesson number": 7,
+    "Quiz number": 10,
+    "Lessons": [
+        {
+            "id": 0,
+            "name": "非 Fatha Tanwin 的音節停頓",
+            "pengertian": "在停頓時，將最後一個字母視為帶有 Sukun（靜音結尾）。",
+            "caraMembaca": "中和最後一個音節的元音聲音，輕柔地停頓。",
+            "example": "أَكْبَرُ",
+            "gambar": "3.01.jpg",
+            "suara": "3.01.mp3"
+        },
+        {
+            "id": 1,
+            "name": "Fatha Tanwin 停頓",
+            "pengertian": "如果最後一個字母帶有 Fatha Tanwin 或後接 Alif-Madd，則按照 Fatha Tanwin 的規則停頓。",
+            "caraMembaca": "省略 Tanwin 的聲音，並清楚地停頓。",
+            "example": "يُسْرًا",
+            "gambar": "3.02.jpg",
+            "suara": "3.02.mp3"
+        },
+        {
+            "id": 2,
+            "name": "在字母 ة 停頓",
+            "pengertian": "將字母 ة 視為帶有 Sukun，類似於字母 ه。",
+            "caraMembaca": "柔和地發音，無需任何元音。",
+            "example": "بَصِيْرَةٌ",
+            "gambar": "3.03.jpg",
+            "suara": "3.03.mp3"
+        },
+        {
+            "id": 3,
+            "name": "在 Mushaddad 字母停頓",
+            "subrules": [
+                {
+                    "title": "Qalqalah 字母（ق, ط, ب, ج, د）",
+                    "pengertian": "將字母以其 Saakin 狀態用強烈的 Qalqalah 效果（迴響效果）發音。",
+                    "example": "وَٱلۡحَجُّ",
+                    "gambar": "3.04.jpg",
+                    "suara": "3.04.mp3"
+                },
+                {
+                    "title": "其他字母",
+                    "pengertian": "將字母視為帶有 Sukun，但在鼻腔中保持聲音持續 2 拍（Ghunnah）。",
+                    "example": "مِنْ",
+                    "gambar": "3.05.jpg",
+                    "suara": "3.05.mp3"
+                },
+                {
+                    "title": "非 Qalqalah 的 Mushaddad 字母",
+                    "pengertian": "將 Shaddah 替換為 Sukun，並稍作停頓（Nabr）。",
+                    "example": "فِي شَكٍّ",
+                    "gambar": "3.06.jpg",
+                    "suara": "3.06.mp3"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "在 Saakin 或 Madd 字母停頓（ء, ى, ا）",
+            "pengertian": "按照原文書寫的形式停頓，無需更改。",
+            "examples": [
+                {
+                    "text": "فَكَبِّرْ",
+                    "gambar": "3.07.jpg",
+                    "suara": "3.07.mp3"
+                },
+                {
+                    "text": "مُوسَى",
+                    "gambar": "3.08.jpg",
+                    "suara": "3.08.mp3"
+                }
+            ],
+            "exceptions": [
+                {
+                    "title": "以 ى 或 ء 結尾的單詞停頓",
+                    "pengertian": "將 ى 或 ء 替換為 Sukun。",
+                    "example": "رَسُولَهُ",
+                    "gambar": "3.09.jpg",
+                    "suara": "3.09.mp3"
+                },
+                {
+                    "title": "在 Qalqalah 字母停頓",
+                    "pengertian": "施加強烈的 Qalqalah。",
+                    "example": "يُولَدُ",
+                    "gambar": "3.10.jpg",
+                    "suara": "3.10.mp3"
+                },
+                {
+                    "title": "以長 Madd 結尾的單詞停頓",
+                    "pengertian": "用 Madd Asli 替換。",
+                    "example": "أَنَا",
+                    "gambar": "3.11.jpg",
+                    "suara": "3.11.mp3"
+                }
+            ]
+        }
+    ],
+    "Quizs": [
+        {
+            "id": 0,
+            "question": "فِي شَكٍّ 上的正確停頓方式是什麼？",
+            "answers": [
+                {"answer": "使用 Sukun，並稍作停頓。", "right": 1},
+                {"answer": "忽略 Shaddah。", "right": 0},
+                {"answer": "將其視為帶有 Damma。", "right": 0},
+                {"answer": "用 Madd 來誦讀它。", "right": 0}
+            ]
+        },
+        {
+            "id": 1,
+            "question": "قُلِ ٱللَّهُمَّ 的正確停頓規則是什麼？",
+            "answers": [
+                {"answer": "用 Sukun 替換它。", "right": 1},
+                {"answer": "向單詞添加 Tanwin。", "right": 0},
+                {"answer": "忽略停頓規則。", "right": 0},
+                {"answer": "將其視為帶有 Kasrah。", "right": 0}
+            ]
+        },
+        {
+            "id": 2,
+            "question": "在單詞 بَصِيْرَةٌ 中，字母 ة 如何處理？",
+            "answers": [
+                {"answer": "將其視為類似於字母 ه 並帶有 Sukun。", "right": 1},
+                {"answer": "用 Tanwin 誦讀它。", "right": 0},
+                {"answer": "在停頓時忽略 ة。", "right": 0},
+                {"answer": "將其視為 Madd。", "right": 0}
+            ]
+        },
+        {
+            "id": 3,
+            "question": "在單詞 يُولَدُ 中如何應用 Qalqalah？",
+            "answers": [
+                {"answer": "施加強烈的 Qalqalah。", "right": 1},
+                {"answer": "添加 Sukun。", "right": 0},
+                {"answer": "忽略 Qalqalah。", "right": 0},
+                {"answer": "用 Madd 來誦讀它。", "right": 0}
+            ]
+        },
+        {
+            "id": 4,
+            "question": "在單詞 أَنَا 上的正確停頓方式是什麼？",
+            "answers": [
+                {"answer": "將長 Madd 替換為 Madd Asli。", "right": 1},
+                {"answer": "完全省略 Madd。", "right": 0},
+                {"answer": "進一步延長 Madd。", "right": 0},
+                {"answer": "在末尾添加 Tanwin。", "right": 0}
+            ]
+        },
+        {
+            "id": 5,
+            "question": "在 Saakin 字母（ء, ى, ا）上的停頓規則是什麼？",
+            "answers": [
+                {"answer": "按照書寫形式停頓，無需更改。", "right": 1},
+                {"answer": "在字母上添加 Sukun。", "right": 0},
+                {"answer": "使用 Madd。", "right": 0},
+                {"answer": "忽略停頓規則。", "right": 0}
+            ]
+        }
+    ]
+}

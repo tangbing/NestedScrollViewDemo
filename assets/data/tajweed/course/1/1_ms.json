@@ -1,0 +1,96 @@
+{
+  "id": 0,
+  "title": "Madd Semula Jadi",
+  "desc1_desc": "Madd (مَدّ) bermaksud 'memanjangkan' atau 'melanjutkan' bunyi. Ia berlaku apabila huruf madd mengikuti huruf yang mempunyai bunyi vokal yang sepadan, menyebabkan bunyi tersebut dilanjutkan. Pembaca dikehendaki memanjangkan huruf sebelum huruf madd sebanyak 2 ketukan, di mana satu ketukan adalah tempoh yang diperlukan untuk menyebut satu huruf tanpa lanjutan.",
+  "desc2_title": "Contoh Madd Semula Jadi",
+  "desc2_desc": "",
+  "Lesson number": 1,
+  "Quiz number": 5,
+  "Lessons": [
+    {
+      "id": 0,
+      "name": "Madd Asli (Panjangan Semula Jadi)",
+      "pengertian": "Madd semula jadi terbahagi kepada tiga jenis:",
+      "categories": [
+        "Huruf ا apabila digabungkan dengan Fatha.",
+        "Huruf ي apabila digabungkan dengan Kasrah.",
+        "Huruf و apabila digabungkan dengan Dhammah."
+      ],
+      "examples": [
+        {
+          "withoutMadd": "مَ",
+          "withMadd": "مَا = مَ + ا",
+          "maddLetter": "ا",
+          "image": "1.02.jpg",
+          "audio": "1.02.mp3"
+        },
+        {
+          "withoutMadd": "مِ",
+          "withMadd": "مِي = مِ + ي",
+          "maddLetter": "ي",
+          "image": "1.04.jpg",
+          "audio": "1.04.mp3"
+        },
+        {
+          "withoutMadd": "مُ",
+          "withMadd": "مُو = مُ + و",
+          "maddLetter": "و",
+          "image": "1.06.jpg",
+          "audio": "1.06.mp3"
+        }
+      ]
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "Jika ada huruf dengan harakat Fatha bertemu ا maka pembaca harus ... huruf tersebut.",
+      "answers": [
+        { "answer": "gema (قَلۡقَلَةۡ)", "right": 0 },
+        { "answer": "panjangkan", "right": 1 },
+        { "answer": "pendekkan", "right": 0 },
+        { "answer": "langkau", "right": 0 }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Perkataan mana yang menunjukkan Madd Semula Jadi dengan betul?",
+      "answers": [
+        { "answer": "مَا", "right": 1 },
+        { "answer": "مُوَّ", "right": 0 },
+        { "answer": "مَاا", "right": 0 },
+        { "answer": "مِوِ", "right": 0 }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Semua peraturan ini mesti dipanjangkan, kecuali...",
+      "answers": [
+        { "answer": "Huruf ا jika digabungkan dengan Fatha", "right": 0 },
+        { "answer": "Huruf ي jika digabungkan dengan Kasrah", "right": 0 },
+        { "answer": "Huruf و jika digabungkan dengan Dhammah", "right": 0 },
+        { "answer": "Huruf ي jika digabungkan dengan Dhammah", "right": 1 }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Yang manakah antara berikut yang mengandungi huruf yang mesti dipanjangkan?",
+      "answers": [
+        { "answer": "وَأَوۡفُوۡا", "right": 1 },
+        { "answer": "نَوۡمَكُمۡ", "right": 0 },
+        { "answer": "يُوَسۡوِسُ", "right": 0 },
+        { "answer": "يَوۡمِ", "right": 0 }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Dalam perkataan mana Madd Semula Jadi diaplikasikan dengan betul?",
+      "answers": [
+        { "answer": "مُو", "right": 1 },
+        { "answer": "مُووْ", "right": 0 },
+        { "answer": "مَ", "right": 0 },
+        { "answer": "مِووِ", "right": 0 }
+      ]
+    }
+  ]
+}

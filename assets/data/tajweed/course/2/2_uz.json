@@ -1,0 +1,134 @@
+{
+    "id": 1,
+    "title": "Uzaytirilgan Madd",
+    "desc1_desc": "Uzaytirilgan Madd, harf ustida madd belgisi (~) bo'lsa va maxsus sharoitlar bilan kelsa yuzaga keladi. Bu ovozni cho'zishni talab qiladi. Bu Hamza (ء), Sukun yoki Shadda bilan uchrashishni o'z ichiga olishi mumkin va ovoz ma'lum urish davomida uzaytiriladi.",
+    "desc2_title": "Uzaytirilgan Madd Misollari",
+    "desc2_desc": "Cho'zish davomiyligi uchratilgan Madd turiga bog'liq. Quyida Uzaytirilgan Madd qo'llaniladigan holatlar keltirilgan:",
+    "Lessons": [
+        {
+            "id": 0,
+            "name": "Uzaytirilgan Belgisi Keyingi So'zdagi Hamza (ء) bilan Uchrashadi",
+            "pengertian": "Madd harfi keyingi so'zdagi Hamza (ء) bilan uchrashganda, ovoz 2, 4 yoki 5 urish davomida cho'zilishi kerak.",
+            "caraMembaca": "O'quvchi ovozni kontekstga qarab cho'zadi va to'g'ri ritmni ta'minlaydi.",
+            "example": "يَا أَيُّهَا",
+            "gambar": "2.01.jpg",
+            "suara": [
+                {"beats": 2, "file": "2.01-1.mp3"},
+                {"beats": 4, "file": "2.01-2.mp3"},
+                {"beats": 5, "file": "2.01-3.mp3"}
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Uzaytirilgan Belgisi Bir Xil So'zdagi Hamza (ء) bilan Uchrashadi",
+            "pengertian": "Agar Madd harfi bir xil so'zdagi Hamza (ء) bilan uchrasha qolsa, ovoz 4 yoki 5 urish davomida cho'ziladi.",
+            "caraMembaca": "O'quvchi aniq cho'zishni ta'minlaydi va tajvid qoidalariga rioya qiladi.",
+            "example": "وَٱلسَّمَآءِ",
+            "gambar": "2.04.jpg",
+            "suara": "2.04.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Uzaytirilgan Belgisi Sukun bilan Uchrashadi",
+            "pengertian": "Agar Madd harfi Sukun bilan uchrasha qolsa, ovoz 6 urish davomida cho'zilishi kerak.",
+            "caraMembaca": "O'quvchi Sukunni aniq kuzatib boradi va to'g'ri cho'zishni ta'minlaydi.",
+            "example": "ءَالْـَٰٔنَ",
+            "gambar": "2.05.jpg",
+            "suara": "2.05.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Uzaytirilgan Belgisi Shadda bilan Uchrashadi",
+            "pengertian": "Madd harfi Shadda bilan uchrashganda, cho'zish davomiyligi 6 urishni tashkil qiladi.",
+            "caraMembaca": "O'quvchi Shaddani urg'ulaydi va doimiy ritmni saqlaydi.",
+            "example": "ٱلۡحَاقَّةُ",
+            "gambar": "2.06.jpg",
+            "suara": "2.06.mp3"
+        }
+    ],
+    "tips": {
+        "title": "Uzaytirilgan Maddni O'zlashtirish",
+        "advice": "Cho'zish vaqtida xatolardan yoki uzilishlardan qochish uchun Nabiyning (s.a.v) quyidagi tavsiyasiga amal qilish mumkin: 'Qur'onni ovozingiz bilan bezang.'"
+    },
+    "muqattaat": {
+        "title": "Muqatta'at So'zlari (مُقَطَّعَات)",
+        "pengertian": "Qur'onning ayrim bo'limlari Muqatta'at deb ataladigan alohida harflar bilan boshlanadi. Ushbu harflar 6 urish davomida Uzaytirilgan Madd bilan cho'zilishi kerak.",
+        "example": "الٓمٓ",
+        "gambar": "2.07.jpg",
+        "suara": "2.07.mp3"
+    },
+    "Quizs": [
+        {
+            "id": 0,
+            "question": "Quyidagi qaysi belgilar harfni juda uzoq davom ettirish kerakligini ko'rsatadi?",
+            "answers": [
+                {"answer": "ا", "right": 0},
+                {"answer": "ي", "right": 0},
+                {"answer": "و", "right": 0},
+                {"answer": "ٓ", "right": 1}
+            ]
+        },
+        {
+            "id": 1,
+            "question": "Qaysi jumla Uzaytirilgan Maddni to'g'ri ko'rsatadi?",
+            "answers": [
+                {"answer": "يَا أَيُّهَا", "right": 1},
+                {"answer": "قَالَ", "right": 0},
+                {"answer": "كَانَ", "right": 0},
+                {"answer": "يَغْشَىٰ", "right": 0}
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Bu misolda birinchi 'ي' quyidagi urishlarda o'qilishi mumkin, faqat...",
+            "answers": [
+                {"answer": "4", "right": 0},
+                {"answer": "5", "right": 0},
+                {"answer": "6", "right": 1},
+                {"answer": "2", "right": 0}
+            ]
+        },
+        {
+            "id": 3,
+            "question": "'عسق' ni to'g'ri o'qish qaysi jumlada aks ettirilgan?",
+            "answers": [
+                {"answer": "عۡسۡقَ", "right": 0},
+                {"answer": "عَسَقَ", "right": 0},
+                {"answer": "عۡسۡقُ", "right": 1},
+                {"answer": "عُسِقَ", "right": 0}
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Eng uzoq cho'zilishni ko'rsatadigan variantni tanlang.",
+            "answers": [
+                {"answer": "عَسَىٰ", "right": 0},
+                {"answer": "جَآءَ", "right": 1},
+                {"answer": "كَانٌَ", "right": 0},
+                {"answer": "وَٱلنَّهَارِ", "right": 0}
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Cho'zilishi kerak bo'lgan harflarni o'z ichiga olgan barcha so'zlarni tanlang.",
+            "answers": [
+                {"answer": "جَآءَتِ", "right": 1},
+                {"answer": "أَعۡطَىٰ", "right": 0},
+                {"answer": "وَالسَّمَآءِ", "right": 1},
+                {"answer": "صَلَاتُهُمۡ", "right": 0},
+                {"answer": "عِيسَىٰ", "right": 0},
+                {"answer": "ءَآلۡأَٰنَ", "right": 1}
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Uzaytirilgan Madd misolida cho'zilish davomiyligi qancha? (urish bilan)",
+            "answers": [
+                {"answer": "2", "right": 0},
+                {"answer": "4", "right": 0},
+                {"answer": "6", "right": 1},
+                {"answer": "8", "right": 0}
+            ]
+        }
+    ]
+}

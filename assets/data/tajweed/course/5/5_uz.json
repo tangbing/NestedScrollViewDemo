@@ -1,0 +1,369 @@
+{
+  "id": 4,
+  "title": "Noon Saakin va Tanvin qoidalari",
+  "desc1_desc": "Noon Saakin (ن) yoki Tanvinni o'qishda, undan keyin keladigan harfga qarab o'ziga xos qoidalar qo'llaniladi. Bu qoidalar Qur'on tilovatida to'g'ri Tajvidni ta'minlaydi.",
+  "sections": [
+    {
+      "id": 0,
+      "title": "Izhor (إظهار) - Ochiq Talaffuz",
+      "definition": "Izhor - ن yoki Tanvinni birlashtirmasdan va burun ohangisiz aniq talaffuz qilishni anglatadi.",
+      "conditions": "Izhor quyidagi harflardan biri kelganda qo'llaniladi: ء (Hamza), ه (Ha), ع ('Ayn), ح (Ha), غ (Ghayn), خ (Kha).",
+      "examples": [
+        {
+          "text": "كُلٌّ ءَامَنَ",
+          "gambar": "/quran/tajweed/pictures/5.01.jpg",
+          "suara": "/quran/tajweed/audio/5.01.mp3"
+        },
+        {
+          "text": "أَنْعَمْتَ",
+          "gambar": "/quran/tajweed/pictures/5.02.jpg",
+          "suara": "/quran/tajweed/audio/5.02.mp3"
+        },
+        {
+          "text": "قَوْلًا غَيْرَ",
+          "gambar": "/quran/tajweed/pictures/5.03.jpg",
+          "suara": "/quran/tajweed/audio/5.03.mp3"
+        },
+        {
+          "text": "عَلِيمٌ حَكِيمٌ",
+          "gambar": "/quran/tajweed/pictures/5.04.jpg",
+          "suara": "/quran/tajweed/audio/5.04.mp3"
+        },
+        {
+          "text": "عَلِيمٌ خَبِيرٌ",
+          "gambar": "/quran/tajweed/pictures/5.05.jpg",
+          "suara": "/quran/tajweed/audio/5.05.mp3"
+        },
+        {
+          "text": "مِنْهُ",
+          "gambar": "/quran/tajweed/pictures/5.06.jpg",
+          "suara": "/quran/tajweed/audio/5.06.mp3"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Idg'om (إدغام) - Birlashtirish",
+      "definition": "Idg'om - ن yoki Tanvinni keyingi harf bilan birlashtirish. Bu ikki turga bo'linadi:",
+      "subtypes": [
+        {
+          "id": "1a",
+          "name": "G'unnali (Burun ohangli)",
+          "definition": "2-3 zarb davomida burun ohangi bilan talaffuz qilish.",
+          "letters": "ي (Ya), ن (Nun), م (Meem), و (Waw)",
+          "examples": [
+            {
+              "text": "مَن يَقُولُ",
+              "gambar": "/quran/tajweed/pictures/5.07.jpg",
+              "suara": "/quran/tajweed/audio/5.07.mp3"
+            },
+            {
+              "text": "وَآتَوْهُم مِّن مَّا",
+              "gambar": "/quran/tajweed/pictures/5.08.jpg",
+              "suara": "/quran/tajweed/audio/5.08.mp3"
+            },
+            {
+              "text": "وَلِكُلٍّ وِجْهَةٌ",
+              "gambar": "/quran/tajweed/pictures/5.09.jpg",
+              "suara": "/quran/tajweed/audio/5.09.mp3"
+            },
+            {
+              "text": "يَوْمَئِذٍ نَاعِمَةٌ",
+              "gambar": "/quran/tajweed/pictures/5.10.jpg",
+              "suara": "/quran/tajweed/audio/5.10.mp3"
+            }
+          ]
+        },
+        {
+          "id": "1b",
+          "name": "G'unnasiz (Burun ohangsiz)",
+          "definition": "Н yoki Tanvinni burun ohangsiz birlashtirish.",
+          "letters": "ر (Ra), ل (Lam)",
+          "examples": [
+            {
+              "text": "مِنْ رَبِّهِمْ",
+              "gambar": "/quran/tajweed/pictures/5.11.jpg",
+              "suara": "/quran/tajweed/audio/5.11.mp3"
+            },
+            {
+              "text": "وَيْلٌ لِّكُلِّ",
+              "gambar": "/quran/tajweed/pictures/5.12.jpg",
+              "suara": "/quran/tajweed/audio/5.12.mp3"
+            }
+          ]
+        },
+        {
+          "id": "1c",
+          "name": "Mutlaq Idg'om (To'liq Birlashtirish)",
+          "definition": "Faqat to'rtta maxsus so'zda ن to'liq ل (Lam) bilan birlashadi.",
+          "words": ["الدُّنْيَا", "بُنْيَانٌ", "قِنْوَانٌ", "صِنْوَانٌ"],
+          "example": {
+            "text": "الدُّنْيَا",
+            "gambar": "/quran/tajweed/pictures/5.13.jpg",
+            "suara": "/quran/tajweed/audio/5.13.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ixfo (إخفاء) - Yashirish",
+      "definition": "ن yoki Tanvin tovushini yashirib, uni yumshoq va 2-3 zarb davomida burun ohangi bilan talaffuz qilish.",
+      "letters": "ت (Ta), ث (Tha), ج (Jim), د (Dal), ذ (Zal), ز (Zay), س (Sin), ش (Shin), ص (Sad), ض (Dod), ط (To), ظ (Zo), ف (Fa), ق (Qof), ك (Kof)",
+      "examples": [
+        {
+          "text": "جَنَّاتٍ تَجْرِي",
+          "gambar": "/quran/tajweed/pictures/5.14.jpg",
+          "suara": "/quran/tajweed/audio/5.14.mp3"
+        },
+        {
+          "text": "مِنْ ثَمَرٍ",
+          "gambar": "/quran/tajweed/pictures/5.15.jpg",
+          "suara": "/quran/tajweed/audio/5.15.mp3"
+        },
+        {
+          "text": "خَلْقٍ جَدِيدٍ",
+          "gambar": "/quran/tajweed/pictures/5.16.jpg",
+          "suara": "/quran/tajweed/audio/5.16.mp3"
+        },
+        {
+          "text": "أَندَادًا",
+          "gambar": "/quran/tajweed/pictures/5.17.jpg",
+          "suara": "/quran/tajweed/audio/5.17.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Iqlob (إقلاب) - O'zgartirish",
+      "definition": "Н yoki Tanvin tovushini ب (Ba) kelganda م ga aylantiring. Bu o'zgarish 2-3 zarb davomida burun ohangi bilan bo'ladi.",
+      "example": {
+        "text": "سَمِيعٌ بَصِيرٌ",
+        "gambar": "/quran/tajweed/pictures/5.29.jpg",
+        "suara": "/quran/tajweed/audio/5.29.mp3"
+      }
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "Izhor qoidasiga to'g'ri keladigan iborani tanlang:",
+      "answers": [
+        {
+          "answer": "كُلٌّ ءَامَنَ",
+          "right": 1
+        },
+        {
+          "answer": "مَن يَقُولُ",
+          "right": 0
+        },
+        {
+          "answer": "جَنَّاتٍ تَجْرِي",
+          "right": 0
+        },
+        {
+          "answer": "سَمِيعٌ بَصِيرٌ",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Qaysi harflar G'unnali Idg'om qoidasini talab qiladi?",
+      "answers": [
+        {
+          "answer": "ر، ل",
+          "right": 0
+        },
+        {
+          "answer": "ي، ن، م، و",
+          "right": 1
+        },
+        {
+          "answer": "ء، ه، ع، ح، غ، خ",
+          "right": 0
+        },
+		{
+          "answer": "ت، ث، ج، د",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Н yoki Tanvin keyin ب kelganda qaysi Tajvid qoidasiga amal qilinadi?",
+      "answers": [
+        {
+          "answer": "Ixfo",
+          "right": 0
+        },
+        {
+          "answer": "Iqlob",
+          "right": 1
+        },
+        {
+          "answer": "G'unnali Idg'om",
+          "right": 0
+        },
+        {
+          "answer": "Izhor",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "'سَمِيعٌ بَصِيرٌ' iborasida Tanvin qanday talaffuz qilinadi?",
+      "answers": [
+        {
+          "answer": "Hech qanday o'zgartirishsiz aniq talaffuz qilinadi",
+          "right": 0
+        },
+        {
+          "answer": "M ga burun ohangi bilan o'zgartiriladi",
+          "right": 1
+        },
+        {
+          "answer": "ب bilan burun ohangsiz birlashtiriladi",
+          "right": 0
+        },
+        {
+          "answer": "Yumshoq burun ohangi bilan yashiriladi",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qaysi harflar Ixfo qoidasini talab qiladi?",
+      "answers": [
+        {
+          "answer": "ء، ه، ع، ح، غ، خ",
+          "right": 0
+        },
+        {
+          "answer": "ت، ث، ج، د، ذ، ز، س، ش، ص، ض، ط، ظ، ف، ق، ك",
+          "right": 1
+        },
+        {
+          "answer": "ر، ل",
+          "right": 0
+        },
+        {
+          "answer": "ب",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Izhor va Ixfo o'rtasidagi farq nimada?",
+      "answers": [
+        {
+          "answer": "Izhor aniq talaffuzni, Ixfo esa tovushni yashirishni anglatadi.",
+          "right": 1
+        },
+        {
+          "answer": "Izhor harflarni birlashtiradi, Ixfo esa ajratadi.",
+          "right": 0
+        },
+        {
+          "answer": "Izhor burun ohangidan foydalanadi, Ixfo esa foydalanmaydi.",
+          "right": 0
+        },
+        {
+          "answer": "Izhor faqat Tanvinda, Ixfo esa faqat Noon Saakinda qo'llaniladi.",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Quyidagi iboralardan qaysi biri G'unnasiz Idg'omni namoyish etadi?",
+      "answers": [
+        {
+          "answer": "مِن رَبِّهِمْ",
+          "right": 1
+        },
+        {
+          "answer": "مَن يَقُولُ",
+          "right": 0
+        },
+        {
+          "answer": "كُلٌّ ءَامَنَ",
+          "right": 0
+        },
+        {
+          "answer": "سَمِيعٌ بَصِيرٌ",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "'جَنَّاتٍ تَجْرِي' iborasida Tanvin qanday talaffuz qilinadi?",
+      "answers": [
+        {
+          "answer": "Burun ohangsiz aniq va ravshan talaffuz qilinadi",
+          "right": 0
+        },
+        {
+          "answer": "Yumshoq burun ohangi bilan yashiriladi",
+          "right": 1
+        },
+        {
+          "answer": "Keyingi harf bilan birlashtiriladi",
+          "right": 0
+        },
+        {
+          "answer": "M tovushiga o'zgartiriladi",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "'مَن يَقُولُ' iborasida qanday Tajvid qoidasiga amal qilinadi?",
+      "answers": [
+        {
+          "answer": "Izhor",
+          "right": 0
+        },
+        {
+          "answer": "G'unnali Idg'om",
+          "right": 1
+        },
+        {
+          "answer": "Ixfo",
+          "right": 0
+        },
+        {
+          "answer": "Iqlob",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Noon Saakin yoki Tanvin keyin kelganda Izhorni talab qiladigan harflar qaysilar?",
+      "answers": [
+        {
+          "answer": "ء، ه، ع، ح، غ، خ",
+          "right": 1
+        },
+        {
+          "answer": "ت، ث، ج، د، ذ، ز، س، ش، ص، ض، ط، ظ، ف، ق، ك",
+          "right": 0
+        },
+        {
+          "answer": "ر، ل",
+          "right": 0
+        },
+        {
+          "answer": "ب",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

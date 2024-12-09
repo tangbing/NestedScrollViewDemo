@@ -1,0 +1,369 @@
+{
+  "id": 4,
+  "title": "أحكام النون الساكنة والتنوين",
+  "desc1_desc": "عند تلاوة النون الساكنة (ن) أو التنوين، تطبق أحكام محددة بناءً على الحرف الذي يليها. تضمن هذه الأحكام التجويد الصحيح في تلاوة القرآن الكريم.",
+  "sections": [
+    {
+      "id": 0,
+      "title": "الإظهار - النطق الواضح",
+      "definition": "الإظهار يعني نطق النون أو التنوين بوضوح دون إدغام أو غنة.",
+      "conditions": "يطبق الإظهار عندما يلي النون أو التنوين أحد هذه الأحرف: ء (همزة)، ه (هاء)، ع (عين)، ح (حاء)، غ (غين)، خ (خاء).",
+      "examples": [
+        {
+          "text": "كُلٌّ ءَامَنَ",
+          "gambar": "/quran/tajweed/pictures/5.01.jpg",
+          "suara": "/quran/tajweed/audio/5.01.mp3"
+        },
+        {
+          "text": "أَنْعَمْتَ",
+          "gambar": "/quran/tajweed/pictures/5.02.jpg",
+          "suara": "/quran/tajweed/audio/5.02.mp3"
+        },
+        {
+          "text": "قَوْلًا غَيْرَ",
+          "gambar": "/quran/tajweed/pictures/5.03.jpg",
+          "suara": "/quran/tajweed/audio/5.03.mp3"
+        },
+        {
+          "text": "عَلِيمٌ حَكِيمٌ",
+          "gambar": "/quran/tajweed/pictures/5.04.jpg",
+          "suara": "/quran/tajweed/audio/5.04.mp3"
+        },
+        {
+          "text": "عَلِيمٌ خَبِيرٌ",
+          "gambar": "/quran/tajweed/pictures/5.05.jpg",
+          "suara": "/quran/tajweed/audio/5.05.mp3"
+        },
+        {
+          "text": "مِنْهُ",
+          "gambar": "/quran/tajweed/pictures/5.06.jpg",
+          "suara": "/quran/tajweed/audio/5.06.mp3"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "الإدغام - الدمج",
+      "definition": "الإدغام هو دمج النون أو التنوين مع الحرف الذي يليها. وله نوعان:",
+      "subtypes": [
+        {
+          "id": "1a",
+          "name": "مع غنة",
+          "definition": "ينطق الصوت مع غنة تدوم لمدة 2-3 حركات.",
+          "letters": "ي (ياء)، ن (نون)، م (ميم)، و (واو)",
+          "examples": [
+            {
+              "text": "مَن يَقُولُ",
+              "gambar": "/quran/tajweed/pictures/5.07.jpg",
+              "suara": "/quran/tajweed/audio/5.07.mp3"
+            },
+            {
+              "text": "وَآتَوْهُم مِّن مَّا",
+              "gambar": "/quran/tajweed/pictures/5.08.jpg",
+              "suara": "/quran/tajweed/audio/5.08.mp3"
+            },
+            {
+              "text": "وَلِكُلٍّ وِجْهَةٌ",
+              "gambar": "/quran/tajweed/pictures/5.09.jpg",
+              "suara": "/quran/tajweed/audio/5.09.mp3"
+            },
+            {
+              "text": "يَوْمَئِذٍ نَاعِمَةٌ",
+              "gambar": "/quran/tajweed/pictures/5.10.jpg",
+              "suara": "/quran/tajweed/audio/5.10.mp3"
+            }
+          ]
+        },
+        {
+          "id": "1b",
+          "name": "بدون غنة",
+          "definition": "يتم دمج صوت النون أو التنوين بدون غنة.",
+          "letters": "ر (راء)، ل (لام)",
+          "examples": [
+            {
+              "text": "مِنْ رَبِّهِمْ",
+              "gambar": "/quran/tajweed/pictures/5.11.jpg",
+              "suara": "/quran/tajweed/audio/5.11.mp3"
+            },
+            {
+              "text": "وَيْلٌ لِّكُلِّ",
+              "gambar": "/quran/tajweed/pictures/5.12.jpg",
+              "suara": "/quran/tajweed/audio/5.12.mp3"
+            }
+          ]
+        },
+        {
+          "id": "1c",
+          "name": "الإدغام المطلق",
+          "definition": "يحدث فقط في أربع كلمات محددة حيث تندمج النون بالكامل مع اللام.",
+          "words": ["الدُّنْيَا", "بُنْيَانٌ", "قِنْوَانٌ", "صِنْوَانٌ"],
+          "example": {
+            "text": "الدُّنْيَا",
+            "gambar": "/quran/tajweed/pictures/5.13.jpg",
+            "suara": "/quran/tajweed/audio/5.13.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "الإخفاء - الإخفاء الصوتي",
+      "definition": "يُخفى صوت النون أو التنوين وينطق بلين مع غنة تدوم لمدة 2-3 حركات.",
+      "letters": "ت (تاء)، ث (ثاء)، ج (جيم)، د (دال)، ذ (ذال)، ز (زاي)، س (سين)، ش (شين)، ص (صاد)، ض (ضاد)، ط (طاء)، ظ (ظاء)، ف (فاء)، ق (قاف)، ك (كاف)",
+      "examples": [
+        {
+          "text": "جَنَّاتٍ تَجْرِي",
+          "gambar": "/quran/tajweed/pictures/5.14.jpg",
+          "suara": "/quran/tajweed/audio/5.14.mp3"
+        },
+        {
+          "text": "مِنْ ثَمَرٍ",
+          "gambar": "/quran/tajweed/pictures/5.15.jpg",
+          "suara": "/quran/tajweed/audio/5.15.mp3"
+        },
+        {
+          "text": "خَلْقٍ جَدِيدٍ",
+          "gambar": "/quran/tajweed/pictures/5.16.jpg",
+          "suara": "/quran/tajweed/audio/5.16.mp3"
+        },
+        {
+          "text": "أَندَادًا",
+          "gambar": "/quran/tajweed/pictures/5.17.jpg",
+          "suara": "/quran/tajweed/audio/5.17.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "الإقلاب - تحويل الصوت",
+      "definition": "يُحول صوت النون أو التنوين إلى ميم عند وجود حرف ب (باء) بعده. يشمل التحويل غنة لمدة 2-3 حركات.",
+      "example": {
+        "text": "سَمِيعٌ بَصِيرٌ",
+        "gambar": "/quran/tajweed/pictures/5.29.jpg",
+        "suara": "/quran/tajweed/audio/5.29.mp3"
+      }
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "أي جملة تطبق قاعدة الإظهار بشكل صحيح؟",
+      "answers": [
+        {
+          "answer": "كُلٌّ ءَامَنَ",
+          "right": 1
+        },
+        {
+          "answer": "مَن يَقُولُ",
+          "right": 0
+        },
+        {
+          "answer": "جَنَّاتٍ تَجْرِي",
+          "right": 0
+        },
+        {
+          "answer": "سَمِيعٌ بَصِيرٌ",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "ما هي الأحرف التي تُطبق عليها قاعدة الإدغام مع غنة؟",
+      "answers": [
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ي, ن, م, و",
+          "right": 1
+        },
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right": 0
+        },
+        {
+          "answer": "ت, ث, ج, د",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "عندما يلي النون الساكنة أو التنوين حرف ب، ما هي قاعدة التجويد المطب
+	  "answers": [
+        {
+          "answer": "الإخفاء",
+          "right": 0
+        },
+        {
+          "answer": "الإقلاب",
+          "right": 1
+        },
+        {
+          "answer": "الإدغام مع الغنة",
+          "right": 0
+        },
+        {
+          "answer": "الإظهار",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "في العبارة 'سَمِيعٌ بَصِيرٌ'، كيف يُنطق التنوين؟",
+      "answers": [
+        {
+          "answer": "بوضوح دون أي تحويل",
+          "right": 0
+        },
+        {
+          "answer": "يُحول إلى ميم مع غنة",
+          "right": 1
+        },
+        {
+          "answer": "يُدمج مع ب دون غنة",
+          "right": 0
+        },
+        {
+          "answer": "يُخفى مع غنة خفيفة",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "ما هي الأحرف التي تتطلب تطبيق قاعدة الإخفاء؟",
+      "answers": [
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right": 0
+        },
+        {
+          "answer": "ت, ث, ج, د, ذ, ز, س, ش, ص, ض, ط, ظ, ف, ق, ك",
+          "right": 1
+        },
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ب",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "ما الفرق بين الإظهار والإخفاء؟",
+      "answers": [
+        {
+          "answer": "الإظهار يعني النطق بوضوح، بينما الإخفاء يخفي الصوت مع غنة.",
+          "right": 1
+        },
+        {
+          "answer": "الإظهار يدمج الحروف، بينما الإخفاء يفصل بينها.",
+          "right": 0
+        },
+        {
+          "answer": "الإظهار يستخدم الغنة، بينما الإخفاء لا يستخدمها.",
+          "right": 0
+        },
+        {
+          "answer": "الإظهار يطبق فقط على التنوين، بينما الإخفاء يطبق فقط على النون الساكنة.",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "أي من العبارات التالية تُظهر الإدغام بدون غنة؟",
+      "answers": [
+        {
+          "answer": "مِن رَبِّهِمْ",
+          "right": 1
+        },
+        {
+          "answer": "مَن يَقُولُ",
+          "right": 0
+        },
+        {
+          "answer": "كُلٌّ ءَامَنَ",
+          "right": 0
+        },
+        {
+          "answer": "سَمِيعٌ بَصِيرٌ",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "في العبارة 'جَنَّاتٍ تَجْرِي'، كيف يُنطق التنوين؟",
+      "answers": [
+        {
+          "answer": "بوضوح ودقة دون غنة",
+          "right": 0
+        },
+        {
+          "answer": "مخفى مع غنة خفيفة",
+          "right": 1
+        },
+        {
+          "answer": "يُدمج مع الحرف التالي",
+          "right": 0
+        },
+        {
+          "answer": "يُحول إلى صوت ميم",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "ما هي قاعدة التجويد في العبارة: 'مَن يَقُولُ'؟",
+      "answers": [
+        {
+          "answer": "الإظهار",
+          "right": 0
+        },
+        {
+          "answer": "الإدغام مع الغنة",
+          "right": 1
+        },
+        {
+          "answer": "الإخفاء",
+          "right": 0
+        },
+        {
+          "answer": "الإقلاب",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "ما هي الأحرف التي تتطلب الإظهار عند متابعتها للنون الساكنة أو التنوين؟",
+      "answers": [
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right": 1
+        },
+        {
+          "answer": "ت, ث, ج, د, ذ, ز, س, ش, ص, ض, ط, ظ, ف, ق, ك",
+          "right": 0
+        },
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ب",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

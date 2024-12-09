@@ -1,0 +1,369 @@
+{
+  "id": 4,
+  "title": "靜音 ن 和 تنوين 的規則",
+  "desc1_desc": "在誦讀含有靜音 ن（Noon Saakin）或 تنوين（Tanween）的句子時，根據其後接字母的不同，必須遵守特定的泰基德（Tajweed）規則。這些規則確保了《古蘭經》誦讀的準確性。",
+  "sections": [
+    {
+      "id": 0,
+      "title": "顯露（Izhar）—清晰發音",
+      "definition": "Izhar 指的是清楚地發音靜音 ن 或 تنوين，無需融合或鼻音化。",
+      "conditions": "當靜音 ن 或 تنوين 後接以下任一字母時需應用 Izhar 規則：ء（Hamzah）、ه（Ha）、ع（'Ayn）、ح（Ha）、غ（Ghayn）、خ（Kha）。",
+      "examples": [
+        {
+          "text": "كُلٌّ ءَامَنَ",
+          "gambar": "/quran/tajweed/pictures/5.01.jpg",
+          "suara": "/quran/tajweed/audio/5.01.mp3"
+        },
+        {
+          "text": "أَنْعَمْتَ",
+          "gambar": "/quran/tajweed/pictures/5.02.jpg",
+          "suara": "/quran/tajweed/audio/5.02.mp3"
+        },
+        {
+          "text": "قَوْلًا غَيْرَ",
+          "gambar": "/quran/tajweed/pictures/5.03.jpg",
+          "suara": "/quran/tajweed/audio/5.03.mp3"
+        },
+        {
+          "text": "عَلِيمٌ حَكِيمٌ",
+          "gambar": "/quran/tajweed/pictures/5.04.jpg",
+          "suara": "/quran/tajweed/audio/5.04.mp3"
+        },
+        {
+          "text": "عَلِيمٌ خَبِيرٌ",
+          "gambar": "/quran/tajweed/pictures/5.05.jpg",
+          "suara": "/quran/tajweed/audio/5.05.mp3"
+        },
+        {
+          "text": "مِنْهُ",
+          "gambar": "/quran/tajweed/pictures/5.06.jpg",
+          "suara": "/quran/tajweed/audio/5.06.mp3"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "融合（Idgham）—合併發音",
+      "definition": "Idgham 是將靜音 ن 或 تنوين 與其後接字母進行合併。這種規則分為兩類：",
+      "subtypes": [
+        {
+          "id": "1a",
+          "name": "帶有鼻音（Ghunnah）",
+          "definition": "使用持續 2-3 拍的鼻音來發音。",
+          "letters": "ي（Ya）、ن（Nun）、م（Meem）、و（Waw）",
+          "examples": [
+            {
+              "text": "مَن يَقُولُ",
+              "gambar": "/quran/tajweed/pictures/5.07.jpg",
+              "suara": "/quran/tajweed/audio/5.07.mp3"
+            },
+            {
+              "text": "وَآتَوْهُم مِّن مَّا",
+              "gambar": "/quran/tajweed/pictures/5.08.jpg",
+              "suara": "/quran/tajweed/audio/5.08.mp3"
+            },
+            {
+              "text": "وَلِكُلٍّ وِجْهَةٌ",
+              "gambar": "/quran/tajweed/pictures/5.09.jpg",
+              "suara": "/quran/tajweed/audio/5.09.mp3"
+            },
+            {
+              "text": "يَوْمَئِذٍ نَاعِمَةٌ",
+              "gambar": "/quran/tajweed/pictures/5.10.jpg",
+              "suara": "/quran/tajweed/audio/5.10.mp3"
+            }
+          ]
+        },
+        {
+          "id": "1b",
+          "name": "無鼻音（無 Ghunnah）",
+          "definition": "合併 ن 或 تنوين 的音，但不帶鼻音化。",
+          "letters": "ر（Ra）、ل（Lam）",
+          "examples": [
+            {
+              "text": "مِنْ رَبِّهِمْ",
+              "gambar": "/quran/tajweed/pictures/5.11.jpg",
+              "suara": "/quran/tajweed/audio/5.11.mp3"
+            },
+            {
+              "text": "وَيْلٌ لِّكُلِّ",
+              "gambar": "/quran/tajweed/pictures/5.12.jpg",
+              "suara": "/quran/tajweed/audio/5.12.mp3"
+            }
+          ]
+        },
+        {
+          "id": "1c",
+          "name": "完全融合（Idgham Mutlaq）",
+          "definition": "只在以下四個特定單詞中發生，ن 與 ل（Lam）完全融合。",
+          "words": ["الدُّنْيَا", "بُنْيَانٌ", "قِنْوَانٌ", "صِنْوَانٌ"],
+          "example": {
+            "text": "الدُّنْيَا",
+            "gambar": "/quran/tajweed/pictures/5.13.jpg",
+            "suara": "/quran/tajweed/audio/5.13.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "隱藏（Ikhfa）—柔化音",
+      "definition": "隱藏 ن 或 تنوين 的音，並帶有 2-3 拍的柔和鼻音化發音。",
+      "letters": "ت（Ta）、ث（Tha）、ج（Jim）、د（Dal）、ذ（Dhal）、ز（Zay）、س（Seen）、ش（Sheen）、ص（Sad）、ض（Dad）、ط（Ta）、ظ（Dha）、ف（Fa）、ق（Qaf）、ك（Kaf）",
+      "examples": [
+        {
+          "text": "جَنَّاتٍ تَجْرِي",
+          "gambar": "/quran/tajweed/pictures/5.14.jpg",
+          "suara": "/quran/tajweed/audio/5.14.mp3"
+        },
+        {
+          "text": "مِنْ ثَمَرٍ",
+          "gambar": "/quran/tajweed/pictures/5.15.jpg",
+          "suara": "/quran/tajweed/audio/5.15.mp3"
+        },
+        {
+          "text": "خَلْقٍ جَدِيدٍ",
+          "gambar": "/quran/tajweed/pictures/5.16.jpg",
+          "suara": "/quran/tajweed/audio/5.16.mp3"
+        },
+        {
+          "text": "أَندَادًا",
+          "gambar": "/quran/tajweed/pictures/5.17.jpg",
+          "suara": "/quran/tajweed/audio/5.17.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "轉換（Iqlab）—音轉換",
+      "definition": "當 ن 或 تنوين 後接 ب（Ba）時，將其音轉換為 م，並帶有 2-3 拍的鼻音化。",
+      "example": {
+        "text": "سَمِيعٌ بَصِيرٌ",
+        "gambar": "/quran/tajweed/pictures/5.29.jpg",
+        "suara": "/quran/tajweed/audio/5.29.mp3"
+      }
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "以下哪個短語正確應用了 Izhar 規則？",
+      "answers": [
+        {
+          "answer": "كُلٌّ ءَامَنَ",
+          "right": 1
+        },
+        {
+          "answer": "مَن يَقُولُ",
+          "right": 0
+        },
+        {
+          "answer": "جَنَّاتٍ تَجْرِي",
+          "right": 0
+        },
+        {
+          "answer": "سَمِيعٌ بَصِيرٌ",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "哪些字母觸發 G'unnah 的 Idgham 規則？",
+      "answers": [
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ي, ن, م, و",
+          "right": 1
+        },
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right": 0
+        },
+        {
+          "answer": "ت, ث, ج, د",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "當 ن 或 تنوين 後接 ب 時，應用哪個泰基德規則？",
+      "answers": [
+        {
+          "answer": "隱藏（Ikhfa）",
+          "right": 0
+        },
+        {
+          "answer": "轉換（Iqlab）",
+          "right": 1
+        },
+        {
+          "answer": "帶鼻音的融合（Idgham with Ghunnah）",
+          "right": 0
+        },
+        {
+          "answer": "顯露（Izhar）",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "在短語 'سَمِيعٌ بَصِيرٌ' 中，Tанوين 是如何發音的？",
+      "answers": [
+        {
+          "answer": "清晰發音，無任何轉換",
+          "right": 0
+        },
+        {
+          "answer": "轉換為 م 並帶有鼻音化",
+          "right": 1
+        },
+        {
+          "answer": "與 ب 融合但無鼻音化",
+          "right": 0
+        },
+        {
+          "answer": "柔化發音並帶鼻音化",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "哪些字母需要應用隱藏（Ikhfa）規則？",
+      "answers": [
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right": 0
+        },
+        {
+          "answer": "ت, ث, ج, د, ذ, ز, س, ش, ص, ض, ط, ظ, ف, ق, ك",
+          "right": 1
+        },
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ب",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "顯露（Izhar）與隱藏（Ikhfa）之間的區別是什麼？",
+      "answers": [
+        {
+          "answer": "Izhar 是清晰發音，而 Ikhfa 隱藏音並帶鼻音化。",
+          "right": 1
+        },
+        {
+          "answer": "Izhar 融合字母，而 Ikhfa 分開字母。",
+          "right": 0
+        },
+        {
+          "answer": "Izhar 使用鼻音化，而 Ikhfa 不使用鼻音化。",
+          "right": 0
+        },
+        {
+          "answer": "Izhar 僅適用於 تنوين，而 Ikhfa 僅適用於靜音 ن。",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "以下哪個短語展示了無鼻音的融合（Idgham without Ghunnah）？",
+      "answers": [
+        {
+          "answer": "مِن رَبِّهِمْ",
+          "right": 1
+        },
+        {
+          "answer": "مَن يَقُولُ",
+          "right": 0
+        },
+        {
+          "answer": "كُلٌّ ءَامَنَ",
+          "right": 0
+        },
+        {
+          "answer": "سَمِيعٌ بَصِيرٌ",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "在短語 'جَنَّاتٍ تَجْرِي' 中，Tанوين 是如何發音的？",
+      "answers": [
+        {
+          "answer": "清晰發音，無鼻音化",
+          "right": 0
+        },
+        {
+          "answer": "柔化音並帶有柔和的鼻音",
+          "right": 1
+        },
+        {
+          "answer": "與後續字母融合",
+          "right": 0
+        },
+        {
+          "answer": "轉換為 م 的音",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "短語 'مَن يَقُولُ' 中的泰基德規則是什麼？",
+      "answers": [
+        {
+          "answer": "顯露（Izhar）",
+          "right": 0
+        },
+        {
+          "answer": "帶鼻音的融合（Idgham with Ghunnah）",
+          "right": 1
+        },
+        {
+          "answer": "隱藏（Ikhfa）",
+          "right": 0
+        },
+        {
+          "answer": "轉換（Iqlab）",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "當靜音 ن 或 تنوين 後接以下哪些字母時需應用顯露（Izhar）規則？",
+      "answers": [
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right": 1
+        },
+        {
+          "answer": "ت, ث, ج, د, ذ, ز, س, ش, ص, ض, ط, ظ, ف, ق, ك",
+          "right": 0
+        },
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ب",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

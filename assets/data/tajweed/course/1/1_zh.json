@@ -1,0 +1,96 @@
+{
+  "id": 0,
+  "title": "自然延長 (Natural Madd)",
+  "desc1_desc": "Madd (مَدّ) 指的是「延長」或「拉長」聲音。當延長字母 (madd letter) 出現在帶有相應元音聲音的字母之後，會導致聲音被拉長。誦讀者需要將延長字母之前的字母延長兩拍，而一拍是發出一個不延長字母的時間。",
+  "desc2_title": "自然延長的例子",
+  "desc2_desc": "",
+  "Lesson number": 1,
+  "Quiz number": 5,
+  "Lessons": [
+    {
+      "id": 0,
+      "name": "基本延長 (Madd Asli)",
+      "pengertian": "自然延長分為三種類型：",
+      "categories": [
+        "字母 ا 和 Fatha 結合時。",
+        "字母 ي 和 Kasrah 結合時。",
+        "字母 و 和 Dhammah 結合時。"
+      ],
+      "examples": [
+        {
+          "withoutMadd": "مَ",
+          "withMadd": "مَا = مَ + ا",
+          "maddLetter": "ا",
+          "image": "1.02.jpg",
+          "audio": "1.02.mp3"
+        },
+        {
+          "withoutMadd": "مِ",
+          "withMadd": "مِي = مِ + ي",
+          "maddLetter": "ي",
+          "image": "1.04.jpg",
+          "audio": "1.04.mp3"
+        },
+        {
+          "withoutMadd": "مُ",
+          "withMadd": "مُو = مُ + و",
+          "maddLetter": "و",
+          "image": "1.06.jpg",
+          "audio": "1.06.mp3"
+        }
+      ]
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "如果一個帶有 Fatha 元音符號的字母遇到 ا，那麼誦讀者應該如何處理該字母？",
+      "answers": [
+        { "answer": "回聲 (قَلۡقَلَةۡ)", "right": 0 },
+        { "answer": "延長", "right": 1 },
+        { "answer": "縮短", "right": 0 },
+        { "answer": "跳過", "right": 0 }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "哪個詞正確地展示了自然延長？",
+      "answers": [
+        { "answer": "مَا", "right": 1 },
+        { "answer": "مُوَّ", "right": 0 },
+        { "answer": "مَاا", "right": 0 },
+        { "answer": "مِوِ", "right": 0 }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "以下規則都需要延長，除了……",
+      "answers": [
+        { "answer": "字母 ا 和 Fatha 結合", "right": 0 },
+        { "answer": "字母 ي 和 Kasrah 結合", "right": 0 },
+        { "answer": "字母 و 和 Dhammah 結合", "right": 0 },
+        { "answer": "字母 ي 和 Dhammah 結合", "right": 1 }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "以下哪個選項包含必須延長的字母？",
+      "answers": [
+        { "answer": "وَأَوۡفُوۡا", "right": 1 },
+        { "answer": "نَوۡمَكُمۡ", "right": 0 },
+        { "answer": "يُوَسۡوِسُ", "right": 0 },
+        { "answer": "يَوۡمِ", "right": 0 }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "在以下哪個詞中正確地應用了自然延長？",
+      "answers": [
+        { "answer": "مُو", "right": 1 },
+        { "answer": "مُووْ", "right": 0 },
+        { "answer": "مَ", "right": 0 },
+        { "answer": "مِووِ", "right": 0 }
+      ]
+    }
+  ]
+}

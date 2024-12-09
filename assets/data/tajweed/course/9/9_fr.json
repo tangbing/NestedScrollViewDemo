@@ -1,0 +1,213 @@
+{
+  "id": 8,
+  "title": "Techniques Avancées d'Idghaam",
+  "desc1_desc": "L'Idghaam se produit lorsque deux lettres se rencontrent lors de la récitation du Coran : la première lettre porte un soukoune (saakinah) et la deuxième est voyellée (fat-ha, kasrah ou dhammah). Cette technique vise à assurer fluidité et précision dans la récitation.",
+  "Lessons": [
+    {
+      "id": 0,
+      "name": "Lettres Identiques (المثلين)",
+      "pengertian": "Cette règle s'applique lorsque deux lettres consécutives sont identiques. La règle de l'Idghaam fusionne ces lettres en un seul son fluide. Si la lettre est ن (Noon) ou م (Meem), une ghunnah (nasalisation) est ajoutée pour 2 ou 3 temps.",
+      "examples": [
+        {
+          "text": "يَدْكُرُونَ",
+          "image": "901.jpg",
+          "audio": "901.mp3"
+        },
+        {
+          "text": "مَن يُنْصَرُ",
+          "image": "901.jpg",
+          "audio": "901.mp3"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Lettres avec Points d’Articulation Similaires (المتقاربين)",
+      "pengertian": "Cette règle s'applique lorsque deux lettres partagent un point d'articulation similaire mais diffèrent par leurs caractéristiques. L'Idghaam est appliqué pour assurer une assimilation harmonieuse.",
+      "examples": [
+        {
+          "text": "قَد تَّبَيَّنَ",
+          "image": "902.jpg",
+          "audio": "902.mp3"
+        },
+        {
+          "text": "أَثْقَلَت دَّعَوَا",
+          "image": "903.jpg",
+          "audio": "903.mp3"
+        },
+        {
+          "text": "إِذْ تَسْتَغْفِرُ",
+          "image": "904.jpg",
+          "audio": "904.mp3"
+        },
+        {
+          "text": "يَذْهَبْ بِهِمْ",
+          "image": "906.jpg",
+          "audio": "906.mp3"
+        },
+        {
+          "text": "يَلْهَثْ تَتْلُوهَا",
+          "image": "907.jpg",
+          "audio": "907.mp3"
+        },
+        {
+          "text": "أَلَمْ نَخْلُقكُّم",
+          "image": "908.jpg",
+          "audio": "908.mp3"
+        },
+        {
+          "text": "بَلْ رَفَعَهُ اللهُ",
+          "image": "909.jpg",
+          "audio": "909.mp3"
+        },
+        {
+          "text": "لَئِن بَسَطْتَ",
+          "image": "910.jpg",
+          "audio": "910.mp3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Lettres Proches en Points d’Articulation (المتقاربين)",
+      "pengertian": "Cette règle s'applique lorsque les lettres ont des points d'articulation proches mais des caractéristiques différentes. En général, la règle de l'Idh-haar (prononciation claire) s'applique.",
+      "examples": [
+        {
+          "text": "قُلْ رَبِّ",
+          "image": "911.jpg",
+          "audio": "911.mp3"
+        },
+        {
+          "text": "أَلَمْ نَخْلُقكُّم",
+          "image": "912.jpg",
+          "audio": "912.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Lettres Éloignées en Points d’Articulation (المتباعدين)",
+      "pengertian": "Cette règle s'applique lorsque les lettres diffèrent considérablement par leurs points d'articulation et leurs caractéristiques. La règle de l'Idh-haar est toujours appliquée.",
+      "examples": [
+        {
+          "text": "فَسَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+          "image": "913.jpg",
+          "audio": "913.mp3"
+        }
+      ]
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "Comment appliquer l'Idghaam dans la phrase : وَقَد دَّخَلُوا بِٱلۡكُفۡرِ وَهُمۡ قَدۡ خَرَجُواۡ بِهِ?",
+      "answers": [
+        {
+          "answer": "Fusionner قَد et دَّ en un seul son avec emphase",
+          "right": 1
+        },
+        {
+          "answer": "Prononcer قَد et دَّ séparément",
+          "right": 0
+        },
+        {
+          "answer": "Ignorer la prononciation de دَّ",
+          "right": 0
+        },
+        {
+          "answer": "Allonger قَد pour 6 temps",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Comment appliquer l'Idghaam dans la phrase : وَلَكُمۡ مَّاكَسَبۡتُمۡ?",
+      "answers": [
+        {
+          "answer": "Fusionner وَلَكُمۡ et مَّاكَسَبۡتُمۡ avec une nasalisation",
+          "right": 1
+        },
+        {
+          "answer": "Prononcer chaque mot séparément",
+          "right": 0
+        },
+        {
+          "answer": "Ignorer la prononciation de مَّاكَسَبۡتُمۡ",
+          "right": 0
+        },
+        {
+          "answer": "Allonger وَلَكُمۡ pour 6 temps",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Comment appliquer l'Idghaam dans la phrase : أَثۡقَلَتۡ دَّعَوَا?",
+      "answers": [
+        {
+          "answer": "Fusionner أَثۡقَلَتۡ et دَّعَوَا avec une nasalisation",
+          "right": 1
+        },
+        {
+          "answer": "Prononcer أَثۡقَلَتۡ et دَّعَوَا séparément",
+          "right": 0
+        },
+        {
+          "answer": "Ignorer la prononciation de دَّعَوَا",
+          "right": 0
+        },
+        {
+          "answer": "Allonger أَثۡقَلَتۡ pour 6 temps",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "Quizs": [
+    {
+      "id": 3,
+      "question": "Comment appliquer l'Idghaam lorsque des lettres identiques sont réunies lors de la récitation ?",
+      "answers": [
+        {
+          "answer": "Les lettres sont fusionnées en douceur avec une ghunnah si nécessaire",
+          "right": 1
+        },
+        {
+          "answer": "Les lettres sont prononcées de manière distincte",
+          "right": 0
+        },
+        {
+          "answer": "La première lettre est ignorée",
+          "right": 0
+        },
+        {
+          "answer": "La récitation est allongée jusqu'à 6 temps",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Lequel des exemples suivants est une application correcte de l'Idh-haar ?",
+      "answers": [
+        {
+          "answer": "فَسَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+          "right": 1
+        },
+        {
+          "answer": "قَد تَّبَيَّنَ",
+          "right": 0
+        },
+        {
+          "answer": "وَلَكُمۡ مَّاكَسَبۡتُمۡ",
+          "right": 0
+        },
+        {
+          "answer": "أَثۡقَلَتۡ دَّعَوَا",
+          "right": 0
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,3324 @@
+[
+  {
+    "id": 0,
+    "course": "Буквы",
+    "feature": "",
+    "desc": "fatha = Sukun + a；kasra = Sukun  + i；damma = Sukun + u",
+    "Lesson number": 12,
+    "Lessons": [
+      {
+        "id": 0,
+        "title": "Урок 1(أ）",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "أْ",
+            "pronounce": "e"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "أَ",
+            "pronounce": "a"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "إِ",
+            "pronounce": "i"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "أُ",
+            "pronounce": "u"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Урок 2(ب ت ث）",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "بْ",
+            "pronounce": "b"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "بَ",
+            "pronounce": "ba"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "بِ",
+            "pronounce": "bi"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "بُ",
+            "pronounce": "bu"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "تْ",
+            "pronounce": "t"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "تَ",
+            "pronounce": "ta"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "تِ",
+            "pronounce": "ti"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "تُ",
+            "pronounce": "tu"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "ثْ",
+            "pronounce": "th"
+          },
+          {
+            "audio": "",
+            "id": 9,
+            "arabic": "ثَ",
+            "pronounce": "tha"
+          },
+          {
+            "audio": "",
+            "id": 10,
+            "arabic": "ثِ",
+            "pronounce": "thi"
+          },
+          {
+            "audio": "",
+            "id": 11,
+            "arabic": "ثُ",
+            "pronounce": "thu"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Урок 3(ج ح خ）",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "جْ",
+            "pronounce": "j"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "جَ",
+            "pronounce": "ja"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "جِ",
+            "pronounce": "ji"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "جُ",
+            "pronounce": "ju"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "حْ",
+            "pronounce": "h"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "حَ",
+            "pronounce": "ha"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "حِ",
+            "pronounce": "hi"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "حُ",
+            "pronounce": "hu"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "خْ",
+            "pronounce": "Kh"
+          },
+          {
+            "audio": "",
+            "id": 9,
+            "arabic": "خَ",
+            "pronounce": "Kha"
+          },
+          {
+            "audio": "",
+            "id": 10,
+            "arabic": "خِ",
+            "pronounce": "Khi"
+          },
+          {
+            "audio": "",
+            "id": 11,
+            "arabic": "خُ",
+            "pronounce": "Khu"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Урок 4(د ذ）",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "دْ",
+            "pronounce": "d"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "دَ",
+            "pronounce": "da"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "دِ",
+            "pronounce": "di"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "دُ",
+            "pronounce": "du"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "ذْ",
+            "pronounce": "dh"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "ذَ",
+            "pronounce": "dha"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "ذِ",
+            "pronounce": "dhi"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "ذُ",
+            "pronounce": "dhu"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Урок 5(ر ز）",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "رْ",
+            "pronounce": "r"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "رَ",
+            "pronounce": "ra"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "رِ",
+            "pronounce": "ri"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "رُ",
+            "pronounce": "ru"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "زْ",
+            "pronounce": "z"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "زَ",
+            "pronounce": "za"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "زِ",
+            "pronounce": "zi"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "زُ",
+            "pronounce": "zu"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Урок 6(س ش）",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "سْ",
+            "pronounce": "s"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "سَ",
+            "pronounce": "sa"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "سِ",
+            "pronounce": "si"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "سُ",
+            "pronounce": "su"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "شْ",
+            "pronounce": "sh"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "شَ",
+            "pronounce": "sha"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "شِ",
+            "pronounce": "shi"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "شُ",
+            "pronounce": "shu"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Урок 7(ص ض）",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "صْ",
+            "pronounce": "Su"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "صَ",
+            "pronounce": "Sua"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "صِ",
+            "pronounce": "Sui"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "صُ",
+            "pronounce": "Suu"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "ضْ",
+            "pronounce": "Du"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "ضَ",
+            "pronounce": "Dua"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "ضِ",
+            "pronounce": "Dui"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "ضُ",
+            "pronounce": "Duu"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Урок 8（ط ظ）",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "طْ",
+            "pronounce": "Tu"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "طَ",
+            "pronounce": "Tua"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "طِ",
+            "pronounce": "Tui"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "طُ",
+            "pronounce": "Tuu"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "ظْ",
+            "pronounce": "Dhu"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "ظَ",
+            "pronounce": "Dhua"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "ظِ",
+            "pronounce": "Dhui"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "ظُ",
+            "pronounce": "Dhuu"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Урок 9(ع غ）",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "عْ",
+            "pronounce": "'a"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "عَ",
+            "pronounce": "'aa"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "عِ",
+            "pronounce": "'ai"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "عُ",
+            "pronounce": "'au"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "غْ",
+            "pronounce": "Gh"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "غَ",
+            "pronounce": "Gha"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "غِ",
+            "pronounce": "Ghi"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "غُ",
+            "pronounce": "Ghu"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Урок 10(ف ق ك）",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "فْ",
+            "pronounce": "f"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "فَ",
+            "pronounce": "fa"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "فِ",
+            "pronounce": "fi"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "فُ",
+            "pronounce": "fu"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "قْ",
+            "pronounce": "Q"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "قَ",
+            "pronounce": "Qa"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "قِ",
+            "pronounce": "Qi"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "قُ",
+            "pronounce": "Qu"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "كْ",
+            "pronounce": "k"
+          },
+          {
+            "audio": "",
+            "id": 9,
+            "arabic": "كَ",
+            "pronounce": "ka"
+          },
+          {
+            "audio": "",
+            "id": 10,
+            "arabic": "كِ",
+            "pronounce": "ki"
+          },
+          {
+            "audio": "",
+            "id": 11,
+            "arabic": "كُ",
+            "pronounce": "ku"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Урок 11(ل م ن）",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "لْ",
+            "pronounce": "l"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "لَ",
+            "pronounce": "la"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "لِ",
+            "pronounce": "li"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "لُ",
+            "pronounce": "lu"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "مْ",
+            "pronounce": "m"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "مَ",
+            "pronounce": "ma"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "مِ",
+            "pronounce": "mi"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "مُ",
+            "pronounce": "mu"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "نْ",
+            "pronounce": "n"
+          },
+          {
+            "audio": "",
+            "id": 9,
+            "arabic": "نَ",
+            "pronounce": "na"
+          },
+          {
+            "audio": "",
+            "id": 10,
+            "arabic": "نِ",
+            "pronounce": "ni"
+          },
+          {
+            "audio": "",
+            "id": 11,
+            "arabic": "نُ",
+            "pronounce": "nu"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Урок 12(ه و ي）",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "هْ",
+            "pronounce": "H"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "هَ",
+            "pronounce": "Ha"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "هِ",
+            "pronounce": "Hi"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "هُ",
+            "pronounce": "Hu"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "وْ",
+            "pronounce": "w"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "وَ",
+            "pronounce": "wa"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "وِ",
+            "pronounce": "wi"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "وُ",
+            "pronounce": "wu"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "يْ",
+            "pronounce": "y"
+          },
+          {
+            "audio": "",
+            "id": 9,
+            "arabic": "يَ",
+            "pronounce": "ya"
+          },
+          {
+            "audio": "",
+            "id": 10,
+            "arabic": "يِ",
+            "pronounce": "yi"
+          },
+          {
+            "audio": "",
+            "id": 11,
+            "arabic": "يُ",
+            "pronounce": "yu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "course": "2 буквы",
+    "feature": "Одна харакат и сукун",
+    "desc": "Короткий слог, за которым следует сукун, образует двусложное слово, с ударением на подвижном слоге. Например: أَمْ شِبْ ",
+    "Lesson number": 12,
+    "Lessons": [
+      {
+        "id": 0,
+        "title": "Урок 1",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "أَبْ",
+            "pronounce": "ab"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "إِبْ",
+            "pronounce": "ib"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "أُبْ",
+            "pronounce": "ub"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "لَزْ",
+            "pronounce": "laz"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "لِزْ",
+            "pronounce": "liz"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "لُزْ",
+            "pronounce": "luz"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Урок 2",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "بَدْ",
+            "pronounce": "bad"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "بِدْ",
+            "pronounce": "bid"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "بُدْ ",
+            "pronounce": "bud"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "تَرْ ",
+            "pronounce": "tar"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "تِرْ",
+            "pronounce": "tir"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "تُرْ",
+            "pronounce": "tur"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "ثَلْ ",
+            "pronounce": "thal"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "ثِلْ",
+            "pronounce": "thil"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "ثُلْ",
+            "pronounce": "thul"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Урок 3",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "جَمْ ",
+            "pronounce": "jam"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "جِمْ ",
+            "pronounce": "jim"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "جُمْ ",
+            "pronounce": "jum"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "حَصْ ",
+            "pronounce": "haṣu"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "حِصْ ",
+            "pronounce": "hiṣu"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "حُصْ ",
+            "pronounce": "huṣu"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "خَتْ ",
+            "pronounce": "khat"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "خِتْ ",
+            "pronounce": "khit"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "خُتْ ",
+            "pronounce": "khut"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Урок 4",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "دَقْ ",
+            "pronounce": "daq"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "دِقْ ",
+            "pronounce": "diq"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "دُقْ ",
+            "pronounce": "duq"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "ذَرْ ",
+            "pronounce": "dhar"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "ذِرْ ",
+            "pronounce": "dhir"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "ذُرْ ",
+            "pronounce": "dhur"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Урок 5",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "رَسْ ",
+            "pronounce": "ras"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "رِسْ ",
+            "pronounce": "ris"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "رُسْ ",
+            "pronounce": "rus"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "زَكْ ",
+            "pronounce": "zak"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "زِكْ ",
+            "pronounce": "zik"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "زُكْ ",
+            "pronounce": "zuk"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Урок 6",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "سَفْ ",
+            "pronounce": "saf"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "سِفْ ",
+            "pronounce": "sif"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "سُفْ ",
+            "pronounce": "suf"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "شَطْ ",
+            "pronounce": "shaṭu"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "شِطْ ",
+            "pronounce": "shiṭu"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "شُطْ ",
+            "pronounce": "shuṭu"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Урок 7",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "صَبْ ",
+            "pronounce": "ṣuab"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "صِبْ ",
+            "pronounce": "ṣuib"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "صُبْ ",
+            "pronounce": "ṣuub"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "ضَحْ ",
+            "pronounce": "ḍuaḥ"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "ضِحْ ",
+            "pronounce": "ḍuiḥ"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "ضُحْ ",
+            "pronounce": "ḍuuh"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Урок 8",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "طَبْ ",
+            "pronounce": "ṭuab"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "طِبْ ",
+            "pronounce": "ṭuib"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "طُبْ ",
+            "pronounce": "ṭuub"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "ظَفْ ",
+            "pronounce": "ẓuaf"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "ظِفْ ",
+            "pronounce": "ẓuif"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "ظُفْ ",
+            "pronounce": "ẓuuf"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Урок 9",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "عَقْ",
+            "pronounce": "‘aq"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "عِقْ ",
+            "pronounce": "‘iq"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "عُقْ",
+            "pronounce": "‘uq"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "غَمْ",
+            "pronounce": "gham"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "غِمْ ",
+            "pronounce": "ghim"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "غُمْ ",
+            "pronounce": "ghum"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Урок 10",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "فَلْ",
+            "pronounce": "fal"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "فِلْ ",
+            "pronounce": "fil"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "فُلْ ",
+            "pronounce": "ful"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "قَبْ ",
+            "pronounce": "qab"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "قِبْ ",
+            "pronounce": "qib"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "قُبْ ",
+            "pronounce": "qub"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "كَتْ ",
+            "pronounce": "kat"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "كِتْ ",
+            "pronounce": "kit"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "كُتْ ",
+            "pronounce": "kut"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Урок 11",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "مَرْ",
+            "pronounce": "mar"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "مِرْ",
+            "pronounce": "mir"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "مُرْ ",
+            "pronounce": "mur"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "نَصْ ",
+            "pronounce": "naṣu"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "نِصْ ",
+            "pronounce": "niṣu"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "نُصْ ",
+            "pronounce": "nuṣu"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Урок 12",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "هَوْ ",
+            "pronounce": "haw"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "هِوْ ",
+            "pronounce": "hiw"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "هُوْ ",
+            "pronounce": "huw"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "وَدْ ",
+            "pronounce": "wad"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "وِدْ ",
+            "pronounce": "wid"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "وُدْ ",
+            "pronounce": "wud"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "يَسْ ",
+            "pronounce": "yas"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "يِسْ ",
+            "pronounce": "yis"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "يُسْ ",
+            "pronounce": "yus"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "course": "практика نْ",
+    "feature": "",
+    "desc": "Специальный случай: Когда встречается نْ, предшествующий слог акцентируется с гунной, как в: أَنْ (An), مَنْ (Man)",
+    "Lesson number": 3,
+    "Lessons": [
+      {
+        "id": 0,
+        "title": "Урок 1",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "تَنْ ",
+            "pronounce": "tan"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "جَنْ",
+            "pronounce": "jan"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "دَنْ",
+            "pronounce": "dan"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "وَنْ",
+            "pronounce": "wan"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Урок 2",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "ثِنْ",
+            "pronounce": "thin"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "ذِنْ",
+            "pronounce": "dhin"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "شِنْ ",
+            "pronounce": "shin"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "فِنْ ",
+            "pronounce": "fin"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Урок 3",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "قُنْ",
+            "pronounce": "qun"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "هُنْ ",
+            "pronounce": "hun"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "سُنْ ",
+            "pronounce": "sun"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "يُنْ ",
+            "pronounce": "yun"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "course": "2-буквенные слова",
+    "feature": "",
+    "desc": "Сложение из двух коротких слогов, при этом первый слог подчеркивается, именуемым 'ташдид' на первом.",
+    "Lesson number": 10,
+    "Lessons": [
+      {
+        "id": 0,
+        "title": "Урок 1",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "هُوَ",
+            "pronounce": "huwa"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "مَعَ",
+            "pronounce": "ma'a"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "لِمَ",
+            "pronounce": "lima"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "أَبُ",
+            "pronounce": "abu"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Урок 2",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "إِذَ",
+            "pronounce": "idha"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "دُعَ",
+            "pronounce": "du'a"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "هَدَ",
+            "pronounce": "hada"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "أَنَ",
+            "pronounce": "ana"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Урок 3",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "مِنَ",
+            "pronounce": "mina"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "غَدَ",
+            "pronounce": "ghada"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "كُلُ",
+            "pronounce": "kulu"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "فَلَ",
+            "pronounce": "fala"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Урок 4",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "رَضُ",
+            "pronounce": "radu"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "إِلَ",
+            "pronounce": "ila"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "بِلَ",
+            "pronounce": "bila"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "قُلُ",
+            "pronounce": "qulu"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Урок 5",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "إِنِ",
+            "pronounce": "ini"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "عَلَ",
+            "pronounce": "'ala"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "رَمِ",
+            "pronounce": "rami"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "دَمُ",
+            "pronounce": "damu"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Урок 6",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "لَكَ",
+            "pronounce": "laka"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "بِكِ",
+            "pronounce": "biki"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "فِرُ",
+            "pronounce": "firu"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "كُمُ",
+            "pronounce": "kumu"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Урок 7",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "فَلَ",
+            "pronounce": "fala"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "هِيَ",
+            "pronounce": "hiya"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "لَكَ",
+            "pronounce": "laka"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "وَلِ",
+            "pronounce": "wali"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Урок 8",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "لَكِ",
+            "pronounce": "laki"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "هُمُ",
+            "pronounce": "humu"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "وَلَ",
+            "pronounce": "wala"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "لِيَ",
+            "pronounce": "liya"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Урок 9",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "فَهُ",
+            "pronounce": "fahu"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "لَنَ",
+            "pronounce": "lana"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "بَنَ",
+            "pronounce": "bana"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "كُمِ",
+            "pronounce": "kumi"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Урок 10",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "بِكَ",
+            "pronounce": "bika"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "فَزَ",
+            "pronounce": "faza"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "قَلَ",
+            "pronounce": "qala"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "صَحُ",
+            "pronounce": "sahu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "course": "3-буквенные слова",
+    "feature": "",
+    "desc": "Слово, состоящее из трех харакат, с акцентом на среднюю букву, известное как 'мадд'.",
+    "Lesson number": 10,
+    "Lessons": [
+      {
+        "id": 0,
+        "title": "Урок 1",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "أَمِنَ",
+            "pronounce": "amina"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "بِكُمُ",
+            "pronounce": "bikumu"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "تَلِيَ",
+            "pronounce": "taliya"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "ثَبَتَ",
+            "pronounce": "thabata"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Урок 2",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "جُعِلَ",
+            "pronounce": "ju'ila"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "حَمَدَ",
+            "pronounce": "hamada"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "هُدِيَ",
+            "pronounce": "hudiya"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "خُلِدَ",
+            "pronounce": "khulida"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Урок 3",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "دَفَعَ",
+            "pronounce": "dafa'a"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "ذَنُبَ",
+            "pronounce": "dhanuba"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "رَفَعَ",
+            "pronounce": "rafa'a"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "عَلِمَ",
+            "pronounce": "'alima"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Урок 4",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "غَفَرَ",
+            "pronounce": "ghafara"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "فَعَلَ",
+            "pronounce": "fa'ala"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "قَنَطُ",
+            "pronounce": "qanatu"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "كَتَبَ",
+            "pronounce": "kataba"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Урок 5",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "ضُرِبَ",
+            "pronounce": "duriba"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "طَبَعَ",
+            "pronounce": "taba'a"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "ظَلَمَ",
+            "pronounce": "dhalama"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "زَبَدَ",
+            "pronounce": "zabada"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Урок 6",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "لَهُمُ",
+            "pronounce": "lahumu"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "مَنَعَ",
+            "pronounce": "mana'a"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "نَفَلَ",
+            "pronounce": "nafala"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "وَهُوَ",
+            "pronounce": "wahuwa"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Урок 7",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "أَنَسَ",
+            "pronounce": "anasa"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "يَرَمَ",
+            "pronounce": "yarama"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "عَلِمَ",
+            "pronounce": "'alima"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "بَصَرَ",
+            "pronounce": "basara"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Урок 8",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "رَغَبَ",
+            "pronounce": "raghaba"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "رَهَبَ",
+            "pronounce": "rahaba"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "حَسَنَ",
+            "pronounce": "hasana"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "صَلَحَ",
+            "pronounce": "salaha"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Урок 9",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "رَحِمَ",
+            "pronounce": "rahima"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "مَلِكِ",
+            "pronounce": "maliki"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "عَبَدَ",
+            "pronounce": "'abada"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "هَجَرَ",
+            "pronounce": "hajara"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Урок 10",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "بَلَدَ",
+            "pronounce": "balada"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "فَلَقَ",
+            "pronounce": "falaqa"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "أَحَدُ",
+            "pronounce": "ahadu"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "صَمَدُ",
+            "pronounce": "samadu"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "course": "мадд",
+    "feature": "Мадд: фатха с алиф = фатха + ا; Я с касрой = касра + и; Вау с даммой = дамма + у",
+    "desc": "произношение мадд = продление произношения короткого гласного на три счета, называемое 'мадд'.و",
+    "Lesson number": 3,
+    "Lessons": [
+      {
+        "id": 0,
+        "title": "Урок 1",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "آ",
+            "pronounce": "ā"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "بَا ",
+            "pronounce": "bā"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "تَا ",
+            "pronounce": "tā"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "ثَا ",
+            "pronounce": "thā"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "جَا ",
+            "pronounce": "jā"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "حَا ",
+            "pronounce": "ḥā"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "خَا ",
+            "pronounce": "khā"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "دَا ",
+            "pronounce": "dā"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "ذَا ",
+            "pronounce": "dhā"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Урок 2",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "رِي ",
+            "pronounce": "rī"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "زِي ",
+            "pronounce": "zī"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "سِي ",
+            "pronounce": "sī"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "شِي ",
+            "pronounce": "shī"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "صِي ",
+            "pronounce": "ṣuī"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "ضِي ",
+            "pronounce": "ḍuī"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "طِي ",
+            "pronounce": "ṭuī"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "ظِي ",
+            "pronounce": "ẓuī"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "نِي ",
+            "pronounce": "nī"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Урок 3",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "عُو ",
+            "pronounce": "‘ū"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "غُو ",
+            "pronounce": "ghū"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "فُو ",
+            "pronounce": "fū"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "قُو ",
+            "pronounce": "qū"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "كُو ",
+            "pronounce": "kū"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "لُو ",
+            "pronounce": "lū"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "مُو ",
+            "pronounce": "mū"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "هُو ",
+            "pronounce": "hū"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "وُو ",
+            "pronounce": "wū"
+          },
+          {
+            "audio": "",
+            "id": 9,
+            "arabic": "يُو ",
+            "pronounce": "yū"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "course": "Танвин",
+    "feature": "",
+    "desc": "Фатхатаин = Фатха + نْ, Касратайн = Касра + نْ, Дамматан = Дамма + نْ",
+    "Lesson number": 9,
+    "Lessons": [
+      {
+        "id": 0,
+        "title": "Урок 1 (Танвин UN)",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "بٌ",
+            "pronounce": "bun"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "تٌ",
+            "pronounce": "tun"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "ثٌ",
+            "pronounce": "thun"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "جٌ",
+            "pronounce": "jun"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "حٌ",
+            "pronounce": "hun"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "خٌ",
+            "pronounce": "khun"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "دٌ",
+            "pronounce": "dun"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "ذٌ",
+            "pronounce": "dhun"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "رٌ",
+            "pronounce": "run"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Урок 2 (Танвин AN)",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "زً",
+            "pronounce": "zan"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "سً",
+            "pronounce": "san"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "شً",
+            "pronounce": "shan"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "صً",
+            "pronounce": "San"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "ضً",
+            "pronounce": "Dan"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "طً",
+            "pronounce": "Tan"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "ظً",
+            "pronounce": "Dhan"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "عً",
+            "pronounce": "'an"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "غً",
+            "pronounce": "Ghan"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Урок 3 (Танвин IN)",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "فٍ",
+            "pronounce": "fin"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "قٍ",
+            "pronounce": "Qin"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "كٍ",
+            "pronounce": "kin"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "لٍ",
+            "pronounce": "lin"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "مٍ",
+            "pronounce": "min"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "نٍ",
+            "pronounce": "nin"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "هٍ",
+            "pronounce": "Hin"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "وٍ",
+            "pronounce": "win"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "يٍ",
+            "pronounce": "yin"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Урок 4 (Обзор и практика)",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "حً",
+            "pronounce": "han"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "شً",
+            "pronounce": "shan"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "جٌ",
+            "pronounce": "jun"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "زٍ",
+            "pronounce": "zin"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "صٍ",
+            "pronounce": "Sin"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "سٌ",
+            "pronounce": "sun"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "ضٌ",
+            "pronounce": "Dun"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "رً",
+            "pronounce": "ran"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "خٍ",
+            "pronounce": "khin"
+          },
+          {
+            "audio": "",
+            "id": 9,
+            "arabic": "ذٌ",
+            "pronounce": "dhun"
+          },
+          {
+            "audio": "",
+            "id": 10,
+            "arabic": "عٌ",
+            "pronounce": "'un"
+          },
+          {
+            "audio": "",
+            "id": 11,
+            "arabic": "ظٍ",
+            "pronounce": "Dhin"
+          },
+          {
+            "audio": "",
+            "id": 12,
+            "arabic": "طً",
+            "pronounce": "Tan"
+          },
+          {
+            "audio": "",
+            "id": 13,
+            "arabic": "إً",
+            "pronounce": "i'an"
+          },
+          {
+            "audio": "",
+            "id": 14,
+            "arabic": "غً",
+            "pronounce": "Ghan"
+          },
+          {
+            "audio": "",
+            "id": 15,
+            "arabic": "بٍ",
+            "pronounce": "bin"
+          },
+          {
+            "audio": "",
+            "id": 16,
+            "arabic": "أٌ",
+            "pronounce": "a'un"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Урок 5 (Двухбуквенные слова с Танвином)",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "أَبٌ",
+            "pronounce": "abun"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "تُزًا",
+            "pronounce": "tuzan"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "رُمٍ",
+            "pronounce": "rumin"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "بِنٌ",
+            "pronounce": "binun"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "دَجًا",
+            "pronounce": "dajan"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "سُحٍ",
+            "pronounce": "suHin"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "فَقٌ",
+            "pronounce": "faqun"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "كُلًا",
+            "pronounce": "kulan"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "مَنٍ",
+            "pronounce": "manin"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Урок 6 (Двухбуквенные слова с Танвином)",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "نَجٌ",
+            "pronounce": "najun"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "هُزًا",
+            "pronounce": "huzan"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "يُدٍ",
+            "pronounce": "yudin"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "ثَلٌ",
+            "pronounce": "thalun"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "خُبًا",
+            "pronounce": "khuban"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "شُرٍ",
+            "pronounce": "shurin"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "صَفٌ",
+            "pronounce": "Safun"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "ضُوًا",
+            "pronounce": "Duwan"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "طَمٍ",
+            "pronounce": "Tamin"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Урок 7 (Двухбуквенные слова с Танвином)",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "ظَقٌ",
+            "pronounce": "Dhaqun"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "غُمًا",
+            "pronounce": "Ghuman"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "ءَتٍ",
+            "pronounce": "'atin"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "فَوٌ",
+            "pronounce": "fawun"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "قُيًا",
+            "pronounce": "Quyan"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "كُزٍ",
+            "pronounce": "kuzin"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "لَبٌ",
+            "pronounce": "labun"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "مُجًا",
+            "pronounce": "mujan"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "نَحٍ",
+            "pronounce": "nahin"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Урок 8 (Двухбуквенные слова с Танвином)",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "بَكَرٌ",
+            "pronounce": "bakarun"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "جِمَعًا",
+            "pronounce": "jima'an"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "خَلَقٍ",
+            "pronounce": "khalaqin"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "دَرَسٌ",
+            "pronounce": "darasun"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "زُرَعًا",
+            "pronounce": "zura'an"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "سَمِعٍ",
+            "pronounce": "sami'in"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "شَرَكٌ",
+            "pronounce": "sharakun"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "صَلَحًا",
+            "pronounce": "salahan"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "ضَرَبٍ",
+            "pronounce": "darabin"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Урок 9 (Двухбуквенные слова с Танвином)",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "طَبَخٌ",
+            "pronounce": "tabakhun"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "ظَلَمًا",
+            "pronounce": "zhalaman"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "عَلَقٍ",
+            "pronounce": "'alaqin"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "غَنَىٌ",
+            "pronounce": "ghanayun"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "فَتَحًا",
+            "pronounce": "fatahan"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "قَدَمٍ",
+            "pronounce": "qadamin"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "كَسَبٌ",
+            "pronounce": "kasabun"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "لَمَسًا",
+            "pronounce": "lamasan"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "مَنَعٍ",
+            "pronounce": "mana'in"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "course": "Шадда",
+    "feature": "При произнесении быстро повторите букву с шаддой дважды подряд, сначала с сукун, а затем с харекой.",
+    "desc": "Шадда = та же буква (Сукун + Харека) например: قَلَّ = قَ + لْ + لَ",
+    "Lesson number": 3,
+    "Lessons": [
+      {
+        "id": 0,
+        "title": "Урок 1",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "بَدَّ",
+            "pronounce": "badda"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "فَلَّ",
+            "pronounce": "Falla"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "حَجَّ",
+            "pronounce": "Hajja"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "هَمَّ",
+            "pronounce": "Hamma"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "وَقَّ ",
+            "pronounce": "Waqqa"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Урок 2",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "جَمَّعَ",
+            "pronounce": "Jamma‘a"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "عَلَّمَ",
+            "pronounce": "‘Allama"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "بَلَّلَ",
+            "pronounce": "Ballala"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "مُدَّةٌ ",
+            "pronounce": "Muddatun"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "مُرَكٌّ",
+            "pronounce": "Murakkun"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Урок 3",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "تَحَقَّقَ ",
+            "pronounce": "Tahaqqaqa"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "تَجَمَّلَ",
+            "pronounce": "Tajammala"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "مُكَرِّمٌ",
+            "pronounce": "Mukarrimun"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "مُشَدَّدٌ",
+            "pronounce": "Mushaddadun"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "مُتَعَلِّمٌ",
+            "pronounce": "Muta‘allimun"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "مُتَفَكِّرٌ",
+            "pronounce": "Muta'fakkirun"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "course": "Сокращенные удлинения",
+    "feature": "",
+    "desc": "مُدَرِّسٌ (Mudarrisun), جَمَّالٌ (Jammālun), رَكَّبَ (Rakkaba), شَدَّةٌ (Shaddatun), مَكَّةُ (Makkatu), سَبَّحَ (Sabbaha), عَلَّمَ (‘Allama), حَبَّةٌ (Habbatun), بَلَّلَ (Ballala), تَدَرُّبٌ (Tadarrubun), مُتَحَمِّسٌ (Mutahammisun), قِفَّةٌ (Qiffatun), وَلَّى (Wallā), دَفَّاعٌ (Daffā‘un), كَرَّارٌ (Karrārun), فَرَّاشٌ (Farrāshun), أَحَلَّ (Aḥalla), بَرِّيٌّ (Barriyyun), مَسَّاحَةٌ (Massāḥatun), صُدَّامٌ (Suddāmun), حَجٌّ (Ḥajjun), بَدٌّ (Baddun), خَلٌّ (Khallun), رَدٌّ (Raddun), جَدٌّ (Jaddun), وَقٌّ (Waqqu), فَلٌّ (Fallun), دَمٌّ (Dammun), سَبٌّ (Sabbun), وَدٌّ (Waddun).",
+    "Lesson number": 4,
+    "Lessons": [
+      {
+        "id": 0,
+        "title": "Урок 1 (Удлинение с Альфой)",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "بَابٌ",
+            "pronounce": "baabun"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "نَامَ",
+            "pronounce": "naama"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "رَاحَ",
+            "pronounce": "raaha"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "جَارٌ",
+            "pronounce": "jaarun"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "شَارَعٌ",
+            "pronounce": "shaara'un"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "فَاكِهَةٌ",
+            "pronounce": "faakiha"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "قَالَ",
+            "pronounce": "qaala"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "مَاءٌ",
+            "pronounce": "maa'un"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "فَارَسٌ",
+            "pronounce": "faarasun"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Урок 2 (Удлинение с Вавом)",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "رُومِ",
+            "pronounce": "roomi"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "سُوقٌ",
+            "pronounce": "suuqun"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "هُوَ",
+            "pronounce": "huwa"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "يُوسُفَ",
+            "pronounce": "yoosefa"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "بُوَ",
+            "pronounce": "buwa"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "قُوتُ",
+            "pronounce": "quutu"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "نُوحٌ",
+            "pronounce": "noohun"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "مُوزٌ",
+            "pronounce": "moozun"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Урок 3 (Удлинение с Я)",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "بِيتٌ",
+            "pronounce": "beetun"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "نِيَةٌ",
+            "pronounce": "niyatun"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "عِيدٌ",
+            "pronounce": "'eedun"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "مِيلٌ",
+            "pronounce": "meelun"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "فِيهِ",
+            "pronounce": "feehi"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "سِينٌ",
+            "pronounce": "seenun"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "حِيَةٌ",
+            "pronounce": "hiyatun"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Урок 4 (Смешанная практика удлинений)",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "خَالِيَةٌ",
+            "pronounce": "khaaliyatun"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "سُوقٌ",
+            "pronounce": "suuqun"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "عَامَ",
+            "pronounce": "aama"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "وُضُوءٌ",
+            "pronounce": "wuDu"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "نُورٌ",
+            "pronounce": "noorun"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "زِيَارَةٌ",
+            "pronounce": "ziyaaratun"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "مَالِيَةٌ",
+            "pronounce": "maaliyatun"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "course": "Сукун",
+    "feature": "",
+    "desc": "Когда двухсложное слово, состоящее из короткой гласной (харека) и беззвучной согласной (сукун), сочетается с другой короткой гласной, двухсложное слово подчеркивается.",
+    "Lesson number": 2,
+    "Lessons": [
+      {
+        "id": 0,
+        "title": "Урок 1 (Сукун Урок 1)",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "أَمْسِ",
+            "pronounce": "amsi"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "يَدْعُ",
+            "pronounce": "yad'u"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "بَرْزَ",
+            "pronounce": "barza"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "سَمْعَ",
+            "pronounce": "sam'a"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "حَرْفٌ",
+            "pronounce": "harfun"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "صَدْقٌ",
+            "pronounce": "sadqun"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "أَنْشَ",
+            "pronounce": "ansha"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "لَبْنٌ",
+            "pronounce": "labnun"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "حَرْمٌ",
+            "pronounce": "harmun"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Урок 2 (Сукун Урок 2)",
+        "content": [
+          {
+            "audio": "",
+            "id": 0,
+            "arabic": "لَمْسٌ",
+            "pronounce": "lamsun"
+          },
+          {
+            "audio": "",
+            "id": 1,
+            "arabic": "رَمْلٌ",
+            "pronounce": "ramlun"
+          },
+          {
+            "audio": "",
+            "id": 2,
+            "arabic": "شَمْسٌ",
+            "pronounce": "shamsun"
+          },
+          {
+            "audio": "",
+            "id": 3,
+            "arabic": "سَكْرٌ",
+            "pronounce": "sakrun"
+          },
+          {
+            "audio": "",
+            "id": 4,
+            "arabic": "لُبْنٌ",
+            "pronounce": "lubnun"
+          },
+          {
+            "audio": "",
+            "id": 5,
+            "arabic": "بَحْرٌ",
+            "pronounce": "bahrun"
+          },
+          {
+            "audio": "",
+            "id": 6,
+            "arabic": "قَدْمٌ",
+            "pronounce": "qadmun"
+          },
+          {
+            "audio": "",
+            "id": 7,
+            "arabic": "نَهْرٌ",
+            "pronounce": "nahrun"
+          },
+          {
+            "audio": "",
+            "id": 8,
+            "arabic": "كَرْمٌ",
+            "pronounce": "karmun"
+          }
+        ]
+      }
+    ]
+  }
+]
+
+
+
+

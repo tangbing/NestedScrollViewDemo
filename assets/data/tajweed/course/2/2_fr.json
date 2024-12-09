@@ -1,0 +1,134 @@
+{
+    "id": 1,
+    "title": "Madd Prolongé",
+    "desc1_desc": "Le Madd prolongé se produit lorsqu'une lettre avec un signe de Madd (~) est suivie de conditions spécifiques, nécessitant un allongement du son. Cela peut inclure une rencontre avec Hamzah (ء), Sukoon ou Shaddah, et le son est prolongé pour un certain nombre de battements.",
+    "desc2_title": "Exemples de Madd Prolongé",
+    "desc2_desc": "La durée de l'allongement dépend du type de Madd rencontré. Voici les scénarios où le Madd prolongé s'applique :",
+    "Lessons": [
+        {
+            "id": 0,
+            "name": "Le signe prolongé rencontre Hamzah (ء) dans le mot suivant",
+            "pengertian": "Lorsque la lettre Madd est suivie de Hamzah (ء) dans le mot suivant, le son doit être allongé pendant 2, 4 ou 5 battements.",
+            "caraMembaca": "Le lecteur étire le son en fonction du contexte, en s'assurant de maintenir un rythme correct pendant la récitation.",
+            "example": "يَا أَيُّهَا",
+            "gambar": "2.01.jpg",
+            "suara": [
+                {"beats": 2, "file": "2.01-1.mp3"},
+                {"beats": 4, "file": "2.01-2.mp3"},
+                {"beats": 5, "file": "2.01-3.mp3"}
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Le signe prolongé rencontre Hamzah (ء) dans le même mot",
+            "pengertian": "Si la lettre Madd est suivie de Hamzah (ء) dans le même mot, l'allongement est prolongé pendant 4 ou 5 battements.",
+            "caraMembaca": "Le lecteur assure un allongement clair tout en respectant les règles du Tajweed.",
+            "example": "وَٱلسَّمَآءِ",
+            "gambar": "2.04.jpg",
+            "suara": "2.04.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Le signe prolongé rencontre Sukoon",
+            "pengertian": "Si une lettre Madd rencontre Sukoon, le son doit être prolongé pendant 6 battements.",
+            "caraMembaca": "Le lecteur observe attentivement le Sukoon pour garantir un allongement précis.",
+            "example": "ءَالْـَٰٔنَ",
+            "gambar": "2.05.jpg",
+            "suara": "2.05.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Le signe prolongé rencontre Shaddah",
+            "pengertian": "Lorsque la lettre Madd rencontre Shaddah, l'extension est de 6 battements.",
+            "caraMembaca": "Le lecteur met l'accent sur Shaddah tout en maintenant un rythme constant.",
+            "example": "ٱلۡحَاقَّةُ",
+            "gambar": "2.06.jpg",
+            "suara": "2.06.mp3"
+        }
+    ],
+    "tips": {
+        "title": "Maîtriser le Madd très long",
+        "advice": "Pour éviter les erreurs ou les interruptions pendant l'allongement, on peut suivre le conseil du Prophète (paix et bénédictions sur lui), tel que rapporté par Al Baroo': 'Embellissez le Coran avec votre voix.'"
+    },
+    "muqattaat": {
+        "title": "Mots de MuqaTTa'at (مُقَطَّعَات)",
+        "pengertian": "Certains chapitres du Coran commencent par des lettres déconnectées appelées Huroof al MuqaTTa'at. Ces lettres doivent être étirées avec le Madd très long pendant 6 battements.",
+        "example": "الٓمٓ",
+        "gambar": "2.07.jpg",
+        "suara": "2.07.mp3"
+    },
+    "Quizs": [
+        {
+            "id": 0,
+            "question": "Lequel des symboles suivants indique qu'une lettre doit être prolongée très longuement ?",
+            "answers": [
+                {"answer": "ا", "right": 0},
+                {"answer": "ي", "right": 0},
+                {"answer": "و", "right": 0},
+                {"answer": "ٓ", "right": 1}
+            ]
+        },
+        {
+            "id": 1,
+            "question": "Quelle phrase illustre correctement le Madd très long ?",
+            "answers": [
+                {"answer": "يَا أَيُّهَا", "right": 1},
+                {"answer": "قَالَ", "right": 0},
+                {"answer": "كَانَ", "right": 0},
+                {"answer": "يَغْشَىٰ", "right": 0}
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Dans cet exemple, la première lettre 'ي' peut être récitée pendant ces battements, sauf...",
+            "answers": [
+                {"answer": "4", "right": 0},
+                {"answer": "5", "right": 0},
+                {"answer": "6", "right": 1},
+                {"answer": "2", "right": 0}
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Quelle phrase représente la bonne récitation de 'عسق' ?",
+            "answers": [
+                {"answer": "عۡسۡقَ", "right": 0},
+                {"answer": "عَسَقَ", "right": 0},
+                {"answer": "عۡسۡقُ", "right": 1},
+                {"answer": "عُسِقَ", "right": 0}
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Choisissez l'option qui montre le Madd avec l'allongement le plus long.",
+            "answers": [
+                {"answer": "عَسَىٰ", "right": 0},
+                {"answer": "جَآءَ", "right": 1},
+                {"answer": "كَانٌَ", "right": 0},
+                {"answer": "وَٱلنَّهَارِ", "right": 0}
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Sélectionnez tous les mots contenant une lettre qui doit être prolongée très longuement.",
+            "answers": [
+                {"answer": "جَآءَتِ", "right": 1},
+                {"answer": "أَعۡطَىٰ", "right": 0},
+                {"answer": "وَالسَّمَآءِ", "right": 1},
+                {"answer": "صَلَاتُهُمۡ", "right": 0},
+                {"answer": "عِيسَىٰ", "right": 0},
+                {"answer": "ءَآلۡأَٰنَ", "right": 1}
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Quelle est la durée d'allongement dans l'exemple du Madd prolongé ? (en battements)",
+            "answers": [
+                {"answer": "2", "right": 0},
+                {"answer": "4", "right": 0},
+                {"answer": "6", "right": 1},
+                {"answer": "8", "right": 0}
+            ]
+        }
+    ]
+}

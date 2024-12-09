@@ -1,0 +1,96 @@
+{
+  "id": 0,
+  "title": "Təbii Madd",
+  "desc1_desc": "Madd (مَدّ) 'uzatmaq' və ya 'uzatılmaq' mənasını verir. Bu, madd hərfi, uyğun sait səsi olan hərfdən sonra gəldikdə baş verir və səsin uzadılmasına səbəb olur. Oxucu, madd hərfi əvvəlindəki hərfi 2 döyüntü qədər uzatmalıdır. Bir döyüntü, uzadılmadan tək bir hərfi tələffüz etmək üçün lazım olan müddətə bərabərdir.",
+  "desc2_title": "Təbii Madd nümunələri",
+  "desc2_desc": "",
+  "Lesson number": 1,
+  "Quiz number": 5,
+  "Lessons": [
+    {
+      "id": 0,
+      "name": "Madd Asli (Təbii Uzatma)",
+      "pengertian": "Təbii uzatma üç növə bölünür:",
+      "categories": [
+        "Fəthə ilə birləşdirilmiş ا hərfi.",
+        "Kəsrə ilə birləşdirilmiş ي hərfi.",
+        "Dəmmə ilə birləşdirilmiş و hərfi."
+      ],
+      "examples": [
+        {
+          "withoutMadd": "مَ",
+          "withMadd": "مَا = مَ + ا",
+          "maddLetter": "ا",
+          "image": "1.02.jpg",
+          "audio": "1.02.mp3"
+        },
+        {
+          "withoutMadd": "مِ",
+          "withMadd": "مِي = مِ + ي",
+          "maddLetter": "ي",
+          "image": "1.04.jpg",
+          "audio": "1.04.mp3"
+        },
+        {
+          "withoutMadd": "مُ",
+          "withMadd": "مُو = مُ + و",
+          "maddLetter": "و",
+          "image": "1.06.jpg",
+          "audio": "1.06.mp3"
+        }
+      ]
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "Əgər Fəthə hərəkəti ilə bir məktub ا ilə görüşərsə, oxucu məktubu ... etməlidir.",
+      "answers": [
+        { "answer": "əks-səda (قَلۡقَلَةۡ)", "right": 0 },
+        { "answer": "Uzatmaq", "right": 1 },
+        { "answer": "Qısaltmaq", "right": 0 },
+        { "answer": "Keçmək", "right": 0 }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Təbii Madd-i düzgün göstərən hansı sözdür?",
+      "answers": [
+        { "answer": "مَا", "right": 1 },
+        { "answer": "مُوَّ", "right": 0 },
+        { "answer": "مَاا", "right": 0 },
+        { "answer": "مِوِ", "right": 0 }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Bu qaydaların hamısı uzadılmalıdır, istisna olmaqla...",
+      "answers": [
+        { "answer": "Əgər ا hərfi Fəthə ilə tərəfdaşdırsa", "right": 0 },
+        { "answer": "Əgər ي hərfi Kəsrə ilə tərəfdaşdırsa", "right": 0 },
+        { "answer": "Əgər و hərfi Dəmmə ilə tərəfdaşdırsa", "right": 0 },
+        { "answer": "Əgər ي hərfi Dəmmə ilə tərəfdaşdırsa", "right": 1 }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Aşağıdakıların hansı uzadılmalı bir məktub ehtiva edir?",
+      "answers": [
+        { "answer": "وَأَوۡفُوۡا", "right": 1 },
+        { "answer": "نَوۡمَكُمۡ", "right": 0 },
+        { "answer": "يُوَسۡوِسُ", "right": 0 },
+        { "answer": "يَوۡمِ", "right": 0 }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Təbii Madd-in düzgün tətbiq olunduğu hansı sözdür?",
+      "answers": [
+        { "answer": "مُو", "right": 1 },
+        { "answer": "مُووْ", "right": 0 },
+        { "answer": "مَ", "right": 0 },
+        { "answer": "مِووِ", "right": 0 }
+      ]
+    }
+  ]
+}

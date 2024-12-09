@@ -1,0 +1,1456 @@
+ [
+   {
+  "id" : 0,
+  "title": "Meem Sukoon Rules",
+   "desc1_desc": "The \"Meem Sukoon Rules\" refer to a set of Tajweed rules in Quranic recitation that apply when the Arabic letter \"Meem\" (م) has a Sukoon (ْ) on it. Tajweed is the set of rules for correct pronunciation during the recitation of the Quran.",
+   "desc2_title": " ",
+   "desc2_desc": "",
+  "Lesson number": 3,
+  "Quiz number": 10,
+  "Lessons" : [
+      {
+          "id" : 0,
+          "name": "Izhar Syafawi",
+          "pengertian": "Izh-har means clear or bright. Syafawi means lips. The occurrence of Izh-har syafawi is: When a meem sakinah meets the letter hijaiyah other than ba' (B) and mim (ب), then called izhar syafawi",
+          "huruf": "ا ـ ت ـ ث ـ ج ـ ح ـ خ ـ د ـ ذ ـ ر ـ ز ـ س ـ ش ـ ص ـ ض ـ ط ـ ظ ـ ع ـ غ ـ ف ـ ق ـ ك ـ ل ـ ن ـوـ- ھ –ي",
+          "caraMembaca": "Read clearly without ghunnah When meem sakinah meets other than the letter ba' (ب) and mim (م)",
+          "suara": "/quran/tajweed/audio/Izharsyafawi.mp3",
+          "gambar": "/quran/tajweed/pictures/Izhar_Syafawi.png",
+          "deskripsi": "'Meem sakinah' meets 'ya' then it is read 'wa lam yakul lahụ kufuwan aḥad'."
+      },
+      {
+          "id" : 1,
+          "name": "Ikhfa Syafawi",
+          "pengertian": "Izh-har means clear or bright. Syafawi means lips. The occurrence of Izh-har syafawi is: When a meem sakinah meets the letter hijaiyah other than ba' (ب) and mim (م), then called izhar syafawi",
+          "huruf": "ب",
+          "caraMembaca": "It is faintly read with ghunnah when meem sakinah meets the letter ba' (ب)",
+          "suara": "/quran/tajweed/audio/Ikhfasyafawi.mp3",
+          "gambar": "/quran/tajweed/pictures/Ikhfa_Syafawi.png",
+          "deskripsi": "'Mim sakinah meets 'ba' then it reads 'Alam ya'lam bi-annallaha yara'."
+      },
+      {
+          "id" : 2,
+          "name": "Idgham Mimi",
+          "pengertian": "It is called idgham mimi because in the idgham process the letter meem is added to the letter meem. The definition of idgham mimi is to insert the first mim into the second meem, so that the two meems become one meem with tasydid, with relatively weak tasydid to create ghunnah",
+          "huruf": "م",
+          "caraMembaca": "Inserting dead meem into the next meem letter and accompanied by ghunnah when meeting the meem letter  (م)",
+          "suara": "/quran/tajweed/audio/Idghammimi.mp3",
+          "gambar": "/quran/tajweed/pictures/Idgham_Mimi.png",
+          "deskripsi": "Mim sukun' meets 'mim' so it is read 'Wallāhu miw warā`ihim muḥīṭ'."
+      }
+
+  ],
+   "Quizs" : [
+     {
+       "id" : 0,
+       "question": "What does Izhar Syafawi entail when encountering Meem Sakinah?",
+       "answers" : [
+         {
+          "answer" : "Pronouncing Meem Sakinah with a nasal sound",
+           "right" : 0
+         },
+         {         
+           "answer" : "Pronouncing Meem Sakinah clearly without ghunnah when it meets any letter other than Ba (ب) and Meem (م)",
+           "right" : 1
+         },
+         {         
+           "answer" : "Merging Meem Sakinah with a following Meem without ghunnah",
+           "right" : 0
+         },
+         {         
+           "answer" : "Pronouncing Meem Sakinah with a hidden sound",
+           "right" : 0
+         }
+
+       ]
+     },
+     {
+       "id" : 1,
+       "question": "How is Meem Sakinah pronounced under the Idgham Mimi rule?",
+       "answers" : [
+         {
+          "answer" : "With a strong nasal sound (ghunnah)",
+           "right" : 0
+         },
+         {         
+           "answer" : "Without any ghunnah",
+           "right" : 0
+         },
+         {         
+           "answer" : "With a slight ghunnah",
+           "right" : 1
+         },
+         {         
+           "answer" : "With full mouth pronunciation",
+           "right" : 0
+         }
+
+       ]
+     },
+     {
+       "id" : 2,
+       "question": "Ikhfa Syafawi occurs exclusively when Meem Sakinah is followed by which letter?",
+       "answers" : [
+         {
+          "answer" : "Meem (م)",
+           "right" : 0
+         },
+         {         
+           "answer" : "Ba (ب)",
+           "right" : 1
+         },
+         {         
+           "answer" : "Alif (ا)",
+           "right" : 0
+         },
+         {         
+           "answer" : "Ya (ي)",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 3,
+       "question": "What characteristic sound is produced when Ikhfa Syafawi is applied?",
+       "answers" : [
+         {
+          "answer" : "A clear and strong sound",
+           "right" : 0
+         },
+         {         
+           "answer" : "A faint nasal sound",
+           "right" : 1
+         },
+         {         
+           "answer" : "A loud echo",
+           "right" : 0
+         },
+         {         
+           "answer" : "A whisper-like sound",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 4,
+       "question": "When Meem Sakinah is followed by the letter Ba and occurs between two words, the applied Tajweed rule is:",
+       "answers" : [
+         {
+          "answer" : "Idghaam shafawy",
+           "right" : 0
+         },
+         {         
+           "answer" : "Iqlab",
+           "right" : 0
+         },
+         {         
+           "answer" : "Izhaar Halqi",
+           "right" : 0
+         },
+         {         
+           "answer" : "Ikhfaa shafawy",
+           "right" : 1
+         }
+       ]
+     },
+     {
+       "id" : 5,
+       "question": "What is the definition of Izhaar Shafawy in the context of Tajweed rules?",
+       "answers" : [
+         {
+          "answer" : "labial Manifestation",
+           "right" : 1
+         },
+         {         
+           "answer" : "Hidden letters",
+           "right" : 0
+         },
+         {         
+           "answer" : "Conversion",
+           "right" : 0
+         },
+         {         
+           "answer" : "Blending",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 6,
+       "question": "In Surah Al-Hashr (59:7), the phrase 'مِمَّا أَخْرَجْنَا لَهُمْ مِنَ الْأَرْضِ' includes two instances of Meem Sakinah. How is the second Meem Sakinah pronounced in 'لَهُمْ مِنَ'?",
+       "answers" : [
+         {
+          "answer" : "Clearly without any nasalization",
+           "right" : 0
+         },
+         {         
+           "answer" : "With a nasal sound due to Ikhfa Syafawi",
+           "right" : 0
+         },
+         {         
+           "answer" : "Merging the two Meems with a strong ghunnah",
+           "right" : 0
+         },
+         {         
+           "answer" : "Merging the two Meems with a weak ghunnah",
+           "right" : 1
+         }
+       ]
+     },
+     {
+       "id" : 7,
+       "question": "What is the Tajweed rule applied between the two meems in the phrase \"أَأَمِنتُم مَّن\"?",
+       "answers" : [
+         {
+          "answer" : "Ikhfaa shafawee (Concealment using the lips)",
+           "right" : 0
+         },
+         {         
+           "answer" : "Iqlab (Conversion)",
+           "right" : 0
+         },
+         {         
+           "answer" : "Idgham (Merging of similar letters, minor)",
+           "right" : 1
+         },
+         {         
+           "answer" : "Answer not given.",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 8,
+       "question": "In the Ayah \"أَفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَم بِهِۦ جِنَّةٌ\", what is the Tajweed rule applied to Meem Sakinah?",
+       "answers" : [
+         {
+          "answer" : "Idghaam shafawy ",
+           "right" : 0
+         },
+         {         
+           "answer" : "Iqlab",
+           "right" : 0
+         },
+         {         
+           "answer" : "Ikhfaa shafawy",
+           "right" : 1
+         },
+         {         
+           "answer" : "Izhaar Halqi",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 9,
+       "question": "What is tajweed rule in red words?",
+       "questionPicture" : "50",
+       "answers" : [
+         {
+          "answer" : "Izhar",
+           "right" : 1
+         },
+         {         
+           "answer" : "Idgham",
+           "right" : 0
+         },
+         {         
+           "answer" : "Ikhfa",
+           "right" : 0
+         },
+         {         
+           "answer" : "Iqlaab",
+           "right" : 0
+         }
+       ]
+     }
+   ]
+  },
+   {
+  "id" : 1,
+  "title": "Nun Sukoon/Tanween Rules",
+  "desc1_desc": "Nun sukoon is the letter nun marked with sukoon  (ن) . A nun sukoon is also known as a \"dead nun\" while according to the term it is: A nun sukoon that meets the end of a noun that appears in the form of voice and when washal, not in writing and at the time of waqaf",
+   "desc2_title": " ",
+   "desc2_desc": "",
+  "Lesson number": 5,
+  "Quiz number": 10,
+  "Lessons" : [
+      {
+          "id" : 0,
+          "name": "Idgham Bighunnah",
+          "bahasaIstilah": "Idgham means to insert, bi ghunna means with a nasalization or humming.",
+          "pengertian": "When nun sukoon or tanween meets one of the four letters (idgham), then it is called idgham bi ghunna.",
+          "huruf": "ي , م , و , ن",
+          "caraMembaca": "It is by inserting the voice of nun sukoon or tanwin completely to the letter lam or ra, without nasal sound. When performing idgham, the voice should be focused on the letter lam or ra and held it for a moment.",
+          "suara": "/quran/tajweed/audio/Idghambighunnah.mp3",
+          "gambar": "/quran/tajweed/pictures/Idgham_Bighunnah.png",
+          "deskripsi": "Nun sukoon meets the letter ra, it is pronounced as \"ar-ra aahus taghnaa\""
+      },
+      {
+          "id" : 1,
+          "name": "Idgham Bilaghunnah",
+          "bahasaIstilah": "When ghunnah means without using ghunnah (humming).",
+          "pengertian": "When nun sukoon or tanween meets one of the letters from lam and ra, it is called idgham when ghunnah.",
+          "huruf": "ل , ر",
+          "caraMembaca": "It is by inserting the voice of nun sukoon or tanween completely to the letter lam or ra, without using nasal sound. When performing idgham, the voice should be focused on the letter lam or ra and held it for a moment.",
+          "suara": "/quran/tajweed/audio/Idghambilaghunnah.mp3",
+          "gambar": "/quran/tajweed/pictures/Idgham_Bilaghunnah.png",
+          "deskripsi": "Nun sukoon meets the letters '\ra, read \"ar-ra aahus taghnaa\""
+      },
+      {
+          "id" : 2,
+          "name": "Iqlab",
+          "bahasaIstilah": "Transferring something from its original form (to another form) while according to the term making a letter the makhraj of another letter while still maintaining the ghunnah (or rhyming on the changed letter)",
+          "pengertian": "When nun sukoon or tanween meets the letter (ب), then both are converted into meem (م), but only in voice form, not in writing.",
+          "huruf": "ب",
+          "caraMembaca": "This is by changing the sound nun sukoon or tanween - when facing the letter ba' - into mim, the two lips are pressed together to produce the sound mim accompanied by a nasal sound that comes from the bridge of the nose. Then hold it for a moment for about two beats as a sign that there is an iqlab rules there.",
+          "suara": "/quran/tajweed/audio/Iqlab.mp3",
+          "gambar": "/quran/tajweed/pictures/Iqlab.png",
+          "deskripsi": "Tanween meets ba until it is read \"furusyim baṭā`inuhā\""
+      },
+      {
+          "id" : 3,
+          "name": "Izhar",
+          "bahasaIstilah": "According to the language, al-bayan means clear, while according to the term, each letter and its makhraj is produced without using humming on the pronounced letters.",
+          "pengertian": "When a nun sukoon or tanween faces one of the six letters (halq), it is called izh-har.",
+          "huruf": " ح خ ع غ ء هـ",
+          "caraMembaca": "It must be clear and distinct. Izh-har halqi should be read in one beat, without bouncing, not buzzing, and should not be vague.",
+          "suara": "/quran/tajweed/audio/Izhar.mp3",
+          "gambar": "/quran/tajweed/pictures/Izhar.png",
+          "deskripsi": "Nun sukoon is read clearly when it meets the letter fa, it is read \"an'fal\""
+      },
+      {
+          "id" : 4,
+          "name": "Ikhfa",
+          "bahasaIstilah": "Ikhfa is \"as-satru,\" which means obscure or closed. In terminology, ikhfa refers to pronouncing a letter with a characteristic that is between izhar and idgham, without a shaddah (doubling), while maintaining a nasal sound (ghunnah) on the concealed letter.",
+          "pengertian": "When a nun sukoon or tanween faces one of these fifteen ikhfa letters, it is called ikhfa haqiqi.",
+          "huruf": "ك,  ق , ف , ظ , ط , ض , ص , ش , س , ز , ذ , د,  ج , ث , ت",
+          "caraMembaca": "It is combining the sound of nunsukoon or tanween with the sound of the letter ikhfa in front of it.",
+          "suara": "/quran/tajweed/audio/Ikhfa.mp3",
+          "gambar": "/quran/tajweed/pictures/Ikhfa.png",
+          "deskripsi": "Tanween met with the letters 'sin read \"Biqalbinng salimin\""
+      }
+  ],
+     "Quizs" : [
+     {
+       "id" : 0,
+       "question": "What is tajweed rule in red words?",
+       "questionPicture" : "21",
+       "answers" : [
+         {
+          "answer" : "Izhar halqi",
+           "right" : 0
+         },
+         {         
+           "answer" : "Idgham",
+           "right" : 1
+         },
+         {         
+           "answer" : "Ikhfa",
+           "right" : 0
+         },
+         {         
+           "answer" : "Iqlaab",
+           "right" : 0
+         }
+
+       ]
+     },
+     {
+       "id" : 1,
+       "question": "What is tajweed rule in red words?",
+       "questionPicture" : "22",
+       "answers" : [
+         {
+          "answer" : "Izhar",
+           "right" : 0
+         },
+         {         
+           "answer" : "Ihkfa",
+           "right" : 0
+         },
+         {         
+           "answer" : "Idgham with ghunna",
+           "right" : 0
+         },
+         {         
+           "answer" : "Idgham without ghunna",
+           "right" : 1
+         }
+
+       ]
+     },
+     {
+       "id" : 2,
+       "question": "what is the rules in (أَن جَآءَه الأَعمَى)",
+       "answers" : [
+         {
+          "answer" : "Izhar",
+           "right" : 0
+         },
+         {         
+           "answer" : "Ihkfa",
+           "right" : 1
+         },
+         {         
+           "answer" : "Idgham",
+           "right" : 0
+         },
+         {         
+           "answer" : "Tanween",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 3,
+       "question": "What is tajweed rule in red words?",
+       "questionPicture" : "24",
+       "answers" : [
+         {
+          "answer" : "Izhar",
+           "right" : 1
+         },
+         {         
+           "answer" : "Idgham",
+           "right" : 0
+         },
+         {         
+           "answer" : "Ikhfa",
+           "right" : 0
+         },
+         {         
+           "answer" : "Iqlaab",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 4,
+       "question": "What are the letters of Izhar?",
+       "answers" : [
+         {
+          "answer" : "ف ق د ذ س ش ص ض",
+           "right" : 0
+         },
+         {         
+           "answer" : "ي ر م ل و ن",
+           "right" : 0
+         },
+         {         
+           "answer" : "ء ه ع ح غ خ",
+           "right" : 1
+         },
+         {         
+           "answer" : "م ب",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 5,
+       "question": "What is tajweed rule in red words?",
+       "questionPicture" : "26",
+       "answers" : [
+         {
+          "answer" : "Izhar",
+           "right" : 0
+         },
+         {         
+           "answer" : "Idgham",
+           "right" : 0
+         },
+         {         
+           "answer" : "Ikhfa",
+           "right" : 0
+         },
+         {         
+           "answer" : "Iqlaab",
+           "right" : 1
+         }
+       ]
+     },
+     {
+       "id" : 6,
+       "question": "What is the letter of Iqlaab in noon saakin?",
+       "answers" : [
+         {
+          "answer" : "م",
+           "right" : 0
+         },
+         {         
+           "answer" : "س",
+           "right" : 0
+         },
+         {         
+           "answer" : "ب",
+           "right" : 1
+         },
+         {         
+           "answer" : "ر",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 7,
+       "question": "Which letters trigger the Ikhfa rule when following Noon Sakin, Meem Sakin, and Tanween in Tajweed?",
+       "answers" : [
+         {
+          "answer" : "خ ح ء ه غ ع",
+           "right" : 0
+         },
+         {         
+           "answer" : "ي و ن ر ل م",
+           "right" : 0
+         },
+         {         
+           "answer" : "ب",
+           "right" : 0
+         },
+         {         
+           "answer" : "د ج ث ت ش س ذ ز ظ ط ض ص ك ق ف",
+           "right" : 1
+         }
+       ]
+     },
+     {
+       "id" : 8,
+       "question": "In the pronunciation of Nun Sukoon, what does Ikhfa involve?",
+       "answers" : [
+         {
+          "answer" : "Full nasalization",
+           "right" : 0
+         },
+         {         
+           "answer" : "Slight concealment with a nasal sound",
+           "right" : 1
+         },
+         {         
+           "answer" : "Clear pronunciation",
+           "right" : 0
+         },
+         {         
+           "answer" : "Merging without nasal sound",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 9,
+       "question": "What is the effect of Idgham Bighunnah on the pronunciation of Nun Sukoon?",
+       "answers" : [
+         {
+          "answer" : "The sound of Nun is clearly pronounced without nasal sound.",
+           "right" : 0
+         },
+         {         
+           "answer" : "The sound of Nun is merged with the next letter and pronounced with a nasal sound.",
+           "right" : 1
+         },
+         {         
+           "answer" : "The sound of Nun is completely silenced.",
+           "right" : 0
+         },
+         {         
+           "answer" : "The sound of Nun is elongated.",
+           "right" : 0
+         }
+       ]
+     }
+   ]
+  
+  
+  },
+   {
+  "id" : 2,
+  "title": "Qolqolah Rules",
+  "desc1_desc": "Qalqalah according to the language means to move and shaking, while according to the term it is an additional sound or (reflection) that is strong and clear that occurs on the letter that is fasted after pressing on the makhraj of the letter.",
+  "desc2_title": "Alphabet:  ",
+  "desc2_desc": "(ب) ba, (ج) jim, (د) dal,  (ط) tha, (ق) qaf",
+  "Lesson number": 2,
+  "Quiz number": 10,
+  "Lessons" : [
+      {
+          "id" : 0,
+          "name": "Qalqalah Shughra",
+          "bahasaIstilah": "Shughra means small. Qalqalah shughra according to the term is: If the letters qalaqlah are marked sukoon ashli, then it is called qalqalah shughra.",
+          "pengertian": "If the letter qalqalah is in the middle of a sentence, it is called qalqalah shughra.",
+          "caraMembaca": "Reflecting lightly, when the letter qalqalah is in the original sukoon, which is located in the middle of the word.",
+          "suara": "/quran/tajweed/audio/Qolqolahshughra.mp3",
+          "gambar": "/quran/tajweed/pictures/Qolqolah_Shughra.png",
+          "deskripsi": "From the sentence, it can be known that there is the letter ba (ب)  which is waqaf in the middle of the sentence."
+      },
+      {
+          "id" : 1,
+          "name": "Qalqalah Kubra",
+          "bahasaIstilah": "Kubra means big. Qalqalah according to the term is: If the letter qalqalah in sukoon form aridh because it is given in waqaf, then it is called qalaqlah kubra.",
+          "pengertian": "If the letter qalqalah is breaded at the end of the sentence, then it is called qalqalah kubra.",
+          "caraMembaca": "Reflects heavily/clearly, when the letter qalqalah is broken due to waqaf and is located at the end of the reading",
+          "suara": "/quran/tajweed/audio/Qolqolahkubro.mp3",
+          "gambar": "/quran/tajweed/pictures/Qolqolah_Kubro.png",
+          "deskripsi": "From the verse, it can be known that there is the letter dal (د)  which is waqaf at the end of the sentence"
+      }
+
+
+
+  ],
+     "Quizs" : [
+     {
+       "id" : 0,
+       "question": "What does the term Qalqalah refer to?",
+       "answers" : [
+         {
+          "answer" : "A strong and clear additional sound",
+           "right" : 1
+         },
+         {         
+           "answer" : "A rapid vocal pattern",
+           "right" : 0
+         },
+         {         
+           "answer" : "A simple vocal error",
+           "right" : 0
+         },
+         {         
+           "answer" : "A complex sound combination",
+           "right" : 0
+         }
+
+       ]
+     },
+     {
+       "id" : 1,
+       "question": "Qalqalah is typically associated with which aspect of Tajweed?",
+       "answers" : [
+         {
+          "answer" : "Makhraj (articulation points)",
+           "right" : 0
+         },
+         {         
+           "answer" : "Sifaat (attributes of letters)",
+           "right" : 1
+         },
+         {         
+           "answer" : "Lengthening (Madd)",
+           "right" : 0
+         },
+         {         
+           "answer" : "Stopping (Waqf)",
+           "right" : 0
+         }
+
+       ]
+     },
+     {
+       "id" : 2,
+       "question": "What determines whether a Qalqalah is Shughra or Kubra?",
+       "answers" : [
+         {
+          "answer" : "The type of letter",
+           "right" : 0
+         },
+         {         
+           "answer" : "The position of the letter in the word",
+           "right" : 0
+         },
+         {         
+           "answer" : "The presence of sukoon",
+           "right" : 1
+         },
+         {         
+           "answer" : "The context of the sentence",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 3,
+       "question": "Where does Qalqalah Shughra typically occur?",
+       "answers" : [
+         {
+          "answer" : "At the beginning of a sentence",
+           "right" : 0
+         },
+         {         
+           "answer" : "In the middle of a sentence",
+           "right" : 1
+         },
+         {         
+           "answer" : "At the end of a sentence",
+           "right" : 0
+         },
+         {         
+           "answer" : "At the beginning of a word",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 4,
+       "question": "How many words are there in qalqalah?",
+       "answers" : [
+         {
+          "answer" : "2",
+           "right" : 0
+         },
+         {         
+           "answer" : "4",
+           "right" : 0
+         },
+         {         
+           "answer" : "5",
+           "right" : 1
+         },
+         {         
+           "answer" : "7",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 5,
+       "question": "The letters of qalqalah are... ",
+       "answers" : [
+         {
+          "answer" : "ق - د- ب - ج - ك",
+           "right" : 0
+         },
+         {         
+           "answer" : "د - ق - ط - ج - ب",
+           "right" : 1
+         },
+         {         
+           "answer" : "ج - ك- د - ط- ب",
+           "right" : 0
+         },
+         {         
+           "answer" : "ق - ص - ب - ج - د",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 6,
+       "question": "Which letter is not a Qalqalah letter?",
+       "answers" : [
+         {
+          "answer" : "د (dal)",
+           "right" : 0
+         },
+         {         
+           "answer" : "ق (qaf)",
+           "right" : 0
+         },
+         {         
+           "answer" : "ل (lam)",
+           "right" : 1
+         },
+         {         
+           "answer" : "ب (ba)",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 7,
+       "question": "How many of the following words contain letters from Qalqalah?",
+       "questionPicture" : "8",
+       "answers" : [
+         {
+          "answer" : "Qalqalah is on ر",
+           "right" : 0
+         },
+         {         
+           "answer" : "Qalqalah is on م",
+           "right" : 0
+         },
+         {         
+           "answer" : "Qalqalah is on ك",
+           "right" : 0
+         },
+         {         
+           "answer" : "There is no Qalqalah",
+           "right" : 1
+         }
+       ]
+     },
+     {
+       "id" : 8,
+       "question": "If the Qalqalah letters are marked with original sukoon in the middle of a sentence, what is it called?",
+       "answers" : [
+         {
+          "answer" : "Qalqalah Kubra",
+           "right" : 0
+         },
+         {         
+           "answer" : "Qalqalah Shughra",
+           "right" : 1
+         },
+         {         
+           "answer" : "Qalqalah Mubassata",
+           "right" : 0
+         },
+         {         
+           "answer" : "Qalqalah Mufassala",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 9,
+       "question": "How does the pronunciation of Qalqalah Kubra compare to Qalqalah Shughra?",
+       "answers" : [
+         {
+          "answer" : "More minor",
+           "right" : 0
+         },
+         {         
+           "answer" : "More distinct",
+           "right" : 1
+         },
+         {         
+           "answer" : "Longer",
+           "right" : 0
+         },
+         {         
+           "answer" : "Shorter",
+           "right" : 0
+         }
+       ]
+     }
+   ]
+  
+  
+  },
+   {
+  "id" : 3,
+  "title": "Makhorijul Letters",
+  "desc1_desc": "According to the language of the place of origin while according to the term a name of a place where letters are formed (or pronounced). Thus, the makhraj of the letter is where the letter comes out when the letter is sounded. tersebut dibunyikan.",
+  "desc2_title": "Distribution of Makhraj Letters",
+  "desc2_desc": "According to Imam Ibnul Jazari, the makharijul of the letter is divided into 17 (seventeen), the seventeen makhariju are in 5 (five) places, the following are the five places:",
+  "Lesson number": 5,
+  "Quiz number": 10,
+  "Lessons" : [
+      {
+          "id" : 0,
+          "name": "Nasal Cavity Group",
+          "gambar": "/quran/tajweed/pictures/Rongga_hidung.png",
+          "huruf": "Idgham Bi Ghunnah, Iqlab, Ikhfa, Ikhfa, Ikhfa Syafawi, Idgham Mitslain, Huruf Nun and Meem tashdeed both when washal (continued) or waqaf (stopped), Lafazh Irkam Ma'ana (Idgham Mutajanisain)",
+          "suara": "/quran/tajweed/audio/Idghammimi.mp3"
+      },
+      {
+          "id" : 1,
+          "name": "Oral Cavity Group",
+          "gambar": "/quran/tajweed/pictures/Rongga_mulut.png",
+          "huruf": "ـو - ا - ي",
+          "suara": "/quran/tajweed/audio/Idghammimi.mp3"
+      },
+      {
+          "id" : 2,
+          "name": "Two Lips Group",
+          "gambar": "/quran/tajweed/pictures/Dua_bibir.png",
+          "huruf": "م-ب-و-ف",
+          "suara": "/quran/tajweed/audio/Idghammimi.mp3"
+      },
+      {
+          "id" : 3,
+          "name": "Tongue Group",
+          "gambar": "/quran/tajweed/pictures/Lidah.png",
+          "huruf": "س-ز-ص-ذ-ث-ﻅ-ت-د-ﻁ-ر-ن-ل-ض-ي-ش-ج-ك-ق",
+          "suara": "/quran/tajweed/audio/Idghammimi.mp3"
+      },
+      {
+          "id" : 4,
+          "name": "Throat Group",
+          "gambar": "/quran/tajweed/pictures/Tenggorokan.png",
+          "huruf": "خ-غ-ح-ع-ھ-ء",
+          "suara": "/quran/tajweed/audio/Idghammimi.mp3"
+      }
+
+
+
+  ],
+   "Quizs" : [
+     {
+       "id" : 0,
+       "question": "What does 'Makhraj' refer to in the study of Tajweed?",
+       "answers" : [
+         {
+          "answer" : "The style of recitation",
+           "right" : 0
+         },
+         {         
+           "answer" : "The point of articulation where letters are pronounced",
+           "right" : 1
+         },
+         {         
+           "answer" : "The length of vowel sounds",
+           "right" : 0
+         },
+         {         
+           "answer" : "The rhythm of Quranic verses",
+           "right" : 0
+         }
+
+       ]
+     },
+     {
+       "id" : 1,
+       "question": "How many main articulation points (Makharij) are identified by Imam Ibnul Jazari?",
+       "answers" : [
+         {
+          "answer" : "Five",
+           "right" : 0
+         },
+         {         
+           "answer" : "Seventeen",
+           "right" : 1
+         },
+         {         
+           "answer" : "Twenty-one",
+           "right" : 0
+         },
+         {         
+           "answer" : "Fifteen",
+           "right" : 0
+         }
+
+       ]
+     },
+     {
+       "id" : 2,
+       "question": "what is the point of Articulation for letter م (Meem)",
+       "answers" : [
+         {
+          "answer" : "Throat",
+           "right" : 0
+         },
+         {         
+           "answer" : "Tongue",
+           "right" : 0
+         },
+         {         
+           "answer" : "Lip and nasal cavity",
+           "right" : 1
+         },
+         {         
+           "answer" : "Tip of the tongue",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 3,
+       "question": "Which group of letters is articulated from the nasal cavity?",
+       "answers" : [
+         {
+          "answer" : "ا - ي - و",
+           "right" : 0
+         },
+         {         
+           "answer" : "م - ب - و – ف",
+           "right" : 0
+         },
+         {         
+           "answer" : "خ - غ - ح - ع - ه – ء",
+           "right" : 0
+         },
+         {         
+           "answer" : "Huruf Nun and Meem with tashdeed",
+           "right" : 1
+         }
+       ]
+     },
+     {
+       "id" : 4,
+       "question": "The 'Two Lips Group' is responsible for the articulation of which set of letters?",
+       "answers" : [
+         {
+          "answer" : "م - ب - و - ف",
+           "right" : 1
+         },
+         {         
+           "answer" : "س - ز - ص - ذ - ث",
+           "right" : 0
+         },
+         {         
+           "answer" : "خ - غ - ح",
+           "right" : 0
+         },
+         {         
+           "answer" : "ق - ك - ج",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 5,
+       "question": "Which of the following letters is articulated from the throat?",
+       "answers" : [
+         {
+          "answer" : "ض",
+           "right" : 0
+         },
+         {         
+           "answer" : "ن",
+           "right" : 0
+         },
+         {         
+           "answer" : "ع",
+           "right" : 1
+         },
+         {         
+           "answer" : "ل",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 6,
+       "question": "In Tajweed, the 'Throat Group' includes which of the following letters?",
+       "answers" : [
+         {
+          "answer" : "س - ز - ص",
+           "right" : 0
+         },
+         {         
+           "answer" : "خ - غ - ح - ع - ه - ء",
+           "right" : 1
+         },
+         {         
+           "answer" : "ت - د - ط",
+           "right" : 0
+         },
+         {         
+           "answer" : "م - ب - ف",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 7,
+       "question": "Which articulation point is primarily involved in producing the sounds for the letters 'س-ز-ص-ذ-ث-ظ-ت-د-ط-ر-ن-ل-ض-ي-ش-ج-ك-ق'?",
+       "answers" : [
+         {
+          "answer" : "Throat",
+           "right" : 0
+         },
+         {         
+           "answer" : "Tongue",
+           "right" : 1
+         },
+         {         
+           "answer" : "Lips",
+           "right" : 0
+         },
+         {         
+           "answer" : "Nasal cavity",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 8,
+       "question": "When reciting the Ayah 'الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ' (Al-Fatiha 1:2), the letter ل (lam) in الْحَمْدُ is pronounced from which articulation point?",
+       "answers" : [
+         {
+          "answer" : "Oral Cavity",
+           "right" : 0
+         },
+         {         
+           "answer" : "Throat",
+           "right" : 0
+         },
+         {         
+           "answer" : "Tongue",
+           "right" : 1
+         },
+         {         
+           "answer" : "Two Lips",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 9,
+       "question": "In Surah Al-Alaq (96:1) 'اقْرَأْ', the Qaf (ق) is articulated from which part of the Tajweed makharij?",
+       "answers" : [
+         {
+          "answer" : "Deep throat",
+           "right" : 0
+         },
+         {         
+           "answer" : "Middle of the throat",
+           "right" : 0
+         },
+         {         
+           "answer" : "Base of the tongue touching the soft palate",
+           "right" : 1
+         },
+         {         
+           "answer" : "Top of the tongue touching the roof of the mouth",
+           "right" : 0
+         }
+       ]
+     }
+   ]
+  
+  
+  },
+   {
+  "id" : 4,
+  "title": "Madd",
+  "desc1_desc": "Madd is a reading technique in tajweed that is mainly used to lengthen the pronunciation of vowels. This technique helps the reader to fill in the missing syllables after certain letters, making the reading more fluent and pleasant. When learning and applying Tajweed, it is important to understand and master the rules of Madd, as this directly affects the accuracy of reading and the beauty of expression. ",
+  "desc2_title": " ",
+  "desc2_desc": "",
+  "Lesson number": 6,
+  "Quiz number": 10,
+  "Lessons" : [
+      {
+          "id" : 0,
+          "name": "Madd-i Tabee'ee",
+          "bahasaIstilah": "The natural Madd simply refers to one of the Madd letters و or ي or ا (Huroof maddeya حروف مدية) not followed by a Hamzah (ء) or a Saakin letter.",
+          "pengertian": "This type of extension is called Madd-i Asli, meaning \"Natural\" or \"Original Madd.\" It is also known as Madd-i Tabee'ee. This rule is critical because it helps maintain the rhythm and clarity of Quranic recitation.",
+          "caraMembaca": "The natural Madd is prolonged two beats. It's mandatory to apply this rule, so it's referred to as Madd-i Waajib, emphasizing the importance of applying this Madd correctly to ensure proper pronunciation and adherence to Tajweed rules.",
+          "suara": "/quran/tajweed/audio/105005.mp3",
+          "gambar": "/quran/tajweed/pictures/Madd-i Tabeeee.png",
+          "deskripsi": "The extension of كُو should be natural and even, lasting two beats, and the sound should remain consistent and stable between these two beats without interruption."
+      },
+      {
+          "id" : 1,
+          "name": "Madd-i Muttasil",
+          "bahasaIstilah": "Madd-i Muttasil is defined as the ‘Connected’ Madd. This type of Madd occurs when a Hamza (ء) follows one of the Madd letters (such as و, ي, ا) within the same word.",
+          "pengertian": "Application of Madd-i Muttasil is Waajib (mandatory), hence it is also referred to as Madd-i Waajib. This designation emphasizes the importance of adhering strictly to this rule during Quranic recitation to maintain the integrity and rhythmic flow of the verses.",
+          "caraMembaca": "This rule requires that the reciter must elongate the Madd up to four times more than the natural Madd duration, which is equivalent to four musical notes. The elongation ensures that the pronunciation respects the phonetic requirements of Tajweed.",
+          "suara": "/quran/tajweed/audio/062004.mp3",
+          "gambar": "/quran/tajweed/pictures/Madd-i Muttasil.png",
+          "deskripsi": "When pausing on the extreme hamza in (Yashaa), it is permissible to extend the alif maddiya before it by four, five, or six movements."
+      },
+      {
+          "id" : 2,
+          "name": "Madd al-munfasil",
+          "bahasaIstilah": "Madd al-munfasil occurs when a Madd letter (و, ي, ا) is at the end of a word and is followed by a Hamza (ء) at the beginning of the next word.",
+          "pengertian": "It is called permissible because it allows flexibility in recitation. Reciters can choose to either shorten or extend the Madd duration, making it adaptable to different reading styles and contexts.",
+          "caraMembaca": "It is permissible to limit the elongation to the natural extension of two beats, or to extend it further to four or six beats, depending on the reader's choice and the rhythmic requirements of the recitation.",
+          "suara": "/quran/tajweed/audio/109003.mp3",
+          "gambar": "/quran/tajweed/pictures/Madd al-munfasil.png",
+          "deskripsi": "When the long sounds لا and ما are followed by another word with the first letter of hamza, the pronunciation of لا and ما can be two beats of the natural long sound, or 4 or 6 beats of the extended sound."
+      },
+      {
+          "id" : 3,
+          "name": "Madd al Aarid",
+          "bahasaIstilah": "Madd al-Aarid occurs when Madd letters appear after a consonant with a sukun, which may be due to a pause in the recitation. This situation allows the reciter to extend the sound of the Madd.",
+          "pengertian": "The extension of Madd al-Aarid is variable and depends on the type of long sound involved. If it's a natural long sound or a soft sound, the extension can be 2, 4, or 6 beats. For a continuous long note, the extension is typically longer, ranging from 4 to 6 beats, accommodating different recitation styles.",
+          "caraMembaca": "During recitation, the reciter should be aware of whether the Madd is natural or continuous to appropriately adjust the length of the elongation. The flexibility in the number of beats (2, 4, 5, or 6) allows for a dynamic and expressive reading that can adapt to various contexts and preferences.",
+          "suara": "/quran/tajweed/audio/089010.mp3",
+          "gambar": "/quran/tajweed/pictures/Madd_al_Aarid.png",
+          "deskripsi": "When pausing on (الْأَوْتَادِ), the alif that precedes the consonant letter dāl is extended by two, four, or six movements."
+      },
+      {
+          "id" : 4,
+          "name": "Madd-i Laazim",
+          "bahasaIstilah": "Madd-i Laazim occurs when a letter of Madd (و, ي, ا) is followed by a permanent sukoon within the same word, making this Madd essential and inseparable from the word.",
+          "pengertian": "Madd-i Laazim is classified into four types:\nKalima-i Muthaqqaqa (solid word)\nKalima-i Muhaffafa (lightened word)\nHarf-i Muthaqqala (solid letter)\nHarf-i Muhaffafa (lightened letter) \nEach type highlights the importance of mandatory elongation in Quranic recitation, with specific rules on how the Madd should be elongated to maintain both the literal and rhythmic integrity of the text.",
+          "caraMembaca": "In practice, reciters must elongate the Madd sound for four to six beats, depending on the specific type of Madd-i Laazim. The exact duration of elongation should be:\nFor Kalima-i Muthaqqaqa and Harf-i Muthaqqala, it is often required to extend to six beats.\nFor Kalima-i Muhaffafa and Harf-i Muhaffafa, the extension can be shorter but still needs to meet the minimum of four beats. This extended elongation is crucial for maintaining the precision and aesthetic beauty of Quranic recitation.",
+          "suara": "/quran/tajweed/audio/079034.mp3",
+          "gambar": "/quran/tajweed/pictures/Madd-iLaazim_1.png",
+          "deskripsi": "When the long طا meets the permanent sukoon, طا must be pronounced in 6 "
+      },
+      {
+          "id" : 5,
+          "name": "Madd-i Līn",
+          "bahasaIstilah": "Madd-i Līn occurs specifically with Leen letters (و and ي), which are marked by a sukoon. The letter immediately preceding a Leen letter must have a fatha, indicating a short vowel sound that initiates the Madd-i Līn when certain conditions are met.",
+          "pengertian": "This Madd is activated when a pause occurs at the second letter after a Leen letter, leading to a specialized form of elongation. However, it's crucial to note that if there is no pause on these words, the Madd-i Līn does not apply. The rule's application is conditional based on the presence of a pause.",
+          "caraMembaca": "In recitations, if a pause is made after a Leen letter, the Madd-i Līn must be elongated appropriately. Depending on the context and the reader’s style, this elongation can be 2, 4, or 6 beats. It's essential for reciters to be attentive to whether a pause is made, as failing to pause means the Madd-i Līn does not occur, and regular reading continues without additional elongation.",
+          "suara": "/quran/tajweed/audio/106001.mp3",
+          "gambar": "/quran/tajweed/pictures/Madd-iLīn.png", 
+          "deskripsi": "When رَيْ is the penultimate note of the pause, it is extended to 2, 4 or 6 beats to form the regular form of Madd al Aarid."
+      }
+
+
+
+  ],
+   "Quizs" : [
+     {
+       "id" : 0,
+       "question": "What is Madd?",
+       "answers" : [
+         {
+          "answer" : "Lengthen",
+           "right" : 1
+         },
+         {         
+           "answer" : "sounding a letters heavy",
+           "right" : 0
+         },
+         {         
+           "answer" : "sounding a letters light",
+           "right" : 0
+         },
+         {         
+           "answer" : "Bouncing a letter",
+           "right" : 0
+         }
+
+       ]
+     },
+     {
+       "id" : 1,
+       "question": "What is tajweed rule in red words?",
+       "questionPicture" : "32",
+       "answers" : [
+         {
+          "answer" : "Madd jaiz munfashil",
+           "right" : 0
+         },
+         {         
+           "answer" : "Madd asli",
+           "right" : 1
+         },
+         {         
+           "answer" : "Madd lazim",
+           "right" : 0
+         },
+         {         
+           "answer" : "Madd al-leen",
+           "right" : 0
+         }
+
+       ]
+     },
+     {
+       "id" : 2,
+       "question": "What is tajweed rule in red words?",
+       "questionPicture" : "33",
+       "answers" : [
+         {
+          "answer" : "Madd jaiz munfashil",
+           "right" : 0
+         },
+         {         
+           "answer" : "Madd wajib muttasil",
+           "right" : 1
+         },
+         {         
+           "answer" : "Madd lazim",
+           "right" : 0
+         },
+         {         
+           "answer" : "Madd al-leen",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 3,
+       "question": "What is tajweed rule in red words?",
+       "questionPicture" : "34",
+       "answers" : [
+         {
+          "answer" : "Madd jaiz munfashil",
+           "right" : 1
+         },
+         {         
+           "answer" : "Madd wajib muttasil",
+           "right" : 0
+         },
+         {         
+           "answer" : "Madd lazim",
+           "right" : 0
+         },
+         {         
+           "answer" : "Madd al-leen",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 4,
+       "question": "What is tajweed rule in red words?",
+       "questionPicture" : "35",
+       "answers" : [
+         {
+          "answer" : "Madd jaiz munfashil",
+           "right" : 0
+         },
+         {         
+           "answer" : "Madd wajib muttasil",
+           "right" : 0
+         },
+         {         
+           "answer" : "Madd lazim",
+           "right" : 1
+         },
+         {         
+           "answer" : "Madd al-leen",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 5,
+       "question": "What is tajweed rule in red words?",
+       "questionPicture" : "36",
+       "answers" : [
+         {
+          "answer" : "Madd jaiz munfashil",
+           "right" : 0
+         },
+         {         
+           "answer" : "Madd wajib muttasil",
+           "right" : 0
+         },
+         {         
+           "answer" : "Madd lazim",
+           "right" : 1
+         },
+         {         
+           "answer" : "Madd al-leen",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 6,
+       "question": "What is tajweed rule in red words?",
+       "questionPicture" : "37",
+       "answers" : [
+         {
+          "answer" : "Madd jaiz munfashil",
+           "right" : 0
+         },
+         {         
+           "answer" : "Madd wajib muttasil",
+           "right" : 0
+         },
+         {         
+           "answer" : "Madd lazim",
+           "right" : 0
+         },
+         {         
+           "answer" : "Madd al-leen",
+           "right" : 1
+         }
+       ]
+     },
+     {
+       "id" : 7,
+       "question": "What is tajweed rule in red words?",
+       "questionPicture" : "38",
+       "answers" : [
+         {
+          "answer" : "Madd jaiz munfashil",
+           "right" : 0
+         },
+         {         
+           "answer" : "Madd wajib muttasil",
+           "right" : 0
+         },
+         {         
+           "answer" : "Madd lazim",
+           "right" : 0
+         },
+         {         
+           "answer" : "Madd al-Aarid",
+           "right" : 1
+         }
+       ]
+     },
+     {
+       "id" : 8,
+       "question": "The longest madd is... ",
+       "answers" : [
+         {
+          "answer" : "Al-Madd Al-Waajib Al-Mutasil (Obligatory prolongation)",
+           "right" : 0
+         },
+         {         
+           "answer" : "Al-Madd Al-Laazim (Necessary prolongation)",
+           "right" : 1
+         },
+         {         
+           "answer" : "Al-Madd Al-Silah Al-Kubraa (Longer Connecting prolongation)",
+           "right" : 0
+         },
+         {         
+           "answer" : "Al-Madd Al-Badal (Substituted prolongation)",
+           "right" : 0
+         }
+       ]
+     },
+     {
+       "id" : 9,
+       "question": "Al-Madd Al-Leen can be sounded for... ",
+       "answers" : [
+         {
+          "answer" : "2 counts or 4 counts or 6 counts",
+           "right" : 1
+         },
+         {         
+           "answer" : "4 to 5 counts",
+           "right" : 0
+         },
+         {         
+           "answer" : "2 counts only",
+           "right" : 0
+         },
+         {         
+           "answer" : "6 counts only",
+           "right" : 0
+         }
+       ]
+     }
+   ]
+  
+  },
+     {
+  "id" : 5,
+  "title": "Surah Al-Kausar",
+  "desc1_desc": "Quran Chapter 108",
+  "desc2_title": " ",
+  "desc2_desc": "",
+  "Lesson number": 3,
+  "Quiz number": 0,
+  "Lessons" : [
+      {
+          "id" : 0,
+          "name": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+          "bahasaIstilah": "Mekkah",
+          "pengertian": "Surely We have given you Kausar",
+          "caraMembaca": "",
+          "suara": "/quran/tajweed/audio/108001.mp3",
+          "gambar": "",
+          "deskripsi": ""
+      },
+      {
+          "id" : 1,
+          "name": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+          "bahasaIstilah": "Mekkah",
+          "pengertian": "Therefore pray to your Lord and make a sacrifice.",
+          "caraMembaca": "",
+          "suara": "/quran/tajweed/audio/108002.mp3",
+          "gambar": "",
+          "deskripsi": ""
+      },
+      {
+          "id" : 2,
+          "name": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+          "bahasaIstilah": "Mekkah",
+          "pengertian": "Surely your enemy is the one who shall be without posterity,",
+          "caraMembaca": "",
+          "suara": "/quran/tajweed/audio/108003.mp3",
+          "gambar": "",
+          "deskripsi": ""
+      }
+
+
+
+  ],
+   "Quizs" : [
+
+   ]
+  
+  }
+   
+ ]

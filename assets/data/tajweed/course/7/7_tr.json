@@ -1,0 +1,306 @@
+{
+  "id": 6,
+    "title": "Hamzatul Wasl Kuralları",
+    "desc1_desc": "Hamzatul Wasl kelimelerin başında görünür ve kendi sesli harfi yoktur. Telaffuzu, bağlanıp bağlanmadığına veya tilaveti başlatıp başlatmadığına bağlıdır.",
+    "Lessons": [
+      {
+        "id": 0,
+        "name": "Atlanan Telaffuz",
+        "pengertian": "Hamzatul Wasl (ٱ) ile başlayan kelime önceki kelimeye bağlıysa, Hamzatul Wasl atlanır.",
+        "examples": [
+          {
+            "gambar": "701.jpg",
+            "suara": "701.mp3"
+          },
+          {
+            "gambar": "702.jpg",
+            "suara": "702.mp3"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Telaffuz Edilen Telaffuz",
+        "pengertian": "Eğer tilavet, Hamzatul Wasl (ٱ) ile başlayan bir kelimeyle başlıyorsa, Hamzatul Wasl telaffuz edilir. Bağlama bağlı olarak Fetha, Kasra veya Damma alabilir.",
+        "examples": [
+          {
+            "gambar": "703.jpg",
+            "suara": "703.mp3"
+          }
+        ],
+        "rules": [
+          {
+            "id": "1A",
+            "title": "İsimlerin Başında",
+            "subrules": [
+              {
+                "rule": "İsimlerde Fetha",
+                "definition": "Eğer bir isim Hamzatul Wasl ile başlıyorsa, Fetha alır.",
+                "examples": [
+                  {
+                    "text": "ٱسْمَاءُ",
+                    "gambar": "704.jpg",
+                    "suara": "704.mp3"
+                  }
+                ]
+              },
+              {
+                "rule": "İsimlerde Kasra",
+                "definition": "Hamzatul Wasl ile başlayan kelimeye bağlı bir önceki kelime olmadığında, isim Kasra alır.",
+                "examples": [
+                  "اِبْتِدَآءُ",
+                  "إِبْتِغَآءُ",
+                  "اِسْمَآءِ",
+                  "اِمْرَأَتِي",
+                  "اِمْرَأَتُكَ"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1B",
+            "title": "Fiillerin Başında",
+            "subrules": [
+              {
+                "rule": "Fiillerde Damma",
+                "definition": "Eğer bir fiilin üçüncü harfi Damma alıyorsa, Hamzatul Wasl da Damma alır.",
+                "examples": [
+                  {
+                    "text": "ٱدْخُلُوا",
+                    "gambar": "705.jpg",
+                    "suara": "705.mp3"
+                  }
+                ]
+              },
+              {
+                "rule": "Fiillerde Kasra",
+                "definition": "Eğer bir fiilin üçüncü harfi Fetha veya Kasra alıyorsa, Hamzatul Wasl Kasra alır.",
+                "examples": [
+                  {
+                    "text": "ٱصْبِرُوا",
+                    "gambar": "706.jpg",
+                    "suara": "706.mp3"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "exceptions": [
+          {
+            "text": "ٱتَّقُوا",
+            "gambar": "707.jpg",
+            "suara": "707.mp3"
+          },
+          {
+            "text": "ٱصْبِرُوا",
+            "gambar": "708.jpg",
+            "suara": "708.mp3"
+          },
+          {
+            "text": "ٱدْفَعُوا",
+            "gambar": "709.jpg",
+            "suara": "709.mp3"
+          },
+          {
+            "text": "ٱبْتَغُوا",
+            "gambar": "710.jpg",
+            "suara": "710.mp3"
+          },
+          {
+            "text": "ٱفْتَحُوا",
+            "gambar": "711.jpg",
+            "suara": "711.mp3"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Lam At-Tarif",
+        "pengertian": "Lam At-Tarif, isimlerde Hamzatul Wasl'dan sonra gelen Lam'dır (ل). Her zaman sakin (sessiz) olarak kabul edilir ve iki türe ayrılabilir.",
+        "examples": [
+          {
+            "text": "اَلنَّجْمُ",
+            "gambar": "712.jpg",
+            "suara": "712.mp3"
+          },
+          {
+            "text": "اَلْقَمَرُ",
+            "gambar": "704.jpg",
+            "suara": "704.mp3"
+          }
+        ]
+      }
+    ],
+    "Quizs": [
+      {
+        "id": 0,
+        "question": "ٱ ile ilgili yanlış ifadeyi seçin.",
+        "answers": [
+          {
+            "answer": "Kelimelerin başında bulunur",
+            "right": 0
+          },
+          {
+            "answer": "Hiçbir işareti yoktur",
+            "right": 0
+          },
+          {
+            "answer": "İşarete göre telaffuz edilir",
+            "right": 1
+          },
+          {
+            "answer": "Atlanabilir veya telaffuz edilebilir",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "question": "Doğru yazımı seçin.",
+        "answers": [
+          {
+            "answer": "وَٱلۡأُولَىٰ",
+            "right": 1
+          },
+          {
+            "answer": "وَٱلۡأُلَىٰ",
+            "right": 0
+          },
+          {
+            "answer": "وَٱلۡأُلَ",
+            "right": 0
+          },
+          {
+            "answer": "وَأٱلۡأُلَى",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "ٱ'nin atlandığı doğru örneği seçin.",
+        "answers": [
+          {
+            "answer": "فِي ٱلدُّنۡيَا",
+            "right": 1
+          },
+          {
+            "answer": "ٱلۡمُسۡتَعَانُ",
+            "right": 0
+          },
+          {
+            "answer": "ٱمۡرَأَتُ",
+            "right": 0
+          },
+          {
+            "answer": "اِتَّبِعُوۡا",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Kasrah verilmesi gereken 3 doğru ٱ örneğini seçin.",
+        "answers": [
+          {
+            "answer": "ٱئۡتُونِى",
+            "right": 1
+          },
+          {
+            "answer": "ٱسۡتَجِيۡبُواۡ",
+            "right": 1
+          },
+          {
+            "answer": "ٱثۡنَانِ",
+            "right": 1
+          },
+          {
+            "answer": "فِي ٱلدُّنۡيَا",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question": "ٱ'nin atlandığı doğru örneği seçin.",
+        "answers": [
+          {
+            "answer": "وَٱلسَّـٰبِقَـٰتِ سَبۡقًا",
+            "right": 1
+          },
+          {
+            "answer": "ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+            "right": 0
+          },
+          {
+            "answer": "ٱلۡأٓخِرَةِ وَ ٱلۡأُوۡلَىٰ",
+            "right": 0
+          },
+          {
+            "answer": "ٱلۡحَقُّ وَأَنَّ مَا يَدۡعُونَ مِن دُونِهِ",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question": "ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلۡأَرۡضَ ifadesindeki ٱ nasıl telaffuz edilmelidir?",
+        "answers": [
+          {
+            "answer": "Fat-ha - Atlandı - Atlandı",
+            "right": 1
+          },
+          {
+            "answer": "Fat-ha - Fat-ha - Atlandı",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Damma verilmesi gereken doğru ٱ örneğini seçin.",
+        "answers": [
+          {
+            "answer": "ٱسۡمُهُ ٱلۡمَسِيحُ عِيسَىٰ",
+            "right": 1
+          },
+          {
+            "answer": "ٱلۡمُدَبِّرَاتِ أَمۡرًا",
+            "right": 0
+          },
+          {
+            "answer": "ٱلۡمُسۡتَعَانُ",
+            "right": 0
+          },
+          {
+            "answer": "اِتَّبِعُوۡا",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Fat-ha ile telaffuz edilmesi gereken ٱ örneklerini seçin.",
+        "answers": [
+          {
+            "answer": "ٱسۡمَاءُ",
+            "right": 1
+          },
+          {
+            "answer": "ٱفْتَحُوا",
+            "right": 0
+          },
+          {
+            "answer": "فِي ٱلدُّنۡيَا",
+            "right": 0
+          },
+          {
+            "answer": "وَٱلۡأُوۡلَىٰ",
+            "right": 0
+          }
+        ]
+      }
+    ]
+  }
+]

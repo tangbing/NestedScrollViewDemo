@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Doğal Med",
+        "description": "Bu ders, Madd Asli, yani doğal uzatma üzerine odaklanır. Bu kural, belirli harflerle gerçekleşir ve Tecvid'de doğru telaffuzun temelini oluşturur. Öğrenciler, Madd Asli'yi ne zaman ve nasıl uygulayacaklarını öğrenerek, Kur'an okuma akıcılıklarını artırır."
+    },
+    {
+        "title": "Uzun Med",
+        "description": "Bu derste öğrenciler, sesli harfin daha uzun süre uzatıldığı Çok Uzun Madd kavramını keşfedecekler. Kurs, bu kuralın kullanımını yöneten kuralları kapsar ve öğrencilerin bu ileri düzey tekniği öğrenmelerine yardımcı olmak için pratik alıştırmalar sunar."
+    },
+    {
+        "title": "Duraklama Kuralları",
+        "description": "Bu ders, Kur'an okumasında vakıf (duraklama) kurallarını ele alır. Öğrenciler, akıcı bir okuma ve doğru anlam ile telaffuzu sağlamak için izin verilen ve yasaklanan duraklamalar dahil olmak üzere çeşitli duraklama türlerini öğrenecekler."
+    },
+    {
+        "title": "Vakıf Sembolleri",
+        "description": "Bu derste, öğrenciler Kur'an'da kullanılan ve nerede durulacağını veya okumanın devam ettirileceğini gösteren çeşitli vakıf işaretlerini öğrenecekler. Bu işaretleri anlamak, öğrencilerin okuma sırasında doğru kararlar almalarına yardımcı olacaktır."
+    },
+    {
+        "title": "Nun Sakin ve Tanvin Kuralları",
+        "description": "Bu ders, harf ن (nun)'un, ardından bir Sükun (نۡ) geldiğinde ve Tenvin kullanımına dair belirli kuralları ele alır. Öğrenciler, bu kuralların okuma akışını ve seslerin telaffuzunu nasıl etkilediğini anlayacaklar."
+    },
+    {
+        "title": "Mim Sakin Kuralları",
+        "description": "Bu derste öğrenciler, م (mim) harfiyle ilgili kuralları inceleyecekler. Bu harf bir Sükun (مۡ) ile göründüğünde, doğru artikülasyona ve okuma doğruluğuna olan etkisine odaklanılır."
+    },
+    {
+        "title": "Hamzatul Wasl Kuralları",
+        "description": "Bu derste öğrenciler, ٱ (elif) harfiyle ilgili telaffuz kurallarını ve diğer harflerle nasıl etkileşimde bulunduğunu öğrenecekler. Bu kuralları anlamak, okuma doğruluğunu artırmaya yardımcı olacaktır."
+    },
+    {
+        "title": "Türetilmiş Med",
+        "description": "Bu ders, Madd Far'i, yani ikincil uzatma üzerine odaklanır. Bu kural belirli koşullarda ortaya çıkar. Öğrenciler, Madd Far'i'nin farklı türlerini ve bunları okuma sırasında nasıl tanıyacaklarını ve uygulayacaklarını keşfedecekler."
+    },
+    {
+        "title": "Gelişmiş İdğam Teknikleri",
+        "description": "Bu derste öğrenciler, belirli harflerin birleştirilmesini içeren ileri düzey İdğam kurallarını inceleyecekler. Bu ileri düzey çalışma, öğrencilerin Kur'an okuma akıcılıklarını ve doğruluklarını geliştirmelerine yardımcı olacaktır."
+    }
+]

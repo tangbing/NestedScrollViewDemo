@@ -1,0 +1,96 @@
+{
+  "id": 0,
+  "title": "Natural Madd",
+  "desc1_desc": "Madd (مَدّ) refers to 'extending' or 'prolonging' a sound. It occurs when a madd letter follows a letter that has its corresponding vowel sound attached, causing the sound to be elongated. The reader is required to lengthen the letter preceding the madd letter for 2 beats, where one beat is the duration it takes to pronounce a single letter without elongation.",
+  "desc2_title": "Examples of Natural Madd",
+  "desc2_desc": "",
+  "Lesson number": 1,
+  "Quiz number": 5,
+  "Lessons": [
+    {
+      "id": 0,
+      "name": "Madd Asli (Natural Elongation)",
+      "pengertian": "Natural elongation, categorized into three types:",
+      "categories": [
+        "The letter ا when combined with Fatha.",
+        "The letter ي when combined with Kasrah.",
+        "The letter و when combined with Dhammah."
+      ],
+      "examples": [
+        {
+          "withoutMadd": "مَ",
+          "withMadd": "مَا = مَ + ا",
+          "maddLetter": "ا",
+          "image": "1.02.png",
+          "audio": "1.02.mp3"
+        },
+        {
+          "withoutMadd": "مِ",
+          "withMadd": "مِي = مِ + ي",
+          "maddLetter": "ي",
+          "image": "1.04.png",
+          "audio": "1.04.mp3"
+        },
+        {
+          "withoutMadd": "مُ",
+          "withMadd": "مُو = مُ + و",
+          "maddLetter": "و",
+          "image": "1.06.png",
+          "audio": "1.06.mp3"
+        }
+      ]
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "If there is a letter with Fat-Hah harakat meets ا then the reciter should ... the letter.",
+      "answers": [
+        { "answer": "Echo (قَلۡقَلَةۡ)", "right": 0 },
+        { "answer": "Prolong", "right": 1 },
+        { "answer": "Shorten", "right": 0 },
+        { "answer": "Skip", "right": 0 }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Which word correctly demonstrates Natural Madd?",
+      "answers": [
+        { "answer": "مَا", "right": 1 },
+        { "answer": "مُوَّ", "right": 0 },
+        { "answer": "مَاا", "right": 0 },
+        { "answer": "مِوِ", "right": 0 }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "All of these rules have to be prolonged, except...",
+      "answers": [
+        { "answer": "Letter ا if partnered with Fatha", "right": 0 },
+        { "answer": "Letter ي if partnered with Kasrah", "right": 0 },
+        { "answer": "Letter و if partnered with Dhammah", "right": 0 },
+        { "answer": "Letter ي if partnered with Dhammah", "right": 1 }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of the followings contain a letter that must be prolonged?",
+      "answers": [
+        { "answer": "وَأَوۡفُوۡا", "right": 1 },
+        { "answer": "نَوۡمَكُمۡ", "right": 0 },
+        { "answer": "يُوَسۡوِسُ", "right": 0 },
+        { "answer": "يَوۡمِ", "right": 0 }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "In which word is Natural Madd applied correctly?",
+      "answers": [
+        { "answer": "مُو", "right": 1 },
+        { "answer": "مُووْ", "right": 0 },
+        { "answer": "مَ", "right": 0 },
+        { "answer": "مِووِ", "right": 0 }
+      ]
+    }
+  ]
+}

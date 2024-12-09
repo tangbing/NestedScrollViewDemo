@@ -1,0 +1,134 @@
+{
+    "id": 1,
+    "title": "延长延音 (Extended Madd)",
+    "desc1_desc": "延长延音是指当字母上方出现延音符号 (~) 时，且其后跟随特定条件，要求将该字母的发音延长。这些条件可能包括遇到 Hamzah (ء)、静符 (Sukoon) 或叠音符 (Shaddah)，需要根据具体情况延长一定的拍数。",
+    "desc2_title": "延长延音的适用场景",
+    "desc2_desc": "延音的时长取决于遇到的延音类型。以下是非常长延音的适用场景：",
+    "Lessons": [
+        {
+            "id": 0,
+            "name": "延音符后接 Hamzah (ء) 于下一词中",
+            "pengertian": "当延音字母后接 Hamzah (ء) 且位于下一词中时，需将发音延长 2、4 或 5 拍。",
+            "caraMembaca": "朗读者需根据上下文拉长音节，确保诵读的节奏感。",
+            "example": "يَا أَيُّهَا",
+            "gambar": "2.01.jpg",
+            "suara": [
+                {"beats": 2, "file": "2.01-1.mp3"},
+                {"beats": 4, "file": "2.01-2.mp3"},
+                {"beats": 5, "file": "2.01-3.mp3"}
+            ]
+        },
+        {
+            "id": 1,
+            "name": "延音符后接 Hamzah (ء) 于同一词中",
+            "pengertian": "如果延音字母后接 Hamzah (ء) 且位于同一词中，需将发音延长 4 或 5 拍。",
+            "caraMembaca": "朗读者需清晰延长音节，遵循泰芝威德规则。",
+            "example": "وَٱلسَّمَآءِ",
+            "gambar": "2.04.jpg",
+            "suara": "2.04.mp3"
+        },
+        {
+            "id": 2,
+            "name": "延音符后接静符 (Sukoon)",
+            "pengertian": "如果延音字母后接静符 (Sukoon)，发音需延长 6 拍。",
+            "caraMembaca": "朗读者需注意静符的停顿规则，确保延长到位。",
+            "example": "ءَالْـَٰٔنَ",
+            "gambar": "2.05.jpg",
+            "suara": "2.05.mp3"
+        },
+        {
+            "id": 3,
+            "name": "延音符后接叠音符 (Shaddah)",
+            "pengertian": "当延音字母后接叠音符 (Shaddah) 时，需将发音延长 6 拍。",
+            "caraMembaca": "朗读者需突出叠音符，同时保持稳定的节奏。",
+            "example": "ٱلۡحَاقَّةُ",
+            "gambar": "2.06.jpg",
+            "suara": "2.06.mp3"
+        }
+    ],
+    "tips": {
+        "title": "掌握非常长延音",
+        "advice": "为了避免延音时出错或中断，可以遵循先知（愿他平安）的指导。Al Baroo’ 叙述道：“用你美丽的声音诵读《古兰经》。”"
+    },
+    "muqattaat": {
+        "title": "分段字母 (MuqaTTa'at, مُقَطَّعَات)",
+        "pengertian": "某些《古兰经》的章节以分离的字母 (Huroof al MuqaTTa'at) 开头。这些字母需用非常长的延音延长 6 拍。",
+        "example": "الٓمٓ",
+        "gambar": "2.07.jpg",
+        "suara": "2.07.mp3"
+    },
+    "Quizs": [
+        {
+            "id": 0,
+            "question": "以下哪个符号表示字母需要非常长时间的延音？",
+            "answers": [
+                {"answer": "ا", "right": 0},
+                {"answer": "ي", "right": 0},
+                {"answer": "و", "right": 0},
+                {"answer": "ٓ", "right": 1}
+            ]
+        },
+        {
+            "id": 1,
+            "question": "哪个短语展示了非常长的延音？",
+            "answers": [
+                {"answer": "يَا أَيُّهَا", "right": 1},
+                {"answer": "قَالَ", "right": 0},
+                {"answer": "كَانَ", "right": 0},
+                {"answer": "يَغْشَىٰ", "right": 0}
+            ]
+        },
+        {
+            "id": 2,
+            "question": "在这个例子中，以下哪些拍数不能用于延长第一个 ي？",
+            "answers": [
+                {"answer": "4", "right": 0},
+                {"answer": "5", "right": 0},
+                {"answer": "6", "right": 1},
+                {"answer": "2", "right": 0}
+            ]
+        },
+        {
+            "id": 3,
+            "question": "以下哪个短语代表了正确的 'عسق' 的朗读？",
+            "answers": [
+                {"answer": "عۡسۡقَ", "right": 0},
+                {"answer": "عَسَقَ", "right": 0},
+                {"answer": "عۡسۡقُ", "right": 1},
+                {"answer": "عُسِقَ", "right": 0}
+            ]
+        },
+        {
+            "id": 4,
+            "question": "选择延音最长的选项：",
+            "answers": [
+                {"answer": "عَسَىٰ", "right": 0},
+                {"answer": "جَآءَ", "right": 1},
+                {"answer": "كَانٌَ", "right": 0},
+                {"answer": "وَٱلنَّهَارِ", "right": 0}
+            ]
+        },
+        {
+            "id": 5,
+            "question": "选择所有包含需要非常长延音的字母的单词：",
+            "answers": [
+                {"answer": "جَآءَتِ", "right": 1},
+                {"answer": "أَعۡطَىٰ", "right": 0},
+                {"answer": "وَالسَّمَآءِ", "right": 1},
+                {"answer": "صَلَاتُهُمۡ", "right": 0},
+                {"answer": "عِيسَىٰ", "right": 0},
+                {"answer": "ءَآلۡأَٰنَ", "right": 1}
+            ]
+        },
+        {
+            "id": 6,
+            "question": "延长延音的例子中，需延长几拍？",
+            "answers": [
+                {"answer": "2", "right": 0},
+                {"answer": "4", "right": 0},
+                {"answer": "6", "right": 1},
+                {"answer": "8", "right": 0}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,317 @@
+[
+  {
+    "id": 7,
+    "title": "Madd Far'iy",
+    "desc1_desc": "Madd Far'iy Hamza (همزة) yoki Sukun (سكون) mavjudligi sababli o‘qishda cho‘zilishni bildiradi.",
+    "desc2_title": "Madd Far'iy turlari",
+    "desc2_desc": "Madd Far'iy cho‘zilish sababiga qarab, masalan, Hamza yoki Sukun asosida bir necha turga bo‘linadi va ularni qo‘llash uchun maxsus qoidalarni o‘z ichiga oladi.",
+    "Lessons": [
+      {
+        "id": 0,
+        "name": "Hamza tufayli cho‘zilish",
+        "pengertian": "Hamza turli holatlarda Madd harflari bilan o‘zaro ta’sir qilganda yuzaga keladi. Bu, asosan, so‘z ichidagi yoki so‘zlar orasidagi o‘zaro ta’sirni o‘z ichiga oladi.",
+        "rules": [
+          {
+            "name": "Madd Badal",
+            "description": "Hamza Madd harfi oldida joylashganda yuzaga keladi. Aslida so‘zda ikki Hamza bo‘ladi, lekin talaffuzni osonlashtirish uchun biri Maddga o‘zgartiriladi.",
+            "duration": "2 harakat",
+            "examples": [
+              {
+                "text": "آمَنَا",
+                "image": "801.jpg",
+                "audio": "801.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Vojib Muttasil",
+            "description": "Agar Madd Asliy bir so‘z ichida Hamza bilan uchrasha olsa, o‘qish cho‘zilishi kerak.",
+            "duration": "4 yoki 5 harakat",
+            "examples": [
+              {
+                "text": "جَاءَ",
+                "image": "802.jpg",
+                "audio": "802.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Joiz Munfasil",
+            "description": "Agar Madd Asliy bir so‘zda, keyingi so‘zdagi Hamza bilan bog‘lansa, cho‘zilish vaqti o‘zgarishi mumkin. O‘qish davomida izchillik saqlanishi lozim.",
+            "duration": "2, 4 yoki 5 harakat",
+            "examples": [
+              {
+                "text": "يَا أَيُّهَا",
+                "image": "803.jpg",
+                "audio": "803.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Sila Tovila",
+            "description": "Bu holatda Ha Damir (ه) boshqa so‘zda Hamzadan oldin keladi.",
+            "duration": "4 yoki 5 harakat",
+            "examples": [
+              {
+                "text": "بِهِۦۤۦ أَمْرُ",
+                "image": "804.jpg",
+                "audio": "804.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Sukun tufayli cho‘zilish",
+        "pengertian": "Agar Madd Asliy Sukkun yoki Shaddaga duch kelsa, ko‘proq cho‘zilish talab qilinadi.",
+        "rules": [
+          {
+            "name": "Madd Lozim Mutaqqal Kalimiy",
+            "description": "Agar Madd Asliy bir so‘z ichida Shaddadan keyin kelsa, bu yuzaga keladi.",
+            "duration": "6 harakat",
+            "examples": [
+              {
+                "text": "الطَّآمَّةُ",
+                "image": "805.jpg",
+                "audio": "805.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Lozim Mukhaffaf Kalimiy",
+            "description": "Agar Madd Asliy bir so‘z ichida Sukkun bilan uchrasha olsa.",
+            "duration": "6 harakat",
+            "examples": [
+              {
+                "text": "آلآنَ",
+                "image": "806.jpg",
+                "audio": "806.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Farqiy",
+            "description": "Madd Badaldan keyin Shaddali harf kelganda yuzaga keladi.",
+            "duration": "5 yoki 6 harakat",
+            "examples": [
+              {
+                "text": "أَلَّذِينَ كَفَرُوا",
+                "image": "807.jpg",
+                "audio": "807.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Sukun va Waqf tufayli cho‘zilish",
+        "pengertian": "Agar Madd Sukun bilan bog‘lanib, to‘xtash nuqtasidan (Waqf) ta’sir ko‘rsa.",
+        "rules": [
+          {
+            "name": "Madd Lin",
+            "description": "So‘zning oxiridan bir oldingi harfi Lin bo‘lsa (Fatha’dan keyin و yoki ي kelganda).",
+            "duration": "2, 4, 5 yoki 6 harakat",
+            "examples": [
+              {
+                "text": "قُرَيْشٍ",
+                "image": "810.jpg",
+                "audio": "810.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Arid Lis-Sukun",
+            "description": "Madd, Waqf tufayli Sukun bilan uchrashganda yuzaga keladi.",
+            "duration": "2, 4 yoki 6 harakat",
+            "examples": [
+              {
+                "text": "النَّاسِ",
+                "image": "811.jpg",
+                "audio": "811.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Quizs": [
+      {
+        "id": 0,
+        "question": "سَوَآءٌ so‘zida Madd Far'iyni to‘g‘ri ko‘rsatgan yozuv qaysi?",
+        "answers": [
+          {
+            "answer": "سَوَاءٌ",
+            "right": 0
+          },
+          {
+            "answer": "سَوَآءٌ (Alif Madd bilan)",
+            "right": 1
+          },
+          {
+            "answer": "سَوَءٌ",
+            "right": 0
+          },
+          {
+            "answer": "سَوَّآءٌ (Shadda va Alif Madd bilan)",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 1,
+      "question": "إِنَّا أَنزَلْنَاهُ jumlasida Madd Far'iyni to‘g‘ri qo‘llagan yozuv qaysi?",
+      "answers": [
+        {
+          "answer": "إِنَّا أَنزَلْنَاحُ",
+          "right": 0
+        },
+        {
+          "answer": "إِنَّا أَنزَلْنَاهُ (to‘g‘ri yozuv)",
+          "right": 1
+        },
+        {
+          "answer": "إِنَّ أَنزَلْنَاهُ (Maddsizlik bilan)",
+          "right": 0
+        },
+        {
+          "answer": "إِنَّا أَنزَلْنَاهَا (noto‘g‘ri tugallanish)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "الم jumlasida Madd Far'iyni qanday to‘g‘ri o‘qish kerak?",
+      "answers": [
+        {
+          "answer": "م harfini 6 harakat davomida cho‘zish",
+          "right": 1
+        },
+        {
+          "answer": "ل harfidan keyin to‘xtash",
+          "right": 0
+        },
+        {
+          "answer": "Har bir harfni tez o‘qish",
+          "right": 0
+        },
+        {
+          "answer": "م harfini o‘qimaslik",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "قُلۡ ءَآلذَّكَرَيۡنِ jumlasida Madd Far'iyni to‘g‘ri ko‘rsatgan yozuv qaysi?",
+      "answers": [
+        {
+          "answer": "قُلۡ ءَآلذَّكَرَيۡنِ (to‘g‘ri yozuv)",
+          "right": 1
+        },
+        {
+          "answer": "قُلۡ ءَالذَّكَرَيۡنِ (Maddsizlik bilan)",
+          "right": 0
+        },
+        {
+          "answer": "قُ ءَآلذَّكَرَيۡنِ (قُل yo‘q)",
+          "right": 0
+        },
+        {
+          "answer": "قُلۡ عَآلذَّكَرَيۡنِ (noto‘g‘ri so‘z)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "حم so‘zida Madd Far'iyni to‘g‘ri ko‘rsatgan yozuv qaysi?",
+      "answers": [
+        {
+          "answer": "هم",
+          "right": 0
+        },
+        {
+          "answer": "حم (to‘g‘ri yozuv)",
+          "right": 1
+        },
+        {
+          "answer": "حآمآ",
+          "right": 0
+        },
+        {
+          "answer": "حَآمَآ (noto‘g‘ri harekalar bilan)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "مَلِكِ ٱلنَّاسِ jumlasida Madd Far'iyni to‘g‘ri ko‘rsatgan yozuv qaysi?",
+      "answers": [
+        {
+          "answer": "مَلِكِ ٱلنَّاسِ (to‘g‘ri yozuv)",
+          "right": 1
+        },
+        {
+          "answer": "مَالِكِ ٱلنَّسِ (noto‘g‘ri hareka bilan)",
+          "right": 0
+        },
+        {
+          "answer": "مَلِكِ ٱلنَّسِي (noto‘g‘ri tugallanish)",
+          "right": 0
+        },
+        {
+          "answer": "مَلِكِ ٱلنَّسِ (harekasiz)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Madd Vojib Muttasilga misol qaysi?",
+      "answers": [
+        {
+          "answer": "آمَنَا",
+          "right": 0
+        },
+        {
+          "answer": "جَاءَ (to‘g‘ri misol)",
+          "right": 1
+        },
+        {
+          "answer": "قُرَيْشٍ",
+          "right": 0
+        },
+        {
+          "answer": "يَا أَيُّهَا",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Madd Lozim Mutaqqal Kalimiy davomiyligi qancha?",
+      "answers": [
+        {
+          "answer": "2 harakat",
+          "right": 0
+        },
+        {
+          "answer": "4 harakat",
+          "right": 0
+        },
+        {
+          "answer": "6 harakat (to‘g‘ri davomiylik)",
+          "right": 1
+        },
+        {
+          "answer": "O‘zgaruvchan davomiylik",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

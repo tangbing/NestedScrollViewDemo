@@ -1,0 +1,369 @@
+{
+  "id": 4,
+  "title": "نون ساکن اور تنوین کے قواعد",
+  "desc1_desc": "نون ساکن (ن) یا تنوین کی تلاوت کرتے وقت، اس کے بعد آنے والے حرف کی بنیاد پر مخصوص قواعد لاگو ہوتے ہیں۔ یہ قواعد قرآن مجید کی تلاوت میں صحیح تجوید کو یقینی بناتے ہیں۔",
+  "sections": [
+    {
+      "id": 0,
+      "title": "اظہار (إظهار) - واضح تلفظ",
+      "definition": "اظہار کا مطلب ہے کہ نون یا تنوین کو واضح طور پر بغیر کسی ادغام یا غنہ کے تلفظ کیا جائے۔",
+      "conditions": "اظہار اس وقت لاگو ہوتا ہے جب نون یا تنوین کے بعد ان حروف میں سے کوئی ایک ہو: ء (ہمزہ)، ہ (ہا)، ع (عین)، ح (حا)، غ (غین)، خ (خا)۔",
+      "examples": [
+        {
+          "text": "كُلٌّ ءَامَنَ",
+          "gambar": "/quran/tajweed/pictures/5.01.jpg",
+          "suara": "/quran/tajweed/audio/5.01.mp3"
+        },
+        {
+          "text": "أَنْعَمْتَ",
+          "gambar": "/quran/tajweed/pictures/5.02.jpg",
+          "suara": "/quran/tajweed/audio/5.02.mp3"
+        },
+        {
+          "text": "قَوْلًا غَيْرَ",
+          "gambar": "/quran/tajweed/pictures/5.03.jpg",
+          "suara": "/quran/tajweed/audio/5.03.mp3"
+        },
+        {
+          "text": "عَلِيمٌ حَكِيمٌ",
+          "gambar": "/quran/tajweed/pictures/5.04.jpg",
+          "suara": "/quran/tajweed/audio/5.04.mp3"
+        },
+        {
+          "text": "عَلِيمٌ خَبِيرٌ",
+          "gambar": "/quran/tajweed/pictures/5.05.jpg",
+          "suara": "/quran/tajweed/audio/5.05.mp3"
+        },
+        {
+          "text": "مِنْهُ",
+          "gambar": "/quran/tajweed/pictures/5.06.jpg",
+          "suara": "/quran/tajweed/audio/5.06.mp3"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "ادغام (إدغام) - ملاپ",
+      "definition": "ادغام کا مطلب ہے نون یا تنوین کو اگلے حرف کے ساتھ ملا دینا۔ اس کی دو ذیلی اقسام ہیں:",
+      "subtypes": [
+        {
+          "id": "1a",
+          "name": "غنہ کے ساتھ",
+          "definition": "آواز کو 2-3 حرکات کے لیے غنہ کے ساتھ ادا کریں۔",
+          "letters": "ي (یا)، ن (نون)، م (میم)، و (واؤ)",
+          "examples": [
+            {
+              "text": "مَن يَقُولُ",
+              "gambar": "/quran/tajweed/pictures/5.07.jpg",
+              "suara": "/quran/tajweed/audio/5.07.mp3"
+            },
+            {
+              "text": "وَآتَوْهُم مِّن مَّا",
+              "gambar": "/quran/tajweed/pictures/5.08.jpg",
+              "suara": "/quran/tajweed/audio/5.08.mp3"
+            },
+            {
+              "text": "وَلِكُلٍّ وِجْهَةٌ",
+              "gambar": "/quran/tajweed/pictures/5.09.jpg",
+              "suara": "/quran/tajweed/audio/5.09.mp3"
+            },
+            {
+              "text": "يَوْمَئِذٍ نَاعِمَةٌ",
+              "gambar": "/quran/tajweed/pictures/5.10.jpg",
+              "suara": "/quran/tajweed/audio/5.10.mp3"
+            }
+          ]
+        },
+        {
+          "id": "1b",
+          "name": "بغیر غنہ کے",
+          "definition": "نون یا تنوین کی آواز کو بغیر غنہ کے اگلے حرف میں ملا دیں۔",
+          "letters": "ر (را)، ل (لام)",
+          "examples": [
+            {
+              "text": "مِنْ رَبِّهِمْ",
+              "gambar": "/quran/tajweed/pictures/5.11.jpg",
+              "suara": "/quran/tajweed/audio/5.11.mp3"
+            },
+            {
+              "text": "وَيْلٌ لِّكُلِّ",
+              "gambar": "/quran/tajweed/pictures/5.12.jpg",
+              "suara": "/quran/tajweed/audio/5.12.mp3"
+            }
+          ]
+        },
+        {
+          "id": "1c",
+          "name": "ادغام مطلق",
+          "definition": "یہ صرف چار مخصوص الفاظ میں ہوتا ہے جہاں نون مکمل طور پر لام میں ضم ہو جاتا ہے۔",
+          "words": ["الدُّنْيَا", "بُنْيَانٌ", "قِنْوَانٌ", "صِنْوَانٌ"],
+          "example": {
+            "text": "الدُّنْيَا",
+            "gambar": "/quran/tajweed/pictures/5.13.jpg",
+            "suara": "/quran/tajweed/audio/5.13.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "اخفاء (إخفاء) - پوشیدگی",
+      "definition": "نون یا تنوین کی آواز کو چھپائیں اور نرم غنہ کے ساتھ 2-3 حرکات تک ادا کریں۔",
+      "letters": "ت (تا)، ث (ثا)، ج (جیم)، د (دال)، ذ (ذال)، ز (زاء)، س (سین)، ش (شین)، ص (صاد)، ض (ضاد)، ط (طاء)، ظ (ظاء)، ف (فا)، ق (قاف)، ك (کاف)",
+      "examples": [
+        {
+          "text": "جَنَّاتٍ تَجْرِي",
+          "gambar": "/quran/tajweed/pictures/5.14.jpg",
+          "suara": "/quran/tajweed/audio/5.14.mp3"
+        },
+        {
+          "text": "مِنْ ثَمَرٍ",
+          "gambar": "/quran/tajweed/pictures/5.15.jpg",
+          "suara": "/quran/tajweed/audio/5.15.mp3"
+        },
+        {
+          "text": "خَلْقٍ جَدِيدٍ",
+          "gambar": "/quran/tajweed/pictures/5.16.jpg",
+          "suara": "/quran/tajweed/audio/5.16.mp3"
+        },
+        {
+          "text": "أَندَادًا",
+          "gambar": "/quran/tajweed/pictures/5.17.jpg",
+          "suara": "/quran/tajweed/audio/5.17.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "اقلاب (إقلاب) - تبدیلی",
+      "definition": "نون یا تنوین کی آواز کو ب کے بعد م میں تبدیل کریں۔ تبدیلی میں 2-3 حرکات تک غنہ شامل ہے۔",
+      "example": {
+        "text": "سَمِيعٌ بَصِيرٌ",
+        "gambar": "/quran/tajweed/pictures/5.29.jpg",
+        "suara": "/quran/tajweed/audio/5.29.mp3"
+      }
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "کون سا فقرہ اظہار کے قاعدے کو درست طریقے سے لاگو کرتا ہے؟",
+      "answers": [
+        {
+          "answer": "كُلٌّ ءَامَنَ",
+          "right": 1
+        },
+        {
+          "answer": "مَن يَقُولُ",
+          "right": 0
+        },
+        {
+          "answer": "جَنَّاتٍ تَجْرِي",
+          "right": 0
+        },
+        {
+          "answer": "سَمِيعٌ بَصِيرٌ",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "کون سے حروف غنہ کے ساتھ ادغام کے قاعدے کو متحرک کرتے ہیں؟",
+      "answers": [
+        {
+          "answer": "ر، ل",
+          "right": 0
+        },
+        {
+          "answer": "ی، ن، م، و",
+          "right": 1
+        },
+        {
+          "answer": "ء، ہ، ع، ح، غ، خ",
+          "right": 0
+        },
+		{
+          "answer": "ت، ث، ج، د",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "جب نون یا تنوین کے بعد ب ہو تو کون سا تجوید کا قاعدہ لاگو ہوتا ہے؟",
+      "answers": [
+        {
+          "answer": "اخفاء",
+          "right": 0
+        },
+        {
+          "answer": "اقلاب",
+          "right": 1
+        },
+        {
+          "answer": "غنہ کے ساتھ ادغام",
+          "right": 0
+        },
+        {
+          "answer": "اظہار",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "فقرے 'سَمِيعٌ بَصِيرٌ' میں تنوین کس طرح ادا کی جاتی ہے؟",
+      "answers": [
+        {
+          "answer": "واضح طور پر بغیر کسی تبدیلی کے",
+          "right": 0
+        },
+        {
+          "answer": "م میں غنہ کے ساتھ تبدیل",
+          "right": 1
+        },
+        {
+          "answer": "ب کے ساتھ بغیر غنہ کے ملایا گیا",
+          "right": 0
+        },
+        {
+          "answer": "نرم غنہ کے ساتھ چھپایا گیا",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "کون سے حروف نون ساکن یا تنوین کے بعد اخفاء کا قاعدہ ضروری بناتے ہیں؟",
+      "answers": [
+        {
+          "answer": "ء، ہ، ع، ح، غ، خ",
+          "right": 0
+        },
+        {
+          "answer": "ت، ث، ج، د، ذ، ز، س، ش، ص، ض، ط، ظ، ف، ق، ک",
+          "right": 1
+        },
+        {
+          "answer": "ر، ل",
+          "right": 0
+        },
+        {
+          "answer": "ب",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "اظہار اور اخفاء میں کیا فرق ہے؟",
+      "answers": [
+        {
+          "answer": "اظہار میں واضح تلفظ شامل ہے، جبکہ اخفاء میں آواز کو غنہ کے ساتھ چھپایا جاتا ہے۔",
+          "right": 1
+        },
+        {
+          "answer": "اظہار میں حروف کو ملایا جاتا ہے، جبکہ اخفاء میں انہیں الگ کیا جاتا ہے۔",
+          "right": 0
+        },
+        {
+          "answer": "اظہار میں غنہ استعمال ہوتا ہے، جبکہ اخفاء میں نہیں۔",
+          "right": 0
+        },
+        {
+          "answer": "اظہار صرف تنوین پر لاگو ہوتا ہے، جبکہ اخفاء صرف نون ساکن پر لاگو ہوتا ہے۔",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "مندرجہ ذیل میں سے کون سا فقرہ بغیر غنہ کے ادغام کو ظاہر کرتا ہے؟",
+      "answers": [
+        {
+          "answer": "مِن رَبِّهِمْ",
+          "right": 1
+        },
+        {
+          "answer": "مَن يَقُولُ",
+          "right": 0
+        },
+        {
+          "answer": "كُلٌّ ءَامَنَ",
+          "right": 0
+        },
+        {
+          "answer": "سَمِيعٌ بَصِيرٌ",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "فقرے 'جَنَّاتٍ تَجْرِي' میں تنوین کس طرح ادا کی جاتی ہے؟",
+      "answers": [
+        {
+          "answer": "واضح اور بغیر غنہ کے",
+          "right": 0
+        },
+        {
+          "answer": "نرم غنہ کے ساتھ چھپایا گیا",
+          "right": 1
+        },
+        {
+          "answer": "اگلے حرف کے ساتھ ملایا گیا",
+          "right": 0
+        },
+        {
+          "answer": "م کی آواز میں تبدیل",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "فقرے 'مَن يَقُولُ' میں تجوید کا کون سا قاعدہ لاگو ہوتا ہے؟",
+      "answers": [
+        {
+          "answer": "اظہار",
+          "right": 0
+        },
+        {
+          "answer": "غنہ کے ساتھ ادغام",
+          "right": 1
+        },
+        {
+          "answer": "اخفاء",
+          "right": 0
+        },
+        {
+          "answer": "اقلاب",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "کون سے حروف نون ساکن یا تنوین کے بعد اظہار کا قاعدہ لاگو کرتے ہیں؟",
+      "answers": [
+        {
+          "answer": "ء، ہ، ع، ح، غ، خ",
+          "right": 1
+        },
+        {
+          "answer": "ت، ث، ج، د، ذ، ز، س، ش، ص، ض، ط، ظ، ف، ق، ک",
+          "right": 0
+        },
+        {
+          "answer": "ر، ل",
+          "right": 0
+        },
+        {
+          "answer": "ب",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

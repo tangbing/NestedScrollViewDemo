@@ -1,0 +1,167 @@
+{
+    "id": 2,
+    "title": "Aturan Berhenti",
+    "desc1_desc": "Aturan berhenti menjelaskan bagaimana berhenti atau jeda selama membaca Al-Quran, memastikan pelafalan yang benar dan kepatuhan pada prinsip Tajwid.",
+    "desc2_title": "Contoh dan Skenario",
+    "desc2_desc": "Berbagai aturan berhenti, seperti pada bunyi, Tanwin Fatha, huruf Mushaddad, dan lainnya, dijelaskan melalui contoh.",
+    "Lesson number": 7,
+    "Quiz number": 10,
+    "Lessons": [
+        {
+            "id": 0,
+            "name": "Berhenti pada Bunyi Selain Tanwin Fatha",
+            "pengertian": "Saat berhenti, perlakukan huruf terakhir seolah-olah memiliki Sukun (akhir diam).",
+            "caraMembaca": "Berhenti dengan lembut sambil menetralkan bunyi vokal terakhir.",
+            "example": "أَكْبَرُ",
+            "gambar": "3.01.jpg",
+            "suara": "3.01.mp3"
+        },
+        {
+            "id": 1,
+            "name": "Berhenti pada Tanwin Fatha",
+            "pengertian": "Jika huruf terakhir memiliki Tanwin Fatha atau diikuti oleh Alif-Madd, berhenti sesuai dengan aturan Tanwin Fatha.",
+            "caraMembaca": "Hilangkan bunyi Tanwin dan berhenti dengan jelas.",
+            "example": "يُسْرًا",
+            "gambar": "3.02.jpg",
+            "suara": "3.02.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Berhenti pada Huruf ة",
+            "pengertian": "Perlakukan huruf ة seolah-olah memiliki Sukun seperti huruf ه.",
+            "caraMembaca": "Ucapkan dengan lembut tanpa bunyi vokal.",
+            "example": "بَصِيْرَةٌ",
+            "gambar": "3.03.jpg",
+            "suara": "3.03.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Berhenti pada Huruf Mushaddad",
+            "subrules": [
+                {
+                    "title": "Huruf Qalqalah (ق, ط, ب, ج, د)",
+                    "pengertian": "Ucapkan huruf dengan efek Qalqalah yang kuat (efek gema) dalam bentuk Saakin-nya.",
+                    "example": "وَٱلۡحَجُّ",
+                    "gambar": "3.04.jpg",
+                    "suara": "3.04.mp3"
+                },
+                {
+                    "title": "Huruf Lainnya",
+                    "pengertian": "Perlakukan huruf seolah-olah memiliki Sukun, tetapi tahan bunyinya di hidung selama 2 ketukan (Ghunnah).",
+                    "example": "مِنْ",
+                    "gambar": "3.05.jpg",
+                    "suara": "3.05.mp3"
+                },
+                {
+                    "title": "Huruf Mushaddad Non-Qalqalah",
+                    "pengertian": "Ganti Shaddah dengan Sukun dan jeda sebentar (nabr).",
+                    "example": "فِي شَكٍّ",
+                    "gambar": "3.06.jpg",
+                    "suara": "3.06.mp3"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Berhenti pada Huruf Saakin atau Madd (ء, ى, ا)",
+            "pengertian": "Berhenti seperti tertulis, tanpa melakukan perubahan apa pun.",
+            "examples": [
+                {
+                    "text": "فَكَبِّرْ",
+                    "gambar": "3.07.jpg",
+                    "suara": "3.07.mp3"
+                },
+                {
+                    "text": "مُوسَى",
+                    "gambar": "3.08.jpg",
+                    "suara": "3.08.mp3"
+                }
+            ],
+            "exceptions": [
+                {
+                    "title": "Berhenti pada kata yang berakhir dengan ى atau ء",
+                    "pengertian": "Ganti ى atau ء dengan Sukun.",
+                    "example": "رَسُولَهُ",
+                    "gambar": "3.09.jpg",
+                    "suara": "3.09.mp3"
+                },
+                {
+                    "title": "Berhenti pada Huruf Qalqalah",
+                    "pengertian": "Terapkan Qalqalah yang kuat.",
+                    "example": "يُولَدُ",
+                    "gambar": "3.10.jpg",
+                    "suara": "3.10.mp3"
+                },
+                {
+                    "title": "Berhenti pada Madd yang Sangat Panjang",
+                    "pengertian": "Ganti dengan Madd Asli.",
+                    "example": "أَنَا",
+                    "gambar": "3.11.jpg",
+                    "suara": "3.11.mp3"
+                }
+            ]
+        }
+    ],
+    "Quizs": [
+        {
+            "id": 0,
+            "question": "Apa metode yang benar untuk berhenti pada فِي شَكٍّ?",
+            "answers": [
+                {"answer": "Terapkan Sukun dan jeda sebentar.", "right": 1},
+                {"answer": "Abaikan Shaddah.", "right": 0},
+                {"answer": "Anggap huruf memiliki Dammah.", "right": 0},
+                {"answer": "Bacalah dengan Madd.", "right": 0}
+            ]
+        },
+        {
+            "id": 1,
+            "question": "Apa aturan berhenti yang benar pada قُلِ ٱللَّهُمَّ?",
+            "answers": [
+                {"answer": "Ganti dengan Sukun.", "right": 1},
+                {"answer": "Tambahkan Tanwin pada kata.", "right": 0},
+                {"answer": "Abaikan aturan berhenti.", "right": 0},
+                {"answer": "Anggap memiliki Kasrah.", "right": 0}
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Bagaimana cara memperlakukan huruf ة dalam kata seperti بَصِيْرَةٌ?",
+            "answers": [
+                {"answer": "Anggap memiliki Sukun seperti huruf ه.", "right": 1},
+                {"answer": "Bacalah dengan Tanwin.", "right": 0},
+                {"answer": "Abaikan ة saat berhenti.", "right": 0},
+                {"answer": "Anggap sebagai Madd.", "right": 0}
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Bagaimana cara menerapkan Qalqalah pada kata يُولَدُ?",
+            "answers": [
+                {"answer": "Terapkan Qalqalah yang kuat.", "right": 1},
+                {"answer": "Tambahkan Sukun.", "right": 0},
+                {"answer": "Abaikan Qalqalah.", "right": 0},
+                {"answer": "Bacalah sebagai Madd.", "right": 0}
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Apa metode yang benar untuk berhenti pada أَنَا?",
+            "answers": [
+                {"answer": "Ganti Madd panjang dengan Madd Asli.", "right": 1},
+                {"answer": "Hilangkan Madd sepenuhnya.", "right": 0},
+                {"answer": "Perpanjang Madd lebih lanjut.", "right": 0},
+                {"answer": "Tambahkan Tanwin di akhir.", "right": 0}
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Apa aturan berhenti pada huruf Saakin seperti (ء, ى, ا)?",
+            "answers": [
+                {"answer": "Berhenti seperti tertulis, tanpa perubahan.", "right": 1},
+                {"answer": "Tambahkan Sukun pada huruf.", "right": 0},
+                {"answer": "Terapkan Madd.", "right": 0},
+                {"answer": "Abaikan aturan berhenti.", "right": 0}
+            ]
+        }
+    ]
+}

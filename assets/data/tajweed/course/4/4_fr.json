@@ -1,0 +1,162 @@
+{
+  "id": 3,
+  "title": "Symboles de Waqf",
+  "desc1_desc": "Ce guide explique les différents types de symboles de Waqf dans le Coran, en mettant en évidence leurs significations et leur utilisation pendant la récitation.",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Six Types de Symboles de Waqf",
+      "types": [
+        {
+          "id": 0,
+          "name": "Arrêt Obligatoire",
+          "symbol":[ "م"],
+          "rule": "Vous devez vous arrêter lorsque vous voyez ce symbole.",
+          "example": {
+            "text": "إِنَّمَا يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ وَٱلْمَوْتَىٰ يَبْعَثُهُمُ ٱللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ",
+            "gambar": "/quran/tajweed/pictures/4.01.jpg",
+            "suara": "/quran/tajweed/audio/4.01.mp3"
+          }
+        },
+        {
+          "id": 1,
+          "name": "Arrêt Recommandé",
+          "symbol": ["ط", "قلى"],
+          "rule": "Il est préférable de s'arrêter à ce symbole pour une récitation plus fluide.",
+          "example": {
+            "text": "وَإِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا فَضَرْبَ الرِّقَابِ حَتَّىٰ إِذَا أَثْخَنتُمُوهُمْ فَشُدُّوا ٱلْوَثَاقَ فَإِمَّا مَنًّا بَعْدُ وَإِمَّا فِدَاءً",
+            "gambar": "/quran/tajweed/pictures/4.02.jpg",
+            "suara": "/quran/tajweed/audio/4.02.mp3"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Arrêt ou Continuation Optionnelle",
+          "symbol": ["ج"],
+          "rule": "Vous pouvez choisir de vous arrêter ou de continuer à ce symbole selon votre préférence.",
+          "example": {
+            "text": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسۡعَهَا لَهَا مَا كَسَبَتْ وَعَلَيۡهَا مَا ٱكۡتَسَبَتْ",
+            "gambar": "/quran/tajweed/pictures/4.03.jpg",
+            "suara": "/quran/tajweed/audio/4.03.mp3"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Continuation Recommandée",
+          "symbol": ["صلى", "ز"],
+          "rule": "Il est préférable de continuer sans s'arrêter à ce symbole.",
+          "example": {
+            "text": "وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا بَلْ أَحْيَاءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ",
+            "gambar": "/quran/tajweed/pictures/4.04.jpg",
+            "suara": "/quran/tajweed/audio/4.04.mp3"
+          }
+        },
+        {
+          "id": 4,
+          "name": "Continuation Obligatoire",
+          "symbol": ["لا"],
+          "rule": "Il est interdit de s'arrêter à ce symbole, et vous devez continuer la récitation.",
+          "example": {
+            "text": "وَمَا أُهِلَّ بِهِ لِغَيْرِ اللَّهِ",
+            "gambar": "/quran/tajweed/pictures/4.05.jpg",
+            "suara": "/quran/tajweed/audio/4.05.mp3"
+          }
+        },
+        {
+          "id": 5,
+          "name": "Arrêt sur un Seul Symbole, Pas les Deux",
+          "symbol":[ "Deux symboles 'ق'"],
+          "rule": "Il est préférable de s'arrêter à l'un de ces symboles mais d'éviter de s'arrêter aux deux.",
+          "example": {
+            "text": "ذَٰلِكَ ٱلْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ",
+            "gambar": "/quran/tajweed/pictures/4.06.jpg",
+            "suara": "/quran/tajweed/audio/4.06.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "title": "Le Symbole 'ع'",
+      "details": {
+        "meaning": "Situé à la fin d'un verset ou sur le côté de la page du Coran, il marque des divisions appelées Ruku' (ركوع).",
+        "purpose": "Ces sections, environ 540 au total, sont souvent utilisées comme points d'arrêt pratiques pendant la prière (Salah).",
+        "additional_info": {
+          "count": "Environ 200 sections réparties sur 114 chapitres.",
+          "description": "Chaque Ruku' contient généralement entre 3 et 10 versets et aide à organiser le Coran pour une récitation plus facile."
+        }
+      }
+    }
+  ],
+  "summary": {
+    "Arrêt Obligatoire": "Indiqué par le symbole 'م'.",
+    "Arrêt Recommandé": "Indiqué par le symbole 'ط' ou 'قلى'.",
+    "Arrêt Optionnel": "Indiqué par le symbole 'ج'.",
+    "Continuation Recommandée": "Indiquée par le symbole 'صلى' ou 'ز'.",
+    "Continuation Obligatoire": "Indiquée par le symbole 'لا'.",
+    "Arrêt sur un Seul Symbole, Pas les Deux": "Indiqué par deux symboles 'ق'.",
+    "Symbole de Ruku'": "Le symbole 'ع' indique un point d'arrêt pratique pendant la récitation."
+  },
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "Le verset ci-dessus contient un symbole indiquant que le récitateur...",
+      "answers": [
+        { "answer": "Doit continuer", "right": 0 },
+        { "answer": "Libre de s'arrêter ou de continuer", "right": 0 },
+        { "answer": "Mieux vaut continuer", "right": 0 },
+        { "answer": "Doit s'arrêter", "right": 1 }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Quels symboles indiquent que le récitateur doit s'arrêter sur un symbole mais pas les deux ?",
+      "answers": [
+        { "answer": "ۖ", "right": 0 },
+        { "answer": "ۙ", "right": 0 },
+        { "answer": "ۛ", "right": 1 },
+        { "answer": "ۚ", "right": 0 }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Sélectionnez le symbole qui indique qu'il est préférable pour le récitateur de s'arrêter.",
+      "answers": [
+        { "answer": "ۖ", "right": 0 },
+        { "answer": "ۗ", "right": 1 },
+        { "answer": "ۙ", "right": 0 },
+        { "answer": "ۚ", "right": 0 }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Comment réciter avec ce type de symbole d'arrêt ?",
+      "answers": [
+        { "answer": "Libre de s'arrêter ou de continuer", "right": 1 },
+        { "answer": "Mieux vaut s'arrêter", "right": 0 },
+        { "answer": "Mieux vaut continuer", "right": 0 },
+        { "answer": "Mieux vaut s'arrêter sur un symbole, mais pas les deux", "right": 0 }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Choisissez l'exemple correct qui contient le symbole indiquant que le récitateur doit continuer.",
+      "answers": [
+        { "answer": "إِلَّا ٱمۡرَأَتَهُۥ قَدَّرۡنَآ ۙ إِنَّهَا لَمِنَ ٱلۡغَٰبِرِينَ ◯", "right": 1 },
+        { "answer": "وَقَالُواْ كُونُواْ هُودًا أَوۡ نَصَٰرَىٰ تَهۡتَدُوا۟ ۗ قُلۡ بَلۡ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفًا ◯", "right": 0 },
+        { "answer": "وَلَا تَعَاوَنُواْ عَلَى ٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ ۖ وَٱتَّقُواْ ٱللَّهَ ◯", "right": 0 },
+        { "answer": "لَا يُكَلِّفُ ٱللَّهُ نَفۡسًا إِلَّا وُسۡعَهَا ◯", "right": 0 }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Lequel des exemples suivants indique une meilleure continuation ?",
+      "answers": [
+        { "answer": "وَمَا أُهِلَّ بِهِ لِغَيْرِ اللَّهِ ◯", "right": 0 },
+        { "answer": "وَإِذَا قِيلَ لَهُمُ ٱتَّقُواْ ٱللَّهَ ◯", "right": 0 },
+        { "answer": "وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ ◯", "right": 1 },
+        { "answer": "يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ ◯", "right": 0 }
+      ]
+    }
+  ]
+}

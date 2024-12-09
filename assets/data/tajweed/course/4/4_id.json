@@ -1,0 +1,162 @@
+{
+  "id": 3,
+  "title": "Simbol Waqf",
+  "desc1_desc": "Panduan ini menjelaskan berbagai jenis simbol Waqf dalam Al-Quran, menyoroti makna dan penggunaannya selama tilawah.",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Enam Jenis Simbol Waqf",
+      "types": [
+        {
+          "id": 0,
+          "name": "Berhenti Wajib",
+          "symbol": "م",
+          "rule": "Anda harus berhenti ketika melihat simbol ini.",
+          "example": {
+            "text": "إِنَّمَا يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ وَٱلْمَوْتَىٰ يَبْعَثُهُمُ ٱللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ",
+            "gambar": "/quran/tajweed/pictures/4.01.jpg",
+            "suara": "/quran/tajweed/audio/4.01.mp3"
+          }
+        },
+        {
+          "id": 1,
+          "name": "Berhenti Disarankan",
+          "symbol": ["ط", "قلى"],
+          "rule": "Lebih baik berhenti pada simbol ini agar tilawah lebih lancar.",
+          "example": {
+            "text": "وَإِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا فَضَرْبَ الرِّقَابِ حَتَّىٰ إِذَا أَثْخَنتُمُوهُمْ فَشُدُّوا ٱلْوَثَاقَ فَإِمَّا مَنًّا بَعْدُ وَإِمَّا فِدَاءً",
+            "gambar": "/quran/tajweed/pictures/4.02.jpg",
+            "suara": "/quran/tajweed/audio/4.02.mp3"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Berhenti atau Lanjutkan Pilihan",
+          "symbol": "ج",
+          "rule": "Anda boleh memilih untuk berhenti atau melanjutkan pada simbol ini sesuai preferensi.",
+          "example": {
+            "text": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسۡعَهَا لَهَا مَا كَسَبَتْ وَعَلَيۡهَا مَا ٱكۡتَسَبَتْ",
+            "gambar": "/quran/tajweed/pictures/4.03.jpg",
+            "suara": "/quran/tajweed/audio/4.03.mp3"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Disarankan Melanjutkan",
+          "symbol": ["صلى", "ز"],
+          "rule": "Lebih baik melanjutkan tanpa berhenti pada simbol ini.",
+          "example": {
+            "text": "وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا بَلْ أَحْيَاءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ",
+            "gambar": "/quran/tajweed/pictures/4.04.jpg",
+            "suara": "/quran/tajweed/audio/4.04.mp3"
+          }
+        },
+        {
+          "id": 4,
+          "name": "Lanjutkan Wajib",
+          "symbol": "لا",
+          "rule": "Berhenti dilarang pada simbol ini, dan Anda harus melanjutkan tilawah.",
+          "example": {
+            "text": "وَمَا أُهِلَّ بِهِ لِغَيْرِ اللَّهِ",
+            "gambar": "/quran/tajweed/pictures/4.05.jpg",
+            "suara": "/quran/tajweed/audio/4.05.mp3"
+          }
+        },
+        {
+          "id": 5,
+          "name": "Berhenti pada Salah Satu, Bukan Keduanya",
+          "symbol": "Dua simbol 'ق'",
+          "rule": "Lebih baik berhenti pada salah satu simbol ini tetapi hindari berhenti pada keduanya.",
+          "example": {
+            "text": "ذَٰلِكَ ٱلْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ",
+            "gambar": "/quran/tajweed/pictures/4.06.jpg",
+            "suara": "/quran/tajweed/audio/4.06.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "title": "Simbol 'ع'",
+      "details": {
+        "meaning": "Ditemukan di akhir ayat atau di sisi halaman Al-Quran, simbol ini menandai pembagian dalam Al-Quran yang dikenal sebagai Ruku' (ركوع).",
+        "purpose": "Bagian-bagian ini, sekitar 540 total, sering digunakan sebagai titik berhenti yang nyaman selama Salat.",
+        "additional_info": {
+          "count": "Sekitar 200 bagian di seluruh 114 surah.",
+          "description": "Setiap Ruku' biasanya mencakup 3-10 ayat dan membantu mengatur Al-Quran untuk memudahkan tilawah."
+        }
+      }
+    }
+  ],
+  "summary": {
+    "Berhenti Wajib": "Ditandai oleh simbol 'م'.",
+    "Berhenti Disarankan": "Ditandai oleh simbol 'ط' atau 'قلى'.",
+    "Berhenti atau Lanjutkan Pilihan": "Ditandai oleh simbol 'ج'.",
+    "Disarankan Melanjutkan": "Ditandai oleh simbol 'صلى' atau 'ز'.",
+    "Lanjutkan Wajib": "Ditandai oleh simbol 'لا'.",
+    "Berhenti pada Salah Satu, Bukan Keduanya": "Ditandai oleh dua simbol 'ق'.",
+    "Simbol Ruku'": "Simbol 'ع' menunjukkan tempat untuk mengakhiri sesi tilawah dengan nyaman."
+  },
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "Ayat di atas memiliki tanda yang menunjukkan bahwa pembaca...",
+      "answers": [
+        { "answer": "Harus melanjutkan", "right": 0 },
+        { "answer": "Bebas untuk berhenti atau melanjutkan", "right": 0 },
+        { "answer": "Lebih baik melanjutkan", "right": 0 },
+        { "answer": "Harus berhenti", "right": 1 }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Tanda mana yang menunjukkan pembaca harus berhenti pada satu tanda tetapi tidak keduanya?",
+      "answers": [
+        { "answer": "ۖ", "right": 0 },
+        { "answer": "ۙ", "right": 0 },
+        { "answer": "ۛ", "right": 1 },
+        { "answer": "ۚ", "right": 0 }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Pilih tanda yang menunjukkan pembaca lebih baik berhenti.",
+      "answers": [
+        { "answer": "ۖ", "right": 0 },
+        { "answer": "ۗ", "right": 1 },
+        { "answer": "ۙ", "right": 0 },
+        { "answer": "ۚ", "right": 0 }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Bagaimana cara membaca dengan jenis tanda berhenti ini?",
+      "answers": [
+        { "answer": "Bebas untuk berhenti atau melanjutkan", "right": 1 },
+        { "answer": "Lebih baik berhenti", "right": 0 },
+        { "answer": "Lebih baik melanjutkan", "right": 0 },
+        { "answer": "Lebih baik berhenti pada satu tanda, tetapi tidak keduanya", "right": 0 }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Pilih contoh yang benar yang memiliki tanda yang menunjukkan pembaca harus melanjutkan.",
+      "answers": [
+        { "answer": "إِلَّا ٱمۡرَأَتَهُۥ قَدَّرۡنَآ ۙ إِنَّهَا لَمِنَ ٱلۡغَٰبِرِينَ ◯", "right": 1 },
+        { "answer": "وَقَالُواْ كُونُواْ هُودًا أَوۡ نَصَٰرَىٰ تَهۡتَدُوا۟ ۗ قُلۡ بَلۡ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفًا ◯", "right": 0 },
+        { "answer": "وَلَا تَعَاوَنُواْ عَلَى ٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ ۖ وَٱتَّقُواْ ٱللَّهَ ◯", "right": 0 },
+        { "answer": "لَا يُكَلِّفُ ٱللَّهُ نَفۡسًا إِلَّا وُسۡعَهَا ◯", "right": 0 }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Mana dari contoh berikut yang menunjukkan kelanjutan yang lebih baik?",
+      "answers": [
+        { "answer": "وَمَا أُهِلَّ بِهِ لِغَيْرِ اللَّهِ ◯", "right": 0 },
+        { "answer": "وَإِذَا قِيلَ لَهُمُ ٱتَّقُواْ ٱللَّهَ ◯", "right": 0 },
+        { "answer": "وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ ◯", "right": 1 },
+        { "answer": "يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ ◯", "right": 0 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+
+  {
+    "id": 7,
+    "title": "Derived Madd",
+    "desc1_desc": "Madd Far'i refers to the elongation of a recitation due to the presence of a Hamzah (همزة) or a Sukoon (سكون).",
+    "desc2_title": "Types of Derived Madd",
+    "desc2_desc": "Derived Madd is divided into multiple categories depending on the cause of elongation, such as Hamzah or Sukoon, and includes specific rules for their application.",
+    "Lessons": [
+      {
+        "id": 0,
+        "name": "Extension Due to Hamzah",
+        "pengertian": "Occurs when Hamzah interacts with Madd letters in various configurations. This includes specific types based on the interaction within or between words.",
+        "rules": [
+          {
+            "name": "Madd Badal",
+            "description": "Occurs when a Hamzah precedes a Madd letter. Originally, the word contains two Hamzah letters, but one is transformed into a Madd for easier pronunciation.",
+            "duration": "2 counts",
+            "examples": [
+              {
+                "text": "آمَنَا",
+                "image": "801.png",
+                "audio": "801.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Wajib Muttasil",
+            "description": "When Madd Aslī meets a Hamzah in the same word, the recitation must be elongated.",
+            "duration": "4 or 5 counts",
+            "examples": [
+              {
+                "text": "جَاءَ",
+                "image": "802.png",
+                "audio": "802.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Jaiz Munfasil",
+            "description": "If Madd Aslī in one word connects to a Hamzah in the next word, the elongation can vary. Consistency in duration is required throughout the session.",
+            "duration": "2, 4, or 5 counts",
+            "examples": [
+              {
+                "text": "يَا أَيُّهَا",
+                "image": "803.png",
+                "audio": "803.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Silah Thawīlah",
+            "description": "Occurs when a Ha' Dhamir (ه) is followed by a Hamzah in the next word.",
+            "duration": "4 or 5 counts",
+            "examples": [
+              {
+                "text": "بِهِۦۤۦ أَمْرُ",
+                "image": "804.png",
+                "audio": "804.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Extension Due to Sukoon",
+        "pengertian": "Occurs when Madd Aslī is followed by a Sukoon or Shaddah, requiring longer elongation.",
+        "rules": [
+          {
+            "name": "Madd Lazim Mutsaqqal Kalimi",
+            "description": "Occurs when Madd Aslī is followed by a Shaddah within the same word.",
+            "duration": "6 counts",
+            "examples": [
+              {
+                "text": "الطَّآمَّةُ",
+                "image": "805.png",
+                "audio": "805.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Lazim Mukhaffaf Kalimi",
+            "description": "Happens when Madd Aslī meets a Sukoon within a word.",
+            "duration": "6 counts",
+            "examples": [
+              {
+                "text": "آلآنَ",
+                "image": "806.png",
+                "audio": "806.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Farqi",
+            "description": "When a Madd Badal is followed by a letter with Shaddah.",
+            "duration": "5 or 6 counts",
+            "examples": [
+              {
+                "text": "أَلَّذِينَ كَفَرُوا",
+                "image": "807.png",
+                "audio": "807.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Extension Due to Sukoon and Waqf",
+        "pengertian": "Occurs when Madd interacts with Sukoon and is influenced by the stopping point (Waqf).",
+        "rules": [
+          {
+            "name": "Madd Leen",
+            "description": "When pausing on a word where the second-to-last letter is a Leen letter (a و or ي after a Fat-hah).",
+            "duration": "2, 4, 5, or 6 counts",
+            "examples": [
+              {
+                "text": "قُرَيْشٍ",
+                "image": "810.png",
+                "audio": "810.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Aridh Lis-Sukoon",
+            "description": "When a Madd is followed by a Sukoon due to stopping.",
+            "duration": "2, 4, or 6 counts",
+            "examples": [
+              {
+                "text": "النَّاسِ",
+                "image": "811.png",
+                "audio": "811.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Quizs": [
+      {
+        "id": 0,
+      "question": "Which writing correctly represents the Derived Madd in the word سَوَآءٌ?",
+      "answers": [
+        {
+          "answer": "سَوَاءٌ",
+          "right": 0
+        },
+        {
+          "answer": "سَوَآءٌ (with Alif Madd)",
+          "right": 1
+        },
+        {
+          "answer": "سَوَءٌ",
+          "right": 0
+        },
+        {
+          "answer": "سَوَّآءٌ (with Shaddah and Alif Madd)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Which writing correctly applies the Derived Madd in the phrase إِنَّا أَنزَلْنَاهُ?",
+      "answers": [
+        {
+          "answer": "إِنَّا أَنزَلْنَاحُ",
+          "right": 0
+        },
+        {
+          "answer": "إِنَّا أَنزَلْنَاهُ (correct writing)",
+          "right": 1
+        },
+        {
+          "answer": "إِنَّ أَنزَلْنَاهُ (missing Madd)",
+          "right": 0
+        },
+        {
+          "answer": "إِنَّا أَنزَلْنَاهَا (incorrect ending)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the correct way to recite the Derived Madd in the phrase الم?",
+      "answers": [
+        {
+          "answer": "Prolong the recitation of م into 6 beats",
+          "right": 1
+        },
+        {
+          "answer": "Take a breath after reciting ل",
+          "right": 0
+        },
+        {
+          "answer": "Recite each letter quickly",
+          "right": 0
+        },
+        {
+          "answer": "Skip the recitation of م",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which writing correctly applies the Derived Madd in the phrase قُلۡ ءَآلذَّكَرَيۡنِ?",
+      "answers": [
+        {
+          "answer": "قُلۡ ءَآلذَّكَرَيۡنِ (correct writing)",
+          "right": 1
+        },
+        {
+          "answer": "قُلۡ ءَالذَّكَرَيۡنِ (missing Madd)",
+          "right": 0
+        },
+        {
+          "answer": "قُ ءَآلذَّكَرَيۡنِ (missing QUL)",
+          "right": 0
+        },
+        {
+          "answer": "قُلۡ عَآلذَّكَرَيۡنِ (incorrect word)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which writing correctly represents the Derived Madd in the word حم?",
+      "answers": [
+        {
+          "answer": "هم",
+          "right": 0
+        },
+        {
+          "answer": "حم (correct writing)",
+          "right": 1
+        },
+        {
+          "answer": "حآمآ",
+          "right": 0
+        },
+        {
+          "answer": "حَآمَآ (with wrong vowels)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which writing correctly applies the Derived Madd in the phrase مَلِكِ ٱلنَّاسِ?",
+      "answers": [
+        {
+          "answer": "مَلِكِ ٱلنَّاسِ (correct writing)",
+          "right": 1
+        },
+        {
+          "answer": "مَالِكِ ٱلنَّسِ (incorrect vowel)",
+          "right": 0
+        },
+        {
+          "answer": "مَلِكِ ٱلنَّسِي (incorrect ending)",
+          "right": 0
+        },
+        {
+          "answer": "مَلِكِ ٱلنَّسِ (missing vowel)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which is an example of Madd Wajib Muttasil?",
+      "answers": [
+        {
+          "answer": "آمَنَا",
+          "right": 0
+        },
+        {
+          "answer": "جَاءَ (correct example)",
+          "right": 1
+        },
+        {
+          "answer": "قُرَيْشٍ",
+          "right": 0
+        },
+        {
+          "answer": "يَا أَيُّهَا",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is the duration for Madd Lazim Mutsaqqal Kalimi?",
+      "answers": [
+        {
+          "answer": "2 counts",
+          "right": 0
+        },
+        {
+          "answer": "4 counts",
+          "right": 0
+        },
+        {
+          "answer": "6 counts (correct duration)",
+          "right": 1
+        },
+        {
+          "answer": "Variable counts",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "id": 4,
+  "title": "Noon Saakin ve Tanween Kuralları",
+  "desc1_desc": "Noon Saakin (ن) veya Tanween okurken, ardından gelen harfe bağlı olarak belirli kurallar uygulanır. Bu kurallar, Kur'an-ı Kerim okumasında doğru Tecvidi sağlar.",
+  "sections": [
+    {
+      "id": 0,
+      "title": "İzhar (إظهار) - Açık Telaffuz",
+      "definition": "İzhar, ن veya Tanween'i birleşme veya geniz sesine başvurmadan net bir şekilde telaffuz etmek anlamına gelir.",
+      "conditions": "ن veya Tanween, şu harflerden biri ile takip edildiğinde İzhar uygulanır: ء (Hemze), ه (He), ع (Ayn), ح (Ha), غ (Gayn), خ (Hı).",
+      "examples": [
+        {
+          "text": "كُلٌّ ءَامَنَ",
+          "gambar": "/quran/tajweed/pictures/5.01.jpg",
+          "suara": "/quran/tajweed/audio/5.01.mp3"
+        },
+        {
+          "text": "أَنْعَمْتَ",
+          "gambar": "/quran/tajweed/pictures/5.02.jpg",
+          "suara": "/quran/tajweed/audio/5.02.mp3"
+        },
+        {
+          "text": "قَوْلًا غَيْرَ",
+          "gambar": "/quran/tajweed/pictures/5.03.jpg",
+          "suara": "/quran/tajweed/audio/5.03.mp3"
+        },
+        {
+          "text": "عَلِيمٌ حَكِيمٌ",
+          "gambar": "/quran/tajweed/pictures/5.04.jpg",
+          "suara": "/quran/tajweed/audio/5.04.mp3"
+        },
+        {
+          "text": "عَلِيمٌ خَبِيرٌ",
+          "gambar": "/quran/tajweed/pictures/5.05.jpg",
+          "suara": "/quran/tajweed/audio/5.05.mp3"
+        },
+        {
+          "text": "مِنْهُ",
+          "gambar": "/quran/tajweed/pictures/5.06.jpg",
+          "suara": "/quran/tajweed/audio/5.06.mp3"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "İdgam (إدغام) - Birleştirme",
+      "definition": "İdgam, ن veya Tanween'in ardından gelen harfle birleştirilmesi anlamına gelir. İki alt kategoriye ayrılır:",
+      "subtypes": [
+        {
+          "id": "1a",
+          "name": "Geniz Sesi ile (Ghunnah)",
+          "definition": "Sesin 2-3 vuruş süresince burun sesiyle telaffuz edilmesi.",
+          "letters": "ي (Ya), ن (Nun), م (Mim), و (Vav)",
+          "examples": [
+            {
+              "text": "مَن يَقُولُ",
+              "gambar": "/quran/tajweed/pictures/5.07.jpg",
+              "suara": "/quran/tajweed/audio/5.07.mp3"
+            },
+            {
+              "text": "وَآتَوْهُم مِّن مَّا",
+              "gambar": "/quran/tajweed/pictures/5.08.jpg",
+              "suara": "/quran/tajweed/audio/5.08.mp3"
+            },
+            {
+              "text": "وَلِكُلٍّ وِجْهَةٌ",
+              "gambar": "/quran/tajweed/pictures/5.09.jpg",
+              "suara": "/quran/tajweed/audio/5.09.mp3"
+            },
+            {
+              "text": "يَوْمَئِذٍ نَاعِمَةٌ",
+              "gambar": "/quran/tajweed/pictures/5.10.jpg",
+              "suara": "/quran/tajweed/audio/5.10.mp3"
+            }
+          ]
+        },
+        {
+          "id": "1b",
+          "name": "Geniz Sesi Olmadan",
+          "definition": "ن veya Tanween sesini geniz sesine başvurmadan birleştirmek.",
+          "letters": "ر (Ra), ل (Lam)",
+          "examples": [
+            {
+              "text": "مِنْ رَبِّهِمْ",
+              "gambar": "/quran/tajweed/pictures/5.11.jpg",
+              "suara": "/quran/tajweed/audio/5.11.mp3"
+            },
+            {
+              "text": "وَيْلٌ لِّكُلِّ",
+              "gambar": "/quran/tajweed/pictures/5.12.jpg",
+              "suara": "/quran/tajweed/audio/5.12.mp3"
+            }
+          ]
+        },
+        {
+          "id": "1c",
+          "name": "Tam İdgam (Mutlak Birleştirme)",
+          "definition": "Sadece ن'nin ل (Lam) harfiyle tamamen birleştirildiği dört özel kelimede meydana gelir.",
+          "words": ["الدُّنْيَا", "بُنْيَانٌ", "قِنْوَانٌ", "صِنْوَانٌ"],
+          "example": {
+            "text": "الدُّنْيَا",
+            "gambar": "/quran/tajweed/pictures/5.13.jpg",
+            "suara": "/quran/tajweed/audio/5.13.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "İhfa (إخفاء) - Gizleme",
+      "definition": "ن veya Tanween sesini gizleyin ve yumuşak bir şekilde, 2-3 vuruş süreyle nazalize ederek telaffuz edin.",
+      "letters": "ت (Te), ث (Se), ج (Cim), د (Dal), ذ (Zel), ز (Zay), س (Sin), ش (Şin), ص (Sad), ض (Dad), ط (Tı), ظ (Zı), ف (Fe), ق (Kaf), ك (Kef)",
+      "examples": [
+        {
+          "text": "جَنَّاتٍ تَجْرِي",
+          "gambar": "/quran/tajweed/pictures/5.14.jpg",
+          "suara": "/quran/tajweed/audio/5.14.mp3"
+        },
+        {
+          "text": "مِنْ ثَمَرٍ",
+          "gambar": "/quran/tajweed/pictures/5.15.jpg",
+          "suara": "/quran/tajweed/audio/5.15.mp3"
+        },
+        {
+          "text": "خَلْقٍ جَدِيدٍ",
+          "gambar": "/quran/tajweed/pictures/5.16.jpg",
+          "suara": "/quran/tajweed/audio/5.16.mp3"
+        },
+        {
+          "text": "أَندَادًا",
+          "gambar": "/quran/tajweed/pictures/5.17.jpg",
+          "suara": "/quran/tajweed/audio/5.17.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "İklab (إقلاب) - Dönüştürme",
+      "definition": "ن veya Tanween sesini ب ile takip edildiğinde م'ye dönüştürün. Dönüştürme, 2-3 vuruş süreyle nazalize edilmeyi içerir.",
+      "example": {
+        "text": "سَمِيعٌ بَصِيرٌ",
+        "gambar": "/quran/tajweed/pictures/5.29.jpg",
+        "suara": "/quran/tajweed/audio/5.29.mp3"
+      }
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "Hangi ifade İzhar kuralını doğru şekilde uygular?",
+      "answers": [
+        {
+          "answer": "كُلٌّ ءَامَنَ",
+          "right": 1
+        },
+        {
+          "answer": "مَن يَقُولُ",
+          "right": 0
+        },
+        {
+          "answer": "جَنَّاتٍ تَجْرِي",
+          "right": 0
+        },
+        {
+          "answer": "سَمِيعٌ بَصِيرٌ",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "İdgam Ghunnah (Geniz Sesi ile Birleşme) kuralını hangi harfler tetikler?",
+      "answers": [
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ي, ن, م, و",
+          "right": 1
+        },
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right":0
+        },
+        {
+          "answer": "ت, ث, ج, د",
+          "right":0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "ن veya Tanween, ب ile takip edildiğinde hangi Tecvid kuralı uygulanır?",
+      "answers": [
+        {
+          "answer": "İhfa",
+          "right": 0
+        },
+        {
+          "answer": "İklab",
+          "right": 1
+        },
+        {
+          "answer": "İdgam Ghunnah ile",
+          "right": 0
+        },
+        {
+          "answer": "İzhar",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "'سَمِيعٌ بَصِيرٌ' ifadesinde Tanween nasıl telaffuz edilir?",
+      "answers": [
+        {
+          "answer": "Dönüştürme olmadan net şekilde",
+          "right": 0
+        },
+        {
+          "answer": "Nazalizasyon ile م'ye dönüştürülür",
+          "right": 1
+        },
+        {
+          "answer": "Nazalizasyon olmadan ب ile birleştirilir",
+          "right": 0
+        },
+        {
+          "answer": "Nazalizasyon ile yumuşak bir şekilde gizlenir",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Hangi harfler, ن veya Tanween'den sonra geldiğinde İhfa kuralını gerektirir?",
+      "answers": [
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right": 0
+        },
+        {
+          "answer": "ت, ث, ج, د, ذ, ز, س, ش, ص, ض, ط, ظ, ف, ق, ك",
+          "right": 1
+        },
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ب",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "İzhar ve İhfa arasındaki fark nedir?",
+      "answers": [
+        {
+          "answer": "İzhar, net telaffuzu içerir; İhfa ise sesi nazalizasyon ile gizler.",
+          "right": 1
+        },
+        {
+          "answer": "İzhar harfleri birleştirir; İhfa ise ayırır.",
+          "right": 0
+        },
+        {
+          "answer": "İzhar nazalizasyon kullanır; İhfa kullanmaz.",
+          "right": 0
+        },
+        {
+          "answer": "İzhar sadece Tanween'e uygulanır; İhfa sadece Noon Saakin'e uygulanır.",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Hangi ifade İdgam Ghunnah olmadan kuralını gösterir?",
+      "answers": [
+        {
+          "answer": "مِن رَبِّهِمْ",
+          "right": 1
+        },
+        {
+          "answer": "مَن يَقُولُ",
+          "right": 0
+        },
+        {
+          "answer": "كُلٌّ ءَامَنَ",
+          "right": 0
+        },
+        {
+          "answer": "سَمِيعٌ بَصِيرٌ",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "'جَنَّاتٍ تَجْرِي' ifadesinde Tanween nasıl telaffuz edilir?",
+      "answers": [
+        {
+          "answer": "Nazalizasyon olmadan net ve belirgin şekilde",
+          "right": 0
+        },
+        {
+          "answer": "Yumuşak bir nazal ses ile gizlenir",
+          "right": 1
+        },
+        {
+          "answer": "Sonraki harfle birleştirilir",
+          "right": 0
+        },
+        {
+          "answer": "م sesine dönüştürülür",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "'مَن يَقُولُ' ifadesinde Tecvid kuralı nedir?",
+      "answers": [
+        {
+          "answer": "İzhar",
+          "right": 0
+        },
+        {
+          "answer": "İdgam Ghunnah ile",
+          "right": 1
+        },
+        {
+          "answer": "İhfa",
+          "right": 0
+        },
+        {
+          "answer": "İklab",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Noon Saakin veya Tanween'den sonra geldiğinde hangi harfler İzhar gerektirir?",
+      "answers": [
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right": 1
+        },
+        {
+          "answer": "ت, ث, ج, د, ذ, ز, س, ش, ص, ض, ط, ظ, ف, ق, ك",
+          "right": 0
+        },
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ب",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

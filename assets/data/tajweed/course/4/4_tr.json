@@ -1,0 +1,162 @@
+{
+  "id": 3,
+  "title": "Vakf Sembolleri",
+  "desc1_desc": "Bu rehber, Kur'an'daki farklı vakf işaretlerini açıklayarak bunların anlamlarını ve okuma sırasında nasıl kullanılacağını vurgular.",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Altı Tür Vakf İşareti",
+      "types": [
+        {
+          "id": 0,
+          "name": "Zorunlu Durak",
+          "symbol": "م",
+          "rule": "Bu işareti gördüğünüzde durmanız gerekir.",
+          "example": {
+            "text": "إِنَّمَا يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ وَٱلْمَوْتَىٰ يَبْعَثُهُمُ ٱللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ",
+            "gambar": "/quran/tajweed/pictures/4.01.jpg",
+            "suara": "/quran/tajweed/audio/4.01.mp3"
+          }
+        },
+        {
+          "id": 1,
+          "name": "Tavsiye Edilen Durak",
+          "symbol": ["ط", "قلى"],
+          "rule": "Daha akıcı bir okuma için bu işarette durmanız önerilir.",
+          "example": {
+            "text": "وَإِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا فَضَرْبَ الرِّقَابِ حَتَّىٰ إِذَا أَثْخَنتُمُوهُمْ فَشُدُّوا ٱلْوَثَاقَ فَإِمَّا مَنًّا بَعْدُ وَإِمَّا فِدَاءً",
+            "gambar": "/quran/tajweed/pictures/4.02.jpg",
+            "suara": "/quran/tajweed/audio/4.02.mp3"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Durak veya Devam Etme Seçeneği",
+          "symbol": "ج",
+          "rule": "Bu işarette durmak veya devam etmek sizin tercihinize bağlıdır.",
+          "example": {
+            "text": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسۡعَهَا لَهَا مَا كَسَبَتْ وَعَلَيۡهَا مَا ٱكۡتَسَبَتْ",
+            "gambar": "/quran/tajweed/pictures/4.03.jpg",
+            "suara": "/quran/tajweed/audio/4.03.mp3"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Devam Edilmesi Önerilir",
+          "symbol": ["صلى", "ز"],
+          "rule": "Bu işarette durmadan devam etmek daha iyidir.",
+          "example": {
+            "text": "وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا بَلْ أَحْيَاءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ",
+            "gambar": "/quran/tajweed/pictures/4.04.jpg",
+            "suara": "/quran/tajweed/audio/4.04.mp3"
+          }
+        },
+        {
+          "id": 4,
+          "name": "Devam Zorunluluğu",
+          "symbol": "لا",
+          "rule": "Bu işarette durmak yasaktır ve devam etmeniz gerekir.",
+          "example": {
+            "text": "وَمَا أُهِلَّ بِهِ لِغَيْرِ اللَّهِ",
+            "gambar": "/quran/tajweed/pictures/4.05.jpg",
+            "suara": "/quran/tajweed/audio/4.05.mp3"
+          }
+        },
+        {
+          "id": 5,
+          "name": "İki İşaretten Birinde Dur",
+          "symbol": "İki 'ق' işareti",
+          "rule": "Bu işaretlerden birinde durmanız tercih edilir, ancak ikisinde birden durmaktan kaçının.",
+          "example": {
+            "text": "ذَٰلِكَ ٱلْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ",
+            "gambar": "/quran/tajweed/pictures/4.06.jpg",
+            "suara": "/quran/tajweed/audio/4.06.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "title": "'ع' İşareti",
+      "details": {
+        "meaning": "Bir ayetin sonunda veya Kur'an sayfasının kenarında bulunur ve Kur'an'daki bölümleri (Rüku') işaret eder.",
+        "purpose": "Bu bölümler, toplamda yaklaşık 540 adet, genellikle namaz sırasında uygun durak noktaları olarak kullanılır.",
+        "additional_info": {
+          "count": "114 surede yaklaşık 200 bölüm.",
+          "description": "Her bir rüku genellikle 3-10 ayetten oluşur ve Kur'an'ı daha kolay okunabilir hale getirmek için organize eder."
+        }
+      }
+    }
+  ],
+  "summary": {
+    "Zorunlu Durak": "'م' işareti ile belirtilir.",
+    "Tavsiye Edilen Durak": "'ط' veya 'قلى' işareti ile belirtilir.",
+    "Seçimli Durak": "'ج' işareti ile belirtilir.",
+    "Devam Edilmesi Önerilir": "'صلى' veya 'ز' işareti ile belirtilir.",
+    "Devam Zorunluluğu": "'لا' işareti ile belirtilir.",
+    "İki İşaretten Birinde Dur": "İki 'ق' işareti ile belirtilir.",
+    "Rüku' İşareti": "'ع' işareti, bir okuma oturumunun uygun şekilde sona erdirilmesi gereken yeri gösterir."
+  },
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "Yukarıdaki ayet, okuyucunun...",
+      "answers": [
+        { "answer": "Devam etmesi gerektiğini", "right": 0 },
+        { "answer": "Durmak ya da devam etmekte serbest olduğunu", "right": 0 },
+        { "answer": "Devam etmesinin daha iyi olduğunu", "right": 0 },
+        { "answer": "Durması gerektiğini", "right": 1 }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Hangi işaretler, okuyucunun bir işarette durması gerektiğini, ancak ikisinde birden durmaması gerektiğini gösterir?",
+      "answers": [
+        { "answer": "ۖ", "right": 0 },
+        { "answer": "ۙ", "right": 0 },
+        { "answer": "ۛ", "right": 1 },
+        { "answer": "ۚ", "right": 0 }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Okuyucunun durmasının daha iyi olduğunu gösteren işareti seçin.",
+      "answers": [
+        { "answer": "ۖ", "right": 0 },
+        { "answer": "ۗ", "right": 1 },
+        { "answer": "ۙ", "right": 0 },
+        { "answer": "ۚ", "right": 0 }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Bu tür bir durma işaretiyle nasıl okunmalıdır?",
+      "answers": [
+        { "answer": "Durmak ya da devam etmekte serbesttir", "right": 1 },
+        { "answer": "Durmak daha iyidir", "right": 0 },
+        { "answer": "Devam etmek daha iyidir", "right": 0 },
+        { "answer": "İki işaretten birinde dur", "right": 0 }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Okuyucunun devam etmesi gerektiğini belirten işareti içeren doğru örneği seçin.",
+      "answers": [
+        { "answer": "إِلَّا ٱمۡرَأَتَهُۥ قَدَّرۡنَآ ۙ إِنَّهَا لَمِنَ ٱلۡغَٰبِرِينَ ◯", "right": 1 },
+        { "answer": "وَقَالُواْ كُونُواْ هُودًا أَوۡ نَصَٰرَىٰ تَهۡتَدُوا۟ ۗ قُلۡ بَلۡ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفًا ◯", "right": 0 },
+        { "answer": "وَلَا تَعَاوَنُواْ عَلَى ٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ ۖ وَٱتَّقُواْ ٱللَّهَ ◯", "right": 0 },
+        { "answer": "لَا يُكَلِّفُ ٱللَّهُ نَفۡسًا إِلَّا وُسۡعَهَا ◯", "right": 0 }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Devam etmenin önerildiği doğru örneği seçin.",
+      "answers": [
+        { "answer": "وَمَا أُهِلَّ بِهِ لِغَيْرِ اللَّهِ ◯", "right": 0 },
+        { "answer": "وَإِذَا قِيلَ لَهُمُ ٱتَّقُواْ ٱللَّهَ ◯", "right": 0 },
+        { "answer": "وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ ◯", "right": 1 },
+        { "answer": "يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ ◯", "right": 0 }
+      ]
+    }
+  ]
+}

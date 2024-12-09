@@ -1,0 +1,119 @@
+{
+  "id": 5,
+  "title": "Rules for Meem Saakin",
+  "desc1_desc": "When Meem Saakin (م) appears in Quranic recitation, one of the following three rules should be applied, depending on the letter that follows it:",
+  "sections": [
+    {
+      "id": 0,
+      "title": "Idghaam Shafawee (إدغام شفوي)",
+      "mean": "This rule applies when Meem Saakin is followed by another Meem that has a vowel. Typically, the second Meem will have a Shaddah (ّ).",
+      "how_to_pronounce": "Merge the two Meems smoothly, using Ghunnah (a nasal sound) for 2-3 beats.",
+      "examples": [{
+        "text": "لَهُم مَا",
+        "gambar": "601.png",
+        "suara": "601.mp3"
+      }]
+    },
+    {
+      "id": 1,
+      "title": "Ikhfaa Shafawee (إخفاء شفوي)",
+      "mean": "This rule is applied when Meem Saakin is followed by the letter Ba (ب) with a vowel sound.",
+      "how_to_pronounce": "Conceal the sound of the Meem and pronounce it with Ghunnah for 2-3 beats.",
+      "examples": [{
+        "text": "رَبَّهُم بِهِم",
+        "gambar": "602.png",
+        "suara": "602.mp3"
+      }],
+      "note": "This rule is often overlooked, so pay special attention to ensure correct application."
+    },
+    {
+      "id": 2,
+      "title": "Izhaar Shafawee (إظهار شفوي)",
+      "mean": "Izhaar Shafawee occurs when Meem Saakin is followed by a letter other than Meem or Ba.",
+      "how_to_pronounce": "Clearly articulate the Meem without any nasalization (Ghunnah).",
+      "examples":[ {
+        "text": "أَلَم تَرَ",
+        "gambar": "603.png",
+        "suara": "603.mp3"
+      }]
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "What is the correct rule applied for Meem Saakin in the phrase تَرۡمِيۡهِم بِحِجَارَةٍ?",
+      "answers": [
+        {
+          "answer": "Ikhfa Shafawi: The Meem Saakin is followed by a Ba and is recited with a nasal sound.",
+          "right": 1
+        },
+        {
+          "answer": "Idgham Shafawi: The Meem Saakin merges into the next Meem.",
+          "right": 0
+        },
+        {
+          "answer": "Izhar Shafawi: The Meem Saakin is pronounced clearly without merging.",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "What is the correct rule applied for Meem Saakin in the phrase كُنتُم مُّؤۡمِنِينَ?",
+      "answers": [
+        {
+          "answer": "Ikhfa Shafawi: The Meem Saakin is followed by a Ba and is recited with a nasal sound.",
+          "right": 0
+        },
+        {
+          "answer": "Idgham Shafawi: The Meem Saakin merges into the next Meem.",
+          "right": 1
+        },
+        {
+          "answer": "Izhar Shafawi: The Meem Saakin is pronounced clearly without merging.",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is the correct rule applied for Meem Saakin in the phrase وَهُمۡ سَـالِمُونَ?",
+      "answers": [
+        {
+          "answer": "Ikhfa Shafawi: The Meem Saakin is followed by a Ba and is recited with a nasal sound.",
+          "right": 0
+        },
+        {
+          "answer": "Idgham Shafawi: The Meem Saakin merges into the next Meem.",
+          "right": 0
+        },
+        {
+          "answer": "Izhar Shafawi: The Meem Saakin is pronounced clearly without merging.",
+          "right": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Choose the option that doesn't contain Ghunnah",
+      "answers": [
+        {
+          "answer": "لَهُمۡ مَّا",
+          "right": 0
+        },
+        {
+          "answer": "رَبَّهُمۡ بِهِمۡ",
+          "right": 0
+        },
+        {
+          "answer": "أَلَمۡ تَرَ",
+          "right": 1
+        },
+        {
+          "answer": "وَ أَنِ احۡكُم بَيۡنَهُم",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

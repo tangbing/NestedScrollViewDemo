@@ -1,0 +1,118 @@
+"id": 5,
+  "title": "Meem Saakin 規則",
+  "desc1_desc": "在古蘭經的誦讀中，如果出現 Meem Saakin (م)，根據其後出現的字母，需應用以下三種規則之一：",
+  "sections": [
+    {
+      "id": 0,
+      "title": "Idgham Shafawi",
+      "definition": "當 Meem Saakin 後接另一個帶元音的 Meem 時應用此規則。通常第二個 Meem 帶有 Shaddah (ّ)。",
+      "how_to_pronounce": "將兩個 Meem 平滑地合併，並以鼻音 (Ghunnah) 延長 2-3 拍。",
+      "example": {
+        "text": "لَهُم مَا",
+        "gambar": "/quran/tajweed/pictures/601.jpg",
+        "suara": "/quran/tajweed/audio/601.mp3"
+      }
+    },
+    {
+      "id": 1,
+      "title": "Ikhfa Shafawi",
+      "definition": "當 Meem Saakin 後接帶元音的字母 Ba (ب) 時應用此規則。",
+      "how_to_pronounce": "隱藏 Meem 的發音，並以鼻音 (Ghunnah) 延長 2-3 拍。",
+      "example": {
+        "text": "رَبَّهُم بِهِم",
+        "gambar": "/quran/tajweed/pictures/602.jpg",
+        "suara": "/quran/tajweed/audio/602.mp3"
+      },
+      "note": "此規則常被忽略，因此需特別注意以確保正確應用。"
+    },
+    {
+      "id": 2,
+      "title": "Izhar Shafawi",
+      "definition": "當 Meem Saakin 後接除 Meem 或 Ba 以外的其他字母時，應用 Izhar Shafawi。",
+      "how_to_pronounce": "清晰地發音 Meem，無需鼻音 (Ghunnah)。",
+      "example": {
+        "text": "أَلَم تَرَ",
+        "gambar": "/quran/tajweed/pictures/603.jpg",
+        "suara": "/quran/tajweed/audio/603.mp3"
+      }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 0,
+      "question": "在短語 تَرۡمِيۡهِم بِحِجَارَةٍ 中，對於 Meem Saakin 應用哪條規則？",
+      "answers": [
+        {
+          "answer": "Ikhfa Shafawi：Meem Saakin 後接 Ba，用鼻音朗誦。",
+          "right": 1
+        },
+        {
+          "answer": "Idgham Shafawi：Meem Saakin 與下一個 Meem 合併。",
+          "right": 0
+        },
+        {
+          "answer": "Izhar Shafawi：Meem Saakin 清楚地發音，沒有合併。",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "在短語 كُنتُم مُّؤۡمِنِينَ 中，對於 Meem Saakin 應用哪條規則？",
+      "answers": [
+        {
+          "answer": "Ikhfa Shafawi：Meem Saakin 後接 Ba，用鼻音朗誦。",
+          "right": 0
+        },
+        {
+          "answer": "Idgham Shafawi：Meem Saakin 與下一個 Meem 合併。",
+          "right": 1
+        },
+        {
+          "answer": "Izhar Shafawi：Meem Saakin 清楚地發音，沒有合併。",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "在短語 وَهُمۡ سَـالِمُونَ 中，對於 Meem Saakin 應用哪條規則？",
+      "answers": [
+        {
+          "answer": "Ikhfa Shafawi：Meem Saakin 後接 Ba，用鼻音朗誦。",
+          "right": 0
+        },
+        {
+          "answer": "Idgham Shafawi：Meem Saakin 與下一個 Meem 合併。",
+          "right": 0
+        },
+        {
+          "answer": "Izhar Shafawi：Meem Saakin 清楚地發音，沒有合併。",
+          "right": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "選擇不包含 Ghunnah 的選項：",
+      "answers": [
+        {
+          "answer": "لَهُمۡ مَّا",
+          "right": 0
+        },
+        {
+          "answer": "رَبَّهُم بِهِم",
+          "right": 0
+        },
+        {
+          "answer": "أَلَمۡ تَرَ",
+          "right": 1
+        },
+        {
+          "answer": "وَ أَنِ احۡكُم بَيۡنَهُم",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

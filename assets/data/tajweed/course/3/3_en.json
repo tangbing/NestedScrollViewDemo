@@ -1,0 +1,167 @@
+{
+    "id": 2,
+    "title": "Stopping Rules",
+    "desc1_desc": "The Stopping Rules provide guidance on how to pause or stop during Quranic recitation, ensuring proper pronunciation and adherence to Tajweed principles.",
+    "desc2_title": "Examples and Scenarios",
+    "desc2_desc": "Various rules for stopping, such as on sounds, Fat-Hah Tanween, Mushaddad letters, and more, are illustrated through examples.",
+    "Lesson number": 7,
+    "Quiz number": 10,
+    "Lessons": [
+        {
+            "id": 0,
+            "name": "Stopping on Sounds Other Than Fat-Hah Tanween",
+            "pengertian": "When stopping, treat the final letter as if it carries a Sukoon (silent ending).",
+            "caraMembaca": "Pause softly while neutralizing the final vowel sound.",
+            "example": "أَكْبَرُ",
+            "gambar": "3.01.png",
+            "suara": "3.01.mp3"
+        },
+        {
+            "id": 1,
+            "name": "Stopping on Fat-Hah Tanween",
+            "pengertian": "If the last letter has Fat-Hah Tanween or is followed by an alif-madd, stop in alignment with the Fat-Hah Tanween rule.",
+            "caraMembaca": "Drop the Tanween sound and stop cleanly.",
+            "example": "يُسْرًا",
+            "gambar": "3.02.png",
+            "suara": "3.02.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Stopping on the Letter ة",
+            "pengertian": "Treat the ة as if it has a Sukoon like the letter ه.",
+            "caraMembaca": "Pronounce softly with no vowel sound.",
+            "example": "بَصِيْرَةٌ",
+            "gambar": "3.03.png",
+            "suara": "3.03.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Stopping on Mushaddad Letters",
+            "subrules": [
+                {
+                    "title": "Qalqalah Letters (ق, ط, ب, ج, د)",
+                    "pengertian": "Pronounce the letter with a strong Qalqalah (echo effect) in its Saakin form.",
+                    "example": "وَٱلۡحَجُّ",
+                    "gambar": "3.04.png",
+                    "suara": "3.04.mp3"
+                },
+                {
+                    "title": "Other Letters",
+                    "pengertian": "Treat the letter as if it has a Sukoon but hold the sound in the nose for 2 beats (Ghunnah).",
+                    "example": "مِنْ",
+                    "gambar": "3.05.png",
+                    "suara": "3.05.mp3"
+                },
+                {
+                    "title": "Non-Qalqalah Mushaddad Letters",
+                    "pengertian": "Replace the Shaddah with a Sukoon and pause slightly (nabr).",
+                    "example": "فِي شَكٍّ",
+                    "gambar": "3.06.png",
+                    "suara": "3.06.mp3"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Stopping on Saakin or Madd Letters (ء, ى, ا)",
+            "pengertian": "Stop as written, without making any changes.",
+            "examples": [
+                {
+                    "text": "فَكَبِّرْ",
+                    "gambar": "3.07.png",
+                    "suara": "3.07.mp3"
+                },
+                {
+                    "text": "مُوسَى",
+                    "gambar": "3.08.png",
+                    "suara": "3.08.mp3"
+                }
+            ],
+            "exceptions": [
+                {
+                    "title": "Ending on ى or ء",
+                    "pengertian": "Convert ى or ء to a Sukoon.",
+                    "example": "رَسُولَهُ",
+                    "gambar": "3.09.png",
+                    "suara": "3.09.mp3"
+                },
+                {
+                    "title": "Ending on a Qalqalah Letter",
+                    "pengertian": "Apply strong Qalqalah.",
+                    "example": "يُولَدُ",
+                    "gambar": "3.10.png",
+                    "suara": "3.10.mp3"
+                },
+                {
+                    "title": "Ending on a Very Long Madd",
+                    "pengertian": "Replace with Madd Asli.",
+                    "example": "أَنَا",
+                    "gambar": "3.11.png",
+                    "suara": "3.11.mp3"
+                }
+            ]
+        }
+    ],
+    "Quizs": [
+    {
+        "id": 0,
+        "question": "Which phrase represents the correct application of Stopping Rules for فِي شَكٍّ?",
+        "answers": [
+            {"answer": "Apply Sukoon and pause slightly.", "right": 1},
+            {"answer": "Ignore the Shaddah.", "right": 0},
+            {"answer": "Treat it as if it has a Dhammah.", "right": 0},
+            {"answer": "Recite it with a Madd.", "right": 0}
+        ]
+    },
+    {
+        "id": 1,
+        "question": "Which writing correctly applies the Stopping Rules for قُلِ ٱللَّهُمَّ?",
+        "answers": [
+            {"answer": "Convert it to a Sukoon.", "right": 1},
+            {"answer": "Add a Tanween to the word.", "right": 0},
+            {"answer": "Ignore the stopping rules.", "right": 0},
+            {"answer": "Treat it as if it has a Kasrah.", "right": 0}
+        ]
+    },
+    {
+        "id": 2,
+        "question": "How should the ة be treated when stopping on a word like بَصِيْرَةٌ?",
+        "answers": [
+            {"answer": "Pronounce it as if it has a Sukoon like the letter ه.", "right": 1},
+            {"answer": "Recite it with a Tanween.", "right": 0},
+            {"answer": "Ignore the ة when stopping.", "right": 0},
+            {"answer": "Treat it as a Madd.", "right": 0}
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What happens when stopping on a word ending in a Qalqalah letter like يُولَدُ?",
+        "answers": [
+            {"answer": "Apply a strong Qalqalah sound.", "right": 1},
+            {"answer": "Add a Sukoon.", "right": 0},
+            {"answer": "Ignore the Qalqalah.", "right": 0},
+            {"answer": "Recite it as if it has a Madd.", "right": 0}
+        ]
+    },
+    {
+        "id": 4,
+        "question": "What is the correct stopping method for a word ending in Madd like أَنَا?",
+        "answers": [
+            {"answer": "Replace the long Madd with Madd Asli.", "right": 1},
+            {"answer": "Drop the Madd completely.", "right": 0},
+            {"answer": "Lengthen the Madd further.", "right": 0},
+            {"answer": "Add a Tanween to the end.", "right": 0}
+        ]
+    },
+    {
+        "id": 5,
+        "question": "What does the Stopping Rule require when ending on Saakin letters (ء, ى, ا)?",
+        "answers": [
+            {"answer": "Stop as written without making any changes.", "right": 1},
+            {"answer": "Add a Sukoon to the letter.", "right": 0},
+            {"answer": "Apply a Madd.", "right": 0},
+            {"answer": "Ignore the stopping rules.", "right": 0}
+            ]
+        }
+    ]
+}

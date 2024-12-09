@@ -1,0 +1,317 @@
+[
+  {
+    "id": 7,
+    "title": "Türevli Med",
+    "desc1_desc": "Med Far'î, Hamza (همزة) veya Sukûn (سكون) bulunması nedeniyle okuma sırasında uzatmayı ifade eder.",
+    "desc2_title": "Türevli Med Türleri",
+    "desc2_desc": "Türevli med, uzatmanın sebebine göre, örneğin Hamza veya Sukûn, çeşitli kategorilere ayrılır ve bu med türlerinin uygulanması için belirli kuralları içerir.",
+    "Lessons": [
+      {
+        "id": 0,
+        "name": "Hamza Nedeniyle Uzatma",
+        "pengertian": "Hamza, çeşitli düzenlemelerde Med harfleriyle etkileşime girdiğinde ortaya çıkar. Bu, kelime içinde veya kelimeler arasında gerçekleşen belirli etkileşim türlerini kapsar.",
+        "rules": [
+          {
+            "name": "Med Bedel",
+            "description": "Hamza, Med harfinden önce geldiğinde oluşur. Başlangıçta kelimede iki Hamza bulunur ancak bir tanesi kolay okuma için Med'e dönüştürülür.",
+            "duration": "2 hareke",
+            "examples": [
+              {
+                "text": "آمَنَا",
+                "image": "801.jpg",
+                "audio": "801.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Med Vacip Muttasıl",
+            "description": "Med Aslî, aynı kelimede Hamza ile karşılaştığında okuma uzatılmalıdır.",
+            "duration": "4 veya 5 hareke",
+            "examples": [
+              {
+                "text": "جَاءَ",
+                "image": "802.jpg",
+                "audio": "802.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Med Caiz Munfasıl",
+            "description": "Bir kelimedeki Med Aslî, sonraki kelimedeki Hamza'ya bağlanırsa, uzatma süresi değişebilir. Okuma boyunca süreklilik sağlanmalıdır.",
+            "duration": "2, 4 veya 5 hareke",
+            "examples": [
+              {
+                "text": "يَا أَيُّهَا",
+                "image": "803.jpg",
+                "audio": "803.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Med Sıla Tavîle",
+            "description": "Ha Dâmir (ه), başka bir kelimedeki Hamza'dan önce geldiğinde oluşur.",
+            "duration": "4 veya 5 hareke",
+            "examples": [
+              {
+                "text": "بِهِۦۤۦ أَمْرُ",
+                "image": "804.jpg",
+                "audio": "804.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Sukûn Nedeniyle Uzatma",
+        "pengertian": "Med Aslî, Sukûn veya Şedde ile karşılaştığında daha uzun bir uzatma gerektirir.",
+        "rules": [
+          {
+            "name": "Med Lazım Müthakkal Kelimî",
+            "description": "Med Aslî, aynı kelimede Şedde'den sonra geldiğinde oluşur.",
+            "duration": "6 hareke",
+            "examples": [
+              {
+                "text": "الطَّآمَّةُ",
+                "image": "805.jpg",
+                "audio": "805.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Med Lazım Mukhafaf Kelimî",
+            "description": "Med Aslî bir kelimede Sukûn ile karşılaştığında oluşur.",
+            "duration": "6 hareke",
+            "examples": [
+              {
+                "text": "آلآنَ",
+                "image": "806.jpg",
+                "audio": "806.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Med Farıkî",
+            "description": "Med Bedel'den sonra Şedde harfi geldiğinde oluşur.",
+            "duration": "5 veya 6 hareke",
+            "examples": [
+              {
+                "text": "أَلَّذِينَ كَفَرُوا",
+                "image": "807.jpg",
+                "audio": "807.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Sukûn ve Vakf Nedeniyle Uzatma",
+        "pengertian": "Med, Sukûn ile birleştiğinde ve duraklama noktası (Vakf) nedeniyle etkilenir.",
+        "rules": [
+          {
+            "name": "Med Lin",
+            "description": "Bir kelimenin sondan bir önceki harfi Lin harfi olduğunda (Fetha'dan sonra و veya ي).",
+            "duration": "2, 4, 5 veya 6 hareke",
+            "examples": [
+              {
+                "text": "قُرَيْشٍ",
+                "image": "810.jpg",
+                "audio": "810.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Med Arız Lis-Sukûn",
+            "description": "Med, duraklama nedeniyle Sukûn ile karşılaştığında oluşur.",
+            "duration": "2, 4 veya 6 hareke",
+            "examples": [
+              {
+                "text": "النَّاسِ",
+                "image": "811.jpg",
+                "audio": "811.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Quizs": [
+      {
+        "id": 0,
+        "question": "سَوَآءٌ kelimesindeki Türevli Med'i doğru gösteren yazım hangisidir?",
+        "answers": [
+          {
+            "answer": "سَوَاءٌ",
+            "right": 0
+          },
+          {
+            "answer": "سَوَآءٌ (Elif Med ile)",
+            "right": 1
+          },
+          {
+            "answer": "سَوَءٌ",
+            "right": 0
+          },
+          {
+            "answer": "سَوَّآءٌ (Şedde ve Elif Med ile)",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 1,
+      "question": "إِنَّا أَنزَلْنَاهُ cümlesinde Türevli Med'i doğru şekilde hangi yazım uygular?",
+      "answers": [
+        {
+          "answer": "إِنَّا أَنزَلْنَاحُ",
+          "right": 0
+        },
+        {
+          "answer": "إِنَّا أَنزَلْنَاهُ (doğru yazım)",
+          "right": 1
+        },
+        {
+          "answer": "إِنَّ أَنزَلْنَاهُ (Med olmadan)",
+          "right": 0
+        },
+        {
+          "answer": "إِنَّا أَنزَلْنَاهَا (yanlış sonlandırma)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "الم cümlesindeki Türevli Med doğru şekilde nasıl okunur?",
+      "answers": [
+        {
+          "answer": "م harfini 6 hareke boyunca uzatmak",
+          "right": 1
+        },
+        {
+          "answer": "ل harfinden sonra nefes almak",
+          "right": 0
+        },
+        {
+          "answer": "Her harfi hızlıca okumak",
+          "right": 0
+        },
+        {
+          "answer": "م harfini okumamak",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "قُلۡ ءَآلذَّكَرَيۡنِ cümlesindeki Türevli Med'i doğru yazan ifade hangisidir?",
+      "answers": [
+        {
+          "answer": "قُلۡ ءَآلذَّكَرَيۡنِ (doğru yazım)",
+          "right": 1
+        },
+        {
+          "answer": "قُلۡ ءَالذَّكَرَيۡنِ (Med olmadan)",
+          "right": 0
+        },
+        {
+          "answer": "قُ ءَآلذَّكَرَيۡنِ (قُل eksik)",
+          "right": 0
+        },
+        {
+          "answer": "قُلۡ عَآلذَّكَرَيۡنِ (yanlış kelime)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "حم kelimesindeki Türevli Med'i doğru gösteren yazım hangisidir?",
+      "answers": [
+        {
+          "answer": "هم",
+          "right": 0
+        },
+        {
+          "answer": "حم (doğru yazım)",
+          "right": 1
+        },
+        {
+          "answer": "حآمآ",
+          "right": 0
+        },
+        {
+          "answer": "حَآمَآ (yanlış harekelerle)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "مَلِكِ ٱلنَّاسِ cümlesindeki Türevli Med doğru şekilde hangi yazımda uygulanır?",
+      "answers": [
+        {
+          "answer": "مَلِكِ ٱلنَّاسِ (doğru yazım)",
+          "right": 1
+        },
+        {
+          "answer": "مَالِكِ ٱلنَّسِ (yanlış hareke)",
+          "right": 0
+        },
+        {
+          "answer": "مَلِكِ ٱلنَّسِي (yanlış sonlandırma)",
+          "right": 0
+        },
+        {
+          "answer": "مَلِكِ ٱلنَّسِ (harekesiz)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Med Vacip Muttasıl'a örnek hangisidir?",
+      "answers": [
+        {
+          "answer": "آمَنَا",
+          "right": 0
+        },
+        {
+          "answer": "جَاءَ (doğru örnek)",
+          "right": 1
+        },
+        {
+          "answer": "قُرَيْشٍ",
+          "right": 0
+        },
+        {
+          "answer": "يَا أَيُّهَا",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Med Lazım Müthakkal Kelimî'nin süresi ne kadardır?",
+      "answers": [
+        {
+          "answer": "2 hareke",
+          "right": 0
+        },
+        {
+          "answer": "4 hareke",
+          "right": 0
+        },
+        {
+          "answer": "6 hareke (doğru süre)",
+          "right": 1
+        },
+        {
+          "answer": "Değişken süre",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "id": 4,
+  "title": "Règles pour Noon Saakin et Tanween",
+  "desc1_desc": "Lors de la récitation de Noon Saakin (ن) ou Tanween, des règles spécifiques s'appliquent en fonction de la lettre qui suit. Ces règles garantissent une récitation correcte du Coran conformément aux règles de Tajweed.",
+  "sections": [
+    {
+      "id": 0,
+      "title": "Izhar (إظهار) - Prononciation claire",
+      "definition": "Izhar signifie prononcer clairement le Noon Saakin ou le Tanween sans fusion ni nasalisation.",
+      "conditions": "Appliquer Izhar lorsque Noon Saakin ou Tanween est suivi par l'une de ces lettres : ء (Hamzah), ه (Ha), ع ('Ayn), ح (Ha), غ (Ghayn), خ (Kha).",
+      "examples": [
+        {
+          "text": "كُلٌّ ءَامَنَ",
+          "gambar": "/quran/tajweed/pictures/5.01.jpg",
+          "suara": "/quran/tajweed/audio/5.01.mp3"
+        },
+        {
+          "text": "أَنْعَمْتَ",
+          "gambar": "/quran/tajweed/pictures/5.02.jpg",
+          "suara": "/quran/tajweed/audio/5.02.mp3"
+        },
+        {
+          "text": "قَوْلًا غَيْرَ",
+          "gambar": "/quran/tajweed/pictures/5.03.jpg",
+          "suara": "/quran/tajweed/audio/5.03.mp3"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Idgham (إدغام) - Fusion",
+      "definition": "Idgham implique de fusionner le Noon Saakin ou le Tanween avec la lettre qui suit. Il existe deux sous-catégories :",
+      "subtypes": [
+        {
+          "id": "1a",
+          "name": "Avec Ghunnah (nasalisation)",
+          "definition": "Prononcer le son avec une tonalité nasale durant 2 à 3 temps.",
+          "letters": "ي (Ya), ن (Nun), م (Meem), و (Waw)",
+          "examples": [
+            {
+              "text": "مَن يَقُولُ",
+              "gambar": "/quran/tajweed/pictures/5.07.jpg",
+              "suara": "/quran/tajweed/audio/5.07.mp3"
+            }
+          ]
+        },
+        {
+          "id": "1b",
+          "name": "Sans Ghunnah (pas de nasalisation)",
+          "definition": "Fusionner le son du Noon Saakin ou du Tanween sans nasalisation.",
+          "letters": "ر (Ra), ل (Lam)",
+          "examples": [
+            {
+              "text": "مِنْ رَبِّهِمْ",
+              "gambar": "/quran/tajweed/pictures/5.11.jpg",
+              "suara": "/quran/tajweed/audio/5.11.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ikhfa (إخفاء) - Dissimulation",
+      "definition": "Dissimuler le son du Noon Saakin ou du Tanween et le prononcer doucement avec une nasalisation durant 2 à 3 temps.",
+      "letters": "ت (Ta), ث (Tha), ج (Jim), د (Dal), ذ (Dhal), ز (Zay), س (Seen), ش (Sheen), ص (Sad), ض (Dad), ط (Ta), ظ (Dha), ف (Fa), ق (Qaf), ك (Kaf)",
+      "examples": [
+        {
+          "text": "جَنَّاتٍ تَجْرِي",
+          "gambar": "/quran/tajweed/pictures/5.14.jpg",
+          "suara": "/quran/tajweed/audio/5.14.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Iqlab (إقلاب) - Conversion",
+      "definition": "Convertir le son du Noon Saakin ou du Tanween en م lorsqu'il est suivi par ب (Ba). La conversion inclut une nasalisation durant 2 à 3 temps.",
+      "example": {
+        "text": "سَمِيعٌ بَصِيرٌ",
+        "gambar": "/quran/tajweed/pictures/5.29.jpg",
+        "suara": "/quran/tajweed/audio/5.29.mp3"
+      }
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "Quelle phrase applique correctement la règle Izhar ?",
+      "answers": [
+        {
+          "answer": "كُلٌّ ءَامَنَ",
+          "right": 1
+        },
+        {
+          "answer": "مَن يَقُولُ",
+          "right": 0
+        },
+        {
+          "answer": "جَنَّاتٍ تَجْرِي",
+          "right": 0
+        },
+        {
+          "answer": "سَمِيعٌ بَصِيرٌ",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Quelles lettres déclenchent la règle Idgham avec Ghunnah ?",
+      "answers": [
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ي, ن, م, و",
+          "right": 1
+        },
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right": 0
+        },
+        {
+          "answer": "ت, ث, ج, د",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Lorsque Noon Saakin ou Tanween est suivi de ب, quelle règle de Tajweed s'applique ?",
+      "answers": [
+        {
+          "answer": "Ikhfa",
+          "right": 0
+        },
+        {
+          "answer": "Iqlab",
+          "right": 1
+        },
+        {
+          "answer": "Idgham avec Ghunnah",
+          "right": 0
+        },
+        {
+          "answer": "Izhar",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Dans la phrase 'سَمِيعٌ بَصِيرٌ', comment le Tanween est-il prononcé ?",
+      "answers": [
+        {
+          "answer": "Clair sans conversion",
+          "right": 0
+        },
+        {
+          "answer": "Converti en م avec nasalisation",
+          "right": 1
+        },
+        {
+          "answer": "Fusionné avec ب sans nasalisation",
+          "right": 0
+        },
+        {
+          "answer": "Doucement dissimulé avec nasalisation",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Quelles lettres nécessitent l'application de la règle Ikhfa ?",
+      "answers": [
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right": 0
+        },
+        {
+          "answer": "ت, ث, ج, د, ذ, ز, س, ش, ص, ض, ط, ظ, ف, ق, ك",
+          "right": 1
+        },
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ب",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Quelle est la différence entre Izhar et Ikhfa ?",
+      "answers": [
+        {
+          "answer": "Izhar implique une prononciation claire, tandis qu'Ikhfa dissimule le son avec nasalisation.",
+          "right": 1
+        },
+        {
+          "answer": "Izhar fusionne les lettres, tandis qu'Ikhfa les sépare.",
+          "right": 0
+        },
+        {
+          "answer": "Izhar utilise la nasalisation, tandis qu'Ikhfa n'en utilise pas.",
+          "right": 0
+        },
+        {
+          "answer": "Izhar s'applique uniquement au Tanween, tandis qu'Ikhfa s'applique uniquement au Noon Saakin.",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Quelle phrase démontre Idgham sans Ghunnah ?",
+      "answers": [
+        {
+          "answer": "مِن رَبِّهِمْ",
+          "right": 1
+        },
+        {
+          "answer": "مَن يَقُولُ",
+          "right": 0
+        },
+        {
+          "answer": "كُلٌّ ءَامَنَ",
+          "right": 0
+        },
+        {
+          "answer": "سَمِيعٌ بَصِيرٌ",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Dans la phrase 'جَنَّاتٍ تَجْرِي', comment le Tanween est-il prononcé ?",
+      "answers": [
+        {
+          "answer": "Clair et distinct sans nasalisation",
+          "right": 0
+        },
+        {
+          "answer": "Dissimulé avec un son nasal doux",
+          "right": 1
+        },
+        {
+          "answer": "Fusionné avec la lettre suivante",
+          "right": 0
+        },
+        {
+          "answer": "Converti en un son م",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Quelle est la règle de Tajweed dans la phrase suivante : 'مَن يَقُولُ' ?",
+      "answers": [
+        {
+          "answer": "Izhar",
+          "right": 0
+        },
+        {
+          "answer": "Idgham avec Ghunnah",
+          "right": 1
+        },
+        {
+          "answer": "Ikhfa",
+          "right": 0
+        },
+        {
+          "answer": "Iqlab",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Quelles lettres nécessitent Izhar lorsqu'elles suivent Noon Saakin ou Tanween ?",
+      "answers": [
+        {
+          "answer": "ء, ه, ع, ح, غ, خ",
+          "right": 1
+        },
+        {
+          "answer": "ت, ث, ج, د, ذ, ز, س, ش, ص, ض, ط, ظ, ف, ق, ك",
+          "right": 0
+        },
+        {
+          "answer": "ر, ل",
+          "right": 0
+        },
+        {
+          "answer": "ب",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

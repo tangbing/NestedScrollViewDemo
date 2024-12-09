@@ -1,0 +1,167 @@
+{
+    "id": 2,
+    "title": "Dayanma Qaydaları",
+    "desc1_desc": "Dayanma Qaydaları, Quranın düzgün tələffüz edilməsi və Təcvit qaydalarına riayət olunmasını təmin edərək, oxu zamanı necə dayanmaq və ya fasilə vermək lazım olduğunu izah edir.",
+    "desc2_title": "Nümunələr və Ssenarilər",
+    "desc2_desc": "Səsli hərflər, Fəthə Tənvini, Müşəddəd hərflər və s. kimi dayanma qaydaları nümunələrlə izah olunur.",
+    "Lesson number": 7,
+    "Quiz number": 10,
+    "Lessons": [
+        {
+            "id": 0,
+            "name": "Fəthə Tənvindən başqa səslərdə dayanma",
+            "pengertian": "Dayanarkən, son hərfi Sükun (sakit sonluq) kimi qəbul edin.",
+            "caraMembaca": "Sonuncu səsin hərəkəsini neytrallaşdıraraq sakitcə dayanın.",
+            "example": "أَكْبَرُ",
+            "gambar": "3.01.jpg",
+            "suara": "3.01.mp3"
+        },
+        {
+            "id": 1,
+            "name": "Fəthə Tənvinində dayanma",
+            "pengertian": "Son hərf Fəthə Tənvini daşıyırsa və ya Əlif-Mədd ilə davam edirsə, Fəthə Tənvin qaydasına uyğun olaraq dayanın.",
+            "caraMembaca": "Tənvini atın və dəqiq şəkildə dayanın.",
+            "example": "يُسْرًا",
+            "gambar": "3.02.jpg",
+            "suara": "3.02.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Hərf ة üzərində dayanma",
+            "pengertian": "Hərf ة, sanki hərf ه ilə eyni şəkildə Sükun daşıyırmış kimi qəbul olunur.",
+            "caraMembaca": "Heç bir hərəkətsiz yumşaq şəkildə tələffüz edin.",
+            "example": "بَصِيْرَةٌ",
+            "gambar": "3.03.jpg",
+            "suara": "3.03.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Müşəddəd hərflərdə dayanma",
+            "subrules": [
+                {
+                    "title": "Qalqalah Hərfləri (ق, ط, ب, ج, د)",
+                    "pengertian": "Hərfi, Qalqalah effekti (eko effekti) ilə Sakin formasında tələffüz edin.",
+                    "example": "وَٱلۡحَجُّ",
+                    "gambar": "3.04.jpg",
+                    "suara": "3.04.mp3"
+                },
+                {
+                    "title": "Digər Hərflər",
+                    "pengertian": "Hərfi Sükun kimi qəbul edin, lakin 2 vuruş müddətində burnunuzda səsi saxlayın (Ğunnah).",
+                    "example": "مِنْ",
+                    "gambar": "3.05.jpg",
+                    "suara": "3.05.mp3"
+                },
+                {
+                    "title": "Qalqalah olmayan Müşəddəd Hərflər",
+                    "pengertian": "Şəddəni Sükunla əvəz edin və bir az fasilə verin (nəbr).",
+                    "example": "فِي شَكٍّ",
+                    "gambar": "3.06.jpg",
+                    "suara": "3.06.mp3"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Sakin və ya Mədd Hərflərində dayanma (ء, ى, ا)",
+            "pengertian": "Heç bir dəyişiklik etmədən yazıldığı kimi dayanın.",
+            "examples": [
+                {
+                    "text": "فَكَبِّرْ",
+                    "gambar": "3.07.jpg",
+                    "suara": "3.07.mp3"
+                },
+                {
+                    "text": "مُوسَى",
+                    "gambar": "3.08.jpg",
+                    "suara": "3.08.mp3"
+                }
+            ],
+            "exceptions": [
+                {
+                    "title": "ى və ya ء ilə bitən sözlərdə dayanma",
+                    "pengertian": "ى və ya ء Sükunla əvəz olunur.",
+                    "example": "رَسُولَهُ",
+                    "gambar": "3.09.jpg",
+                    "suara": "3.09.mp3"
+                },
+                {
+                    "title": "Qalqalah Hərfində dayanma",
+                    "pengertian": "Güclü Qalqalah tətbiq edin.",
+                    "example": "يُولَدُ",
+                    "gambar": "3.10.jpg",
+                    "suara": "3.10.mp3"
+                },
+                {
+                    "title": "Çox Uzun Mədd ilə bitən sözlərdə dayanma",
+                    "pengertian": "Mədd Asli ilə əvəz edin.",
+                    "example": "أَنَا",
+                    "gambar": "3.11.jpg",
+                    "suara": "3.11.mp3"
+                }
+            ]
+        }
+    ],
+    "Quizs": [
+        {
+            "id": 0,
+            "question": "فِي شَكٍّ üzərində dayanma üçün düzgün tətbiq hansıdır?",
+            "answers": [
+                {"answer": "Sükunu tətbiq edin və bir az fasilə verin.", "right": 1},
+                {"answer": "Şəddəni görməzdən gəlin.", "right": 0},
+                {"answer": "Hərfi Damma kimi qəbul edin.", "right": 0},
+                {"answer": "Mədd ilə oxuyun.", "right": 0}
+            ]
+        },
+        {
+            "id": 1,
+            "question": "قُلِ ٱللَّهُمَّ üçün Dayanma Qaydalarının düzgün tətbiqi hansıdır?",
+            "answers": [
+                {"answer": "Sükunla əvəz edin.", "right": 1},
+                {"answer": "Sözə Tənvin əlavə edin.", "right": 0},
+                {"answer": "Dayanma qaydalarını görməzdən gəlin.", "right": 0},
+                {"answer": "Hərfi Kəsrə ilə qəbul edin.", "right": 0}
+            ]
+        },
+        {
+            "id": 2,
+            "question": "بَصِيْرَةٌ kimi sözlərdə ة hərfi necə qəbul olunur?",
+            "answers": [
+                {"answer": "Sanki hərf ه ilə eyni Sükun daşıyırmış kimi tələffüz edin.", "right": 1},
+                {"answer": "Hərfi Tənvin ilə oxuyun.", "right": 0},
+                {"answer": "وقف zamanı ة hərfini görməzdən gəlin.", "right": 0},
+                {"answer": "Hərfi Mədd kimi qəbul edin.", "right": 0}
+            ]
+        },
+        {
+            "id": 3,
+            "question": "يُولَدُ ilə bitən sözlərdə dayanma zamanı Qalqalah necə tətbiq olunur?",
+            "answers": [
+                {"answer": "Güclü Qalqalah tətbiq edin.", "right": 1},
+                {"answer": "Hərfi Sükun ilə əvəz edin.", "right": 0},
+                {"answer": "Qalqalahı görməzdən gəlin.", "right": 0},
+                {"answer": "Hərfi Mədd kimi qəbul edin.", "right": 0}
+            ]
+        },
+        {
+            "id": 4,
+            "question": "أَنَا kimi Mədd ilə bitən sözlərdə dayanma üçün düzgün üsul hansıdır?",
+            "answers": [
+                {"answer": "Uzun Məddi Mədd Asli ilə əvəz edin.", "right": 1},
+                {"answer": "Məddi tamamilə atlayın.", "right": 0},
+                {"answer": "Məddi daha da uzadın.", "right": 0},
+                {"answer": "Sözün sonuna Tənvin əlavə edin.", "right": 0}
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Sakin hərflər üzərində dayanma qaydası nədir (ء, ى, ا)?",
+            "answers": [
+                {"answer": "Heç bir dəyişiklik etmədən yazıldığı kimi dayanın.", "right": 1},
+                {"answer": "Hərfə Sükun əlavə edin.", "right": 0},
+                {"answer": "Mədd tətbiq edin.", "right": 0},
+                {"answer": "Dayanma qaydalarını görməzdən gəlin.", "right": 0}
+            ]
+        }
+    ]
+}

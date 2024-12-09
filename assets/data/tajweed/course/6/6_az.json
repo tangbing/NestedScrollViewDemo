@@ -1,0 +1,119 @@
+{
+  "id": 5,
+  "title": "Meem Sakin Qaydaları",
+  "desc1_desc": "Quran tilavətində Meem Sakin (م) göründükdə, ondan sonra gələn hərfə əsasən aşağıdakı üç qaydadan biri tətbiq edilməlidir:",
+  "sections": [
+    {
+      "id": 0,
+      "title": "İdxam Şafavi",
+      "definition": "Bu qayda Meem Sakin digər bir hərəkəli Meem ilə ardıcıl olduqda tətbiq edilir. Adətən, ikinci Meemdə Şəddə (ّ) olur.",
+      "how_to_pronounce": "Hər iki Meem yumşaq şəkildə qovuşdurulur və 2-3 hərəkət boyunca qünnə (burun səsi) ilə tələffüz edilir.",
+      "example": {
+        "text": "لَهُم مَا",
+        "gambar": "/quran/tajweed/pictures/601.jpg",
+        "suara": "/quran/tajweed/audio/601.mp3"
+      }
+    },
+    {
+      "id": 1,
+      "title": "İxfa Şafavi",
+      "definition": "Bu qayda Meem Sakin hərəkəli Ba (ب) hərfindən sonra gəldikdə tətbiq olunur.",
+      "how_to_pronounce": "Meem-in səsi gizlədilir və 2-3 hərəkət boyunca qünnə ilə tələffüz edilir.",
+      "example": {
+        "text": "رَبَّهُم بِهِم",
+        "gambar": "/quran/tajweed/pictures/602.jpg",
+        "suara": "/quran/tajweed/audio/602.mp3"
+      },
+      "note": "Bu qayda tez-tez nəzərdən qaçırılır, düzgün tətbiq olunmasına diqqət yetirin."
+    },
+    {
+      "id": 2,
+      "title": "İzhar Şafavi",
+      "definition": "İzhar Şafavi Meem Sakin Meem və ya Ba hərfindən başqa bir hərflə ardıcıl olduqda baş verir.",
+      "how_to_pronounce": "Meem heç bir qünnə olmadan aydın şəkildə tələffüz edilir.",
+      "example": {
+        "text": "أَلَم تَرَ",
+        "gambar": "/quran/tajweed/pictures/603.jpg",
+        "suara": "/quran/tajweed/audio/603.mp3"
+      }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 0,
+      "question": "تَرۡمِيۡهِم بِحِجَارَةٍ ifadəsində Meem Sakin üçün tətbiq olunan düzgün qayda nədir?",
+      "answers": [
+        {
+          "answer": "İxfa Şafavi: Meem Sakin Ba hərfi ilə davam edir və burun səsi ilə oxunur.",
+          "right": 1
+        },
+        {
+          "answer": "İdxam Şafavi: Meem Sakin növbəti Meem ilə birləşir.",
+          "right": 0
+        },
+        {
+          "answer": "İzhar Şafavi: Meem Sakin birləşdirilmədən aydın tələffüz olunur.",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "كُنتُم مُّؤۡمِنِينَ ifadəsində Meem Sakin üçün tətbiq olunan düzgün qayda nədir?",
+      "answers": [
+        {
+          "answer": "İxfa Şafavi: Meem Sakin Ba hərfi ilə davam edir və burun səsi ilə oxunur.",
+          "right": 0
+        },
+        {
+          "answer": "İdxam Şafavi: Meem Sakin növbəti Meem ilə birləşir.",
+          "right": 1
+        },
+        {
+          "answer": "İzhar Şafavi: Meem Sakin birləşdirilmədən aydın tələffüz olunur.",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "وَهُمۡ سَـالِمُونَ ifadəsində Meem Sakin üçün tətbiq olunan düzgün qayda nədir?",
+      "answers": [
+        {
+          "answer": "İxfa Şafavi: Meem Sakin Ba hərfi ilə davam edir və burun səsi ilə oxunur.",
+          "right": 0
+        },
+        {
+          "answer": "İdxam Şafavi: Meem Sakin növbəti Meem ilə birləşir.",
+          "right": 0
+        },
+        {
+          "answer": "İzhar Şafavi: Meem Sakin birləşdirilmədən aydın tələffüz olunur.",
+          "right": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qünnə (burun səsi) olmayan seçimi seçin",
+      "answers": [
+        {
+          "answer": "لَهُمۡ مَّا",
+          "right": 0
+        },
+        {
+          "answer": "رَبَّهُمۡ بِهِمۡ",
+          "right": 0
+        },
+        {
+          "answer": "أَلَمۡ تَرَ",
+          "right": 1
+        },
+        {
+          "answer": "وَ أَنِ احۡكُم بَيۡنَهُم",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

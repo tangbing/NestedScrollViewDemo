@@ -1,0 +1,2730 @@
+[
+  {
+    "category_id": 1,
+    "title": "Pagi & Petang",
+    "group": [
+      {
+        "group_id": 1,
+        "title": "Ketika Bangun Tidur",
+        "duas": [
+          {
+            "id": 1,
+            "group_id": 1,
+            "dua": "اَلحَمدُ لِلهِ الَّذِي أحيَانَا بَعْدَ مَا أمَاتَنَا وَ إِلَيهِ النُّشُورُ",
+            "translation": "Segala puji bagi Allah yang menghidupkan kami selepas mematikan kami, dan kepada-Nya tempat kembali.",
+            "reference": "Al-Bukhârî [6312], see Fatĥ al-Bârî (11/113) and Muslim [2711](4/2083)."
+          },
+          {
+            "id": 2,
+            "group_id": 1,
+            "dua": "لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الحَمدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، سُبْحاَنَ اللهِ، وَالحَمدُ للهِ، وَلَا إِلَهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ، رَبِّ اغْفِرْ لِي",
+            "translation": "Tiada yang layak disembah melainkan Allah sahaja, tiada sekutu bagi-Nya, milik-Nya kekuasaan dan segala puji hanya untuk-Nya, dan Dia Maha Berkuasa atas segala sesuatu. Maha Suci Allah. Segala puji bagi Allah. Tiada yang layak disembah melainkan Allah. Allah Maha Besar. Tiada daya dan kekuatan melainkan dengan izin Allah Yang Maha Tinggi, Maha Agung. Wahai Tuhanku, ampunilah aku. (Sesiapa yang mengucapkannya akan diampuni, dan jika dia berdoa kepada Allah, doanya akan dikabulkan; jika dia berwuduk dan bersolat, solatnya akan diterima).",
+            "reference": "Al-Bukhârî [1154], see Fatĥ al-Bârî (3/39) and the wording is of Ibn Mâjah (2/335), also see Ŝaĥiĥ Ibn Mâjah (2/335). "
+          },
+          {
+            "id": 3,
+            "group_id": 1,
+            "dua": "الحَمدُ لِلهِ الَّذِي عَافَانِي فِي جَسَدِي، وَرَدَّ عَلَيَّ رُوحِي، وَأَذِنَ لِي بِذِكْرِهِ",
+            "translation": "Segala puji bagi Allah yang telah memberikan kekuatan kepada tubuhku, mengembalikan nyawaku, dan mengizinkanku untuk mengingat-Nya.",
+            "reference": "At-Tirmidhî [3401](5/473), also see Ŝaĥiĥ At-Tirmidhî (3/144)."
+          },
+          {
+            "id": 4,
+            "group_id": 1,
+            "dua": "يقرأ سورة آل عمران ٣: ١٩٠-٢٠٠",
+            "translation": "Bacalah Surah Al-'Imran [3:190-200].",
+            "reference": "Al-Bukhârî [4572], see Fatĥ al-Bârî (8/237) and Muslim [763](1/530)."
+          }
+        ]
+      },
+      {
+        "group_id": 27,
+        "title": "Pada Waktu Pagi Dan Petang",
+        "duas": [
+          {
+            "id": 75,
+            "group_id": 27,
+            "dua": "﴾اللهُ لَا إله إلَّا هُوَ الحَيُّ القَيُّومُ لَا...﴿",
+            "translation": "Sesiapa yang mengucapkan ini (Âyat al-Kursî) pada waktu pagi akan dilindungi daripada jin hingga dia tidur pada waktu malam, dan sesiapa yang mengucapkannya ketika tidur pada waktu malam akan dilindungi daripada mereka hingga dia bangun pada waktu pagi.",
+            "reference": "Al-Hâkim (1/562) and Al-Albânî authenticated it in Ŝaĥîĥ At-Targhîb wa At-Tarhîb [655](1/273) and he attributed it to An-Nisâ'i ['Amal al-Yawm wa al-Laylah][960] and Ťabarânî [Al-Kabîr][541] and said that the latter's chain is good."
+          },
+          {
+            "id": 76,
+            "group_id": 27,
+            "dua": "﴾قُل هُوَ اللهُ أحَدٌ...﴿﴾قُلْ أعُوذُ بِرَبِّ اْلفَلَقِ...﴿﴾قُلْ أعُوذُ بِرَبِّ النَّاسِ...﴿[ثلاث مرات]",
+            "translation": "Bacalah:1. Surah Ikhlâs (Qur'ân : 112)2. Surah Al-Falaq (Qur'ân : 113)3. Surah An-Nâs (Qur'ân : 114)[3 kali]",
+            "reference": "Abû Dâwud . Also see Ŝaĥîĥ At-Tirmidhî (3/182)."
+          },
+          {
+            "id": 77,
+            "group_id": 27,
+            "dua": "أصْبَحْنَا وَ أصْبَحَ المُلْكُ لِلَّهِ، وَ الحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ، وَ لَهُ الحَمْدُ، وَ هُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، رَبِّ أسْألُكَ خَيْرَ مَا في هَذَا اليَوْمِ وَ خَيْرَ مَا بَعْدَهُ، وَ أعُوذُ بِكَ مِنْ شَرِّ مَا في هَذَا اليَوْمِ وَ شَرِّ مَا بَعْدَهُ، رَبِّ أعُوذُ بِكَ مِنَ الكَسَلِ، وَ سُوءِ الكِبَرِ، رَبِّ أعُوذُ بِكَ مِنْ عَذَابٍ في النَّارِ وَ عَذَابٍ في القَبْرِ.(١)وَ إذَا أمْسَى قَالَ: أمْسَيْنَا وَ أمْسَى المُلْكُ لِلَّهِ.وَ إذَا أمْسَى قَالَ: رَبِّ أسْألُكَ خَيْرَ مَا في هَذِهِ اللَّيْلَةِ وَ خَيْرَ مَا بَعْدَهَا، وَ أعُوذُ بِكَ مِنْ شَرِّ مَا في هَذِهِ اللَّيْلَةِ وَ شَرِّ مَا بَعْدَهَا.",
+            "translation": "'Kami telah memasuki pagi ini dan segala kekuasaan adalah milik Allah. Segala puji bagi Allah. Tiada yang layak disembah melainkan Allah sahaja, tiada sekutu bagi-Nya. Milik-Nya kekuasaan, dan segala puji bagi-Nya dan Dia Maha Berkuasa atas segala sesuatu. Wahai Tuhanku, aku memohon kebaikan hari ini dan kebaikan selepasnya, dan aku berlindung kepada-Mu daripada keburukan hari ini dan keburukan selepasnya. Wahai Tuhanku, aku berlindung kepada-Mu daripada sifat malas dan ketidakberdayaan kerana usia tua. Wahai Tuhanku, aku berlindung kepada-Mu daripada azab api neraka dan azab kubur.'Pada waktu malam, bacalah:'Kami telah memasuki malam ini dan segala kekuasaan adalah milik Allah...'dan:'...Wahai Tuhanku, aku memohon kebaikan malam ini dan kebaikan selepasnya, dan aku berlindung kepada-Mu daripada keburukan malam ini dan keburukan selepasnya...'",
+            "reference": "Muslim [2723](4/2088)."
+          },
+          {
+            "id": 78,
+            "group_id": 27,
+            "dua": "اللهم بِكَ أصْبَحْنَا، وَ بِكَ أمْسَيْنَا، وَ بِكَ نَحْيَا، وَ بِكَ نَمُوتُ، وَ إلَيْكَ النُّشُورُ.(١)وَإذَا أمْسَى قَالَ: اللهم بِكَ أمْسَيْنَا، وَ بِكَ أصْبَحْنَا، وَ بِكَ نَحْيَا، وَ بِكَ نَمُوتُ، وَ إلَيْكَ المَصِيْرُ.",
+            "translation": "'Wahai Allah, dengan izin-Mu kami berada di waktu pagi dan dengan izin-Mu kami berada di waktu malam, dengan izin-Mu kami hidup dan dengan izin-Mu kami mati, dan kepada-Mu tempat kebangkitan.'Pada waktu malam, bacalah:'Wahai Allah, dengan izin-Mu kami berada di waktu malam dan dengan izin-Mu kami berada di waktu pagi, dengan izin-Mu kami hidup dan dengan izin-Mu kami mati, dan kepada-Mu tempat kembali.'",
+            "reference": "At-Tirmidhî [3391](5/466). Also see Ŝaĥîĥ At-Tirmidhî (3/142)."
+          },
+          {
+            "id": 79,
+            "group_id": 27,
+            "dua": "اللهم أنْتَ رَبِّي لَا إلَهَ إلَّا أنْتَ، خَلَقْتَنِي وَ أنَا عَبْدُكَ، وَ أنَا عَلَى عَهْدِكَ وَ وَعْدِكَ مَا اسْتَطَعْتُ، أعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أبُوءُلَكَ بِنِعْمَتِكَ عَلَيَّ، وَ أبُوءُ بِذَنْبِي فَاغْفِرْ لي فَإنَّهُ لَا يَغْفِرُ الذُّنُوبَ إلَّا أنْتَ.",
+            "translation": "'Ya Allah, Engkau adalah Tuhanku, tiada yang layak disembah melainkan Engkau, Engkau yang menciptaku dan aku adalah hamba-Mu, dan aku setia kepada perjanjian dan janji-Mu seboleh mungkin, aku berlindung kepada-Mu daripada kejahatan yang telah aku lakukan. Aku mengakui nikmat-Mu ke atasku dan aku mengakui dosaku, oleh itu ampunkanlah aku, sesungguhnya tiada yang boleh mengampuni dosa selain Engkau.'",
+            "reference": "Al-Bukhârî [6306](7/150)."
+          },
+          {
+            "id": 80,
+            "group_id": 27,
+            "dua": "اللهم إنِّي أصْبَحْتُ أُشْهِدُكَ، وَ أُشْهِدُ حَمَلَةَ عَرْشِكَ، وَ مَلَائِكَتِكَ، وَ جَمِيْعَ خَلْقِكَ، أنَّكَ أنْتَ اللهُ لَا إلَهَ إلَّا أنْتَ وَحْدَكَ لَا شَرِيْكَ لَكَ، وَ أنَّ مُحَمَّداً عَبْدُكَ وَ رَسُولُكَ. [أرْبَعَ مَرَّاتٍ]",
+            "translation": "'Ya Allah, sesungguhnya aku telah memasuki pagi ini dan aku memanggil-Mu, para pembawa arasy-Mu, para malaikat-Mu, dan seluruh ciptaan-Mu untuk menyaksikan bahawa Engkau adalah Allah, tiada yang layak disembah melainkan Engkau, Engkau sahaja, tiada sekutu bagi-Mu, dan Muhammad adalah hamba-Mu dan utusan-Mu. [Empat kali]'",
+            "reference": "Abû Dâwud [5069](4/317), Al-Bukhârî [Al-Adab Al-Mufrad][1201], An-Nisâ'i ['Amal al-Yawm wa al-Laylah][9] and Ibn As-Sunnî [70]. Shaykh Ibn Bâz declared the chain of An-Nisâ'i and Abû Dâwud, Hasan in [Tuĥfat Al-Akhyâr][pg. 23]. However Al-Albânî declared it weak. See Al-Kalim Ať-Ťayyib [25]."
+          },
+          {
+            "id": 81,
+            "group_id": 27,
+            "dua": "أللهم مَا أصْبَحَ بِي مِنْ نِعْمَةٍ، أوْ بِأحَدٍ مِنْ خَلْقِكَ، فَمِنْكَ وَحْدَكَ لَا شَرِيْكَ لَكَ، فَلَكَ الحَمْدُ وَ لَكَ الشُّكْرُ.(١)و إذَا أمْسَى قَالَ: اللهم مَا أمْسَى بِي...",
+            "translation": "'Ya Allah, segala nikmat yang telah aku rasakan pagi ini, atau yang dirasakan oleh mana-mana makhluk-Mu, adalah daripada-Mu sahaja, tiada sekutu bagi-Mu, maka bagi-Mu segala pujian dan kepada-Mu segala syukur.'Pada waktu malam, bacalah: 'Ya Allah, segala nikmat yang aku rasakan malam ini...'",
+            "reference": "Abû Dâwud [5073](4/318), An-Nisâ'i ['Amal al-Yawm wa al-Laylah][7], Ibn As-Sunnî [41], Ibn Ĥibân [Muwârid][2361]. Shaykh Ibn Bâz declared its chain Ĥasan in [Tuĥfat Al-Akhyâr][pg. 24]. However Al-Albânî declared it weak. See Al-Kalim Ať-Ťayyib [26]."
+          },
+          {
+            "id": 82,
+            "group_id": 27,
+            "dua": "اللَّهُمَّ عَافِنِي فِي بَدَنِي، اللَّهُمَّ عَافِنِي فِي سَمْعِي، اللَّهُمَّ عَافِنِي فِي بَصْرِي، لَا إِلَهَ إِلَّا أَنْتَ، اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكُفْرِ، وَالْفَقْرِ، وأَعُوْذُ بِكَ مِنْ عَذَابِ القَبْرِ، لَا إِلَهَ إِلَّا أَنْتَ.[ثَلاثَ مَرَّاتٍ]",
+            "translation": "'Ya Allah, sihatkanlah tubuhku, Ya Allah, sihatkanlah pendengaranku, Ya Allah, sihatkanlah penglihatanku. Tiada yang layak disembah melainkan Engkau. Ya Allah, aku berlindung dengan-Mu daripada kekufuran dan kemiskinan, dan aku berlindung dengan-Mu daripada azab kubur; tiada yang layak disembah melainkan Engkau. [Tiga kali]'",
+            "reference": "Abû Dâwud [5090](4/324), Aĥmad (5/42), An-Nisâ'i ['Amal al-Yawm wa al-Laylah][22], Ibn As-Sunnî [69], Al-Bukhârî [Al-Adab Al-Mufrad]. Shaykh Ibn Bâz authenticated its chain in [Tuĥfat Al-Akhyâr][pg. 26]. Al-Albânî declared it weak. See Ďa'îf Al-J Al-Jâmi' [1210]."
+          },
+          {
+            "id": 83,
+            "group_id": 27,
+            "dua": "حَسْبِيَ اللهُ لَا إلَهَ إلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ العَرْشِ العَظِيمِ [سَبْعَ مَرَّاتٍ]",
+            "translation": "'Cukuplah Allah bagiku, tiada yang layak disembah melainkan Dia, kepada-Nya aku bertawakal, dan Dia adalah Tuhan arasy yang agung. [Tujuh kali]'",
+            "reference": "Ibn As-Sunnî [71][Marfû'] and Abû Dâwud [5081](4/321)[Mawqûf]. Shu'aîb and 'Abdul Qadir Al-Arnâ'ûť declared it authentic. Also see Zâd al-Ma'âd (2/376). Al-Albânî declared it weak. See Ďa'îf Abî Dâwud."
+          },
+          {
+            "id": 84,
+            "group_id": 27,
+            "dua": "اللَّهُمَّ إِنِّي أسْأَلُكَ العَفْوَ وَ العَافِيَةَ في الدُّنْيَا وَالآخِرَةِ، اللّهُمَّ إِنِّي أسْأَلُكَ العَفْوَ وَ العَافِيَةَ في دِيْنِي وَدُنْيَايَ وَأهْلي وَمالي، اللَّهُمَّ اسْتُرْ عَوْرَاتي، وَآمِنْ رَوْعَاتي، اللَّهُمَّ احْفَظْني مِنْ بَيْنِ يَدَيَّ، وَمِنْ خَلْفِي، وَعَنْ يَمِيْنِي وَعَنْ شِمَالي، وَمِنْ فَوْقي ، وَ أعُوذُ بِعَظَمَتِكَ أنْ أُغْتَالَ مِنْ تَحْتِي.",
+            "translation": "'Ya Allah, aku memohon kepada-Mu pengampunan dan keselamatan di dunia dan akhirat. Ya Allah, aku memohon kepada-Mu pengampunan dan keselamatan dalam urusan agamaku, duniaku, keluargaku, dan hartaku. Ya Allah, tutupilah kelemahanku dan tenangkanlah ketakutanku. Ya Allah, lindungilah aku dari hadapanku, dari belakangku, dari kananku, dari kiriku, dan dari atas, dan aku berlindung dengan keagungan-Mu agar aku tidak ditenggelamkan dari bawah.'",
+            "reference": "Abû Dâwud [5074], Ibn Mâjah [3871]. Also see Ŝaĥîĥ Ibn Mâjah (2/332)."
+          },
+          {
+            "id": 85,
+            "group_id": 27,
+            "dua": "اللَّهُمَّ عَالِمَ الغَيْبِ وَالشَّهَادَةِ، فَاطِرَ السَّمَاوَاتِ وَ الأرْضِ، رَبَّ كلِّ شَيءٍ وَمَلِيْكَه، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي وَمِنْ شَرِّ الشَّيْطانِ وَشِرْكِهِ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوءاً، أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ.",
+            "translation": "'Ya Allah, Yang Mengetahui yang ghaib dan yang nyata, Pencipta langit dan bumi, Tuhan dan Raja segala sesuatu, aku bersaksi bahawa tiada yang layak disembah melainkan Engkau. Aku berlindung kepada-Mu daripada kejahatan diriku, daripada kejahatan syaitan dan kesyirikannya, serta daripada melakukan keburukan terhadap diriku atau menyeretnya kepada seorang Muslim.'",
+            "reference": "At-Tirmidhî [3392] and Abû Dâwud [5067]. Also see Ŝaĥîĥ At-Tirmidhî (3/142)."
+          },
+          {
+            "id": 86,
+            "group_id": 27,
+            "dua": "بِسمِ اللهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيءٌ في الأرْضِ وَلَا في السَّمَاءِ وَهـوَ السَّمِيعُ العَلِيمُ [ثَلاثَ مَرَّاتٍ]",
+            "translation": "'Dengan nama Allah, yang dengan nama-Nya, tiada sesuatu pun yang akan membahayakan di bumi mahupun di langit, dan Dia Maha Mendengar, Maha Mengetahui. [Tiga kali]'",
+            "reference": "Abû Dâwud [5088, 5089](4/323), At-Tirmidhî [3388](5/465), Ibn Mâjah [3869], Aĥmad (1/72). Also see Ŝaĥîĥ Ibn Mâjah (2/332). Shaykh Ibn Bâz authenticated its chain in [Tuĥfat Al-Akhyâr][pg. 39]."
+          },
+          {
+            "id": 87,
+            "group_id": 27,
+            "dua": " رَضِيْتُ بِاللهِ رَبًّا، وَبِالإسْلامِ دِيْناً، وَبِمُحَمَّدٍ نَبِيًّا [ثَلاثَ مَرَّاتٍ]",
+            "translation": "'Aku redha Allah sebagai Tuhanku, Islam sebagai agamaku, dan Muhammad sebagai Nabiku. [Tiga kali]'",
+            "reference": "Aĥmad (4/337), An-Nisâ'i ['Amal al-Yawm wa al-Laylah][4], Ibn As-Sunnî [68], Abû Dâwud [5072](4/318) and At-Tirmidhî [3389](5/465). Shaykh Ibn Bâz declared it Ĥasan in [Tuĥfat Al-Akhyâr][39]."
+          },
+          {
+            "id": 88,
+            "group_id": 27,
+            "dua": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيْثُ، أَصْلِحْ لي شَأْني كُلَّهُ، وَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ",
+            "translation": "'Wahai Yang Maha Hidup, Yang Maha Berdiri sendiri, dengan rahmat-Mu aku meminta pertolongan, perbaikilah segala urusanku dan janganlah Engkau serahkan aku kepada diriku sendiri walaupun sekelip mata.'",
+            "reference": "Al-Hâkim (1/545); he authenticated it and Adh-Dhahabî agreed with him. Also see Ŝaĥîĥ At-Targhîb wa At-Tarhîb [654](1/273)."
+          },
+          {
+            "id": 89,
+            "group_id": 27,
+            "dua": "أَصْبَحْنَا وَ أَصْبَحَ المُلْكُ لِلَّهِ رَبِّ العَالَمِيْنَ، اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ هـَذَا اليَوْمِ: فَتْحَهُ، وَنَصْرَهُ وَ نُورَهُ، وَ بَرَكَتَهُ،وَ هُدَاهُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِيْهِ وَ شَرِّ مَا بَعْدَهُ.و إذا أمسى قال: أَمْسَيْنَا وَأَمْسَى المُلْكُ لِلّهَِ رَبِّ العَالَمِيْنَ، اللَّهُمَّ إِنِّي أسْأَلُكَ خَيْرَ هـَذِهِ اللَّيْلَةِ، فَتْحَهَا، وَنَصْرَهـَا، وَنورَهـَا وَبَرَكَتَهَا، وَ هُدَاهـَا، وَ أَعُوذُ بِكَ مِنْ شَرِّ مَا فِيْهَا وَشَرِّ مَا بَعْدَهـَا.",
+            "translation": "'Kami telah memasuki pagi ini dan pada saat ini seluruh kerajaan adalah milik Allah, Tuhan sekalian alam. Ya Allah, aku memohon kepada-Mu kebaikan hari ini, kemenangan, cahaya, berkat, dan petunjuknya, dan aku berlindung kepada-Mu dari kejahatan hari ini dan kejahatan selepasnya.'Pada waktu malam, bacalah: 'Kami telah memasuki malam ini dan pada saat ini seluruh kerajaan adalah milik Allah, Tuhan sekalian alam. Ya Allah, aku memohon kepada-Mu kebaikan malam ini, kemenangan, cahaya, berkat, dan petunjuknya, dan aku berlindung kepada-Mu dari kejahatan malam ini dan kejahatan selepasnya.'",
+            "reference": "Abû Dâwud [5084](4/322), Shu'aîb and 'Abdul Qadir Al-Arnâ'ûť declared its chain Ĥasan in their research of Zâd al-Ma'âd (2/273)."
+          },
+          {
+            "id": 90,
+            "group_id": 27,
+            "dua": "أَصْبَحْنَا عَلَى فِطْرَةِ الإسْلامِ، وَعَلَى كَلِمَةِ الإخْلاصِ، وَعَلَى دِيْنِ نَبِيِّنَا مُحَمَّدٍ ﷺ، وَعَلَى مِلَّةِ أبِيْنَا إِبْرَاهِيمَ، حَنِيْفاً مُسْلِماً وَمَا كَانَ مِنَ المُشْرِكِيْنَ.وَ إذَا أمسَى قَالَ: أمْسَيْنَا عَلَى فِطْرَةِ الإسْلامِ.",
+            "translation": "'Kami memasuki pagi ini dalam fitrah Islam, dalam kalimah keikhlasan, dalam agama Nabi kami Muhammad ﷺ, dan dalam agama nenek moyang kami Ibrahim, yang ikhlas kepada agama tauhid, seorang Muslim dan tidak termasuk golongan yang musyrik.'Pada waktu malam, bacalah: 'Kami memasuki malam ini dalam fitrah Islam.'",
+            "reference": "Aĥmad (3/406,407) and Ibn As-Sunnî ['Amal al-Yawm wa al-Laylah][34]. Also see Ŝaĥîĥ Al-Jâmi' [4674](4/209)."
+          },
+          {
+            "id": 91,
+            "group_id": 27,
+            "dua": "سُبْحَانَ اللهِ وَبِحَمْدِهِ [مِئَةَ مَرَّةٍ]",
+            "translation": "'Maha Suci Allah dan segala puji bagi-Nya.' [Seratus kali]",
+            "reference": "Muslim [2723](4/2071)."
+          },
+          {
+            "id": 92,
+            "group_id": 27,
+            "dua": "لَا إلَهَ إلَّا اللهُ وحْدَهُ لَا شَرِيكَ لهُ، لهُ المُلْكُ ولهُ الحَمْدُ، وهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ. [عشر مرات](١)أو [مرة واحدة](٢)",
+            "translation": "'Tiada yang layak disembah melainkan Allah sahaja, tiada sekutu bagi-Nya, milik-Nya segala kerajaan dan bagi-Nya segala pujian, dan Dia Maha Berkuasa atas segala sesuatu.'   atau  .",
+            "reference": "(1) An-Nisâ'i ['Amal al-Yawm wa al-Laylah][24] from the ĥadîth of Abu Ayûb Al-Anŝârî  (May Allah be pleased with him). Also see Ŝaĥîĥ At-Targhîb wa At-Tarhîb [650](1/272) and Tuĥfat Al-Akhyâr (pg. 55).(2) Abû Dâwud [5077](4/319), Ibn Mâjah [3867] and Aĥmad (4/60). Also see Ŝaĥîĥ At-Targhîb wa At-Tarhîb (1/270), Ŝaĥîĥ Abî  Dâwud  (3/957), Ŝaĥîĥ Ibn Mâjah (2/331) and Zâd Al-Ma'âd (2/377)."
+          },
+          {
+            "id": 93,
+            "group_id": 27,
+            "dua": "لَا إلَهَ إلَّا اللهُ وحْدَهُ لَا شَريْكَ لهُ، لهُ المُلْكُ ولَهُ الحَمْدُ، وهُوَ عَلَى كُلِّ شَيءٍ قَدِيْرٌ [مئةَ مَرَّةٍ إذا أصْبَحَ]",
+            "translation": "'Tiada yang layak disembah melainkan Allah sahaja, tiada sekutu bagi-Nya, milik-Nya segala kerajaan dan bagi-Nya segala pujian, dan Dia Maha Berkuasa atas segala sesuatu.' [Seratus kali pada waktu pagi]",
+            "reference": "Al-Bukhârî [3293](4/95) and Muslim [2691](4/2071)."
+          },
+          {
+            "id": 94,
+            "group_id": 27,
+            "dua": "سُبْحَانَ اللهِ وَبِحَمْدِهِ، عَدَدَ خَلْقِهِ، وَرِضَا نَفْسِهِ، وَزِنَةَ عَرْشِهِ ، وَمِدَادَ كَلِمَاتِهِ. [ثَلاثَ مَرَّاتٍ إذا أصْبَحَ]",
+            "translation": "'Maha Suci Allah dan segala puji bagi-Nya dengan bilangan makhluk-Nya, dengan keredaan-Nya, dengan berat arasy-Nya, dan dengan dakwat kalam-Nya.' [Tiga kali pada waktu pagi]",
+            "reference": "Muslim [2726](4/2090)."
+          },
+          {
+            "id": 95,
+            "group_id": 27,
+            "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نَافِعاً، وَ رِزْقاً طَيِّباً، وَ عَمَلاً مُتَقَبَّلاً [إذا أصْبَحَ]",
+            "translation": "'Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik, dan amalan yang diterima.' [Pada waktu pagi]",
+            "reference": "Ibn As-Sunnî ['Amal al-Yawm wa al-Laylah][54] and Ibn Mâjah [925]. Shu'aîb and 'Abdul Qadir Al-Arnâ'ûť declared it authentic in their research of Zâd al-Ma'âd (2/375)."
+          },
+          {
+            "id": 96,
+            "group_id": 27,
+            "dua": "أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ [مِئَةَ مَرَّةٍ اليَوْمِ]",
+            "translation": "'Aku memohon ampun kepada Allah dan aku bertaubat kepada-Nya.' [Seratus kali sehari]",
+            "reference": "Al-Bukhârî [6307](11/101) and Muslim [2702](4/2075)."
+          },
+          {
+            "id": 97,
+            "group_id": 27,
+            "dua": "أَعُوذُبِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ [ثَلاثَ مَرَّاتٍ إذا أمْسَى]",
+            "translation": "'Aku berlindung dengan kalimah-kalimah Allah yang sempurna daripada kejahatan yang Dia ciptakan.' [Tiga kali pada waktu malam]",
+            "reference": "Aĥmad (2/290), An-Nisâ'i ['Amal al-Yawm wa al-Laylah][590], Ibn As-Sunnî (68). Also see Ŝaĥîĥ At-Tirmidhî (3/187), Ŝaĥîĥ Ibn Mâjah (2/266) and Tuĥfat Al-Akhyâr (p. 45)"
+          },
+          {
+            "id": 98,
+            "group_id": 27,
+            "dua": "اللَّهُمَّ صَلِّ وَ سَلِّمْ عَلَى نَبِيِّنَا مُحَمَّدٍ [عَشْرَ مَرَّاتٍ]",
+            "translation": "'Ya Allah, limpahkanlah selawat dan salam ke atas Nabi kami Muhammad. [Sepuluh kali]'",
+            "reference": "Ať-Ťabarânî melalui dua sanad, salah satunya adalah sanad yang sahih. Lihat Majm'u Az-Zawâ 'id (10/120) dan Ŝaĥîĥ At-Targhîb wa At-Tarhîb [656](1/273)."
+          }
+        ]
+      },
+      {
+        "group_id": 28,
+        "title": "Sebelum Tidur",
+        "duas": [
+          {
+            "id": 99,
+            "group_id": 28,
+            "dua": "﴾قُل هُوَ اللهُ أحَدٌ...﴿﴾قُلْ أعُوذُ بِرَبِّ اْلفَلَقِ...﴿﴾قُلْ أعُوذُ بِرَبِّ النَّاسِ...﴿[ثلاث مرات]",
+            "translation": "Setiap malam sebelum tidur, Nabi (salla Allaahu ʻalayhi wa salaam) akan merapatkan kedua telapak tangannya, meludah kering ke dalamnya, membaca tiga surah terakhir dari Al-Qur'an dan kemudian mengusapkan ke seluruh tubuhnya sejauh yang mungkin dengan tangannya, dimulai dari kepala dan wajahnya kemudian seluruh tubuhnya. Nabi mengulanginya sebanyak tiga kali.",
+            "reference": "Al-Bukhârî [5017](9/62) dan Muslim [2192](4/1723)."
+          },
+          {
+            "id": 100,
+            "group_id": 28,
+            "dua": "﴾اللهُ لَا إلَهَ إلَّا هُوَ الحَيُّ القَيُّومُ... ﴿",
+            "translation": "Nabi (salla Allaahu ʻalayhi wa salaam) juga berkata: 'Apabila hendak tidur, bacalah Ayat Al-Kursî, maka kamu akan dilindungi oleh Allah dan tidak ada syaitan yang mendekatimu hingga pagi.'",
+            "reference": "Al-Bukhârî [2311](4/487)."
+          },
+          {
+            "id": 101,
+            "group_id": 28,
+            "dua": "﴾ءامَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ...﴿",
+            "translation": "Nabi (salla Allaahu ʻalayhi wa salaam) juga berkata: 'Sesiapa yang membaca dua ayat terakhir dari Surah Al-Baqarah pada malam hari; dua ayat itu akan mencukupkan baginya.'",
+            "reference": "Al-Bukhârî [4008](9/94) dan Muslim [808](1/554)."
+          },
+          {
+            "id": 102,
+            "group_id": 28,
+            "dua": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي، وَبِكَ أَرْفَعُهُ، فإِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا، بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ",
+            "translation": "Jika seseorang bangun dari tempat tidurnya kemudian kembali ke tempat tidur, dia harus membersihkannya dengan pakaian sebanyak tiga kali kerana dia tidak tahu apa yang telah terjadi pada tempat tidur selama ketiadaannya, dan ketika berbaring, dia harus berdoa: 'Dengan nama-Mu ya Tuhanku, aku berbaring dan dengan nama-Mu aku bangun, maka jika Engkau menahan jiwaku, rahmatilah ia, dan jika Engkau mengembalikannya, maka jagalah ia sebagaimana Engkau menjaga hamba-hamba-Mu yang saleh.'",
+            "reference": "Al-Bukhârî [6320](11/126) dan Muslim [2714](4/2084)."
+          },
+          {
+            "id": 103,
+            "group_id": 28,
+            "dua": "اللَّهُمَّ إِنَّكَ خَلَقْتَ نَفْسي وَأَنْتَ تَوَفَّاهـَا، لَكَ مَمَاتُهَا وَمَحْيَاهَا، إِنْ أَحْيَيْتَهَا فَاحْفَظْهَا، وَإِنْ أَمَتَّهَا فَاغْفِرْ لَهَا، اللَّهُمَّ إِنَّي أَسْألُكَ العَافِيَةَ",
+            "translation": "'Ya Allah, sesungguhnya Engkau telah menciptakan jiwaku, dan Engkau juga yang akan mencabutnya, kepada-Mu kehidupan dan kematiannya. Jika Engkau membiarkannya hidup, maka jagalah ia, dan jika Engkau mencabutnya, maka ampunilah ia. Ya Allah, aku memohon keselamatan kepada-Mu.'",
+            "reference": "Muslim [2712](4/2083) dan Aĥmad (2/79)."
+          },
+          {
+            "id": 104,
+            "group_id": 28,
+            "dua": "اللَّهُمَّ قِنِي عَذابَكَ، يَوْمَ تَبْعَثُ عِبَادَكَ",
+            "translation": "'Ya Allah, lindungilah aku dari azab-Mu pada hari ketika Engkau membangkitkan hamba-hamba-Mu.'",
+            "reference": "Abû Dâwud [5045](4/311). Juga lihat Ŝaĥîĥ At-Tirmidhî (3/143)."
+          },
+          {
+            "id": 105,
+            "group_id": 28,
+            "dua": "بِاسْمِكَ اللَّهُمَّ أَموتُ وَأحْيَا",
+            "translation": "'Dengan nama-Mu ya Allah, aku hidup dan mati.'",
+            "reference": "Abû Dâwud [5045](4/311). Juga lihat Ŝaĥîĥ At-Tirmidhî (3/143)."
+          },
+          {
+            "id": 106,
+            "group_id": 28,
+            "dua": "سُبْحَانَ اللهِ (ثَلاثاً وثَلاثِينَ)وَالحَمْدُ لِلَّهِ (ثَلاثاً وثَلاثِينَ)وَاللهُ أكْبرُ (أربَعاً وثَلاثِينَ)",
+            "translation": "'Maha Suci Allah (33 kali), Segala puji bagi Allah (33 kali), Allah Maha Besar (34 kali).' ",
+            "reference": "Al-Bukhârî [3705](7/71) dan Muslim [2727](4/2091)."
+          },
+          {
+            "id": 107,
+            "group_id": 28,
+            "dua": "اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ، وَرَبَّ الأرْضِ، وربَّ العَرْشِ العَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيءٍ، فَالِقَ الحَبِّ وَالنَّوَى، وَمُنْزِلَ التَّوْرَاةِ وَالإنْجِيْلِ و الفُرْقَانِ، أَعوذُ بِكَ مِن شَرِّ كُلِّ شَيءٍ أَنْتَ آخِذٌ بِنَاصِيتِهِ، اللَّهُمَّ أَنْتَ الأوَّلُ فَلَيْسَ قَبْلَكَ شَيءٌ، وَأَنْتَ الآخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيءٌ، اقْضِ عَنَّا الدَّيْنَ، وَأَغْنِنَا مِنَ الفَقْرِ",
+            "translation": "'Ya Allah, Tuhan langit yang tujuh, Tuhan bumi, dan Tuhan arasy yang agung, Tuhan kami dan Tuhan segala sesuatu, Pembelah biji dan benih, Penurun Taurat, Injil, dan Al-Furqan, aku berlindung kepada-Mu daripada kejahatan setiap makhluk yang Engkau kuasai ubun-ubunnya. Ya Allah, Engkaulah Yang Pertama, maka tiada sesuatu pun sebelum-Mu, dan Engkaulah Yang Terakhir, maka tiada sesuatu pun selepas-Mu. Engkaulah Yang Zahir, maka tiada sesuatu pun di atas-Mu, dan Engkaulah Yang Batin, maka tiada sesuatu pun di bawah-Mu. Lunaskanlah hutang kami, dan berilah kami kecukupan daripada kemiskinan.'",
+            "reference": "Muslim [2713](4/2084)."
+          },
+          {
+            "id": 108,
+            "group_id": 28,
+            "dua": "الحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا، وَكَفَانَا، وَآوَانَا، فَكَمْ مِمَّنْ لَا كَافِيَ لَهُ وَلَا مُؤْوِيَ",
+            "translation": "'Segala puji bagi Allah yang telah memberi makan kepada kami, memberi minum kepada kami, mencukupi kami, dan memberikan kami tempat tinggal. Berapa banyak orang yang tidak mempunyai cukup atau tempat berlindung.'",
+            "reference": "Muslim [2715](4/2085)."
+          },
+          {
+            "id": 109,
+            "group_id": 28,
+            "dua": "اللَّهُمَّ عالِمَ الغَيْبِ وَالشّهَادَةِ فَاطِرَ السَّمَوَاتِ وَالأرْضِ، رَبَّ كُلِّ شَيْءٍ وَمَلَيْكَهُ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَعُوذُ بِكَ مِن شَرِّ نَفْسِي، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوءاً، أَوْ أَجُـرَّهُ إِلَى مُسْلِمٍ",
+            "translation": "'Ya Allah, Yang Mengetahui yang ghaib dan yang nyata, Pencipta langit dan bumi, Tuhan segala sesuatu dan Pemiliknya, aku bersaksi bahawa tiada yang layak disembah selain Engkau. Aku berlindung kepada-Mu daripada kejahatan diriku, daripada kejahatan syaitan dan kesyirikannya, serta daripada melakukan keburukan kepada diriku sendiri atau membahayakan seorang Muslim.'",
+            "reference": "Abû Dâwud [5083](4/317). Juga lihat Ŝaĥîĥ At-Tirmidhî (3/142)."
+          },
+          {
+            "id": 110,
+            "group_id": 28,
+            "dua": "يَقْرَاُ ﴾الٓمٓ . تَنْزِيْلُ الْكِتَابِ...﴿ وَ ﴾تَبَارَكَ الَّذِي بِيَدِهِ المُلْكَ...﴿",
+            "translation": "'Bacalah Surah As-Sajdah dan Surah Al-Mulk.'",
+            "reference": "At-Tirmidhî [3404] dan An-Nisâ'i ['Amal al-Yawm wa al-Laylah][707]. Juga lihat Ŝaĥîĥ Al-Jâmi' [4873](4/255)."
+          },
+          {
+            "id": 111,
+            "group_id": 28,
+            "dua": "اللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِي إِلَيْكَ، وَأَلْجَأتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لَا مَلْجَأَ وَلا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ",
+            "translation": "'Ya Allah, aku serahkan diriku kepada-Mu, aku serahkan urusanku kepada-Mu, aku arahkan wajahku kepada-Mu, dan aku bersandar kepada-Mu dengan penuh harap dan takut kepada-Mu. Sesungguhnya tiada tempat berlindung dan tiada tempat keselamatan dari-Mu kecuali kepada-Mu. Aku beriman kepada Kitab-Mu yang Engkau turunkan dan Nabi-Mu yang Engkau utus.'",
+            "reference": "Al-Bukhârî [6313,6315,7488](11/113) dan Muslim [2710](4/2081)."
+          }
+        ]
+      },
+      {
+        "group_id": 29,
+        "title": "Ketika Berpaling di Waktu Malam",
+        "duas": [
+          {
+            "id": 112,
+            "group_id": 29,
+            "dua": "لَا إِلَهَ إِلَّا اللهُ الوَاحِدُ القَهَّارُ، رَبُّ السَّمَوَاتِ وَالأرْضِ وَمَا بَيْنَهُمَا العَزِيْزُ الغَـفَّارُ",
+            "translation": "'Tiada yang layak disembah selain Allah, Yang Maha Esa, Yang Maha Kuasa. Tuhan langit dan bumi serta segala yang ada di antara keduanya, Yang Maha Perkasa, Maha Pengampun.'",
+            "reference": "Al-Hâkim (1/540) dan beliau mengesahkannya, Adh-Dhahabî bersetuju dengannya, An-Nisâ'i . Juga lihat Ŝaĥîĥ Al-Jâmi' [4693](4/213)."
+          }
+        ]
+      },
+      {
+        "group_id": 30,
+        "title": "Apabila Mengalami Gelisah, Ketakutan, Keresahan... Semasa Tidur",
+        "duas": [
+          {
+            "id": 113,
+            "group_id": 30,
+            "dua": "أَعُوذُبِكَلِمَاتِ اللهِ التَّامَّاتِ، مِنْ غَضَبِهِ وَعِقَابِهِ، وَشَرِّ عِبَادِهِ، وَمِنْ هَمَزَاتِ الشَّيَاطِينِ، وَأنْ يَحْضُرُونِ",
+            "translation": "'Aku berlindung dengan kalimat Allah yang sempurna, daripada kemurkaan-Nya, azab-Nya, kejahatan hamba-hamba-Nya, dan daripada gangguan syaitan serta kehadiran mereka.'",
+            "reference": "Abû Dâwud [3893](4/12). Juga lihat Ŝaĥîĥ At-Tirmidhî (3/171)."
+          }
+        ]
+      },
+      {
+        "group_id": 31,
+        "title": "Apabila Mimpi Baik atau Mimpi Buruk",
+        "duas": [
+          {
+            "id": 114,
+            "group_id": 31,
+            "dua": "يَنْفُثُ عَن يَسَارِهِ (ثَلاثاً).يَسْتَعِيْذُ بِااللهِ مِنَ الشَّيْطَانِ، وَ مِنْ شَرِّ مَا رَأَى (ثَلاثَ مَرَّاتٍ).لَا يُحَدِّثُ بِهَا أحَداً.يتحَوَّلُ عَنْ جَنْبِهِ الَّذِي كَانَ عَلَيْهِ",
+            "translation": "Ringkasan perkara yang perlu dilakukan apabila mengalami mimpi buruk:(1) Meludah ke kiri sebanyak tiga kali.(2) Berlindung kepada Allah daripada syaitan dan daripada kejahatan mimpi tersebut sebanyak tiga kali.(3) Jangan menceritakannya kepada sesiapa.(4) Berpaling dan tidur di sisi bertentangan daripada sisi sebelumnya.",
+            "reference": "Al-Bukhârî [7044] dan Muslim [2261](4/1772)."
+          },
+          {
+            "id": 115,
+            "group_id": 31,
+            "dua": "يَقُومُ يُصَلِّي إنْ أرَادَ ذَلِكَ",
+            "translation": "'Bangun dan solatlah jika engkau mahu.'",
+            "reference": "Muslim [2263](4/1773)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 2,
+    "title": "Solat",
+    "group": [
+      {
+        "group_id": 8,
+        "title": "Apabila Memulakan Wuduk",
+        "duas": [
+          {
+            "id": 12,
+            "group_id": 8,
+            "dua": "بِسْمِ اللهِ",
+            "translation": "Dengan nama Allah.",
+            "reference": "Abû Dâwud [101], Ibn Mâjah [399] dan Aĥmad (2/418). Juga lihat Irwâ'-ul-Ghalîl (1/122)."
+          }
+        ]
+      },
+      {
+        "group_id": 9,
+        "title": "Setelah Menyelesaikan Wuduk",
+        "duas": [
+          {
+            "id": 13,
+            "group_id": 9,
+            "dua": "أَشْهَدُ أَنْ لَّا إِلَهَ إِلَّا اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ",
+            "translation": "Aku bersaksi bahawa tiada tuhan yang berhak disembah melainkan Allah, Yang Maha Esa, tiada sekutu bagi-Nya, dan aku bersaksi bahawa Muhammad adalah hamba dan utusan-Nya.",
+            "reference": "Muslim [234](1/209)."
+          },
+          {
+            "id": 14,
+            "group_id": 9,
+            "dua": "اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ، وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ",
+            "translation": "Ya Allah, jadikanlah aku daripada golongan yang sering bertaubat dan jadikanlah aku daripada golongan yang bersih dan suci.",
+            "reference": "At-Tirmidhî [55](1/78). Juga lihat Ŝaĥiĥ At-Tirmidhî (1/18)."
+          },
+          {
+            "id": 15,
+            "group_id": 9,
+            "dua": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيكَ",
+            "translation": "Maha Suci Engkau ya Allah, dan segala puji bagi-Mu. Aku bersaksi bahawa tiada tuhan yang berhak disembah melainkan Engkau, aku memohon keampunan daripada-Mu dan bertaubat kepada-Mu.",
+            "reference": "An-Nisâ'i ."
+          }
+        ]
+      },
+      {
+        "group_id": 12,
+        "title": "Apabila Pergi Ke Masjid",
+        "duas": [
+          {
+            "id": 19,
+            "group_id": 12,
+            "dua": "اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُوْراً، وَفِي لِسَانِي نُوْراً، وَ فِي سَمْعِي نُوْراً، وَ فِي بَصَري نُوْراً، وَ مِنْ فَوقِي نُوْراً، وَمِنْ تحْتِي نُوْراً، وَعَنْ يَمِيْنِي نُوْراً، وَ عَنْ شِمَالِي  نُوْراً، وَ مِنْ أَمَامِي نُوْراً، وَ مِنْ خَلْفِي نُوراً، واجْعَلْ فِي نَفْسِي نُوراً، وَ أعْظِمْ لي نُوراً، وَ عَظِّمْ لي نُوراً، وَاجْعَلْ لي نُوراً، وَاجْعَلْنِي نُوراً، اللهم أَعْطِنِي نُوراً، وَاجْعَلْ في عَصَبِي نُوراً، وَ في لَحْمِي نُوراً، وَ في دَمِي نُوراً، وَ في شَعْرِي نُوراً، وَ في بَشَرِي نُوراً(١)[اللهم اجْعَلْ لي نُوراً في قَبْرِي...وَ نُوراً في عِظَامِي](٢)[وَ زِدْنِي نُوراً، وَ زِدْنِي نُوراً، وَ زِدْنِي نُوراً](١)[وَهَبْ لِي نُوراً عَلَى نُورٍ](٢)",
+            "translation": "Ya Allah, jadikanlah cahaya dalam hatiku, dan di lisanku cahaya, dan dalam pendengaranku cahaya dan dalam penglihatanku cahaya, dan di atasku cahaya, dan di bawahku cahaya, dan di kananku cahaya, dan di kiriku cahaya, dan di depanku cahaya dan di belakangku cahaya. Letakkan dalam jiwaku cahaya. Besarkan bagiku cahaya, dan besarkan bagiku cahaya. Jadikan bagiku cahaya dan jadikan aku cahaya. Ya Allah, berikan aku cahaya, dan letakkan cahaya dalam sarafku, dan dalam badanku cahaya, dan dalam darahku cahaya, dan dalam rambutku cahaya, dan dalam kulitku cahaya. [Ya Allah, jadikan bagiku cahaya di dalam kuburku... dan cahaya di dalam tulangku]. [Tambahkan aku cahaya, tambahkan aku cahaya, tambahkan aku cahaya].",
+            "reference": "(1) Al-Bukhârî [6316](11/116) dan Muslim [763](1/526,529,530).(2) At-Tirmidhî [3419](5/483)."
+          }
+        ]
+      },
+      {
+        "group_id": 13,
+        "title": "Ketika Masuk Masjid",
+        "duas": [
+          {
+            "id": 20,
+            "group_id": 13,
+            "dua": "(يَبْدَأُ بِرِجْلِهِ اليُمْنَى)(١)، ويقول: (أَعُوْذُ بِاللَّهِ الْعَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ)(٢)، (بِسْمِ اللَّهِ, وَالصَّلاةُ)(٣) [وَالسَّلامُ عَلَى رَسُوْلِ اللَّهِ](٤)، (اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ)(٥)",
+            "translation": "(Masuklah dengan kaki kanan)(١), kemudian ucapkan: (Aku berlindung kepada Allah, Yang Maha Agung, dengan Wajah-Nya yang Mulia, dan kekuasaan-Nya yang abadi, dari syaitan yang terkutuk.)(٢), (Dengan nama Allah, dan solat)(٣)[dan salam kepada Rasulullah](٤), (Ya Allah, bukakanlah pintu rahmat-Mu untukku)(٥)",
+            "reference": "(1) Al-Hakim (1/218) dan dia mengesahkannya dengan syarat Muslim, dan Adh-Dhahabî bersetuju dengannya, Al-Baihaqî (2/442), dan Al-Albânî mengisytiharkan ia sebagai ĥasan dalam Silsilah Al-Ahâdîth Aŝ-Ŝaĥîĥah [2478](5/624).(2) Abû Dâwud [466]. Juga lihat Sahih Al-Jâmi' [4591].(3) An-Nisâ'i [88] dan Al-Albânî mengisytiharkan ia sebagai ĥasan.(4) Abû Dâwud [465](1/126). Juga lihat Sahih Al-Jâmi' [514](1/528).(5) Muslim [713](1/494), Ibn Mâjah [771] dan Al-Albânî mengisytiharkan ia sebagai sahih disebabkan shawâhidnya; lihat Sahih Ibn Mâjah (1/128-129)."
+          }
+        ]
+      },
+      {
+        "group_id": 14,
+        "title": "Ketika Keluar Masjid",
+        "duas": [
+          {
+            "id": 21,
+            "group_id": 14,
+            "dua": "(يَبْدَأُ بِرِجْلِهِ الْيُسْرَى)(١)، وَ يَقُولُ: (بِسْمِ اللهِ وَ الصَّلاةُ وَالسَّلامُ عَلَى رَسُولِ اللهِ، اللهم إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ، اللهم اعْصِمْنِي مِنَ الشَّيْطَانِ الرَّجِيْمِ)(٢) ",
+            "translation": "(Keluarlah dengan kaki kiri)(١), kemudian ucapkan: (Dengan nama Allah, solat dan salam atas Rasulullah. Ya Allah, aku memohon kepada-Mu kelebihan-Mu. Ya Allah, lindungilah aku dari syaitan yang terkutuk)(٢)",
+            "reference": "(1) Al-Hâkim (1/218), Al-Baihaqî (2/442) dan Al-Albânî menyatakan ia ĥasan dalam Silsilah Al-Ahâdîth Aŝ-Ŝaĥîĥah [2478](5/624)(2) Lihat takhrîj hadith sebelumnya (du'a #20) dan tambahan (اللهم اعصمني من الشيطان الرجيم) adalah dari Ibn Mâjah [773], lihat Ŝaĥîĥ Ibn Mâjah (1/129)."
+          }
+        ]
+      },
+      {
+        "group_id": 15,
+        "title": "Tentang Azan (seruan untuk solat)",
+        "duas": [
+          {
+            "id": 22,
+            "group_id": 15,
+            "dua": "يَقُولُ مِثْلَ مَا يَقُولُ المُؤَذِّنُ إلَّا فِي «حَيَّ عَلَى الصَّلاةِ» وَ «حَيَّ عَلَى الفَلاحِ» فَيَقُولُ: «لَا حَولَ وَ لَا قُوَّةَ إلَّا بِاللهِ».",
+            "translation": "Seseorang mengulangi apa yang diucapkan oleh muazzin (orang yang melaungkan azan), kecuali ketika dia mengatakan “marilah solat” atau “marilah menuju kejayaan”, maka seseorang itu hendaklah mengucapkan “Tiada daya dan upaya melainkan dengan pertolongan Allah”.",
+            "reference": "Al-Bukhârî [611](1/152) dan Muslim [383](1/288)."
+          },
+          {
+            "id": 23,
+            "group_id": 15,
+            "dua": "يَقُولُ: «وَ أَنَا أَشْهَدُ أَنْ لَا إله إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، وَ أَنَّ مُحَمَّداً عَبْدُهُ وَ رَسُولُهُ، رَضِيْتُ بِاللهِ رَبًّا، وَ بِمُحَمَّدٍ رَسُولًا، وَ بِالإِسْلامِ دِيْنًا»(١) «يَقُولَ ذَلِكَ عَقِبَ تَشَهُّدِ المُؤَذِّنِ»(٢)",
+            "translation": "Segera setelah pengisytiharan iman yang dipanggil oleh muazzin, seseorang itu mengucapkan:(1) ‘Aku juga bersaksi bahawa tiada yang berhak disembah melainkan Allah, satu-satunya, tanpa sekutu, dan bahawa Muhammad adalah hamba dan Rasul-Nya. Aku redha Allah sebagai Tuhan, Muhammad sebagai Rasul dan Islam sebagai agama.’",
+            "reference": "(1) Muslim [386](1/290).(2) Ibn Khuzaîymah [422](1/220)."
+          },
+          {
+            "id": 24,
+            "group_id": 15,
+            "dua": "يُصَلِّي عَلَى النَّبِي صلى الله عليه وسلم بَعْدَ فَرَاغِهِ مِنْ إِجَابَةِ المُؤَذِّنِ.",
+            "translation": "Seseorang hendaklah mengirimkan solawat kepada Nabi (salla Allaahu ʻalayhi wa salaam) selepas menjawab seruan muazzin.",
+            "reference": "Muslim [384](1/288)."
+          },
+          {
+            "id": 25,
+            "group_id": 15,
+            "dua": "يَقُولُ: «اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ ، وَالصَّلاةِ القَائِمَةِ ، آتِ مُحَمَّداً الوَسِيْلَةَ وَالفَضِيْلَةَ ، وَابْعَثْهُ مَقَاماً مَحْمُوْداً الَّذِي وَعَدْتَهُ ، [إِنَّكَ لاَ تُخْلِفُ الْمِيعَادِ] »",
+            "translation": "Ucapkan: ‘Ya Allah, Pemilik seruan yang sempurna ini dan Pemilik solat yang akan didirikan, kurniakan kepada Muhammad Al-Wasîlah dan Al-Faďîlah dan angkatlah dia ke kedudukan terpuji yang telah Engkau janjikan kepadanya. [Sesungguhnya Engkau tidak memungkiri janji.]’",
+            "reference": "Al-Bukhârî [614](1/152) dan yang di dalam kurungan adalah dari Al-Baihaqî (1/410). Shaykh Abdul 'Azîz bin Bâz mengesahkan sanad riwayat ini dalam Tuĥfah Al-Akhbâr (h. 38)."
+          },
+          {
+            "id": 26,
+            "group_id": 15,
+            "dua": "يَدْعُو لِنَفْسِهِ بَيْنَ الأَذَانِ وَالإِقَامَةِ؛ فَإنَّ الدُّعَاءَ حِيْنَئذٍ لَا يُرَدُّ.",
+            "translation": "Seseorang juga hendaklah berdoa untuk dirinya sendiri dalam masa antara azan dan iqamah kerana doa pada masa itu tidak akan ditolak.",
+            "reference": "At-Tirmidhî [212], Abû Dâwud [521] dan Ahmad [3/119]. Juga lihat Irwâ'-ul-Ghalîl (1/262)."
+          }
+        ]
+      },
+      {
+        "group_id": 16,
+        "title": "Pada Awal Solat (selepas takbir)",
+        "duas": [
+          {
+            "id": 27,
+            "group_id": 16,
+            "dua": "اللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ، اللَّهُمَّ نَقِّنِي مِنْ خَطَايَايَ، كَمَا يُنَقَّى الثَّوْبُ الأَبْيَضُ مِنَ الدَّنَسِ، اللَّهُمَّ اغْسِلْنِي مِنْ خَطَايَايَ، بِالثَّلْجِ وَالْمَاءِ وَالْبَرَدِ.",
+            "translation": "Ya Allah, jauhkanlah aku daripada dosa-dosaku sebagaimana Engkau telah menjauhkan Timur dari Barat, Ya Allah, bersihkanlah aku dari dosa-dosaku sebagaimana pakaian putih dibersihkan dari kotoran, Ya Allah, sucikanlah aku dari dosa-dosaku dengan salji, air, dan ais.",
+            "reference": "Al-Bukhârî [744](1/181) dan Muslim [598](1/419)."
+        },
+        {
+          "id": 28,
+          "group_id": 16,
+          "dua": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلاَ إِلَهَ غَيْرُكَ.",
+          "translation": "Maha Suci Engkau Ya Allah, dan aku memuji-Mu. Terberkatilah nama-Mu, dan Maha Tinggilah kedudukan-Mu dan tiada yang berhak disembah melainkan Engkau.",
+          "reference": "Abû Dâwud [775,776], At-Tirmidhî [242, 432], An-Nisâ'i (2/133), dan Ibn Mâjah [804, 806]. Juga lihat Ŝaĥîĥ At-Tirmidhî (1/77) dan Ŝaĥîĥ Ibn Mâjah (1/135)."
+        },
+        {
+          "id": 29,
+          "group_id": 16,
+          "dua": "وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَوَاتِ وَالأَرْضَ حَنِيفاً وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلاتِي، وَنُسُكِي، وَمَحْيَايَ, وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ، لاَ شَرِيكَ لَهُ، وَبِذَلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِينَ. اللَّهُمَّ أَنْتَ الْمَلِكُ لاَ إِلَهَ إِلاَّ أَنْتَ، أَنْتَ رَبِّي، وَأَنَا عَبْدُكَ، ظَلَمْتُ نَفْسِي، وَاعْتَرَفْتُ بِذَنْبِي فَاغْفِرْ لِي ذُنُوبِي جَمِيعاً إِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ، وَاهْدِنِي لأَحْسَنِ الأَخْلاقِ لا يَهْدِي لأَحْسَنِهَا إلاَّ أَنْتَ، وَاصْرِفْ عَنِّي سَيِّئَهَا لاَ يَصْرِفُ عَنِّي سَيِّئَهَا إِلاَّ أَنْتَ، لَبَّيْكَ وَسَعْدَيْكَ، وَالْخَيْرُ كُلُّهُ بِيَدَيْكَ، وَالشَّرُّ لَيْسَ إِلَيْكَ، أَنَا بِكَ وَإِلَيْكَ، تَبَارَكْتَ وَتَعَالَيْتَ، أَسْتَغْفِرُكَ وَأَتُوْبُ إِلَيْكَ.",
+          "translation": "Aku menghadapkan wajahku dengan ikhlas kepada Dia yang menciptakan langit dan bumi, dan aku bukanlah daripada golongan orang yang mensyirikkan Allah. Sesungguhnya solatku, ibadahku, hidupku dan matiku hanyalah untuk Allah, Tuhan semesta alam, tiada sekutu bagi-Nya. Dan dengan itu, aku diperintahkan, dan aku tergolong dalam kalangan orang-orang Islam. Ya Allah, Engkaulah Raja, tiada yang berhak disembah melainkan Engkau. Engkaulah Tuhanku, dan aku adalah hamba-Mu. Aku telah menzalimi diriku sendiri, dan aku mengakui dosa-dosaku, maka ampunilah semua dosaku, kerana tiada yang dapat mengampuni dosa melainkan Engkau. Tunjukkanlah aku kepada akhlak yang terbaik, kerana tiada yang dapat menunjukkannya selain Engkau, dan jauhkanlah dariku akhlak yang buruk kerana tiada yang dapat menjauhkannya selain Engkau. Aku sedia menjawab panggilan-Mu, aku sedia membantu-Mu. Segala kebaikan ada di tangan-Mu, dan kejahatan tidak datang dari-Mu. Aku wujud dengan kehendak-Mu dan aku akan kembali kepada-Mu. Maha Berkat dan Maha Tinggi Engkau, aku memohon ampun daripada-Mu dan bertaubat kepada-Mu.",
+          "reference": "Muslim [771](1/534)."
+        },
+        {
+          "id": 30,
+          "group_id": 16,
+          "dua": "اللهم رَبَّ جِبرَائِيْلَ، وَ مِيكَائيْلَ، وَإسْرَافيْلَ، فَاطِرَ السَّمَوَاتِ وَ الأرْضِ، عَالِمَ الغَيْبِ وَ الشَّهَادَةِ، أنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ، اهْدِنِي لِمَا اخْتُلِفَ فِيهِ مِنَ الحَقِّ بِإذْنِكَ، إنَّكَ تَهْدِي مَنْ تَشَاءُ إلَى صِرَاطٍ مُسْتَقِيمٍ.",
+          "translation": "Ya Allah, Tuhan kepada Jibreel, Mikail dan Israfil (Malaikat Agung), Pencipta langit dan bumi, Yang Mengetahui perkara yang ghaib dan yang nyata. Engkaulah yang mengadili antara hamba-hamba-Mu dalam apa yang mereka perselisihkan. Tunjukkanlah aku kepada kebenaran dengan izin-Mu, kerana sesungguhnya Engkau memberi petunjuk kepada sesiapa yang Engkau kehendaki ke jalan yang lurus.",
+          "reference": "Muslim [770](1/534)."
+        },
+        {
+          "id": 31,
+          "group_id": 16,
+          "dua": "اللهُ أكْبَرُ كَبِيراً، اللهُ أكْبَرُ كَبِيراً، اللهُ أكْبَرُ كَبِيراً، وَ الحَمْدُلِلَّهِ كَثِيراً، وَالحَمْدُلِلَّهِ كَثِيراً، وَالحَمْدُلِلَّهِ كَثِيراً، وَ سُبْحَانَ اللهِ بُكْرَةً وَأصِيلاً (ثَلاثًا) أعُوذ بِا اللهِ مِنَ الشَّيْطَانِ: مِنْ نَفْحِهِ وَ نَفْثِهِ، وَ هَمْزِهِ.",
+          "translation": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar, segala puji bagi Allah, segala puji bagi Allah, segala puji bagi Allah, dan aku mengagungkan Allah pada waktu pagi dan petang. (tiga kali) ‘Aku berlindung dengan Allah dari syaitan, dari kesombongannya, bisikannya, dan kegilaannya.",
+          "reference": "Abû Dâwud [764](1/203), Ibn Mâjah [807](1/265), Ahmad (4/85), dan Muslim [601](1/420) dengan tambahan: (مِنْ نَفْحِهِ )."
+        },
+        {
+          "id": 32,
+          "group_id": 16,
+          "dua": "اللهم لَكَ الحَمْدُ أنْتَ نُورُ السَّمَوَاتِ و الأرْضِ وَ مَنْ فِيهِنَّ، وَ لَكَ الحَمْدُ أنْتَ قَيِّمُ السَّمَوَاتِ وَ الأرْضِ وَ مَنْ فِيهِنَّ، [وَ لَكَ الحَمْدُ أنْتَ رَبُّ السَّمَوَاتِ وَ الأرْضِ وَ مَنْ فِيهِنَّ] ، [وَ لَكَ الحَمْدُ لَكَ مُلْكُ السَّمَوَاتِ وَ الأرْضِ وَ مَنْ فِيهِنَّ][وَ لَكَ الحَمْدُ أنْتَ مَلِكُ السَّمَوَاتِ وَ الأرْضِ][وَ لَكَ الحَمْدُ][أنْتَ الحَقُّ، وَ وَعْدُكَ الحَقُّ، وَ قَولُكَ الحَقُّ، وَ لِقَاؤُكَ الحَقُّ، وَ الجَنَّةُ حَقٌّ، وَ النَّارُ حَقٌّ، وَ النَّبِيُّونَ حَقٌّ، وَ مُحَمَّدٌﷺ حَقٌّ، وَالسَّاعَةُ حَقٌّ][اللهم لَكَ أسْلَمْتُ، وَ عَلَيْكَ تَوَكَّلْتُ، وَ بِكَ آمَنْتُ، وَ إلَيْكَ أنَبْتُ، وَ بِكَ خَاصَمْتُ، وَ إلَيْكَ حَاكَمْتُ. فَاغْفِرْ لِي مَا قَدَّمْتُ، و أخَّرْتُ، وَ مَا أسْرَرْتُ، وَ مَا أعْلَنْتُ][أنْتَ المُقَدِّمُ، وَ أنْتَ المُؤَخِّرُ لَا إله إلَّا أنْتَ][أنْتَ إلَهِي لَا إله إلَّا أنْتَ].",
+          "translation": "Nabi (salla Allaahu ʻalayhi wa salaam) akan mengucapkan (sebagai doa pembuka solat) apabila bangun dari tidur untuk solat malam:‘Ya Allah, segala puji bagi-Mu, Engkau adalah Cahaya langit dan bumi serta segala yang ada di dalamnya. Segala puji bagi-Mu, Engkau adalah Pemelihara langit dan bumi serta segala yang ada di dalamnya. Segala puji bagi-Mu. Engkau adalah Tuhan langit dan bumi serta segala yang ada di dalamnya. Segala puji bagi-Mu dan kerajaan langit dan bumi serta segala yang ada di dalamnya adalah milik-Mu. Segala puji bagi-Mu, Engkau adalah Raja langit dan bumi dan segala puji adalah milik-Mu. Engkau adalah Kebenaran, janji-Mu benar, perkataan-Mu benar, dan hari pertemuan dengan-Mu adalah benar, syurga adalah benar dan neraka adalah benar, dan para Nabi adalah benar, Muhammad (salla Allaahu ʻalayhi wa salaam) adalah benar dan Hari Kiamat adalah benar. Ya Allah, kepada-Mu aku telah menyerahkan diri, kepada-Mu aku telah meletakkan harapanku, kepada-Mu aku telah beriman, kepada-Mu aku telah bertaubat, kepada-Mu aku telah berserah dan kepada-Mu aku memohon keputusan. Maka ampunilah segala dosaku, yang lalu dan yang akan datang, yang tersembunyi dan yang zahir. Engkaulah Al-Muqaddim dan Al-Mu'akhkhir. Tiada yang berhak disembah melainkan Engkau, Engkaulah Tuhanku, tiada yang berhak disembah melainkan Engkau.’",
+          "reference": "Al-Bukhârî (3/3), (11/116), dan [1120](13/371, 423, 465) serta Muslim [769](1/532) dalam bentuk yang diringkaskan."
+        }
+        ]
+      },
+      {
+        "group_id": 17,
+        "title": "Semasa Rukuk Dalam Solat",
+        "duas": [
+          {
+            "id": 33,
+            "group_id": 17,
+            "dua": "سُبْحَانَ رَبِّيَ الْعَظِيمِ (ثلاثا)",
+            "translation": "Maha Suci Tuhanku yang Maha Agung. (Tiga kali)",
+            "reference": "Abû Dâwud [871],  At-Tirmidhî [262], An-Nisâ'i (1/190), Ibn Mâjah (888) dan Aĥmad (5/382, 394). Juga lihat Ŝaĥîĥ At-Tirmidhî (1/83)."
+          },
+          {
+            "id": 34,
+            "group_id": 17,
+            "dua": "سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ اللَّهُمَّ اغْفِرْلِي",
+            "translation": "Maha Suci Engkau Ya Allah, Tuhan kami dan aku memuji-Mu. Ya Allah, ampunkanlah aku.",
+            "reference": "Al-Bukhârî [794](1/99) dan Muslim [484](1/350)."
+          },
+          {
+            "id": 35,
+            "group_id": 17,
+            "dua": "سُبُّوحٌ، قُدُّوسٌ، رَبُّ المَلائِكَةِ وَالرُّوحِ.",
+            "translation": "Maha Suci dan Maha Suci (Dia), Tuhan para malaikat dan ruh (yakni Jibreel).",
+            "reference": "Muslim [487](1/353) dan Abû Dâwud [872](1/230)."
+          },
+          {
+            "id": 36,
+            "group_id": 17,
+            "dua": "اللَّهُمَّ لَكَ رَكَعْتُ ، وَبِكَ آمَنْتُ ، وَلَكَ أَسْلَمْتُ ، خَشَعَ لَكَ سَمْعِي ، وَبَصَرِي ، وَمُخِّي ، وَعَظْمِي ، وَعَصَبِي ، [وَمَا اسْتَقَلَّت بِهِ قَدَمِي]",
+            "translation": "Ya Allah, kepada-Mu aku rukuk, dan kepada-Mu aku beriman, dan kepada-Mu aku menyerah. Pendengaran, penglihatan, akal, tulang dan otot-ototku, serta apa yang dibawa oleh kakiku telah tunduk kepada-Mu.",
+            "reference": "Muslim [771](1/534), Abû Dâwud [760], At-Tirmidhî [266] dan An-Nisâ'i [2/130]. Tambahan ini ditemui dalam Ibn Ĥibân, lihat Ŝaĥîĥ Ibn Ĥibân [1901] dan Ŝaĥîĥ Ibn Khuzaîmah [607]."
+          },
+          {
+            "id": 37,
+            "group_id": 17,
+            "dua": "سُبْحَانَ ذِي الْجَبَروتِ ، وَالْمَلَكُوتِ ، وَالكِبْرِيَاءِ ، وَالْعَظَمَةِ.",
+            "translation": "Maha Suci Dia, Pemilik kekuatan mutlak, kerajaan, kebesaran, dan keagungan.",
+            "reference": "Abû Dâwud [873](1/230), An-Nisâ'i (2/191) dan Aĥmad (6/24)."
+          }
+        ]
+      },
+      {
+        "group_id": 18,
+        "title": "Ketika Bangkit Dari Rukuk",
+        "duas": [
+          {
+            "id": 38,
+            "group_id": 18,
+            "dua": "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ.",
+            "translation": "Semoga Allah menerima orang yang memuji-Nya.",
+            "reference": "Al-Bukhârî [795](2/282)."
+          },
+          {
+            "id": 39,
+            "group_id": 18,
+            "dua": "رَبَّنَا وَلَكَ الْحَمْدُ حَمْداً كَثِيراً طَيِّباً مُبَارَكاً فِيهِ.",
+            "translation": "Tuhan kami, segala puji bagi-Mu, pujian yang banyak, baik, dan diberkati.",
+            "reference": "Al-Bukhârî [799](2/284)."
+          },
+          {
+            "id": 40,
+            "group_id": 18,
+            "dua": "مِلْءَ السَّمَوَاتِ وَمِلْءَ الأَرْضِ وَمَا بَيْنَهُمَا ، وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ ، أَهْلَ الثَّنَاءِ وَالْمَجْدِ ، أَحَقُّ مَا قَالَ الْعَبْدُ ، وَكُلُّنَا لَكَ عَبْدٌ ، اللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ ، وَلَامُعْطِي لِمَا مَنَعْتَ ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ.",
+            "translation": "Langit, bumi, dan segala yang ada di antara keduanya dipenuhi dengan pujian-Mu, dan semua yang Engkau kehendaki dipenuhi dengan pujian-Mu. Wahai Pemilik pujian dan kemuliaan, ungkapan yang paling benar yang pernah diucapkan oleh seorang hamba (tentang-Mu) dan kami semua adalah hamba-Mu. Ya Allah, tiada siapa yang dapat menahan apa yang Engkau kurniakan, dan tiada siapa yang dapat memberi apa yang Engkau tahan, dan tiada kekayaan atau kemuliaan yang dapat memberi manfaat kepada seseorang, kerana segala kekayaan dan kemuliaan datang dari-Mu.",
+            "reference": "Muslim [477](1/346)."
+          }
+        ]
+      },
+      {
+        "group_id": 19,
+        "title": "Semasa Sujud",
+        "duas": [
+          {
+            "id": 41,
+            "group_id": 19,
+            "dua": "سُبْحَانَ رَبَّيَ الأَعْلَى (ثلاثا)",
+            "translation": "Maha Suci Tuhanku yang Maha Tinggi. (Tiga kali)",
+            "reference": "Abû Dâwud [871], At-Tirmidhî [262], An-Nisâ'i (1/190), Ibn Mâjah [888] dan Aĥmad (5/382, 394). Juga lihat Ŝaĥîĥ At-Tirmidhî (1/83)."
+          },
+          {
+          "id": 42,
+          "group_id": 19,
+          "dua": "سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ اللَّهُمَّ اغْفِرْ لِي",
+          "translation": "Maha Suci Engkau Ya Allah, Tuhan kami, dan aku memuji-Mu. Ya Allah, ampunkanlah aku.",
+          "reference": "Al-Bukhârî [794](1/99) dan Muslim [484](1/350)."
+        },
+          {
+            "id": 43,
+            "group_id": 19,
+            "dua": "سُبُّوحٌ، قُدُّوسٌ، رَبُّ المَلائِكَةِ وَالرُّوحِ",
+            "translation": "Maha Suci dan Maha Suci (Dia), Tuhan para malaikat dan ruh (yakni Jibreel).",
+            "reference": "Muslim (1/533)."
+          },
+          {
+            "id": 44,
+            "group_id": 19,
+            "dua": "اللَّهُمَّ لَكَ سَجَدْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ، وَصَوَّرَهَ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ، تَبَارَكَ اللَّهُ أَحْسَنُ الخَالِقِينَ",
+            "translation": "Ya Allah, kepada-Mu aku sujud, dan kepada-Mu aku beriman, dan kepada-Mu aku menyerah. Wajahku sujud di hadapan Dia yang menciptakannya, dan membentuknya, serta mencipta pendengarannya dan penglihatannya. Maha Suci Allah, Pencipta terbaik.",
+            "reference": "Muslim [771](1/534)."
+          },
+          {
+            "id": 45,
+            "group_id": 19,
+            "dua": "سُبْحَانَ ذِي الْجَبَرُوتِ، وَالْمَلَكُوتِ، وَالكِبْرِيَاءِ، وَالْعَظَمَةِ",
+            "translation": "Maha Suci Dia, Pemilik kekuatan mutlak, kerajaan, kebesaran, dan keagungan.",
+            "reference": "Abû Dâwud [873](1/230), Ahmad (6/24), dan An-Nisâ'i (2/191). Al-Albânî menyatakannya sahih dalam Ŝaĥîĥ Abî Dâwud (1/166)."
+          },
+          {
+            "id": 46,
+            "group_id": 19,
+            "dua": "اللًّهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ، دِقَّهُ وَجِلَّهُ، وَأَوَّلَهُ وَآخِرَهُ، وَعَلانِيَتَهُ وَسِرَّهُ",
+            "translation": "Ya Allah, ampunkanlah seluruh dosaku, baik yang kecil maupun yang besar, yang pertama maupun yang terakhir, yang terang-terangan maupun yang tersembunyi.",
+            "reference": "Muslim [483](1/350)."
+          },
+          {
+            "id": 47,
+            "group_id": 19,
+            "dua": "اللَّهُمَّ إِنِّي أَعُوْذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ، وَأَعُوْذُ بِكَ مِنْكَ، لاَ أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ",
+            "translation": "Ya Allah, aku berlindung dengan ridha-Mu dari kemurkaan-Mu, dan dengan keampunan-Mu dari hukuman-Mu, dan aku berlindung kepada-Mu dari-Mu. Aku tidak mampu menghitung segala pujian kepada-Mu. Engkau adalah sebagaimana yang Engkau telah memuji diri-Mu sendiri.",
+            "reference": "Muslim [486](1/352)."
+          }
+        ]
+      },
+      {
+        "group_id": 20,
+        "title": "Antara Dua Sujud",
+        "duas": [
+          {
+            "id": 48,
+            "group_id": 20,
+            "dua": "رَبِّ اغْفِرْ لِي، رَبِّ اغْفِرْ لِي",
+            "translation": "Tuhanku, ampunkanlah aku, Tuhanku, ampunkanlah aku.",
+            "reference": "Abû Dâwud [874](1/231). Juga lihat Ŝaĥîĥ Ibn Mâjah (1/148)."
+          },
+          {
+            "id": 49,
+            "group_id": 20,
+            "dua": "اللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، وَاهْدِنِي، وَاجْبُرْنِي، وَعَافِنِي، وَارْزُقْنِي، وَارْفَعْنِي",
+            "translation": "Ya Allah, ampunkanlah aku, rahmatilah aku, tunjukkanlah aku, perbaikilah aku, sihatkanlah aku, rezekikanlah aku, dan tinggikanlah aku.",
+            "reference": "Abû Dâwud [850], At-Tirmidhî [284], Ibn Mâjah [898]. Juga lihat Ŝaĥîĥ At-Tirmidhî (1/90) dan Ŝaĥîĥ Ibn Mâjah (1/148)."
+          }
+        ]
+      },
+      {
+        "group_id": 21,
+        "title": "Sujud Tilawah (Sujud Membaca Al-Quran)",
+        "duas": [
+        {
+          "id": 50,
+          "group_id": 21,
+          "dua": "سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ، بِحَوْلِهِ وَقُوَّتِهِ (فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ)",
+          "translation": "Wajahku bersujud kepada-Nya yang menciptakannya dan membuka pendengarannya dan penglihatannya dengan kekuasaan-Nya (Maha Berkatlah Allah, sebaik-baik Pencipta).",
+          "reference": "At-Tirmidhî [580](2/474), Aĥmad (6/30) dan Al-Hâkim mengisytiharkan ia sahih dan Ad-Dhahabî bersetuju dengannya (1/220). Sambungan ini daripada Surah Al-Mu'minûn."
+        },
+        {
+          "id": 51,
+          "group_id": 21,
+          "dua": "اللَّهُمَّ اكْتُبْ لِي بِهَا عِنْدَكَ أَجْراً، وَضَعْ عَنِّي بِهَا وِزْراً، وَاجْعَلْهَا لِي عِنْدَكَ ذُخْراً، وَتَقَبَّلَهَا مِنِّي كَمَا تَقَبَّلْتَهَا مِنْ عَبْدِكَ دَاوُدَ",
+          "translation": "Ya Allah, catatkanlah untukku ganjaran dengan sujud ini di sisi-Mu, hilangkanlah dengannya dosaku, jadikanlah sujud ini sebagai simpanan bagiku, dan terimalah ia daripadaku seperti Engkau menerima daripada hamba-Mu Daud.",
+          "reference": "At-Tirmidhî [579](2/473) dan Al-Hâkim menyatakan ia sahih dan Ad-Dhahabî bersetuju dengannya (1/219)."
+        }
+        ]
+      },
+      {
+        "group_id": 22,
+        "title": "Tasyahhud",
+        "duas": [
+          {
+            "id": 52,
+            "group_id": 22,
+            "dua": "التَّحِيَّاتُ لِلَّهِ، وَالصَّلَوَاتُ، وَالطَّيِّبَاتُ، السَّلامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ،. أَشْهَدُ أَنْ لَا إله إِلَّا اللَّهُ، وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ",
+            "translation": "Segala penghormatan adalah bagi Allah, begitu juga segala solat dan kebaikan. Salam sejahtera ke atasmu, wahai Nabi, serta rahmat Allah dan keberkatan-Nya. Salam sejahtera ke atas kita dan hamba-hamba Allah yang soleh. Aku bersaksi bahawa tiada Tuhan selain Allah, dan aku bersaksi bahawa Muhammad adalah hamba dan Rasul-Nya.",
+            "reference": "Al-Bukhârî [831](2/311) dan Muslim [402](1/301)."
+          }
+        ]
+      },
+      {
+        "group_id": 23,
+        "title": "Salawat Ke Atas Nabi (SAW) Selepas Tasyahhud",
+        "duas": [
+          {
+            "id": 53,
+            "group_id": 23,
+            "dua": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+            "translation": "Ya Allah, limpahkanlah rahmat ke atas Muhammad dan keluarga Muhammad, sebagaimana Engkau melimpahkan rahmat ke atas Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah, berkatilah Muhammad dan keluarga Muhammad, sebagaimana Engkau memberkati Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
+            "reference": "Al-Bukhârî [337](6/408)."
+          },
+          {
+            "id": 54,
+            "group_id": 23,
+            "dua": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ، وَبَارِكْ عَلَى مُحَمَّدٍ، وَ عَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+            "translation": "Ya Allah, limpahkanlah rahmat ke atas Muhammad dan isteri-isteri serta keturunannya, sebagaimana Engkau melimpahkan rahmat ke atas keluarga Ibrahim, dan berkatilah Muhammad dan isteri-isteri serta keturunannya, sebagaimana Engkau memberkati keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
+            "reference": "Al-Bukhârî [3369](2/407) dan Muslim [407](1/306)."
+          }
+        ]
+      },
+      {
+        "group_id": 24,
+        "title": "Selepas Tasyahhud Akhir dan Sebelum Salam",
+        "duas": [
+          {
+            "id": 55,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَمِنْ عَذَابِ جَهَنَّمَ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ",
+            "translation": "Ya Allah, aku memohon perlindungan dengan-Mu daripada azab kubur, daripada azab neraka Jahanam, daripada fitnah kehidupan dan kematian serta daripada kejahatan fitnah Dajjal.",
+            "reference": "Al-Bukhârî 2/102 dan Muslim 1/412."
+          },
+          {
+            "id": 56,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ",
+            "translation": "Ya Allah, aku memohon perlindungan dengan-Mu daripada azab kubur, dan aku memohon perlindungan dengan-Mu daripada fitnah Dajjal, dan aku memohon perlindungan dengan-Mu daripada fitnah kehidupan dan kematian. Ya Allah, aku memohon perlindungan dengan-Mu daripada dosa dan hutang.",
+            "reference": "Al-Bukhârî [832](2/102) dan Muslim [589](1/412) dengan lafaz Muslim."
+          },
+          {
+            "id": 57,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْماً كَثِيراً، وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، فَاغْفِرْ لِي مَغْفِرةً مِنْ عِنْدِكَ، وَارْحَمْني، إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
+            "translation": "Ya Allah, sesungguhnya aku telah menzalimi diriku dengan kezaliman yang banyak, dan tiada yang mengampuni dosa kecuali Engkau, maka ampunilah aku dengan pengampunan dari sisi-Mu, dan kasihanilah aku, sesungguhnya Engkau Maha Pengampun lagi Maha Penyayang.",
+            "reference": "Al-Bukhârî [7387](8/168) dan Muslim [2705](4/2078)."
+          },
+          {
+            "id": 58,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ اغْفِرْ لِي مَا قَدَّمْتُ، وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ، وَمَا أَعْلَنْتُ، وَمَا أَسْرَفْتُ، وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي، أَنْتَ الْمُقَدِّمُ، وَأَنْتَ الْمُؤَخِّرُ لَا إِلَهَ إِلَّا أَنْتَ",
+            "translation": "Ya Allah, ampunilah aku atas dosa-dosaku yang lalu dan yang akan datang, yang aku sembunyikan dan yang aku nyatakan, dan segala keterlaluanku serta dosa-dosa yang Engkau lebih mengetahui daripadaku. Engkaulah yang Maha Mengawalkan dan Maha Mengakhirkan. Tiada Tuhan selain Engkau.",
+            "reference": "Muslim [771](1/534)."
+          },
+          {
+            "id": 59,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ، وَشُكْرِكَ، وَحُسْنِ عِبَادَتِكَ",
+            "translation": "Ya Allah, bantulah aku untuk mengingati-Mu, mensyukuri-Mu, dan memperbaiki ibadahku kepada-Mu.",
+            "reference": "Abû Dâwud [1522](2/86) dan An-Nisâ'i (3/53). Al-Albânî mengesahkannya dalam Ŝaĥîĥ Abî Dâwud (1/284)."
+          },
+          {
+            "id": 60,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ البُخْلِ، وَأَعُوذُبِكَ مِنَ الْجُبْنِ، وَأَعُوْذُ بِكَ مِنْ أَنْ أُرَدَّ إِلَى أَرْذَلِ الْعُمُرِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الدُّنْيَا، وَأعُوذُبِكَ مِنْ عَذَابِ الْقَبْرِ",
+            "translation": "Ya Allah, aku memohon perlindungan dengan-Mu daripada sifat bakhil, aku memohon perlindungan dengan-Mu daripada sifat pengecut, aku memohon perlindungan dengan-Mu daripada dipanjangkan usia ke keadaan yang paling hina, aku memohon perlindungan dengan-Mu daripada fitnah dunia, dan aku memohon perlindungan dengan-Mu daripada azab kubur.",
+            "reference": "Al-Bukhârî [2822](6/35)."
+          },
+          {
+            "id": 61,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ، وَأَعُوْذُ بِكَ مِنْ النَّارِ",
+            "translation": "Ya Allah, aku memohon kepada-Mu syurga dan aku memohon perlindungan dengan-Mu daripada neraka.",
+            "reference": "Abû Dâwud [792] dan Ibn Mâjah, lihat Ŝaĥîĥ Ibn Mâjah (2/328)."
+          },
+          {
+            "id": 62,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ بِعِلْمِكَ الْغَيْبَ وَقُدْرَتِكَ عَلَى الْخَلْقِ؛ أَحْيِنِي مَا عَلِمْتَ الْحَيَاةَ خَيْراً لِي، وَتَوَفَّنِي إِذَا عَلِمْتَ الْوَفَاةَ خَيْراً لِي، اللَّهُمَّ إِنِّي أَسْأَلُكَ خَشْيَتَكَ فِي الْغَيْبِ وَالشَّهَادَةِ، وَأَسْأَلُكَ كَلِمَةَ الْحَقِّ فِي الرِّضَا وَالْغَضَبِ، وَأَسْأَلُكَ الْقَصْدَ فِي الْغِنَى وَالْفَقْرِ، وَأَسْأَلُكَ نَعِيماً لاَ يَنْفَدُ، وَأَسْأَلُكَ قُرَّةَ عَيْنٍ لاَ تَنْقَطِعُ، وَأَسْأَلُكَ الرَّضَا بَعْدَ الْقَضَاءِ، وَأَسْأَلُكَ بَرْدَ الْعَيْشِ بَعْدَ الْمَوْتِ، وَأَسْأَلُكَ لَذَّةَ النَّظَرِ إِلَى وَجْهِكَ، وَالشَّوْقَ إِلَى لِقَائِكَ فِي غَيْرِ ضَرَّاءَ مُضِرَّةٍ، وَلَا فِتْنَةٍ مُضِلَّةٍ، اللَّهُمَّ زَيَّنَّا بِزِينَةِ الإِيمَانِ، وَاجْعَلْنَا هُدَاةً مُهْتَدِينَ",
+            "translation": "Ya Allah, dengan pengetahuan-Mu terhadap yang ghaib dan kekuasaan-Mu ke atas ciptaan-Mu, hidupkanlah aku selagi kehidupan itu lebih baik bagiku, dan matikanlah aku sekiranya kematian itu lebih baik bagiku. Ya Allah, aku memohon ketakwaan kepada-Mu dalam hal yang ghaib dan yang nyata, aku memohon agar Engkau menjadikan aku berkata benar dalam keadaan senang mahupun marah, aku memohon agar Engkau menjadikan aku bersederhana ketika kaya dan ketika miskin, dan aku memohon nikmat yang tidak akan hilang, aku memohon kesenangan mata yang tidak akan berakhir, aku memohon agar Engkau menjadikan aku redha dengan ketentuan-Mu, aku memohon kehidupan yang sejahtera selepas mati, dan aku memohon kelazatan melihat wajah-Mu serta kerinduan untuk bertemu dengan-Mu tanpa sebarang mudarat yang memudaratkan atau fitnah yang menyesatkan. Ya Allah, perindahkanlah kami dengan keindahan iman dan jadikanlah kami sebagai petunjuk yang mendapat petunjuk.",
+            "reference": "An-Nisâ'i (4/54, 55) dan Aĥmad (4/364). Al-Albânî mengesahkannya dalam Ŝaĥîĥ An-Nisâ'i (1/281)."
+          },
+          {
+            "id": 63,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ يَا اللَّهُ بِأَنَّكَ الْوَاحِدُ الأَحَدُ الصَّمَدُ، الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُنْ لَهُ كُفُواً أَحَدٌ، أَنْ تَغْفِرَ لِي ذُنُوبِي، إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
+            "translation": "Ya Allah, aku memohon kepada-Mu, wahai Allah, dengan sesungguhnya Engkau adalah Yang Maha Esa, Yang Bergantung kepada-Mu segala sesuatu, yang tidak beranak dan tidak diperanakkan, serta tiada yang setara dengan-Mu, agar Engkau mengampuni dosa-dosaku. Sesungguhnya Engkaulah Yang Maha Pengampun lagi Maha Penyayang.",
+            "reference": "An-Nisâ'i (3/52) dan Aĥmad (4/238). Al-Albânî mengesahkannya dalam Ŝaĥîĥ An-Nisâ'i (1/280)."
+          },
+          {
+            "id": 64,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدُ، لَا إِلَهَ إِلَّا أَنْتَ، وَحْدَكَ لَا شَرِيكَ لَكَ، الْمَنَّانُ، يَا بَدِيْعَ السَّمَوَاتِ وَالأَرْضِ، يَاذَا الْجَلالِ وَالإكْرَامِ، يَاحَيُّ يَاقَيُّومُ، إِنِّي أَسْأَلُكَ الْجَنَّةَ، وَأَعُوْذُ بِكَ مِنَ النَّارِ",
+            "translation": "Ya Allah, aku memohon kepada-Mu kerana Engkau memiliki segala pujian, tiada Tuhan selain Engkau, Engkaulah Yang Maha Esa, tiada sekutu bagi-Mu, Yang Maha Memberi nikmat, wahai Pencipta langit dan bumi, wahai Tuhan yang memiliki kebesaran dan kemuliaan, wahai Yang Maha Hidup dan Maha Berdiri sendiri, sesungguhnya aku memohon kepada-Mu syurga dan aku memohon perlindungan dengan-Mu daripada neraka.",
+            "reference": "Abû Dâwud [1495], An-Nisâ'i (3/52), Ibn Mâjah [3858] dan At-Tirmidhî [3544]. Juga lihat Ŝaĥîĥ Ibn Mâjah (2/329)."
+          },
+          {
+            "id": 65,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنِّي أَشْهَدُ أَنَّكَ أَنْتَ اللَّهُ لَا إِلَهَ إِلَّا أَنْتَ، الأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُنْ لَهُ كُفُواً أَحَدٌ",
+            "translation": "Ya Allah, aku memohon kepada-Mu kerana aku bersaksi bahawa Engkau adalah Allah, tiada Tuhan selain Engkau, Yang Maha Esa, Yang Bergantung kepada-Mu segala sesuatu, yang tidak beranak dan tidak diperanakkan, serta tiada yang setara dengan-Mu.",
+            "reference": "Abû Dâwud [1493](2/62), At-Tirmidhî [3475](5/515), Ibn Mâjah [3857](2/1267) dan Aĥmad (5/360). Juga lihat Ŝaĥîĥ Ibn Mâjah (2/329) dan Ŝaĥîĥ At-Tirmidhî (3/163)."
+          }
+        ]
+      },
+      {
+        "group_id": 25,
+        "title": "Selepas Salam",
+        "duas": [
+          {
+            "id": 66,
+            "group_id": 25,
+            "dua": "(١) أَسْتَغْفِرُ اللَّهَ (ثلاثا)(٢) اللَّهُمَّ أَنْتَ السَّلامُ وَمِنْكَ السَّلامُ تَبَارَكْتَ يَاذَا الجَلالِ وَالإكْرَامِ",
+            "translation": "(1) Aku memohon keampunan Allah (tiga kali)(2) Ya Allah, Engkaulah As-Salam dan daripada-Mu datangnya keamanan, Maha Berkat Engkau, wahai Pemilik Keagungan dan Kemuliaan.",
+            "reference": "Muslim [591](1/414)."
+          },
+          {
+            "id": 67,
+            "group_id": 25,
+            "dua": "لَا إِلَهَ إلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ(ثلاثاً)، اللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الجَدُّ",
+            "translation": "Tiada Tuhan selain Allah, satu-satunya, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya segala pujian. Dia Maha Berkuasa atas segala sesuatu (tiga kali). Ya Allah, tiada yang dapat menghalang apa yang Engkau berikan, dan tiada yang dapat memberi apa yang Engkau halang, dan kekayaan tidak memberi manfaat kepada sesiapa pun di hadapan-Mu.",
+            "reference": "Al-Bukhârî [844](1/255) dan Muslim [593](1/414)."
+          },
+          {
+            "id": 68,
+            "group_id": 25,
+            "dua": "لاَ إِلَهَ إلَّا اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ، لاَ إِلَهَ إِلَّا اللَّهُ، وَلَا نَعْبُدُ إِلَّا إِيَّاهُ، لَهُ النِّعْمَةُ وَلَهُ الْفَضْلُ وَلَهُ الثَّنَاءُ الْحَسَنُ، لَا إِلَهَ إِلَّا اللَّهُ مُخْلِصِينَ لَهُ الدِّيْنَ وَلَوْ كَرِهَ الْكَافِرُونَ",
+            "translation": "Tiada Tuhan selain Allah, satu-satunya, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya segala pujian. Dia Maha Berkuasa atas segala sesuatu. Tiada daya dan kekuatan melainkan dengan Allah. Tiada Tuhan selain Allah, dan kami tidak menyembah selain Dia. Bagi-Nya segala nikmat, kurniaan, dan pujian yang baik. Tiada Tuhan selain Allah, dengan ikhlas kami beragama kepada-Nya walaupun orang kafir membencinya.",
+            "reference": "Muslim [594](1/415)."
+          },
+          {
+            "id": 69,
+            "group_id": 25,
+            "dua": "(١) سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَاللَّهُ أَكْبَرُ (ثلاثا و ثلاثين)(٢) لاَ إِلَهَ إلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+            "translation": "(1) Maha Suci Allah, segala pujian bagi Allah, dan Allah Maha Besar (tiga puluh tiga kali)(2) Tiada Tuhan selain Allah, satu-satunya, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya segala pujian, dan Dia Maha Berkuasa atas segala sesuatu.",
+            "reference": "Muslim [597](1/418)."
+          },
+          {
+            "id": 70,
+            "group_id": 25,
+            "dua": "(١) (قُلْ هُوَ اللَّهُ أَحَدٌ...)(٢) (قٌلْ أَعُوْذُ بِرَبَّ الْفَلَقِ...)(٣) (قُلْ أَعُوْذُ بِرَبَّ النَّاسِ...)",
+            "translation": "Tiga surah berikut hendaklah dibaca sekali selepas solat Zohor, ‘Asar, dan ‘Isya, dan tiga kali selepas solat Subuh dan Maghrib:(1) Al-Ikhlas(2) Al-Falaq(3) An-Naas",
+            "reference": "Abû Dâwud [1523](2/86) dan An-Nisâ'i (3/68). Juga lihat Ŝaĥîĥ At-Tirmidhî (2/8)."
+          },
+          {
+            "id": 71,
+            "group_id": 25,
+            "dua": "(اللَّهُ لا إِلَهَ إِلا هُوَ الْحَيُّ الْقَيُّومُ لا تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ...)",
+            "translation": "Juga disunatkan membaca Ayat al-Kursi selepas setiap solat:[Al Baqarah: 255]",
+            "reference": "An-Nisâ'i ('Amal al-Yawm wa al-Laylah)(100) dan Ibn Sinnî [121]. Al-Albânî mengesahkannya dalam Ŝaĥîĥ Al-Jâmi' [6464](5/339) dan Silsilah Al-Ahâdîth Aŝ-Ŝaĥîĥah [972](2/697)."
+          },
+          {
+            "id": 72,
+            "group_id": 25,
+            "dua": "لَا إِلَهَ إلَّا اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ (عشر مرات بعد المغرب و الصبح)",
+            "translation": "Tiada Tuhan selain Allah, satu-satunya, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya segala pujian. Dia menghidupkan dan mematikan, dan Dia Maha Berkuasa atas segala sesuatu. (Sepuluh kali selepas solat Maghrib dan Subuh)",
+            "reference": "At-Tirmidhî [3474]5/515 dan Aĥmad (4/227). Juga lihat Zâd Al-Ma'âd (1/300)."
+          },
+          {
+            "id": 73,
+            "group_id": 25,
+            "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نَافِعاً وَرِزْقاً طَيِّباً، وَعَمَلاً مُتَقَبَّلاً (بعد السلام من صلاة الفجر)",
+            "translation": "Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik, dan amalan yang diterima (dibaca selepas memberi salam daripada solat Subuh).",
+            "reference": "Ibn Mâjah [925]. Juga lihat Ŝaĥîĥ Ibn Mâjah (1/152) dan Majmu' Az-Zawâ'id [95](10/111)."
+          }
+        ]
+      },
+      {
+        "group_id": 32,
+        "title": "Qunoot Al-Witr",
+        "duas": [
+        {
+          "id": 116,
+          "group_id": 32,
+          "dua": "اللَّهُمَّ اهْدِنِي فِيْمَنْ هَدَيْتَ، وَعَافِنِي فِيْمَنْ عَافَيْتَ، وَتَوَلَّنِي فِيْمَنْ تَوَلَّيْتَ، وَبَارِكْ لِي فِيْمَا أَعْطَيْتَ، وَقِنِي شَرَّ مَا قَضَيْتَ، فَإِنَّكَ تَقْضِي وَلَا يُقْضَى عَلَيْكَ، إِنَّهُ لَا يَذِلُّ مَنْ والَيْتَ، [وَ لَا يَعِزُّ مَنْ عَادَيْتَ]، تَبارَكْتَ رَبَّنَا وَتَعَالَيْتَ",
+          "translation": "Ya Allah, pimpinlah aku bersama orang yang Engkau pimpin, sembuhkanlah aku bersama orang yang Engkau sembuhkan, jagalah aku bersama orang yang Engkau jaga, berkahilah bagiku atas apa yang Engkau berikan, dan lindungilah aku dari kejahatan apa yang telah Engkau tentukan. Sesungguhnya Engkaulah yang menetapkan, dan tiada yang dapat menetapkan atas-Mu. Sesungguhnya tidak akan hina orang yang Engkau pelihara, dan tidak akan mulia orang yang Engkau musuhi. Maha Berkat Engkau, wahai Tuhan kami, Maha Tinggi Engkau.",
+          "reference": "Abû Dâwud [1425], At-Tirmidhî [464], An-Nisâ'i (1/252), Ibn Mâjah [1178], Aĥmad (1/200), Ad-Dârimî (1/373), Al-Hâkim (3/172), Al-Baihaqî (2/209,497,498). Apa yang di antara kurungan berasal dari Al-Baihaqî. Juga lihat Ŝaĥîĥ At-Tirmidhî (1/144), Ŝaĥîĥ Ibn Mâjah (1/194), dan Irwâ'-ul-Ghalîl (2/172)."
+        },
+        {
+          "id": 117,
+          "group_id": 32,
+          "dua": "اللَّهُمَّ إِنِّي أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ، وَأَعُوذُ بِكَ مِنْكَ، لَا أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ",
+          "translation": "Ya Allah, aku berlindung dengan keredhaan-Mu daripada kemurkaan-Mu, dan dengan kemaafan-Mu daripada hukuman-Mu, dan aku berlindung dengan-Mu daripada-Mu. Aku tidak dapat mengira pujian-Mu. Engkaulah seperti mana Engkau memuji diri-Mu sendiri.",
+          "reference": "Abû Dâwud [1427], At-Tirmidhî [3561], An-Nisâ'i (1/252), Ibn Mâjah [1179], dan Aĥmad (1/96,118,150). Juga lihat Ŝaĥîĥ At-Tirmidhî (3/180), Ŝaĥîĥ Ibn Mâjah (1/194) dan Irwâ'-ul-Ghalîl (2/175)."
+        },
+        {
+          "id": 118,
+          "group_id": 32,
+          "dua": "اللَّهُمَّ إِيَّاكَ نَعْبُدُ، وَلَكَ نُصَلِّي وَنَسْجُدُ، وَإِلَيْكَ نَسْعَى وَنَحْفِدُ، نَرْجُو رَحْمَتَكَ، وَنَخْشَى عَذَابَكَ، إِنَّ عَذَابَكَ بِالكَافِرِيْنَ ملْحَقٌ، اللَّهُمَّ إِنَّا نَسْتَعِيْنُكَ، وَنَسْتَغْفِرُكَ، وَنُثْنِي عَلَيْكَ الخَيْرَ، وَلَا نَكْفُرُكَ، وَنُؤْمِنُ بِكَ، وَنَخْضَعُ لَكَ، وَنَخْلَعُ مَنْ يَكْفُرُكَ",
+          "translation": "Ya Allah, hanya kepada-Mu kami beribadah, kepada-Mu kami bersolat dan sujud, kepada-Mu kami berusaha dan bersegera. Kami berharap kepada rahmat-Mu dan takut akan azab-Mu. Sesungguhnya azab-Mu akan menimpa orang kafir. Ya Allah, kami memohon pertolongan daripada-Mu, kami memohon keampunan daripada-Mu, kami memuji kebaikan-Mu, kami tidak kufur kepada-Mu. Kami beriman kepada-Mu, kami tunduk kepada-Mu, dan kami menolak sesiapa yang kufur kepada-Mu.",
+          "reference": "Al-Baihaqî [As-Sunan Al-Kubrâ](2/211) dan dia mengesahkan sanadnya sebagai Ŝaĥîĥ. Al-Albânî berkata dalam [Irwâ'-ul-Ghalîl](2/170) bahawa sanadnya adalah Ŝaĥîĥ dan hadis ini mawqûf daripada 'Umar (RadiAllah ʻanhu)."
+        }
+        ]
+      },
+      {
+        "group_id": 33,
+        "title": "Segera Setelah Salam Shalat Witr",
+        "duas": [
+          {
+            "id": 119,
+            "group_id": 33,
+            "dua": "سُبْحَانَ المَلِكِ القُدُّوسِ (ثَلاثَ مَرَّاتٍ، وَ الثَّالِثَةُ يَجْهَرُ بِهَا وَيَمُدُّ صَوْتَهُ يَقُولُ:[ ربِّ المَلائِكَةِ وَالرُّوحِ])",
+            "translation": "Maha Suci Raja Yang Maha Suci (Tiga kali, dan pada kali ketiga, Nabi ﷺ akan mengeraskan suaranya, memanjangkannya, dan menambahkan: [Tuhan para malaikat dan Ruh]).",
+            "reference": "An-Nisâ'i (3/244), Ad-Dârquťnî (2/31) dan tambahan di antara kurungan berasal dari dia dan sanadnya adalah Ŝaĥîĥ. Lihat juga kajian Shu'aîb dan 'Abdul Qadir Al-Arnâ'ûť dalam Zâd al-Ma'âd (1/337)."
+          }
+        ]
+      },
+      {
+        "group_id": 42,
+        "title": "Bagi Orang yang Diganggu Bisikan Dalam Shalat atau Bacaan",
+        "duas": [
+          {
+            "id": 138,
+            "group_id": 42,
+            "dua": "أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ، واتْفُلْ عَلَى يَساَرِكَ [ثَلاثاً]",
+            "translation": "Aku berlindung kepada Allah dari Syaitan yang terkutuk, dan (meludah kecil) ke sebelah kiri tiga kali.",
+            "reference": "Muslim [2203](4/1729)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+      "category_id": 3,
+      "title": "Memuji Allah",
+      "group": [
+        {
+          "group_id": 26,
+          "title": "Untuk Meminta Petunjuk Dalam Membuat Keputusan Atau Memilih Jalan Yang Betul",
+          "duas": [
+            {
+              "id": 74,
+              "group_id": 26,
+              "dua": "اللَّهُمَّ إِنِّي أَسْتَخِيْرُكَ بِعِلْمِكَ، وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ، وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ، فَإِنَّكَ تَقْدِرُ وَلَا أَقْدِرُ، وَتَعْلَمُ وَلَا أَعْلَمُ، وَأَنْتَ عَلَّامُ الْغُيُوبِ، اللَّهُمَّ إنْ كُنْتَ تَعْلَمُ أَنْ هَذَاالأَمْرَ - ويُسَمِّي حَاجَتَه - خَيْرٌ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي – أو قالَ: عَاجِلِهِ وَ آجِلِهِ - فَاقْدُرْهُ لِي وَيَسِّرْهُ لِي، ثُمَّ بَارِكْ لِي فِيهِ، وَإِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الأمْرَ شَرٌّ لِي فِي دِينِي وَمَعَاشي وَعَاقِبَةِ أَمْرِي – أوْ قالَ: عَاجِلِهِ وَ آجِلِهِ - فَاصْرِفْهُ عَني، وَاصْرِفْنِي عَنْهُ، وَاقْدُرْ لِيَ الْخَيْرَ حَيْثُ كَانَ، ثُمَّ أَرْضِنِي بِهِ.(١)وَ مَا نَدِمَ مَنْ اسْتَخَارَ الخَالِقَ، وَ شَاوَرَ المَخْلُوقِينَ المُؤمِنِينَ، وَ تَثَبَّتَ فِي أمْرِهِ، فَقَدْ قَالَ سُبْحَانَهُ: ﴾وَ شَاوِرْ هُمْ فِي الأَمْرِ فَإذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللهِ﴿(٢)",
+              "translation": "Daripada Jabir bin Abdullah (RA), beliau berkata: 'Nabi (salla Allaahu ʻalayhi wa salaam) mengajar kami supaya berdoa untuk petunjuk dalam segala urusan kami, sebagaimana beliau mengajar kami satu surah daripada al-Quran. Beliau (salla Allaahu ʻalayhi wa salaam) bersabda: 'Jika salah seorang daripada kamu berniat untuk melakukan sesuatu perkara, maka hendaklah dia solat dua rakaat sunat (dua rakaat nafilah), kemudian hendaklah dia berdoa: ‘Ya Allah, aku memohon petunjuk daripada-Mu dengan ilmu-Mu, dan aku memohon kekuatan daripada-Mu dengan kekuasaan-Mu, dan aku meminta daripada-Mu dengan kelebihan-Mu yang besar, kerana sesungguhnya Engkau berkuasa, sedangkan aku tidak berkuasa, Engkau mengetahui sedangkan aku tidak mengetahui, dan Engkau adalah yang Maha Mengetahui yang ghaib. Ya Allah, jika Engkau mengetahui bahawa perkara ini - dan di sini dia menyebutkan hajatnya - baik untukku dalam agama, kehidupanku, dan akibat urusanku – atau beliau berkata: dalam urusan dunia dan akhiratku – maka takdirkanlah untukku dan permudahkanlah urusanku, kemudian berkati aku dalam urusan itu. Jika Engkau mengetahui bahawa perkara ini buruk untukku dalam agama, kehidupanku, dan akibat urusanku – atau beliau berkata: dalam urusan dunia dan akhiratku – maka jauhkanlah ia daripadaku dan jauhkanlah aku daripadanya. Dan takdirkanlah untukku yang terbaik di mana pun ia berada, kemudian redhailah aku dengan keputusan-Mu.'",
+              "reference": "(1) Al-Bukhârî [1162](7/162).(2) Qur'an Al-'Imran [3:159]."
+            }
+          ]
+    },
+    {
+      "group_id": 43,
+      "title": "Bagi Mereka Yang Menghadapi Kesukaran",
+      "duas": [
+        {
+          "id": 139,
+          "group_id": 43,
+          "dua": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلاً، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذا شِئْتَ سَهْلاً",
+          "translation": "Ya Allah, tiada kemudahan melainkan apa yang Engkau jadikan mudah, dan Engkau jadikan kesusahan, jika Engkau kehendaki, mudah.",
+          "reference": "Ibn Ĥibbân dalam Ŝaĥîĥ [2427], Mawârid dan Ibn As-Sunnî [351]. Dan Ibn Ĥajar berkata: \"Hadith ini adalah Ŝaĥîĥ\". 'Abdul Qadir Al-Arnâ'ûť juga mengesahkannya dalam takhrîj Imam Nawawî Athkâr (ms. 106)."
+        }
+      ]
+    },
+    {
+      "group_id": 44,
+      "title": "Apabila Melakukan Dosa",
+      "duas": [
+        {
+          "id": 140,
+          "group_id": 44,
+          "dua": "مَا مِنْ عَبْدٍ يُذْنِبُ ذَنْباً فَيُحْسِنُ الطُّهُورَ، ثُمَّ يَقُومُ فَيُصَلِّي رَكْعَتَيْنِ، ثُمَّ يَسْتَغْفِرُاللهَ إلَّا غَفَرَ اللهُ لَهُ",
+          "translation": "Mana-mana hamba yang melakukan dosa, lalu mengambil wuduk dengan sempurna, kemudian menunaikan solat dua rakaat dan memohon keampunan kepada Allah, maka Allah akan mengampunkannya.",
+          "reference": "Abû Dâwud [1521](2/86) dan At-Tirmidhî [406,3006](2/257). Al-Albânî mengesahkannya dalam Ŝaĥîĥ Abî Dâwud (1/283)."
+        }
+      ]
+    },
+    {
+      "group_id": 46,
+      "title": "Apabila Ditimpa Musibah atau Menghadapi Urusan yang Sukar",
+      "duas": [
+        {
+          "id": 144,
+          "group_id": 46,
+          "dua": "قَدَرُ اللهِ وَما شَاءَ فَعَلَ",
+          "translation": "Takdir Allah dan apa yang Dia kehendaki, Dia lakukan.",
+          "reference": "Muslim [2664](4/2052)."
+        }
+      ]
+    },
+    {
+      "group_id": 88,
+      "title": "Perlindungan Daripada Dajjal",
+      "duas": [
+        {
+          "id": 199,
+          "group_id": 88,
+          "dua": "مَنْ حَفِظَ عَشَرَ آيَاتٍ مِنْ أوُّلِ سُورَةِ الكَهْفِ، عُصِمَ مِنَ الدَّجَّالِ",
+          "translation": "Sesiapa yang menghafal sepuluh ayat pertama Surah Al-Kahf akan dilindungi daripada Dajjal.",
+          "reference": "Muslim [809](1/555)."
+        }
+      ]
+    },
+    {
+      "group_id": 107,
+      "title": "Kelebihan Mengucapkan Selawat Ke Atas Nabi (SAW)",
+      "duas": [
+        {
+          "id": 219,
+          "group_id": 107,
+          "dua": "قَالَ ﷺ: «مَنْ صَلَّ عَلَيَّ صَلاةً صَلَّ اللهُ عَلَيْهِ بِهَا عَشَراً»",
+          "translation": "Nabi (salla Allaahu ʻalayhi wa salaam) bersabda: 'Sesiapa yang mengucapkan satu selawat kepadaku, Allah akan berselawat kepadanya sepuluh kali.'",
+          "reference": "Muslim [408](1/288)."
+        },
+        {
+          "id": 220,
+          "group_id": 107,
+          "dua": "قَالَ ﷺ: «لا تَجْعَلُوا قَبْرِيْ عِيْداً وَ صَلُّوا عَلَيَّ فَإِنَّ صَلاتَكُمْ تَبْلُغُنِي حَيْثُ كُنْتُمْ»",
+          "translation": "Nabi (salla Allaahu ʻalayhi wa salaam) bersabda: 'Jangan jadikan kuburku sebagai tempat perayaan. Ucapkanlah selawat kepadaku, kerana sesungguhnya selawat kamu akan sampai kepadaku di mana sahaja kamu berada.'",
+          "reference": "Abû Dâwud [2042](2/218) dan Aĥmad (2/367). Al-Albânî mengesahkannya dalam Ŝaĥîĥ Abû Dâwud (2/383)."
+        },
+        {
+          "id": 221,
+          "group_id": 107,
+          "dua": "قَالَ ﷺ: «البَخِيْلُ مَنْ ذُكِرْتُ عِنْدَهُ فَلَمْ يُصَلِّ عَلَيَّ»",
+          "translation": "Nabi (salla Allaahu ʻalayhi wa salaam) bersabda: 'Orang yang bakhil ialah orang yang apabila namaku disebut di sisinya, dia tidak mengucapkan selawat kepadaku.'",
+          "reference": "At-Tirmidhî [3546](5/551). Juga lihat Ŝaĥîĥ Al-Jâmi' [2787](3/25) dan Ŝaĥîĥ At-Tirmidhî (3/177)."
+        },
+        {
+          "id": 222,
+          "group_id": 107,
+          "dua": "قَالَ ﷺ: «إنَّ لِلَّهِ مَلائِكَةً سَيَّا حِيْنَ فِي الأرْضِ، يُبَلِّغُونِي مِنْ أُمَّتِي السَّلامَ»",
+          "translation": "Nabi (salla Allaahu ʻalayhi wa salaam) bersabda: 'Allah yang Maha Tinggi mempunyai malaikat yang mengembara di bumi untuk menyampaikan salam dari umatku.'",
+          "reference": "An-Nisâ'i (3/43) dan Al-Hâkim (2/421). Al-Albânî mengesahkannya dalam Ŝaĥîĥ An-Nisâ'i (1/274)."
+        },
+        {
+          "id": 223,
+          "group_id": 107,
+          "dua": "قَالَ ﷺ: «مَا مِنْ أحَدٍ يُسَلِّمُ عَلَيَّ، إلَّا رَدَّ اللهُ عَلَيَّ رُوْحي، حَتَّى أرُدَّ عَلَيْهِ السَّلامَ»",
+          "translation": "Nabi (salla Allaahu ʻalayhi wa salaam) bersabda: 'Setiap kali seseorang mengucapkan salam kepadaku, Allah akan mengembalikan rohku supaya aku boleh menjawab salam tersebut.'",
+          "reference": "Abû Dâwud (2041). Al-Albânî menyatakannya sebagai hasan dalam Ŝaĥîĥ Abû Dâwud (1/283)."
+        }
+      ]
+    },
+    {
+      "group_id": 129,
+      "title": "Memohon Keampunan dan Taubat",
+      "duas": [
+        {
+          "id": 248,
+          "group_id": 129,
+          "dua": "قَالَ رَسُولُ اللهِ ﷺ: «وَ اللهِ إِنِّي لأسْتَغْفِرُ اللهَ وَ أ تُوبُ إلَيْهِ فِي اليَوْمِ أكثَرَ مِنْ سَبْعِيْنَ مَرَّةٍ»",
+          "translation": "Rasulullah (salla Allaahu ʻalayhi wa salaam) bersabda: 'Demi Allah, aku memohon keampunan daripada Allah dan bertaubat kepada-Nya lebih daripada tujuh puluh kali sehari.'",
+          "reference": "Al-Bukhârî [6307](11/101)."
+        },
+        {
+          "id": 249,
+          "group_id": 129,
+          "dua": "قَالَ رَسُولُ اللهِ ﷺ: «يَا أَيُّهَا النَّاسُ تُوبُوا إلَى اللهِ، فَإِنِّي أتُوبُ إلَيْهِ مِئَةَ مَرَّةٍ»",
+          "translation": "Rasulullah (salla Allaahu ʻalayhi wa salaam) bersabda: 'Wahai manusia, bertaubatlah kepada Allah, sesungguhnya aku bertaubat kepada-Nya seratus kali sehari.'",
+          "reference": "Muslim [2702](4/2076)."
+        },
+        {
+          "id": 250,
+          "group_id": 129,
+          "dua": "قَالَ رَسُولُ اللهِ ﷺ: «مَنْ قَالَ أسْتَغْفِرُ اللهَ العَظِيْمَ الَّذِي لَا إلَهَ إلَّا هُوَ الحَيُّ القَيُّومُ وَ أتُوبُ إلَيْهِ، غَفَرَ للهُ لَهُ، وَ إنْ كَانَ فَرَّ مِنَ الزَّحْفِ»",
+          "translation": "Sesiapa yang berkata: 'Aku memohon keampunan daripada Allah yang Maha Agung, tiada Tuhan melainkan Dia, yang hidup kekal, dan aku bertaubat kepada-Nya', Allah akan mengampuninya, walaupun dia melarikan diri dari medan perang.",
+          "reference": "Abû Dâwud [1517](2/85), At-Tirmidhî [3577](5/569), Al-Hâkim (1/511) dan beliau mengesahkannya serta Adh-Dhahabî bersetuju dengannya. Al-Albânî mengesahkannya, lihat Ŝaĥîĥ At-Tirmidhî (3/182) dan Al-Jâmi' Al-'Uŝûl Li-Ahâdîth Al-Rasûl (4/389-390) dengan kajian oleh Arnâ'ûť."
+        },
+        {
+          "id": 251,
+          "group_id": 129,
+          "dua": "قَالَ رَسُولُ اللهِ ﷺ: «أقْرَبُ مَا يَكُونُ الرَّبُّ مِنَ العَبْدِ، فِي جَوْفِ اللَّيْلِ الآخِرِ؛ فَإنْ اسْتَطَعْتَ أنْ تَكُونَ مِمَّنْ يَذْكُرُ اللهَ فِي تِلْكَ السَّاعَةِ؛ فَكُنْ»",
+          "translation": "Rasulullah (salla Allaahu ʻalayhi wa salaam) bersabda: 'Waktu terdekat antara Tuhan dengan hamba-Nya adalah pada pertengahan malam terakhir, jadi jika kamu dapat menjadi orang yang mengingati Allah pada waktu itu, maka lakukanlah.'",
+          "reference": "At-Tirmidhî [3579], An-Nisâ'i (1/279), dan Al-Hâkim. Juga lihat Ŝaĥîĥ At-Tirmidhî (3/183) dan Al-Jâmi' Al-'Uŝûl Li-Ahâdîth Al-Rasûl (4/144) dengan kajian oleh Arnâ'ûť."
+        },
+        {
+          "id": 252,
+          "group_id": 129,
+          "dua": "قَالَ رَسُولُ اللهِ ﷺ: «أقْرَبُ مَا يَكُونُ العَبْدُ مِنْ رَبِّهِ، وَ هُوَ سَاجِدٌ فَأكْثِرُوا الدُّعَاءَ»",
+          "translation": "Rasulullah (salla Allaahu ʻalayhi wa salaam) bersabda: 'Keadaan yang paling dekat antara hamba dengan Tuhannya adalah ketika dia bersujud, maka perbanyakkanlah berdoa dalam sujud.'",
+          "reference": "Muslim [482](1/350)."
+        },
+        {
+          "id": 253,
+          "group_id": 129,
+          "dua": "قَالَ رَسُولُ اللهِ ﷺ: «إنَّهُ لَيُغَانُ عَلَى قَلْبِي، وَ إنِّي لأسْتَغْفِرُ اللهَ فِي اليَوْمِ مِئَةَ مَرَّةٍ»",
+          "translation": "Rasulullah (salla Allaahu ʻalayhi wa salaam) bersabda: 'Sesungguhnya hatiku kadang-kadang diselubungi oleh sesuatu, dan sesungguhnya aku memohon keampunan kepada Allah seratus kali sehari.'",
+          "reference": "Muslim [2702](4/2075). Juga lihat Al-Jâmi' Al-'Uŝûl Li-Ahâdîth Al-Rasûl (4/386)."
+        }
+      ]
+    },
+    {
+      "group_id": 130,
+      "title": "Kelebihan Zikir dan Mengagungkan Allah",
+      "duas": [
+        {
+          "id": 254,
+          "group_id": 130,
+          "dua": "قَالَ رَسُولُ اللهِ ﷺ: «مَنْ قَالَ: سُبْحَانَ اللهِ وَ بِحَمْدِهِ فِي يَومٍ مِئَةَ مَرَّةٍ، حُطَّتْ خَطَايَاهُ، وَ لَو كَانَتْ مِثْلَ زَبَدِ البَحْرِ»",
+          "translation": "Maha Suci Allah dan segala puji bagi-Nya. (Seratus kali sehari).",
+          "reference": "Al-Bukhârî [6405](7/168) dan Muslim [2691](4/2071)."
+        },
+        {
+          "id": 255,
+          "group_id": 130,
+          "dua": "قَالَ رَسُولُ اللهِ ﷺ: «مَنْ قَالَ: لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ، وَ لَهُ الحَمْدُ، وَ هُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ عَشْرَ مِرَارٍ، كَانَ كَمَنْ أعْتَقَ أرْبَعَةَ أنْفُسٍ مِنْ وَلَدِ إسْمَاعِيلَ»",
+          "translation": "Tiada Tuhan yang disembah melainkan Allah, tiada sekutu bagi-Nya. Segala kerajaan dan pujian bagi-Nya, dan Dia Maha Berkuasa atas segala sesuatu. (Sepuluh kali).",
+          "reference": "Al-Bukhârî (7/67) dan Muslim (4/2017)."
+        },
+        {
+          "id": 256,
+          "group_id": 130,
+          "dua": "قَالَ رَسُولُ اللهِ ﷺ: «كَلِمَتَانِ خَفِيفَتَانِ عَلَى اللِّسَانِ، ثَقِيلَتَانِ فِي الِميْزَانِ، حَبِيبَتَانِ إلَى الرَّحْمَنِ: سُبْحَانَ اللهِ وَ بِحَمْدِهِ، سُبْحَانَ اللهِ العَظِيْمِ»",
+          "translation": "Rasulullah (salla Allaahu ʻalayhi wa salaam) bersabda: 'Ada dua kalimah yang ringan di lidah, berat di timbangan dan sangat dicintai oleh Yang Maha Pengasih: 'Maha Suci Allah dan segala puji bagi-Nya.' (dan) 'Maha Suci Allah Yang Maha Agung.'",
+          "reference": "Al-Bukhârî [3462](7/168) dan Muslim [2694](4/2072)."
+        },
+        {
+          "id": 257,
+          "group_id": 130,
+          "dua": "قَالَ رَسُولُ اللهِ ﷺ: «لَأنْ أقُولَ: سُبْحَانَ اللهِ، وَ الحَمْدُ لِلَّهِ، وَ لَا إلَهَ إلَّا اللهُ، وَ اللهُ أكْبَرُ، أحَبُّ إلَيَّ مِمَّا طَلَعَتْ عَلَيْهِ الشَّمْسُ»",
+          "translation": "Rasulullah (salla Allaahu ʻalayhi wa salaam) bersabda: 'Mengucapkan 'Subhanallah, Alhamdulillah, Laa ilaaha illallah, Allahu Akbar' lebih aku cintai daripada segala apa yang disinari oleh matahari.'",
+          "reference": "Muslim [2695](4/2072)."
+        },
+        {
+          "id": 258,
+          "group_id": 130,
+          "dua": "قَالَ رَسُولُ اللهِ ﷺ: «أيَعْجِزُ أحَدُكُمْ أنْ يَكْسِبَ كُلَّ يَوْمٍ ألْفَ حَسَنَةٍ» فَسَألَهُ سَائِلٌ مِنْ جُلَسَائِهِ: كَيْفَ يَكْسِبُ أحَدُنَا ألْفَ حَسَنَةٍ؟ قَالَ: «يُسَبِّحُ مِئَةَ تَسْبِيْحَةٍ، فَيُكْتَبُ لَهُ ألْفُ حَسَنَةٍ، أوْ يُحَطُّ عَنْهُ ألْفُ خَطِيْئَةٍ»",
+          "translation": "Maha Suci Allah dan segala puji bagi-Nya. (Seratus kali).",
+          "reference": "Muslim [2698](4/2073)."
+        },
+        {
+          "id": 259,
+          "group_id": 130,
+          "dua": "قَالَ رَسُولُ اللهِ ﷺ: «مَنْ قَالَ: سُبْحَانَ اللهِ العَظِيمِ وَ بِحَمْدِهِ، غُرِسَتْ لَهُ نَخْلَةٌ فِي الجَنَّةِ»",
+          "translation": "Sesiapa yang mengucapkan: 'Subhanallahil 'Aziim wa bihamdih', akan ditanam untuknya sebatang pokok tamar di syurga.",
+          "reference": "At-Tirmidhî [3464-3465](5/511), Al-Hâkim (1/501) dan beliau mengesahkannya serta Adh-Dhahabî bersetuju dengannya. Juga lihat Ŝaĥîĥ Al-Jâmi' [6429](5/531) dan Ŝaĥîĥ At-Tirmidhî (3/160)."
+        },
+        {
+          "id": 260,
+          "group_id": 130,
+          "dua": "قَالَ ﷺ: «يَا عَبْدَاللهِ بْنَ قَيْسٍ، ألَا أدُلُّكَ عَلَى كَنْزٍ مِنْ كُنُوزِ الجَنَّةِ؟» فَقُلْتُ: بَلَى يَا رَسُولَ اللهِ، قَالَ: «قُلْ لَا حَوْلَ وَ لَا قُوَّةَ إلَّا بِااللهِ»",
+          "translation": "Tiada daya dan upaya kecuali dengan kekuatan Allah.",
+          "reference": "Al-Bukhârî [4205](11/213) dan Muslim [2704](4/2076)."
+        },
+        {
+          "id": 261,
+          "group_id": 130,
+          "dua": "قَالَ ﷺ: «أحَبُّ الكَلَامِ إلَى اللهِ أرْبَعٌ: سُبْحَانَ اللهِ، وَ الحَمْدُ للهِ، وَ لَا إلَهَ إلَّا اللهُ، وَ اللهُ أكْبَرُ، لَا يَضُرُّكَ بِأيِّهِنَّ بَدَأْتَ»",
+          "translation": "Nabi (salla Allaahu ʻalayhi wa salaam) bersabda: 'Empat kalimah yang paling disukai Allah: Subhanallah, Alhamdulillah, Laa ilaaha illallah, Allahu Akbar.'",
+          "reference": "Muslim [2137](3/1685)."
+        },
+        {
+          "id": 262,
+          "group_id": 130,
+          "dua": "جَاءَ أعْرَابِيٌّ إلَى رَسُولُ اللهِ ﷺ فَقَالَ: عَلِّمْنِي كَلَامًا أقُولُهُ؟ قَالَ: «قُلْ: لَا إلَهَ إلَّا اللهُ وَ حْدَهُ لَا شَرِيكَ لَهُ، اللهُ أكْبَرُ كَبِيْراً، وَ الحَمْدُ للهِ كَثِيْراً، سُبْحَانَ اللهِ رَبِّ العَالَمِيْنَ، لَا حَوْلَ وَ لَا قُوَّةَ إلَّا بِااللهِ العَزِيزِ الحَكِيمِ»، قَالَ: فَهَؤُلَاءِ لِرَبِّي فَمَا لِي؟ قَالَ: «قُلْ: اللهم اغْفِرلِي، وَارْحَمْنِي، واهْدِنِي، وَارْزُقْنِي»",
+          "translation": "Tiada Tuhan yang disembah melainkan Allah, satu-satunya tanpa sekutu. Allah Maha Besar dan segala puji bagi-Nya. Maha Suci Allah, Tuhan sekalian alam. Tiada daya dan upaya kecuali dengan Allah Yang Maha Mulia lagi Maha Bijaksana. Ya Allah, ampunkanlah aku, rahmatilah aku, berikanlah petunjuk kepadaku dan kurniakanlah aku rezeki.",
+          "reference": "Muslim [2696](4/2072)."
+        },
+        {
+          "id": 263,
+          "group_id": 130,
+          "dua": "كَانَ الرَّجُلُ إذَا أَسْلَمَ عَلَّمَهُ النَّبِيُّ ﷺ الصَّلَاةَ، ثُمَّ أمَرَهُ أنْ يَدْعُوَ بِهَؤُلَاءِ الكَلِمَاتِ: «اللهم اغْفِرْلِي، وَارْحَمْنِي، وَاهْدِنِي، وِ عَافِنِي، وَارْزُقْنِي»",
+          "translation": "Ya Allah, ampunkanlah aku, rahmatilah aku, berikanlah petunjuk kepadaku, kurniakanlah kesihatan kepadaku dan berikanlah aku rezeki.",
+          "reference": "Muslim [2697](4/2073)."
+        },
+        {
+          "id": 264,
+          "group_id": 130,
+          "dua": "إنَّ أفْضَلَ الدُّعَاءِ: الحَمْدُ لِلَّهِ، وَ أفْضَلُ الذِّكْرِ: لَا إلَهَ إلَّا اللهُ",
+          "translation": "Sesungguhnya doa yang terbaik ialah: 'Segala puji bagi Allah.' dan zikir yang terbaik ialah: 'Tiada Tuhan yang disembah melainkan Allah.'",
+          "reference": "At-Tirmidhî [3383](5/462), Ibn Mâjah [3800](2/1249), dan Al-Hâkim (1/503) dan beliau mengesahkannya serta Adh-Dhahabî bersetuju dengannya. Juga lihat Ŝaĥîĥ Al-Jâmi' [1104](1/362)."
+        },
+        {
+          "id": 265,
+          "group_id": 130,
+          "dua": "البَاقِيَاتُ الصَّالِحَاتُ: سُبْحَانَ اللهِ، وَ الحَمْدُللهِ، وَ لَا إلَهَ إلَّا اللهُ، وَ اللهُ أكْبَرُ، وَ لَا حَوْلَ وَ لَا قُوَّةَ إلَّا بِااللهِ",
+          "translation": "Subhanallah, Alhamdulillah, Laa ilaaha illallah, Allahu Akbar, Laa hawla wa laa quwwata illaa billah.",
+          "reference": "Aĥmad [513](3/75) mengikut susunan Aĥmad Shâkir dan sanadnya adalah sahih. Juga lihat Majma' Az-Zawâ'id (1/297)....."
+        }
+      ]
+    },
+    {
+      "group_id": 131,
+      "title": "Cara Rasulullah (SAW) Bertasbih",
+      "duas": [
+        {
+          "id": 266,
+          "group_id": 131,
+          "dua": "عَنْ عَبْدِ اللهِ بْنِ عَمْروٍ قَالَ: رَأيْتُ النَّبِيَّ يَعْقِدُ التَّسْبِيْحَ بِيَمِيْنِهِ",
+          "translation": "'Abdullah ibn 'Amr (RA) berkata: 'Aku melihat Nabi (salla Allaahu ʻalayhi wa salaam) bertasbih menggunakan tangan kanannya.'",
+          "reference": "Abû Dâwud [1502](2/81) dan At-Tirmidhî [3486](5/521). Juga lihat Ŝaĥîĥ Al-Jâmi' [4865](4/271)."
+        }
+      ]
+    }
+  ]
+},
+  {
+    "category_id": 4,
+    "title": "Haji & Umrah",
+    "group": [
+      {
+        "group_id": 115,
+        "title": "Talbiyah Bagi Orang Yang Menunaikan Haji Atau Umrah",
+        "duas": [
+          {
+            "id": 233,
+            "group_id": 115,
+            "dua": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيْكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ والنِّعْمَةَ، لَكَ وَالمُلْكَ، لَا شَرِيْكَ لَكَ",
+            "translation": "Di sini aku berada, Ya Allah, (sebagai menjawab panggilan-Mu), di sini aku berada. Di sini aku berada, Engkau tiada sekutu, di sini aku berada. Sesungguhnya segala pujian, kurnia, dan kekuasaan adalah milik-Mu. Engkau tiada sekutu.",
+            "reference": "Al-Bukhârî [1549](3/408) dan Muslim [1184](2/841)."
+          }
+        ]
+    },
+    {
+      "group_id": 116,
+      "title": "Takbîr Ketika Melewati Hajar Aswad",
+      "duas": [
+        {
+          "id": 234,
+          "group_id": 116,
+          "dua": "اللهُ أَكْبَرُ",
+          "translation": "Allah Maha Besar.",
+          "reference": "Al-Bukhârî [1612](1/476)."
+        }
+      ]
+    },
+    {
+      "group_id": 117,
+      "title": "Antara Rukun Yamani Dan Hajar Aswad",
+      "duas": [
+        {
+          "id": 235,
+          "group_id": 117,
+          "dua": "﴾رَبَّنَا آتِنَا في الدُّنْيَا حَسَنَةً وفي الآخِرَةِ حَسَنَةً وقِنَا عَذَابَ النَّارِ﴿",
+          "translation": "Wahai Tuhan kami, berikanlah kepada kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka.",
+          "reference": "(1) Abû Dâwud [1892](2/179), Aĥmad (3/411) dan Al-Baghawî dalam Sharĥ As-Sunnah (7/128). Al-Albânî menyatakan ia Ĥasan dalam Ŝaĥîĥ Abû Dâwud (1/354).(2) Sûrah Al-Baqarah: 201."
+        }
+      ]
+    },
+    {
+      "group_id": 118,
+      "title": "Ketika Di Bukit Safa Dan Bukit Marwah",
+      "duas": [
+        {
+          "id": 236,
+          "group_id": 118,
+          "dua": "لَمَّا دَنَا النَّبِيُّ ﷺ مِنَ الصَّفَا قَرَأ: ﴾إنَّ الصَّفَا وَ المَرْوَةَ مِنْ شَعَائِرِ اللهِ﴿«أبْدَأ بِمَا بَدَأ اللهُ بِهِ» فَبَدأ بِالصَّفَا، فَرَقِيَ عَلَيْهِ، حَتَّى رَأَى البَيْتَ، فَاسْتَقْبَلَ القِبْلَةَ، فَوَحَّدَ اللهَ، وَ كَبَّرَهُ، وَ قَالَ: «لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ وَ لَهُ الحَمْدُ، وَ هُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ، لَا إلَهَ إلَّا اللهٌ وَ حْدَهُ، أنْجَزَ وَعْدَهُ، وَ نَصَرَ عَبْدَهُ، وَ هَزَمَ الأَحْزَابَ وَحْدَهُ، ثُمَّ دَعَا بَيْنَ ذَلِكَ، قَالَ مِثْلَ هَذَا ثَلَاثَ مَرَّاتٍ...، الحَدِيْثُ، وَ فِيْهِ: فَفَعَلَ عَلَى المَرْوَةِ كَمَا فَعَلَ عَلَى الصَّفَا»",
+          "translation": "Sesungguhnya Safa dan Marwah adalah daripada tempat ibadah kepada Allah… Tiada Tuhan yang disembah selain Allah, Allah Maha Besar. Tiada Tuhan yang disembah selain Allah, satu-satunya tanpa sekutu. Kepunyaan-Nya segala kerajaan dan segala pujian, dan Dia Maha Kuasa atas segala sesuatu. Tiada Tuhan yang disembah selain Allah, satu-satunya. Dia menunaikan janji-Nya, menolong hamba-Nya, dan mengalahkan sekutu-sekutu sendirian.",
+          "reference": "Muslim [1218](2/888)."
+        }
+      ]
+    },
+    {
+      "group_id": 119,
+      "title": "Hari Arafah",
+      "duas": [
+        {
+          "id": 237,
+          "group_id": 119,
+          "dua": "لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ، ولَهُ الحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ",
+          "translation": "Tiada Tuhan yang disembah selain Allah, satu-satunya tanpa sekutu. Kepunyaan-Nya segala kerajaan dan segala pujian, dan Dia Maha Kuasa atas segala sesuatu.",
+          "reference": "At-Tirmidhî [3585]. Al-Albânî menyatakannya sahih dalam Ŝaĥîĥ At-Tirmidhî (3/184) dan Al-Aĥâdîth Aŝ-Ŝaĥîĥah (4/6)."
+        }
+      ]
+    },
+    {
+      "group_id": 120,
+      "title": "Zikir Di Muzdalifah",
+      "duas": [
+        {
+          "id": 238,
+          "group_id": 120,
+          "dua": "رَكِبَ ﷺ القَصْوَاءَ حَتَّى أتَى المَشْعَرَ الحَرَامَ، فَاسْتَقْبَلَ القِبْلَةَ (فَدَعَاهُ، وَ كَبَّرَهُ، وَ هَلَّلَهُ، وَ وَحَّدَهُ) فَلَمْ يَزَلْ وَاقِفًا حَتَّى أسْفَرَ جِدّاً، فَدَفَعَ قَبْلَ أنْ تَطْلُعَ الشَّمْسُ",
+          "translation": "Nabi (salla Allaahu ʻalayhi wa salaam) menunggang Al-Qaswa sehingga tiba di Al-Mash'ar Al-Haram, kemudian beliau menghadap kiblat, berdoa kepada Allah, membesarkan-Nya, dan mengesakan-Nya. Baginda berdiri sehingga matahari hampir terbit, kemudian beredar sebelum matahari terbit.",
+          "reference": "Muslim [1218](2/891)."
+        }
+      ]
+    },
+    {
+      "group_id": 121,
+      "title": "Ketika Melontar Setiap Batu Di Jamarat",
+      "duas": [
+        {
+          "id": 239,
+          "group_id": 121,
+          "dua": "يُكَبِّرُ كُلَّمَا رَمَى بِحَصَاةٍ عِنْدَ الجِمَارِ الثَّلاثِ، ثُمَّ يَتَقَدَّمُ، وَ يَقِفُ يَدْعُوْ مُسْتَقْبِلَ القِبْلَةَ، رَافِعاً يَدَيْهِ بَعْدَ الجَمْرَةِ الأوْلَى وَ الثَّانِيَةِ، أمَّا جَمْرَةُ العَقَبَةِ فَيَرْمِيْهَا، وَ يُكَبِّرُ عِنْدَ كُلِّ حَصَاةٍ، وَ يَنْصَرِفُ، وَ لَا يَقِفُ عِنْدَهَا",
+          "translation": "Al-Bukhârî [1752 dan 1753](3/583-584), juga lihat lafaznya di sana, Al-Bukhârî [1750](3/581) dan Muslim [1296] meriwayatkannya juga daripada hadis Ibn Mas'ûd (RA).",
+          "reference": "Al-Bukhârî [1752, 1753](3/583-584) dan lihat lafaznya di sana, Al-Bukhârî [1750](3/581) dan Muslim [1296]."
+        }
+      ]
+    },
+    {
+      "group_id": 127,
+      "title": "Ketika Menyembelih Atau Mengorbankan Haiwan",
+      "duas": [
+        {
+          "id": 246,
+          "group_id": 127,
+          "dua": "بِسْمِ اللهِ واللهُ أَكْبَرُ [اللَّهُمَّ مِنْكَ ولَكَ] اللَّهُمَّ تَقَبَّلْ مِنِّي",
+          "translation": "Dengan nama Allah, dan Allah Maha Besar. Ya Allah, (ia) daripada-Mu dan kepunyaan-Mu, Ya Allah, terimalah ini dariku.",
+          "reference": "Muslim [1966](3/1557) dan Baihaqî (9/287). Apa yang terdapat dalam kurungan ialah daripada Baihaqî dan lain-lain."
+        }
+      ]
+    }
+  ]
+},
+  {
+    "category_id": 5,
+    "title": "Perjalanan",
+    "group": [
+      {
+        "group_id": 95,
+        "title": "Apabila Menunggang Haiwan Atau Sebarang Alat Pengangkutan",
+        "duas": [
+          {
+            "id": 206,
+            "group_id": 95,
+            "dua": "بِسْمِ اللهِ، وَالْحَمْدُ لِلَّهِ ﴾سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ﴿ الحَمْدُ لِلَّهِ، الحَمْدُ لِلَّهِ، الحَمْدُ لِلَّهِ، اللهُ أكْبَرُ، اللهُ أكْبَرُ، اللهُ أكْبَرُ، سُبْحَانَكَ اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِيْ، فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+            "translation": "Dengan nama Allah, segala puji bagi Allah. Maha Suci Dia, yang telah menundukkan ini untuk kami, padahal kami tidak mampu menguasainya, dan sesungguhnya kepada Tuhan kamilah kami akan kembali. Segala puji bagi Allah, segala puji bagi Allah, segala puji bagi Allah. Allah Maha Besar, Allah Maha Besar, Allah Maha Besar. Maha Suci Engkau, ya Allah, sesungguhnya aku telah menganiaya diriku sendiri, maka ampunilah aku, sesungguhnya tiada yang dapat mengampuni dosa selain Engkau.",
+            "reference": "Abû Dâwud [2602](3/34) dan At-Tirmidhî [3446](5/510). Juga lihat Ŝaĥîĥ At-Tirmidhî (3/156)."
+          }
+        ]
+    },
+    {
+      "group_id": 96,
+      "title": "Doa Untuk Perjalanan",
+      "duas": [
+        {
+          "id": 207,
+          "group_id": 96,
+          "dua": "(١) اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ ﴾سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ﴿ اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِعَنَّا بُعْدَهُ، اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَلِيْفَةُ فِي الأَهْلِ، اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكآبَةِ الْمَنْظَرِ وَسُوءِ المُنْقَلَبِ فِي الْمَالِ وَالأَهْلِ(٢) آيِبُونَ، تَائِبُونَ، عَابِدُونَ، لِرَبِّنَا حَامِدُونَ",
+          "translation": "(1) Allah Maha Besar, Allah Maha Besar, Allah Maha Besar. Maha Suci Dia, yang telah menundukkan ini untuk kami, padahal kami tidak mampu menguasainya, dan sesungguhnya kepada Tuhan kamilah kami akan kembali. Ya Allah, kami mohon kepada-Mu kebaikan dan ketakwaan dalam perjalanan ini, dan kami memohon kepada-Mu perbuatan yang Engkau redhai. Ya Allah, permudahkanlah perjalanan kami ini dan dekatkanlah jaraknya. Ya Allah, Engkau adalah Peneman di perjalanan dan Pelindung bagi keluarga. Ya Allah, aku berlindung dengan-Mu daripada kesulitan perjalanan, daripada pemandangan yang buruk dan akibat buruk pada harta dan keluarga.Apabila pulang, doa yang sama dibaca dengan tambahan berikut:(2) 'Kami kembali, bertaubat, beribadah, dan memuji Tuhan kami.'",
+          "reference": "Muslim [1342](2/998)."
+        }
+      ]
+    },
+    {
+      "group_id": 97,
+      "title": "Ketika Memasuki Bandar Atau Desa",
+      "duas": [
+        {
+          "id": 208,
+          "group_id": 97,
+          "dua": "اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَمَا أَظْلَلْنَ، وَرَبَّ الأَرْاضِيْنَ السَّبْعِ وَمَا أقْلَلْنَ، وَرَبَّ الشَّيَاطِيْنِ وَمَا أَضْلَلْنَ، وَرَبَّ الرِّيَاحِ وَمَا ذَرَيْنَ، أَسْأَلُكَ خَيْرَ هَذِهِ الْقَرْيَةِ وَخَيْرَ أَهْلِهَا، وَخَيْرَ مَا فِيْهَا، وَأَعُوذُ بِكَ مِنْ شَـرِّهَا، وَشَرِّ أَهْلِهَا، وَشَرِّ مَا فِيْهَا",
+          "translation": "Ya Allah, Tuhan langit yang tujuh dan segala yang dinaunginya, Tuhan bumi yang tujuh dan segala yang dipikulnya, Tuhan syaitan dan segala yang disesatkannya, Tuhan angin dan segala yang ditiupkannya. Aku memohon kepada-Mu kebaikan dari kampung ini, kebaikan penduduknya, dan kebaikan yang ada di dalamnya, dan aku berlindung kepada-Mu daripada keburukan kampung ini, keburukan penduduknya, dan keburukan yang ada di dalamnya.",
+          "reference": "Al-Hâkim (2/100) dan beliau menyatakannya sahih, dan Adh-Dhahabî bersetuju dengannya, Ibn As-Sunnî [524], Al-Hâfiž menyatakan hadis ini Ĥasan dalam Takrîj Al-Athkâr (5/154). Shaykh Ibn Bâz mengatakan ia diriwayatkan oleh An-Nisâ'i ['Amal al-Yawm wa al-Laylah][547-548] dengan sanad yang Ĥasan. Juga lihat Tuĥfat Al-Akhyâr (ms. 37)."
+        }
+      ]
+    },
+    {
+      "group_id": 98,
+      "title": "Ketika Memasuki Pasar",
+      "duas": [
+        {
+          "id": 209,
+          "group_id": 98,
+          "dua": "لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ وَلَهُ الحَمْدُ، يُحْيِي وَيُمِيْتُ، وَهُوَ حَيٌّ لَا يَمُوتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ",
+          "translation": "Tiada Tuhan yang disembah selain Allah, satu-satunya tanpa sekutu. Kepunyaan-Nya segala kerajaan dan segala pujian. Dia menghidupkan dan mematikan, dan Dia Maha Hidup dan tidak akan mati. Di tangan-Nya segala kebaikan dan Dia Maha Kuasa atas segala sesuatu.",
+          "reference": "At-Tirmidhî [3429](5/291), Al-Hâkim (1/538) dan Ibn Mâjah [2235]. Al-Albânî mengkategorikan hadis ini sebagai Ĥasan dalam Ŝaĥîĥ Ibn Mâjah (2/21) dan Ŝaĥîĥ At-Tirmidhî (3/152)."
+        }
+      ]
+    },
+    {
+      "group_id": 99,
+      "title": "Apabila Haiwan (atau Pengangkutan) Tersandung",
+      "duas": [
+        {
+          "id": 210,
+          "group_id": 99,
+          "dua": "بِسْمِ اللهِ",
+          "translation": "Dengan nama Allah.",
+          "reference": "Abû Dâwud [4982](4/296). Al-Albânî menyatakannya sahih dalam Ŝaĥîĥ Abû Dâwud (3/941)."
+        }
+      ]
+    },
+    {
+      "group_id": 100,
+      "title": "Doa Musafir Untuk Orang Yang Tinggal",
+      "duas": [
+        {
+          "id": 211,
+          "group_id": 100,
+          "dua": "أَسْتَوْدِعُكُمُ اللَّهَ، الَّذِيْ لَا تَضِيْعُ وَدَائِعُهُ",
+          "translation": "Aku serahkan kamu kepada Allah, yang amanah-Nya tidak pernah disia-siakan.",
+          "reference": "Aĥmad (2/403) dan Ibn Mâjah [2825](2/943). Juga lihat Ŝaĥîĥ Ibn Mâjah (2/133)."
+        }
+      ]
+    },
+    {
+      "group_id": 101,
+      "title": "Doa Orang Yang Tinggal Untuk Musafir",
+      "duas": [
+        {
+          "id": 212,
+          "group_id": 101,
+          "dua": "أَسْتَوْدِعُ اللَّهَ دِيْنَكَ، وَأَمَانَتَكَ، وَخَوَاتِيْمَ عَمَلِكَ",
+          "translation": "Aku serahkan agamamu, kejujuranmu, dan penghujung amalmu kepada Allah.",
+          "reference": "Aĥmad (2/7) dan At-Tirmidhî [3443](5/499). Juga lihat Ŝaĥîĥ At-Tirmidhî (2/155)."
+        },
+        {
+          "id": 213,
+          "group_id": 101,
+          "dua": "زَوَّدَكَ اللَّهُ التَّقْوَى، وَغَفَرَذَنْبَكَ، وَيَسَّرَ لَكَ الخَيْرَ حَيْثُمَا كُنْتَ",
+          "translation": "Semoga Allah menganugerahimu ketakwaan, mengampuni dosamu, dan memudahkan semua kebaikan untukmu di mana sahaja kamu berada.",
+          "reference": "At-Tirmidhî [3444]. Juga lihat Ŝaĥîĥ At-Tirmidhî (3/155)."
+        }
+      ]
+    },
+    {
+      "group_id": 102,
+      "title": "Zikir Ketika Mendaki Atau Menuruni Tempat Tinggi",
+      "duas": [
+        {
+          "id": 214,
+          "group_id": 102,
+          "dua": "(١) اللهُ أَكْبَرُ(٢) سُبْحَانَ اللهُ",
+          "translation": "Ketika mendaki, bacalah (1) 'Allah Maha Besar', dan ketika menuruni tempat rendah, bacalah (2) 'Maha Suci Allah'.",
+          "reference": "Al-Bukhârî [2993](6/135)."
+        }
+      ]
+    },
+    {
+      "group_id": 103,
+      "title": "Doa Musafir Ketika Fajar Menyingsing",
+      "duas": [
+        {
+          "id": 215,
+          "group_id": 103,
+          "dua": "سَمَّعَ سَامِعٌ بِحَمْدِ اللهِ، وَحُسْنِ بَلائِهِ عَلَيْنَا،.رَبَّنَا صَاحِبْنَا، وَأَفْضِلْ عَلَيْنَا عَائِذاً باللهِ مِنَ النَّارِ",
+          "translation": "Semoga seseorang menjadi saksi atas pujian kami kepada Allah atas kebaikan-Nya kepada kami. Tuhan kami, lindungilah kami, limpahkanlah rahmat-Mu kepada kami, dan jauhkanlah kami daripada keburukan. Aku berlindung dengan Allah daripada api neraka.",
+          "reference": "Muslim [2718](4/2086)."
+        }
+      ]
+    },
+    {
+      "group_id": 104,
+      "title": "Ketika Berhenti Atau Bermalam Di Suatu Tempat",
+      "duas": [
+        {
+          "id": 216,
+          "group_id": 104,
+          "dua": "أَعُوذُ بِكَلِمَاتِ اللّهِِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+          "translation": "Aku berlindung dengan kalimah-kalimah Allah yang sempurna daripada keburukan segala yang Dia ciptakan.",
+          "reference": "Muslim [2708](4/2080)."
+        }
+      ]
+    },
+    {
+      "group_id": 105,
+      "title": "Ketika Pulang Dari Perjalanan",
+      "duas": [
+        {
+          "id": 217,
+          "group_id": 105,
+          "dua": "اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لهُ، لهُ المُلْكُ وَ لَهُ الحَمْدُ، وهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ، آيِبُونَ، تَائِبُونَ، عَابِدُونَ، لِرَبِّنَا حـَامِدُونَ، صَدَقَ اللهُ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَهَزَمَ الأحْزَابَ وَحْدَهُ",
+          "translation": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar. Tiada Tuhan yang disembah selain Allah, satu-satunya tanpa sekutu. Kepunyaan-Nya segala kerajaan dan segala pujian, dan Dia Maha Kuasa atas segala sesuatu. Kami kembali, bertaubat, beribadah, dan memuji Tuhan kami. Allah telah menepati janji-Nya, menolong hamba-Nya, dan mengalahkan musuh-musuh-Nya seorang diri.",
+          "reference": "Al-Bukhârî [1797](7/163) dan Muslim [1344](2/980)."
+        }
+      ]
+    }
+  ]
+},
+  {
+    "category_id": 6,
+    "title": "Kegembiraan & Kesedihan",
+    "group": [
+      {
+        "group_id": 34,
+        "title": "Untuk Kegelisahan Dan Kesedihan",
+        "duas": [
+          {
+            "id": 120,
+            "group_id": 34,
+            "dua": "اللَّهُمَّ إِنِّي عَبْدُكَ، ابْنُ عَبْدِكَ، ابْنُ أَمَتِكَ، نَاصِيَتِي بِيَدِكَ، مَاضٍ فِيَّ حُكْمُكَ، عَدْلٌ فِيَّ قَضَاؤُكَ، أَسْأَلُكَ بِكُلِّ اسْمٍ هُوَ لَكَ، سَمَّيْتَ بِهِ نَفْسَكَ، أوْ أَنْزَلْتَهُ فِي كِتَابِكَ، أَوْ عَلَّمْتَهُ أَحَداً مِنْ خَلْقِكَ، أَوِ اسْتَأْثَرْتَ بِهِ فِي عِلْمِ الغَيْبِ عِنْدَكَ، أَنْ تَجْعَلَ القُرْآنَ رَبِيْعَ قَلْبِي، وَنُورَ صَدْرِي، وجَلَاءَ حُزْنِي، وَذَهَابَ هَمِّي",
+            "translation": "Ya Allah, aku adalah hamba-Mu, anak kepada hamba-Mu lelaki, anak kepada hamba-Mu perempuan, ubun-ubunku dalam genggaman-Mu, ketetapan-Mu atas diriku pasti berlaku dan takdir-Mu ke atasku adalah adil. Aku memohon kepada-Mu dengan setiap nama yang Engkau namakan diri-Mu dengannya, atau yang Engkau turunkan di dalam kitab-Mu, atau yang Engkau ajarkan kepada salah seorang daripada makhluk-Mu, atau yang Engkau simpan dalam ilmu ghaib di sisi-Mu, agar Engkau jadikan al-Quran sebagai penawar hatiku, cahaya dadaku, penghapus dukacitaku, dan penghilang kegelisahanku.",
+            "reference": "Aĥmad (1/391). Al-Albânî mensahihkannya dalam Al-Kalam Ať-Ťayyib [124]."
+          },
+          {
+            "id": 121,
+            "group_id": 34,
+            "dua": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الهَمِّ وَ الْحَـزَنِ، والعَجْـزِ والكَسَلِ، والبُخْلِ والجُبْنِ، وضَلَعِ الدَّيْنِ وغَلَبَةِ الرِّجَالِ",
+            "translation": "Ya Allah, aku berlindung dengan-Mu daripada kegelisahan dan kesedihan, kelemahan dan kemalasan, kedekut dan pengecut, bebanan hutang, dan daripada ditindas oleh manusia.",
+            "reference": "Al-Bukhârî [6363](7/158), lihat Fatĥ al-Bârî (11/173)."
+          }
+        ]
+      },
+      {
+        "group_id": 35,
+        "title": "Untuk Orang Yang Dalam Kesusahan",
+        "duas": [
+          {
+            "id": 122,
+            "group_id": 35,
+            "dua": "لَا إلَهَ إِلَّا اللَّهُ الْعَظِيْمُ الْحَلِيْمُ، لَا إِلَهَ إِلَّا اللَّهُ رَبُّ العَرْشِ العَظِيْمُ، لَا إِلَهَ إِلَّا اللَّهُ رَبُّ السَّمَوَاتِ، وَرَبُّ الأَرْضِ وَرَبُّ العَرْشِ الكَرِيْمِ",
+            "translation": "Tiada Tuhan yang disembah selain Allah Yang Maha Agung dan Maha Penyabar. Tiada Tuhan yang disembah selain Allah, Tuhan bagi arasy yang agung. Tiada Tuhan yang disembah selain Allah, Tuhan bagi langit, Tuhan bagi bumi, dan Tuhan bagi arasy yang mulia.",
+            "reference": "Al-Bukhârî [6346](7/154) dan Muslim [2730](4/2092)."
+          },
+          {
+            "id": 123,
+            "group_id": 35,
+            "dua": "اللَّهُمَّ رَحْمَتَكَ أَرْجـُو، فَلا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ، وَأَصْلِحْ لِي شَأْنِي كُلَّهُ، لَا إِلَهَ إِلَّا أنْتَ",
+            "translation": "Ya Allah, hanya kepada rahmat-Mu aku berharap, maka janganlah Engkau serahkan aku kepada diriku sendiri walaupun sekelip mata dan perbaikilah semua urusanku. Tiada Tuhan yang disembah selain Engkau.",
+            "reference": "Abû Dâwud [5090](4/324) dan Aĥmad (5/42). Al-Albânî mensahihkannya dalam Ŝaĥîĥ Abî Dâwud (3/959)."
+          },
+          {
+            "id": 124,
+            "group_id": 35,
+            "dua": "لَا إِلَهَ إِلَّا أنْتَ سُبْحَانَكَ، إِنِّي كُنْتُ مِنَ الظَّالِمِيْنَ",
+            "translation": "Tiada Tuhan yang disembah selain Engkau, Maha Suci Engkau, sesungguhnya aku adalah termasuk orang yang zalim.",
+            "reference": "At-Tirmidhî [3505](5/529) dan Al-Hâkim (1/505) dan beliau menyatakannya sahih dan Adh-Dhahabî bersetuju dengannya. Juga lihat Ŝaĥîĥ At-Tirmidhî (3/168)."
+          },
+          {
+            "id": 125,
+            "group_id": 35,
+            "dua": "اللهُ اللهُ رَبِّي لَا أُشْرِكُ بِهِ شَيْئاً",
+            "translation": "Allah, Allah adalah Tuhanku, aku tidak menyekutukan-Nya dengan apa pun.",
+            "reference": "Abû Dâwud [1525](2/87). Juga lihat Ŝaĥîĥ Ibn Mâjah (2/335)."
+          }
+        ]
+      },
+      {
+        "group_id": 36,
+        "title": "Apabila Menghadapi Musuh Atau Pihak Berkuasa",
+        "duas": [
+          {
+            "id": 126,
+            "group_id": 36,
+            "dua": "اللَّهُمَّ إِنَّا نَجْعَلُكَ فِي نُحُورِهِمْ، وَنَعُوذُ بِكَ مِنْ شُرُورِهـِمْ",
+            "translation": "Ya Allah, kami jadikan Engkau di hadapan mereka, dan kami berlindung dengan-Mu daripada kejahatan mereka.",
+            "reference": "Abû Dâwud [1537](2/89) dan Al-Hâkim (2/142) dan beliau menyatakannya sahih dan Adh-Dhahabî bersetuju dengannya."
+          },
+          {
+            "id": 127,
+            "group_id": 36,
+            "dua": "اللَّهُمَّ أَنْتَ عَضُدِي، وَأَنْتَ نَصِيْرِي، بِكَ أَحُولُ، وَبِكَ أَصُولُ، وَبِكَ أُقَاتِلُ",
+            "translation": "Ya Allah, Engkaulah penolongku, Engkaulah pembantuku, dengan-Mu aku bergerak, dengan-Mu aku menyerang, dan dengan-Mu aku berperang.",
+            "reference": "Abû Dâwud [2632](3/42) dan At-Tirmidhî [3584](5/572). Juga lihat Ŝaĥîĥ At-Tirmidhî (3/183)."
+          },
+          {
+            "id": 128,
+            "group_id": 36,
+            "dua": "حَسْبُنَا اللهُ، وَنِعْمَ الوَكِيْلُ",
+            "translation": "Cukuplah Allah bagi kami, dan Dia sebaik-baik pelindung.",
+            "reference": "Al-Bukhârî [4563](5/172)."
+          }
+        ]
+      },
+      {
+        "group_id": 37,
+        "title": "Untuk Orang Yang Takut Ketidakadilan Pemerintah",
+        "duas": [
+          {
+            "id": 129,
+            "group_id": 37,
+            "dua": "اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ، وَ رَبَّ العَرْشِ العَظِيْمِ، كُنْ لِي جَاراً مِنْ فُلَانِ بْنِ فُلَانٍ، وَ أَحْزَابِهِ مِنْ خَلائِقِكَ؛ أَنْ يَفْرُطَ عَلَيَّ أَحَدٌ مِنهُمْ أوْ يَطْغَى، عَزَّ جَارُكَ، وَ جَلَّ ثَنَائُكَ، وَ لَا إِلَهَ إِلَّا أَنْتَ",
+            "translation": "Ya Allah, Tuhan bagi tujuh langit dan arasy yang agung, jadilah pelindungku dari si Fulan bin Fulan, dan dari sekutu-sekutunya dalam kalangan makhluk-Mu. Jauhkanlah mereka dari menganiaya atau melampaui batas terhadapku. Mahasuci Engkau, tiada Tuhan selain Engkau.",
+            "reference": "Al-Bukhârî [Al-Adab Al-Mufrad][707] dan Al-Albânî mensahihkannya dalam Ŝaĥîĥ Al-Adab Al-Mufrad [545]."
+          },
+          {
+            "id": 130,
+            "group_id": 37,
+            "dua": "اللهُ أَكْبَرُ، اللهُ أَعَزُّ مِنْ خَلْقِهِ جَمِيْعًا، اللهُ أَعَزُّ مِمَّا أَخَافُ وَ أَحْذَرُ، أَعُوذُ باللهِ الَّذِي لَا إِلَهَ إِلَّا هُوَ، الْمُمْسِكِ السَّمَوَاتِ السَّبْعِ أَنْ يَقَعْنَ عَلَى الأَرْضِ إِلَّا بِإِذْنِهِ، مِنْ شَرِّ عَبْدِكَ فُلاَنٍ، وُجُنُودِهِ وَ أَتْبَاعِهِ وَ أَشْيَاعِهِ، مِنَ الْجِنِّ وَ الإِنْسِ، اللَّهُمَّ كُنْ لِي جَارًا مِنْ شَرِّهِمْ، جَلَّ ثَنَاؤُك، وَ عَزَّ جَارُكَ، وَ تَبَارَكَ اسْمُكَ: وَ لَا إِلَهَ غَيْرُكَ. [ثَلاثَ مَرَّاتٍ]",
+            "translation": "Allah Maha Besar, Allah lebih perkasa daripada segala makhluk-Nya. Allah lebih perkasa daripada apa yang aku takuti dan risaukan. Aku berlindung dengan Allah, tiada Tuhan melainkan Dia yang memegang langit yang tujuh supaya tidak jatuh ke bumi kecuali dengan izin-Nya. Aku berlindung daripada keburukan hamba-Mu si Fulan, tenteranya, pengikutnya dan sekutunya dalam kalangan jin dan manusia. Ya Allah, lindungilah aku daripada kejahatan mereka. Mahasuci Engkau, Mahasuci nama-Mu, tiada Tuhan selain Engkau.",
+            "reference": "Al-Bukhârî [Al-Adab Al-Mufrad][708] dan Al-Albânî mensahihkannya dalam Ŝaĥîĥ Al-Adab Al-Mufrad (546)."
+          }
+        ]
+      },
+      {
+        "group_id": 38,
+        "title": "Terhadap Musuh",
+        "duas": [
+          {
+            "id": 131,
+            "group_id": 38,
+            "dua": "اللَّهُمَّ مُنْزِلَ الْكِتَابِ، سَرِيْعَ الْحِسَابِ، اهْزِمِ الأحْزَابَ، اللَّهُمَّ اهْزِمْهُمْ وَ زَلْزِلْهُمْ",
+            "translation": "Ya Allah, Penurun Kitab, yang cepat perhitungan-Nya, kalahkanlah sekutu-sekutu itu. Ya Allah, kalahkan mereka dan goncangkanlah mereka.",
+            "reference": "Muslim [1742](3/1362)."
+          }
+        ]
+      },
+      {
+        "group_id": 39,
+        "title": "Apabila Takut Pada Sekumpulan Orang",
+        "duas": [
+          {
+            "id": 132,
+            "group_id": 39,
+            "dua": "اللَّهُمَّ اكْفِنِيْهِمْ بِمَا شِئْتَ",
+            "translation": "Ya Allah, lindungilah aku dari mereka dengan cara yang Engkau kehendaki.",
+            "reference": "Muslim [3005](4/2300)."
+          }
+        ]
+      },
+      {
+        "group_id": 40,
+        "title": "Untuk Orang Yang Ditimpa Keraguan Dalam Imannya",
+        "duas": [
+          {
+            "id": 133,
+            "group_id": 40,
+            "dua": "(1) يَسْتَعِيْذُ بِاللهِ(2) يَنْتَهِي عَمَّا وَسْوَسَ فِيْهِ",
+            "translation": "(1) Berlindung dengan Allah daripada syaitan.(2) Jauhkan diri dari apa yang menyebabkan keraguan.",
+            "reference": "Al-Bukhârî [6/336](6/336) dan Muslim [134,214](1/120)."
+          },
+          {
+            "id": 134,
+            "group_id": 40,
+            "dua": "آمَنْتُ بِاللهِ وَرُسُلِهِ",
+            "translation": "Aku beriman kepada Allah dan rasul-rasul-Nya.",
+            "reference": "Muslim [134,212](1/119-120)."
+          },
+          {
+            "id": 135,
+            "group_id": 40,
+            "dua": "﴾هُوَ الأوَّلُ وَالآخِـرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ﴿",
+            "translation": "Dia adalah Yang Awal dan Yang Akhir, Yang Zahir dan Yang Batin, dan Dia mengetahui segala sesuatu.",
+            "reference": "(1) Surah Al-Ĥadîd : 3.(2) Abû Dâwud [5110](4/329) dan Al-Albânî menyatakan ia Ĥasan dalam Ŝaĥîĥ Abî Dâwud (3/962)."
+          }
+        ]
+      },
+      {
+        "group_id": 41,
+        "title": "Melangsaikan Hutang",
+        "duas": [
+          {
+            "id": 136,
+            "group_id": 41,
+            "dua": "اللَّهُمَّ اكْفِنِي بِحَلاَلِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+            "translation": "Ya Allah, cukupkanlah aku dengan yang halal sebagai ganti yang haram, dan perkayakanlah aku dengan kurniaan-Mu agar tidak memerlukan orang lain.",
+            "reference": "At-Tirmidhî [3563](5/650). Juga lihat Ŝaĥîĥ At-Tirmidhî (3/180)."
+          },
+          {
+            "id": 137,
+            "group_id": 41,
+            "dua": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الهَمِّ وَ الْحَـزَنِ، والعَجْزِ والكَسَلِ، والبُخْلِ والجُبْنِ، وضَلَعِ الدَّيْنِ وغَلَبَةِ الرِّجَال",
+            "translation": "Ya Allah, aku berlindung dengan-Mu daripada kegelisahan dan kesedihan, kelemahan dan kemalasan, kedekut dan pengecut, bebanan hutang, dan daripada ditindas oleh manusia.",
+            "reference": "Al-Bukhârî [6363](7/158)."
+          }
+        ]
+      },
+      {
+        "group_id": 53,
+        "title": "Bagi Orang Yang Ditimpa Musibah",
+        "duas": [
+          {
+            "id": 154,
+            "group_id": 53,
+            "dua": "إِنَّا لِلهِ وَ إِنَّا إِلَيْهِ رَاجِعُونَ، اللَّهُمَّ أجُرْنِي فِي مُصِيْبَتِي، وَ أخْلِفْ لِي خَيْراً مِنْهَا",
+            "translation": "Sesungguhnya kami milik Allah, dan kepada-Nya kami akan kembali. Ya Allah, berilah aku ganjaran atas musibah ini, dan gantikanlah ia dengan sesuatu yang lebih baik daripadanya.",
+            "reference": "Muslim [918](2/632)."
+          }
+        ]
+      },
+      {
+        "group_id": 92,
+        "title": "Takut Akan Syirik",
+        "duas": [
+          {
+            "id": 203,
+            "group_id": 92,
+            "dua": "اللَّهُمَّ إِنِّي أَعُوذُبِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لَا أَعْلَمُ",
+            "translation": "Ya Allah, aku berlindung dengan-Mu daripada menyekutukan-Mu dalam keadaan aku tahu, dan aku memohon ampunan-Mu atas apa yang aku tidak tahu.",
+            "reference": "Aĥmad (4/403). Juga lihat Ŝaĥîĥ Al-Jâmi' [3731](3/233) dan Ŝaĥîĥ At-Targhîb wa At-Tarhîb [36](1/122) oleh Al-Albânî."
+          }
+        ]
+      },
+      {
+        "group_id": 94,
+        "title": "Melarang Menisbahkan Sesuatu Kepada Takhayul",
+        "duas": [
+          {
+            "id": 205,
+            "group_id": 94,
+            "dua": "اللَّهُمَّ لَا طَيْرَ إِلَّا طَيْرُكَ، وَلَا خَيْرَ إِلَّا خَيْرُكَ، وَلَا إِلَهَ غَيْرُكَ",
+            "translation": "Ya Allah, tiada petanda kecuali yang datang daripada-Mu, tiada kebaikan kecuali kebaikan-Mu, dan tiada Tuhan selain Engkau.",
+            "reference": "Aĥmad (2/220), Ibn As-Sunnî [292] dan Al-Albânî mensahihkannya dalam [Al-Aḥâdīth Aŝ-Ŝaĥîĥah][1065](3/54)."
+          }
+        ]
+      },
+      {
+        "group_id": 106,
+        "title": "Ketika Mendapatkan Khabar Baik atau Buruk",
+        "duas": [
+          {
+            "id": 218,
+            "group_id": 106,
+            "dua": "(١) الحَمْدُ لِلَّهِ الَّذِيْ بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ(٢) الحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ",
+            "translation": "Apabila menerima khabar baik, ucapkan: (1) 'Segala puji bagi Allah yang dengan kurnia-Nya kebaikan terlaksana.'Apabila menerima khabar buruk, ucapkan: (2) 'Segala puji bagi Allah atas segala keadaan.'",
+            "reference": "Ibn As-Sunnî ['Amal al-Yawm wa al-Laylah][378] dan Al-Hâkim (1/499) yang mengesahkannya. Al-Albânî mengesahkan dalam Ŝaĥîĥ Al-Jâmi' [4640](4/201)."
+          }
+        ]
+      },
+      {
+        "group_id": 122,
+        "title": "Ketika Merasa Takjub atau Gembira",
+        "duas": [
+          {
+            "id": 240,
+            "group_id": 122,
+            "dua": "سُبْحَانَ اللهِ!",
+            "translation": "Maha Suci Allah!",
+            "reference": "Al-Bukhârî [155](1/210), [283](1/390) dan Muslim [371], [314](414), [332](4/1857)."
+          },
+          {
+            "id": 241,
+            "group_id": 122,
+            "dua": "اللهُ أَكْبَرُ",
+            "translation": "Allah Maha Besar.",
+            "reference": "Al-Bukhârî [4741](8/441). Juga lihat Ŝaĥîĥ At-Tirmidhî (2/103),(2/235) dan Aĥmad (5/218)."
+          }
+        ]
+      },
+      {
+        "group_id": 123,
+        "title": "Ketika Mendapatkan Khabar Gembira",
+        "duas": [
+          {
+            "id": 242,
+            "group_id": 123,
+            "dua": "كَانَ النَّبِيُّ ﷺ إذَا أتَاهُ أَمْرٌ يَسُرُّهُ أَوْ يُسَرُّ بِهِ؛ خَرَّ سَاجِداً شُكْراً لله تَبَارَكَ وَ تَعَالَى",
+            "translation": "Nabi (salla Allaahu ʻalayhi wa salaam) akan sujud tanda kesyukuran kepada Allah apabila menerima khabar yang menggembirakan baginda.",
+            "reference": "Abû Dâwud [2774], At-Tirmidhî [1578] dan Ibn Mâjah [1394]. Juga lihat Ŝaĥîĥ Ibn Mâjah (1/233) dan Irwâ'-ul-Ghalîl (2/226)."
+          }
+        ]
+      },
+      {
+        "group_id": 126,
+        "title": "Ketika Terkejut",
+        "duas": [
+          {
+            "id": 245,
+            "group_id": 126,
+            "dua": "لَا إلَهَ إلَّا اللهُ",
+            "translation": "Tiada Tuhan selain Allah.",
+            "reference": "Al-Bukhârî [3346](6/381) dan Muslim [2880](4/2208)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+  "category_id": 7,
+  "title": "Alam",
+  "group": [
+    {
+      "group_id": 61,
+      "title": "Ketika Berlaku Ribut Angin",
+      "duas": [
+        {
+          "id": 166,
+          "group_id": 61,
+          "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَأَعُوذُ بِكَ مِنْ شَرِّهَا",
+          "translation": "Ya Allah, aku memohon kepada-Mu kebaikannya dan aku berlindung dengan-Mu dari keburukannya.",
+          "reference": "Abû Dâwud [5097](4/326) dan Ibn Mâjah [3727](2/1228). Juga lihat Ŝaĥîĥ Ibn Mâjah (2/305)."
+        },
+        {
+          "id": 167,
+          "group_id": 61,
+          "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَخَيْرَ مَا فِيْهَا، وَخَيْرَ مَا اُرْسِلَتْ بِهِ، وَأَعُوذُ بِكَ مِنْ شَـرِّهَا، وَشَرِّ مَا فِيْهَا، وَشَرِّ مَا اُرْسِلَتْ بِهِ",
+          "translation": "Ya Allah, aku memohon kepada-Mu kebaikannya, kebaikan di dalamnya, dan kebaikan yang dibawanya, dan aku berlindung dengan-Mu dari keburukannya, keburukan di dalamnya, dan keburukan yang dibawanya.",
+          "reference": "Muslim [899](2/616) dan Al-Bukhârî [3206](4/76)."
+        }
+      ]
+    },
+    {
+      "group_id": 62,
+      "title": "Ketika Mendengar Guruh",
+      "duas": [
+        {
+          "id": 168,
+          "group_id": 62,
+          "dua": "سُبْحَانَ الَّذِي يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ، وَالمَلائِكَةُ مِنْ خِيْفَتِهِ",
+          "translation": "Maha Suci Dia yang guruh bertasbih dengan memuji-Nya, begitu juga para malaikat kerana takut kepada-Nya.",
+          "reference": "Al-Muwaťťa' (2/992) dan Al-Albânî menyatakan sanadnya sebagai Ŝaĥîĥ dan Mawqûf."
+        }
+      ]
+    },
+    {
+      "group_id": 63,
+      "title": "Doa Meminta Hujan",
+      "duas": [
+        {
+          "id": 169,
+          "group_id": 63,
+          "dua": "اللَّهُمَّ أَسْقِنَا غَيْثاً مُغِيْثاً مَرِيْئاً مَرِيْعاً، نَافِعاً، غَيْرَ ضَارٍّ، عاجِلاً غَيْرَ آجِلٍ",
+          "translation": "Ya Allah, turunkanlah kepada kami hujan yang menyelamatkan, menyihatkan, menyuburkan, yang bermanfaat, tidak memudaratkan, sekarang, tidak kemudian.",
+          "reference": "Abû Dâwud [1169](1/303). Al-Albânî mengesahkannya dalam Ŝaĥîĥ Abû Dâwud (1/216)."
+        },
+        {
+          "id": 170,
+          "group_id": 63,
+          "dua": "اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا",
+          "translation": "Ya Allah, turunkan hujan kepada kami, Ya Allah, turunkan hujan kepada kami, Ya Allah, turunkan hujan kepada kami.",
+          "reference": "Al-Bukhârî [1013](1/224) dan Muslim [897](2/613)."
+        },
+        {
+          "id": 171,
+          "group_id": 63,
+          "dua": "اللَّهُمَّ اسْقِ عِبَادَكَ، وَبَهَائِمَكَ، وَانْشُرْ رَحْمَتَكَ، وَأَحْيِيْ بَلَدَكَ المَيِّتَ",
+          "translation": "Ya Allah, berilah minum hamba-hamba-Mu dan binatang ternak-Mu, sebarkanlah rahmat-Mu dan hidupkanlah bumi-Mu yang telah mati.",
+          "reference": "Abû Dâwud [1176](1/305) dan Al-Albânî mengesahkannya sebagai Ĥasan dalam Ŝaĥîĥ Abû Dâwud (1/218)."
+        }
+      ]
+    },
+    {
+      "group_id": 64,
+      "title": "Ketika Hujan Turun",
+      "duas": [
+        {
+          "id": 172,
+          "group_id": 64,
+          "dua": "اللَّهُمَّ صَيِّباً نَافِعاً",
+          "translation": "Ya Allah, jadikanlah ia hujan yang bermanfaat.",
+          "reference": "Al-Bukhârî [1032](2/518)."
+        }
+      ]
+    },
+    {
+      "group_id": 65,
+      "title": "Selepas Hujan Turun",
+      "duas": [
+        {
+          "id": 173,
+          "group_id": 65,
+          "dua": "مُطِرْنَا بِفَضْلِ اللهِ وَرَحْمَتِهِ",
+          "translation": "Kami telah diberi hujan oleh kurnia dan rahmat Allah.",
+          "reference": "Al-Bukhârî [846](1/205) dan Muslim [71](1/83)."
+        }
+      ]
+    },
+    {
+      "group_id": 66,
+      "title": "Doa Meminta Cuaca Cerah",
+      "duas": [
+        {
+          "id": 174,
+          "group_id": 66,
+          "dua": "اللَّهُمَّ حَوَالَيْنَا وَلَا عَلَيْنَا، اللَّهُمَّ عَلَى الآكَامِ وَالظِّرَابِ، وَبُطُونِ الأوْدِيَةِ، وَمَنَابِتِ الشَّجَرِ",
+          "translation": "Ya Allah, turunkanlah hujan di sekeliling kami, bukan ke atas kami, Ya Allah, (turunkanlah) di padang rumput, bukit-bukau, lembah, dan akar-akar pokok.",
+          "reference": "Al-Bukhârî [1013](1/224) dan Muslim [897](2/614)."
+        }
+      ]
+    },
+    {
+      "group_id": 67,
+      "title": "Ketika Melihat Anak Bulan",
+      "duas": [
+        {
+          "id": 175,
+          "group_id": 67,
+          "dua": "اللهُ أَكْبَرُ، اللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِالأمْنِ وَالإيْمَانِ، والسَّلامَةِ والإسْلامِ، وَالتَّوْفِيْقِ لِمَا تُحِبُّ رَبَّنَا وَتَرْضَى، رَبُّنَا وَرَبُّكَ اللهُ",
+          "translation": "Allah Maha Besar. Ya Allah, munculkanlah anak bulan ini kepada kami dengan keamanan, iman, keselamatan, dan Islam, serta dalam keredaan terhadap apa yang Engkau sukai dan yang Engkau ridai. Tuhan kami dan Tuhanmu adalah Allah.",
+          "reference": "At-Tirmidhî [3451](5/405) dan Ad-Dârimî (1/336) dan lafaz adalah dari Ad-Dârimî. Juga lihat Ŝaĥîĥ At-Tirmidhî (3/157)."
+        }
+      ]
+    },
+    {
+      "group_id": 76,
+      "title": "Ketika Melihat Buah Pertama Yang Matang",
+      "duas": [
+        {
+          "id": 187,
+          "group_id": 76,
+          "dua": "اللَّهُمَّ بَارِكْ لَنَا فِي ثَمَرِنَا، وَبَارِكْ لَنَا فِي مَدِيْنَتِنَا، وَبَارِكْ لَنَا فِي صَاعِنَا، وَبَارِكْ لَنَا فِي مُدِّنَا",
+          "translation": "Ya Allah, berkahilah buah-buahan kami, berkahilah kota kami, berkahilah saAA kami dan berkahilah mudd kami.",
+          "reference": "Muslim [1373](2/1000)."
+        }
+      ]
+    },
+    {
+      "group_id": 110,
+      "title": "Ketika Mendengar Kokokan Ayam Atau Ringkikan Keldai",
+      "duas": [
+        {
+          "id": 228,
+          "group_id": 110,
+          "dua": "إذَا سَمِعْتُمْ صِيَاحَ الدِّيَكَةِ فَاسْألُوا اللهَ مِنْ فَضْلِهِ؛ فَإنَّهَا رَأَتْ مَلَكاً، وَ إذَا سَمِعْتُمْ نَهِيْقَ الحِمَارِ فَتَعوَّذُوا بِااللهِ مِنَ الشَّيْطَانِ؛ فَإنَّهُ رَأى شَيْطَانًا",
+          "translation": "Jika kamu mendengar kokokan ayam, mintalah kurniaan Allah kerana ia melihat malaikat, dan jika kamu mendengar ringkikan keldai, mintalah perlindungan kepada Allah kerana ia melihat syaitan.",
+          "reference": "Al-Bukhârî [3303](6/350) dan Muslim [2729](4/2092)."
+        }
+      ]
+    },
+    {
+      "group_id": 111,
+      "title": "Ketika Mendengar Gonggongan Anjing Pada Malam Hari",
+      "duas": [
+        {
+          "id": 229,
+          "group_id": 111,
+          "dua": "أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+          "translation": "Jika kamu mendengar gonggongan anjing atau ringkikan keldai pada malam hari, mintalah perlindungan kepada Allah kerana mereka melihat apa yang kamu tidak dapat melihat.",
+          "reference": "Abû Dâwud [5103](4/327) dan Aĥmad (3/306). Al-Albânî mengesahkannya dalam Ŝaĥîĥ Abû Dâwud (3/961)."
+        }
+      ]
+    }
+  ]
+},
+  {
+    "category_id": 8,
+    "title": "Adab Yang Baik",
+    "group": [
+      {
+        "group_id": 47,
+        "title": "Ucapan Tahniah Pada Kelahiran Anak",
+        "duas": [
+          {
+            "id": 145,
+            "group_id": 47,
+            "dua": "بَارَكَ اللهُ لَكَ فِي الْمَوْهُوبِ لَكَ، وَ شَكَرْتَ الْوَاهِبَ، وَ بَلَغَ أَشُدَّهُ، وَ رُزِقْتَ بِرَّهُوَيَرُدُّ عَلَيْهِ المُهَنَّأ فَيَقُولُ: بَارَكَ اللهُ لَكَ، وَ بَارَكَ عَلَيْكَ، وجَزَاكَ اللهُ خَيْراً، وَرَزَقَكَ اللهُ مِثْلَهُ، وأَجْزَلَ ثَوَابَكَ",
+            "translation": "'Semoga Allah memberkati apa yang Dia kurniakan kepada kamu (anak ini) dan semoga kamu bersyukur kepada Dia yang telah menganugerahkan dia kepada kamu. Semoga dia (anak ini) mencapai kematangan dan semoga Allah kurniakan dia dengan akhlak yang baik terhadap kamu.'Jawapan: 'Semoga Allah memberkati segala yang Dia kurniakan kepada kamu! Semoga Allah membalas kamu dengan keampunan-Nya, mengurniakan anak yang serupa kepada kamu dan memberi kamu ganjaran yang berlimpah.'",
+            "reference": "An-Nawawî [Al-Athkâr](pg. 349). Lihat juga Ŝaĥîĥ Al-Athkâr Imam An-Nawawî (2/713) oleh Shaykh Salîm Al-Hilâlî."
+          }
+        ]
+      },
+    {
+      "group_id": 75,
+      "title": "Apabila Dicerca Ketika Berpuasa",
+      "duas": [
+        {
+          "id": 186,
+          "group_id": 75,
+          "dua": "إِنِّي صَائِمٌ، إِنِّي صَائِمٌ",
+          "translation": "Aku berpuasa, aku berpuasa.",
+          "reference": "Al-Bukhârî [1894](4/103) dan Muslim [1151](2/806)."
+        }
+      ]
+    },
+    {
+      "group_id": 77,
+      "title": "Apabila Bersin",
+      "duas": [
+        {
+          "id": 188,
+          "group_id": 77,
+          "dua": "(١) الْحَمْدُ للهِ (٢) يَرْحَمُكَ اللهُ(٣) يَهْدِيْكُمُ اللهُ وَيُصْلِحُ بَالَكُمْ",
+          "translation": "Apabila salah seorang daripada kamu bersin, katakan: (1) 'Segala puji bagi Allah.', kemudian saudaranya atau sahabatnya harus menjawab: (2) 'Semoga Allah merahmati kamu.' dan orang yang bersin menjawab kembali dengan mengatakan (3) 'Semoga Allah membimbing kamu dan memperbaiki keadaanmu.'",
+          "reference": "Al-Bukhârî [6224](7/125)."
+        }
+      ]
+    },
+    {
+      "group_id": 78,
+      "title": "Apabila Orang Bukan Islam Memuji Allah Setelah Bersin",
+      "duas": [
+        {
+          "id": 189,
+          "group_id": 78,
+          "dua": "يَهْدِيْكُمُ اللهُ، وَيُصْلِحُ بَالَكُمْ",
+          "translation": "Semoga Allah membimbing kamu dan memperbaiki keadaan kamu.",
+          "reference": "At-Tirmidhî [2739](5/82), Aĥmad (4/400) dan Abû Dâwud [5038](4/308). Lihat juga Ŝaĥîĥ At-Tirmidhî (2/354)."
+        }
+      ]
+    },
+    {
+      "group_id": 80,
+      "title": "Pada Malam Perkahwinan Atau Ketika Membeli Haiwan",
+      "duas": [
+        {
+          "id": 191,
+          "group_id": 80,
+          "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَخَيْرَ مَا جَبَلْتَهَا عَلَيْهِ، وَأَعُوذُ بِكَ مِنْ شَرِّهَا، وَشَرِّ مَا جَبَلْتَهَا عَلَيْهِ",
+          "translation": "Ya Allah, aku memohon kepada-Mu kebaikan dalam dirinya dan kebaikan yang Engkau jadikan dia cenderung kepadanya, dan aku berlindung dengan-Mu daripada kejahatan dalam dirinya dan kejahatan yang Engkau jadikan dia cenderung kepadanya.",
+          "reference": "Abû Dâwud [2160](2/248) dan Ibn Mâjah [1918](1/617). Lihat juga Ŝaĥîĥ Ibn Mâjah (1/324)."
+        }
+      ]
+    },
+    {
+      "group_id": 82,
+      "title": "Apabila Marah",
+      "duas": [
+        {
+          "id": 193,
+          "group_id": 82,
+          "dua": "أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+          "translation": "Aku berlindung kepada Allah dari syaitan yang terkutuk.",
+          "reference": "Al-Bukhârî [6048](7/99) dan Muslim [2610](5/2015)."
+        }
+      ]
+    },
+    {
+      "group_id": 83,
+      "title": "Apabila Melihat Seseorang Diuji Atau Ditimpa Musibah",
+      "duas": [
+        {
+          "id": 194,
+          "group_id": 83,
+          "dua": "الْحَمْدُ لِلَّهِ الَّذِيْ عَافَانِي مِمَّا ابْتَلاكَ بِهِ، وَفَضَّلَنِي عَلَى كَثِيْرٍ مِمَّنْ خَلَقَ تَفْضِيْلاً",
+          "translation": "Segala puji bagi Allah yang telah menyelamatkan aku daripada apa yang Dia uji kamu dan yang pastinya melebihkan aku daripada kebanyakan ciptaan-Nya.",
+          "reference": "At-Tirmidhî [3432](5/493,494). Lihat juga Ŝaĥîĥ At-Tirmidhî (3/153)."
+        }
+      ]
+    },
+    {
+      "group_id": 84,
+      "title": "Di Dalam Majlis Atau Perhimpunan",
+      "duas": [
+        {
+          "id": 195,
+          "group_id": 84,
+          "dua": "رَبِّ اغْفِرْ لي، وَتُبْ عَلَـيَّ، إِنَّكَ أَنْتَ التَّوَّابُ الغَفُورُ",
+          "translation": "Ya Tuhanku, ampunkan aku dan terimalah taubatku. Sesungguhnya Engkau Maha Penerima Taubat lagi Maha Pengampun.",
+          "reference": "At-Tirmidhî [3432]. Lihat juga Ŝaĥîĥ At-Tirmidhî (3/153) dan Ŝaĥîĥ Ibn Mâjah (2/321) dan lafaz adalah daripada At-Tirmidhî."
+        }
+      ]
+    },
+    {
+      "group_id": 85,
+      "title": "Untuk Menebus Dosa, Diucapkan Pada Akhir Majlis Atau Perhimpunan",
+      "duas": [
+        {
+          "id": 196,
+          "group_id": 85,
+          "dua": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
+          "translation": "Maha Suci Engkau ya Allah, dan segala puji bagi-Mu. Aku bersaksi bahawa tiada Tuhan melainkan Engkau. Aku memohon keampunan-Mu dan bertaubat kepada-Mu.",
+          "reference": "Abû Dâwud [4859], At-Tirmidhî [3433], An-Nisâ'i ['Amal al-Yawm wa al-Laylah][397]. Lihat juga Ŝaĥîĥ At-Tirmidhî (3/153)."
+        }
+      ]
+    },
+    {
+      "group_id": 86,
+      "title": "Mengembalikan Doa Pengampunan",
+      "duas": [
+        {
+          "id": 197,
+          "group_id": 86,
+          "dua": "وَلَكَ",
+          "translation": "Dan (semoga Allah mengampuni) kamu.",
+          "reference": "Aĥmad (5/82) dan An-Nisâ'i ['Amal al-Yawm wa al-Laylah](pg. 218)."
+        }
+      ]
+    },
+    {
+      "group_id": 87,
+      "title": "Kepada Seseorang Yang Membuat Jasa Kepada Kamu",
+      "duas": [
+        {
+          "id": 198,
+          "group_id": 87,
+          "dua": "جَزَاكَ اللهُ خَيْراً",
+          "translation": "Semoga Allah membalas kamu dengan kebaikan.",
+          "reference": "At-Tirmidhî [2035]. Lihat juga Ŝaĥîĥ Al-Jâmi' [6244] dan Ŝaĥîĥ At-Tirmidhî (2/200)."
+        }
+      ]
+    },
+    {
+      "group_id": 89,
+      "title": "Kepada Seseorang Yang Mengisytiharkan Kasih Sayangnya Kepada Kamu, Kerana Allah",
+      "duas": [
+        {
+          "id": 200,
+          "group_id": 89,
+          "dua": "أَحَبَّكَ الَّذِيْ أَحْبَبْتَنِي لَهُ",
+          "translation": "Semoga Dia, yang kamu kasihi kerana-Nya, mencintai kamu.",
+          "reference": "Abû Dâwud [5125](4/333) dan Al-Albânî mengesahkannya dalam Ŝaĥîĥ Abû Dâwud (3/965)."
+        }
+      ]
+    },
+    {
+      "group_id": 90,
+      "title": "Kepada Seseorang Yang Menawarkan Sebahagian Hartanya Kepada Kamu",
+      "duas": [
+        {
+          "id": 201,
+          "group_id": 90,
+          "dua": "بَارَكَ اللهُ لَكَ في أَهْلِكَ وَمالِكَ",
+          "translation": "Semoga Allah memberkati kamu, keluarga kamu dan harta kamu.",
+          "reference": "Abû Dâwud [5125](4/333) dan Al-Albânî menyatakannya Ĥasan dalam Ŝaĥîĥ Abû Dâwud (3/965)."
+        }
+      ]
+    },
+    {
+      "group_id": 91,
+      "title": "Kepada Penghutang Ketika Hutangnya Dilunaskan",
+      "duas": [
+        {
+          "id": 202,
+          "group_id": 91,
+          "dua": "بَارَكَ اللهُ لَكَ في أَهْلِكَ وَمالِك، إِنَّمَا جَزَاءُ السَّلَفِ الْحَمْدُ والأَدَاءُ",
+          "translation": "Semoga Allah memberkati kamu, keluarga kamu dan harta kamu. Sesungguhnya pujian dan pembayaran adalah ganjaran untuk pinjaman.",
+          "reference": "An-Nisâ'i ['Amal al-Yawm wa al-Laylah][372](pg. 300) dan Ibn Mâjah [2424](2/809). Lihat juga Ŝaĥîĥ Ibn Mâjah (2/55)."
+        }
+      ]
+    },
+    {
+      "group_id": 93,
+      "title": "Mengembalikan Doa Selepas Memberi Hadiah Atau Sedekah Kepada Seseorang",
+      "duas": [
+        {
+          "id": 204,
+          "group_id": 93,
+          "dua": "وَفِيْكَ بَارَكَ اللهُ",
+          "translation": "Semoga Allah memberkati kamu.",
+          "reference": "Ibn As-Sunnî [278](pg. 138). Lihat juga Ibn Qayyim [Al-Wabil Aŝ-Ŝayyib](pg. 304) dengan kajian oleh Bashîr Muĥammad 'Uyun."
+        }
+      ]
+    },
+    {
+      "group_id": 108,
+      "title": "Kelebihan Menyebarkan Salam Islam",
+      "duas": [
+        {
+          "id": 224,
+          "group_id": 108,
+          "dua": "قَالَ ﷺ: «لا تَدْخُلُوا الجَنَّة حَتَّى تُؤمِنُوا، وَ لَا تُؤمِنُوا حَتَّى تَحَابُّوا، أَوَلَا أدُلُّكُمْ عَلَى شَيْءٍ إذَا فَعَلْتُمُوهُ تَحَابَبْتُمْ، أَفْشُوا السَّلامَ بَيْنَكُمْ»",
+          "translation": "Nabi ﷺ bersabda: 'Kamu tidak akan masuk syurga sehingga kamu beriman, dan kamu tidak akan beriman sehingga kamu saling menyayangi. Mahukah aku memberitahu kamu sesuatu, jika kamu amalkan, kamu akan saling mencintai? Sebarkanlah salam di antara kamu.'",
+          "reference": "Muslim [54](1/74)."
+        },
+        {
+          "id": 225,
+          "group_id": 108,
+          "dua": "قَالَ عمار بن ياسر(رضي الله عنه): «ثَلاثٌ مَنْ جَمَعَهُنَّ فَقَدْ جَمَعَ الإيْمَانَ: الإنْصَافُ مِنْ نَفْسِكَ، و بَذْلُ السَّلامِ لِلْعَالَمِ، و الإنْفَاقُ مِنَ الإقْتَارِ»",
+          "translation": "'Ammâr bin Yâsir (RadiAllah ʻanhu) berkata: 'Tiga ciri, sesiapa yang menggabungkannya, telah menyempurnakan imannya: berlaku adil terhadap dirinya sendiri, menyebarkan salam kepada semua orang, dan berbelanja (secara dermawan) daripada apa yang sedikit yang kamu miliki.'",
+          "reference": "Al-Bukhârî [Sebelum hadith[28]](1/82)."
+        },
+        {
+          "id": 226,
+          "group_id": 108,
+          "dua": "وَ عَنْ عَبْدِاللهِ بِنْ عَمْرٍو(رضي الله عنه): «أنَّ رَجُلاً سَأَلَ النَّبِيَّ ﷺ أيُّ الإسْلامِ خَيْرٌ؟» قَالَ: «تُطْعِمُ الطَّعَامَ، وَتَقْرَأُ السَّلامَ عَلَى مَنْ عَرَفْتَ وَ مَنْ لَمْ تَعْرِف»",
+          "translation": "'Abdullah Ibn 'Amr (RadiAllah ʻanhu) melaporkan bahawa seorang lelaki bertanya kepada Nabi ﷺ: ‘Islam manakah yang terbaik?’. Baginda ﷺ menjawab: 'Memberi makan (kepada yang memerlukan), dan memberi salam kepada yang kamu kenal serta yang kamu tidak kenal.’",
+          "reference": "Al-Bukhârî [12](1/55) dan Muslim [39](1/65)."
+        }
+      ]
+    },
+    {
+      "group_id": 109,
+      "title": "Mengembalikan Salam Kepada Orang Bukan Islam",
+      "duas": [
+        {
+          "id": 227,
+          "group_id": 109,
+          "dua": "وَ عَلَيْكُمْ",
+          "translation": "Dan ke atas kamu juga.",
+          "reference": "Al-Bukhârî [6258](11/42) dan Muslim [2163](4/1705)."
+        }
+      ]
+    },
+    {
+      "group_id": 112,
+      "title": "Untuk Seseorang Yang Telah Kamu Hina",
+      "duas": [
+        {
+          "id": 230,
+          "group_id": 112,
+          "dua": "اللَّهُمَّ فأَيُّمَا مُؤْمِنٍ سَبَبْتُهُ؛ فَاجْعَلْ ذَلِكَ لَهُ قُرْبَةً إلَيْكَ يَوْمَ القِيَامَةِ",
+          "translation": "Ya Allah, kepada mana-mana mukmin yang telah aku hina, jadikan itu sebagai sebab untuk mendekatkan dirinya kepada-Mu pada Hari Kiamat.",
+          "reference": "Al-Bukhârî [6361](11/171) dan Muslim [2601](4/2007)."
+        }
+      ]
+    },
+    {
+      "group_id": 113,
+      "title": "Adab Memuji Seorang Muslim",
+      "duas": [
+        {
+          "id": 231,
+          "group_id": 113,
+          "dua": "قَالَ ﷺ: «إذَا كَانَ أحَدُكُمْ مَادِحاً صَاحِبَهُ لَا مَحَالَةَ؛ فَلْيَقُل: أحْسِبُ فُلَانًا: وَ اللهُ حَسِيْبُهُ، وَ لَا أُزَكِّي عَلَى اللهِ أحَداً: أحْسِبُهُ – إنْ كَانَ يَعْلمُ ذَاكَ – كَذَا وَ كَذَا»",
+          "translation": "Nabi ﷺ bersabda: 'Jika salah seorang daripada kamu memuji sahabatnya, hendaklah dia berkata: Aku mengira si fulan, dan Allah adalah Pengira, dan aku tidak memuji sesiapa pun di hadapan Allah: Aku mengiranya, jika dia tahu demikian, sebagai begini dan begini.'",
+          "reference": "Muslim [3000](4/2296) dan Al-Bukhârî [2662]."
+        }
+      ]
+    },
+    {
+      "group_id": 114,
+      "title": "Untuk Seseorang Yang Telah Dipuji",
+      "duas": [
+        {
+          "id": 232,
+          "group_id": 114,
+          "dua": "اللَّهُمَّ لَا تُؤَاخِذْنِي بِمَا يَقُولُونَ، وَ اغْفِرْ لِي مَا لاَ يَعْلَمُونَ [وَ اجْعَلْنِي خَيْراً مِمَّا يَظُنُّونَ]",
+          "translation": "Ya Allah, janganlah Engkau menghukum aku atas apa yang mereka katakan, ampunkan aku atas apa yang mereka tidak ketahui (dan jadikan aku lebih baik daripada apa yang mereka sangka).",
+          "reference": "Al-Bukhârî [Adab Al-Mufrad][761] dan Al-Albânî menyatakan sanadnya Ĥasan dalam Ŝaĥîĥ Adab Al-Mufrad [585]. Apa yang ada dalam kurungan adalah tambahan dari Al-Baihaqî [Shu'ab Al-Imân](4/228) melalui jalan yang berbeza."
+        }
+      ]
+    }
+  ]
+},
+  {
+  "category_id": 9,
+  "title": "Rumah & Keluarga",
+  "group": [
+    {
+      "group_id": 2,
+      "title": "Ketika Memakai Pakaian",
+      "duas": [
+        {
+          "id": 5,
+          "group_id": 2,
+          "dua": "اَلحَمدُ لِلهِ الَّذِي كَسَانِي هَذَا (الثَّوْبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَولٍ مِنِّي وَ لَا قُوَّةٍ",
+          "translation": "Segala puji bagi Allah yang telah memakaikan pakaian ini kepadaku dan memberikannya kepadaku tanpa daya dan kekuatan dariku.",
+          "reference": "Abû Dâwud [4023], At-Tirmidhî [2458] dan Ibn Mâjah [3285]. Juga lihat Irwâ'-ul-Ghalîl (7/47)."
+        }
+      ]
+    },
+    {
+      "group_id": 3,
+      "title": "Ketika Memakai Pakaian Baru",
+      "duas": [
+        {
+          "id": 6,
+          "group_id": 3,
+          "dua": "اللَّهُمَّ لَكَ الحَمدُ أَنْتَ كَسَوْتَنِيهِ، أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشِّرِ مَا صُنِعَ لَهُ",
+          "translation": "Ya Allah, bagi-Mu segala pujian, Engkau yang memakaikan pakaian ini kepadaku, aku memohon kepada-Mu kebaikan dari pakaian ini dan kebaikan tujuan ia dibuat, dan aku berlindung kepada-Mu dari keburukannya dan keburukan tujuan ia dibuat.",
+          "reference": "Abû Dâwud [4020] dan At-Tirmidhî [1767] dan Al-Baghawî. Lafaz ini dari Abû Dâwud. Juga lihat Mukhtaŝar Shama'il At-Tirmidhî oleh Al-Albânî (hlm. 47)."
+        }
+      ]
+    },
+    {
+      "group_id": 4,
+      "title": "Kepada Seseorang Yang Memakai Pakaian Baru",
+      "duas": [
+        {
+          "id": 7,
+          "group_id": 4,
+          "dua": "تُبْلِي وَيُخْلِفُ اللهُ تَعَالَى",
+          "translation": "Semoga kamu memakainya sampai lusuh dan Allah menggantikannya dengan yang lain.",
+          "reference": "Abû Dâwud [4020](4/41). Juga lihat Ŝaĥiĥ Abû Dâwud (2/760)."
+        },
+        {
+          "id": 8,
+          "group_id": 4,
+          "dua": "إِلبَسْ جَدِيداً، وَعِشْ حَمِيداً، وَمُتْ شَهِيداً",
+          "translation": "Pakai pakaian baru, hidup dengan terpuji, dan mati syahid.",
+          "reference": "Ibn Mâjah [3558](2/1178) dan Al-Baghawî (12/41). Juga lihat Ŝaĥiĥ Ibn Mâjah (2/275)."
+        }
+      ]
+    },
+    {
+      "group_id": 5,
+      "title": "Sebelum Menanggalkan Pakaian",
+      "duas": [
+        {
+          "id": 9,
+          "group_id": 5,
+          "dua": "بِسْمِ اللهِ",
+          "translation": "Dengan nama Allah.",
+          "reference": "At-Tirmidhî [606](2/505) dan Sahîh Al-Jâmi' [3210](3/203). Juga lihat Irwâ'-ul-Ghalîl [50]."
+        }
+      ]
+    },
+    {
+      "group_id": 6,
+      "title": "Sebelum Masuk Ke Tandas",
+      "duas": [
+        {
+          "id": 10,
+          "group_id": 6,
+          "dua": "(بِسْمِ اللهِ) اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبْثِ وَالْخَبَائِثِ",
+          "translation": "(Dengan nama Allah). Ya Allah, aku berlindung kepada-Mu daripada semua kejahatan dan makhluk yang jahat.",
+          "reference": "Al-Bukhârî [142](1/45) dan Muslim [375](1/283). Riwayat dengan tambahan \"Dengan nama Allah\" dikumpulkan oleh Sa'eed bin Manŝoor, lihat Fatĥ al-Bârî (1/244)."
+        }
+      ]
+    },
+    {
+      "group_id": 7,
+      "title": "Selepas Keluar Dari Tandas",
+      "duas": [
+        {
+          "id": 11,
+          "group_id": 7,
+          "dua": "غُفْرَانَكَ",
+          "translation": "Aku memohon ampun kepada-Mu (Allah).",
+          "reference": "At-Tirmidhî [7], Abû Dâwud [30], Ibn Mâjah [300] dan An-Nisâ'i ['Amal al-Yawm wa al-Laylah][79]."
+        }
+      ]
+    },
+    {
+      "group_id": 10,
+      "title": "Ketika Masuk Ke Rumah",
+      "duas": [
+        {
+          "id": 16,
+          "group_id": 10,
+          "dua": "بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ، وَلاَحَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+          "translation": "Dengan nama Allah, aku berserah kepada Allah, dan tiada daya upaya melainkan dengan Allah.",
+          "reference": "Abû Dâwud [5094](4/325) dan At-Tirmidhî [3427](5/490). Juga lihat Ŝaĥiĥ At-Tirmidhî (3/151)."
+        },
+        {
+          "id": 17,
+          "group_id": 10,
+          "dua": "اللَّهُمَّ إِنَّي أَعْوْذُ بِكَ أَنْ أَضِلَّ، أَوْ أُضِلَّ، أَوْ أَزِلَّ، أُوْ أُزَلَّ أَوْ أَظْلِمَ، أَوْ أُظْلَمَ، أَوْ أَجْهَلَ، أَوْ يُجْهَلَ عَلَيَّ",
+          "translation": "Ya Allah, aku berlindung kepada-Mu agar aku tidak sesat atau disesatkan, tidak tergelincir atau membuat tergelincir, tidak zalim atau dizalimi, dan tidak bodoh atau dibodohkan.",
+          "reference": "Abû Dâwud [5094], At-Tirmidhî [3427], An-Nisâ'i (8/268) dan Ibn Mâjah [3884]. Juga lihat Ŝaĥiĥ At-Tirmidhî (3/152) dan Ŝaĥiĥ Ibn Mâjah (2/336)."
+        }
+      ]
+    },
+    {
+      "group_id": 11,
+      "title": "Ketika Keluar Dari Rumah",
+      "duas": [
+        {
+          "id": 18,
+          "group_id": 11,
+          "dua": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللهِ رَبَّنَا تَوَكَّلْنَا",
+          "translation": "Dengan nama Allah kami masuk dan dengan nama Allah kami keluar, dan kepada Tuhan kami, kami berserah.",
+          "reference": "Abû Dâwud [5096](4/325) dan Syaikh Abdul 'Azîz bin Bâz menyatakan sanadnya ĥasan dalam [Tuĥfat al-Akhyâr](28)."
+        }
+      ]
+    },
+    {
+      "group_id": 45,
+      "title": "Untuk Mengusir Syaitan Dan Bisikan-Nya",
+      "duas": [
+        {
+          "id": 141,
+          "group_id": 45,
+          "dua": "الاسْتِعَاذَةُ بِاللهِ مِنْهُ",
+          "translation": "Berlindunglah kepada Allah darinya.",
+          "reference": "Abû Dâwud (1/206) dan At-Tirmidhî. Juga lihat Ŝaĥîĥ At-Tirmidhî (1/77)."
+        },
+        {
+          "id": 142,
+          "group_id": 45,
+          "dua": "الأذَانُ",
+          "translation": "Azan (panggilan untuk solat).",
+          "reference": "Al-Bukhârî [608](1/151) dan Muslim [389](1/291)."
+        },
+        {
+          "id": 143,
+          "group_id": 45,
+          "dua": "الأذْكَارُ وَ قِراءَةُ القُرْآنِ",
+          "translation": "Teks zikir yang sahih dan bacaan Al-Qur'an.",
+          "reference": "Muslim [780](1/539)."
+        }
+      ]
+    },
+    {
+      "group_id": 79,
+      "title": "Untuk Pengantin Baru",
+      "duas": [
+        {
+          "id": 190,
+          "group_id": 79,
+          "dua": "بَارَكَ اللّهُ لَكَ، وَبَارَكَ عَلَيْكَ، وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
+          "translation": "Semoga Allah memberkatimu (dengan pasanganmu) dan memberkatimu, dan semoga Dia menyatukan kalian dalam kebaikan.",
+          "reference": "Abû Dâwud [2130], At-Tirmidhî [1091], dan Ibn Mâjah [1905]. Juga lihat Ŝaĥîĥ Ibn Mâjah (1/324)."
+        }
+      ]
+    },
+    {
+      "group_id": 81,
+      "title": "Sebelum Berhubungan Suami Isteri",
+      "duas": [
+        {
+          "id": 192,
+          "group_id": 81,
+          "dua": "بِسْمِ اللهِ، اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ، وَجَنِّبِ الشَّيْطانَ مَا رَزَقْتَنَا",
+          "translation": "Dengan nama Allah. Ya Allah, jauhkanlah syaitan dari kami dan jauhkan syaitan dari apa yang Engkau berikan kepada kami.",
+          "reference": "Al-Bukhârî [3271](6/141) dan Muslim [1434](2/1028)."
+        }
+      ]
+    },
+    {
+      "group_id": 125,
+      "title": "Ketika Khawatir Mengenai Penyakit Mata Jahat",
+      "duas": [
+        {
+          "id": 244,
+          "group_id": 125,
+          "dua": "اللَّهُمَّ بَارِك عَلَيْهِ",
+          "translation": "Jika kamu melihat sesuatu yang mengagumkan dari saudaramu, dirimu atau hartamu, ucapkanlah doa keberkatan untuknya, kerana penyakit mata jahat itu memang benar.",
+          "reference": "Aĥmad (4/447), Ibn Mâjah [3509] dan Mâlik [1697-1698]. Al-Albânî mensahihkannya dalam Ŝaĥîĥ Al-Jâmi' [556](1/212). Juga lihat kajian Zâd al-Ma'âd oleh Al-Arnâ'ûť."
+        }
+      ]
+    },
+    {
+      "group_id": 128,
+      "title": "Untuk Menangkal Tipu Daya Syaitan Yang Degil",
+      "duas": [
+        {
+          "id": 247,
+          "group_id": 128,
+          "dua": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ، الَّتِي لَا يُجَاوِزُهُنَّ بَرٌّ ولَا فَاجِرٌ مِنْ شَرِّ مَا خَلقَ، وبَرَأَ وذَرَأَ، ومِنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَاءِ، وِمنْ شَرِّ مَا يَعْرُجُ فِيْهَا، ومِنْ شَرِّ مَا ذَرَأَ فِي الأَرْضِ، ومِنْ شَرِّ مَا يَخْرُجُ مِنْهَا، وِمنْ شَرِّ فِتَنِ اللَّيْلِ والنَّهَارِ، ومِنْ شَرِّ كُلِّ طَارِقٍ إِلَّا طَارِقاً يَطْرُقُ بِخَيْرٍ يَا رَحْمَنُ",
+          "translation": "Aku berlindung dengan kalimat Allah yang sempurna, yang tidak dapat dilanggar oleh yang benar atau yang salah, dari semua kejahatan yang Dia ciptakan, bentuk dan sebarluaskan. (Aku berlindung) dari kejahatan yang turun dari langit dan kejahatan yang naik ke langit. (Aku berlindung) dari kejahatan yang tersebar di bumi dan kejahatan yang keluar darinya, dan aku berlindung dari kejahatan fitnah malam dan siang, serta kejahatan setiap yang mendatangi kecuali yang membawa kebaikan, wahai Yang Maha Pengasih.",
+          "reference": "Aĥmad (3/419) dengan sanad yang Ŝaĥîĥ, Ibn As-Sunnî [637]. Al-Arnâ'ûť mengesahkan sanadnya sebagai Ŝaĥîĥ dalam kajian Ať-Ťaĥawiyyah (hlm. 133). Juga lihat Majma' Az-Zawâ'id (10/127)."
+        }
+      ]
+    },
+    {
+      "group_id": 132,
+      "title": "Kaedah Umum Dan Bermanfaat",
+      "duas": [
+        {
+          "id": 267,
+          "group_id": 132,
+          "dua": "إذَا كَانَ جُنْحُ اللَّيْل – أوْ أمْسَيْتُم – فَكُفُّوا صِبْيَانَكُمْ؛ فَإنَّ الشَّيَاطِيْنَ تَنْتَشِرُ حِيْنَئَذٍ، فَإذَا ذَهَبَ سَاعَةٌ مِنَ اللَّيْلِ فَخَلُّوهُمْ، وَأغْلقُوا الأبْوَابَ، وَاذْكُرُوا اسْمَ اللهِ؛ فَإنَّ الشَّيْطَانَ لَا يَفْتَحُ بَابًا مُغْلَقًا، وَ أوْكُوا قِرَبَكُمْ، وَاذْكُرُوا اسْمَ اللهِ، وَ خَمِّرُوا آنِيَتَكُمْ وَاذْكُرُوا اسْمَ اللهِ، وَ لَوْ أنْ تَعْرِضُوا عَلَيْهَا شَيْئًا، وَ أطْفِئُوا مَصَابِيْحَكُمْ",
+          "translation": "Apabila malam tiba – atau ketika waktu senja – tahanlah anak-anakmu (dari keluar) kerana pada waktu itu syaitan bertebaran. Setelah beberapa waktu berlalu, biarkanlah mereka. Tutup pintu-pintu kalian dan sebutlah nama Allah, kerana syaitan tidak dapat membuka pintu yang tertutup. Ikatlah bekas air kalian dan sebutlah nama Allah, tutuplah bekas-bekas makanan kalian dan sebutlah nama Allah, walaupun dengan meletakkan sesuatu di atasnya, dan padamkanlah lampu-lampu kalian.",
+          "reference": "Al-Bukhârî [5623](10/88) dan Muslim [2012](3/1595)."
+        }
+      ]
+    }
+  ]
+},
+  {
+    "category_id": 10,
+    "title": "Makanan & Minuman",
+    "group": [
+      {
+        "group_id": 68,
+        "title": "Ketika Berbuka Puasa",
+        "duas": [
+          {
+            "id": 176,
+            "group_id": 68,
+            "dua": "ذَهَبَ الظَّمَأُ، وَابْتَلَّتِ العُرُوقُ، وَثَبَتَ الأجْرُ إِنْ شَاءَ اللهُ",
+            "translation": "Kehausan telah hilang dan urat-urat terbasahi, serta pahala telah tetap, jika Allah menghendaki.",
+            "reference": "Abû Dâwud [2357](2/306). Juga lihat Ŝaĥîĥ Al-Jâmi' [4678](4/209)."
+          },
+          {
+            "id": 177,
+            "group_id": 68,
+            "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِرَحْمَتِكَ الَّتِي وَسِعَتْ كُلَّ شَيْءٍ، أَنْ تَغْفِرَ لِي",
+            "translation": "Ya Allah, aku memohon kepada-Mu dengan rahmat-Mu yang meliputi segala sesuatu, agar Engkau mengampuniku.",
+            "reference": "Ibn Mâjah [1753](1/557) dan Al-Hâfiž menyatakannya Ĥasan dalam takhrîj Al-Athkâr ini. Lihat juga Sharĥ Al-Athkâr (4/342)."
+          }
+        ]
+      },
+      {
+        "group_id": 69,
+        "title": "Sebelum Makan",
+        "duas": [
+          {
+            "id": 178,
+            "group_id": 69,
+            "dua": "بِسْمِ اللهِ (في أَوَّلِهِ وَآخِرِهِ)",
+            "translation": "Dengan nama Allah (di awalnya dan akhirnya)*.",
+            "reference": "* Kalimat dalam kurungan diucapkan jika seseorang lupa membaca doa sebelum makan dan teringat saat sedang makan. Abû Dâwud [3767](3/347) dan At-Tirmidhî [1858](4/288). Juga lihat Ŝaĥîĥ At-Tirmidhî (2/167)."
+          },
+          {
+            "id": 179,
+            "group_id": 69,
+            "dua": "(١) اللَّهُمَّ بَارِكْ لَنَا فِيْهِ، وَأَطْعِمْنَا خَيْراً مِنْهُ(٢) اللَّهُمَّ بَارِكْ لَنَا فِيْهِ، وَزِدْنَا مِنْهُ",
+            "translation": "(1) 'Ya Allah, berkahilah untuk kami makanan ini dan berilah kami yang lebih baik daripadanya.'Jika seseorang diberi susu, bacalah doa berikut:(2) 'Ya Allah, berkahilah susu ini untuk kami dan tambahkanlah untuk kami.'",
+            "reference": "Abû Dâwud [3767] dan An-Nisâ'i ['Amal al-Yawm wa al-Laylah][282]. Al-Albânî menyatakannya lemah, lihat Al-Kalam Ať-Ťayyib [184]."
+          }
+        ]
+      },
+      {
+        "group_id": 70,
+        "title": "Setelah Selesai Makan",
+        "duas": [
+          {
+            "id": 180,
+            "group_id": 70,
+            "dua": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هـَذَا، وَرَزَقَنِيْهِ، مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+            "translation": "Segala puji bagi Allah yang telah memberi makanan ini kepadaku dan memberikannya kepadaku tanpa daya dan kekuatanku sendiri.",
+            "reference": "Abû Dâwud [4023], At-Tirmidhî [3458] dan Ibn Mâjah [3285]. Juga lihat Ŝaĥîĥ At-Tirmidhî (3/159)."
+          },
+          {
+            "id": 181,
+            "group_id": 70,
+            "dua": "الْحَمْدُ لِلَّهِ حَمْداً كَثِيْراً طَيِّباً مُبَارَكاً فِيْهِ، غَيْرَ [مَكْفِيٍّ وَلَا] مُوَدَّعٍ، وَلَا مُسْتَغْنىً عَنْهُ رَبُّنَا",
+            "translation": "Segala puji bagi Allah dengan pujian yang banyak, baik dan diberkati, pujian yang tidak akan pernah berakhir, dan pujian yang tidak akan kita ucapkan selamat tinggal kepadanya, dan pujian yang tak tergantikan, Dialah Tuhan kita.",
+            "reference": "Al-Bukhârî [5458](6/214) dan At-Tirmidhî [3456](5/507), dan lafaznya adalah milik At-Tirmidhî."
+          }
+        ]
+      },
+      {
+        "group_id": 71,
+        "title": "Doa Tamu Untuk Tuan Rumah",
+        "duas": [
+          {
+            "id": 182,
+            "group_id": 71,
+            "dua": "اللَّهُمَّ بَارِكْ لَهُمْ فِيْمَا رَزَقْتَهُمْ، وَاغْفِرْ لَهُمْ، وَارْحَمْهُمْ",
+            "translation": "Ya Allah, berkahilah bagi mereka, apa yang telah Engkau rezekikan kepada mereka, ampunilah mereka dan rahmatilah mereka.",
+            "reference": "Muslim [2042](3/1615)."
+          }
+        ]
+      },
+      {
+        "group_id": 72,
+        "title": "Doa Untuk Orang Yang Menawarkan Minuman Atau Berniat Menawarkan",
+        "duas": [
+          {
+            "id": 183,
+            "group_id": 72,
+            "dua": "اللَّهُمَّ أَطْعِمْ مَنْ أَطْعَمَنِي، وَاسْقِ مَنْ سَقَانِي",
+            "translation": "Ya Allah, beri makan kepada orang yang memberi makan kepadaku, dan beri minum kepada orang yang memberi minuman kepadaku.",
+            "reference": "Muslim [2055](3/1626)."
+          }
+        ]
+      },
+      {
+        "group_id": 73,
+        "title": "Ketika Berbuka Puasa Di Rumah Orang Lain",
+        "duas": [
+          {
+            "id": 184,
+            "group_id": 73,
+            "dua": "أَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ، وَأَكَلَ طَعَامَكُمُ الأبْرَارُ، وَصَلَّتْ عَلَيْكُمُ المَلائِكَةُ",
+            "translation": "Semoga orang-orang yang berpuasa berbuka di rumahmu, dan semoga orang-orang yang taat dan saleh memakan makananmu, dan semoga malaikat-malaikat mendoakanmu.",
+            "reference": "Abû Dâwud [3854](3/367), Ibn Mâjah [1747](1/556) dan An-Nisâ'i ['Amal al-Yawm wa al-Laylah][296-298]. Al-Albânî mengesahkannya dalam Ŝaĥîĥ Abû Dâwud (2/730)."
+          }
+        ]
+      },
+      {
+        "group_id": 74,
+        "title": "Oleh Seseorang Yang Berpuasa Ketika Dihidangkan Makanan Dan Tidak Berbuka",
+        "duas": [
+          {
+            "id": 185,
+            "group_id": 74,
+            "dua": "إذَا دُعِيَ أحَدُكُمْ فَلْيُجِبْ، فَإنْ كَانَ صَائِمًا فَلْيُصَلِّ، وَ إنْ كَانَ مُفْطِراً فَلْيَطْعَمْ (وَ مَعنَى فَلْيُصَلِّ؛ أيْ: فَلْيَدْعُ)",
+            "translation": "Jika salah seorang di antara kamu diundang (untuk makan), maka terimalah. Jika kamu kebetulan sedang berpuasa, maka berdoalah (untuk mereka yang hadir) dan jika kamu tidak berpuasa, maka makanlah. (Makna 'berdoa' di sini bermaksud 'berdoa').",
+            "reference": "Muslim [1431](2/1054)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+  "category_id": 11,
+  "title": "Sakit & Kematian",
+  "group": [
+    {
+      "group_id": 48,
+      "title": "Meletakkan Anak-Anak Di Bawah Perlindungan Allah",
+      "duas": [
+        {
+          "id": 146,
+          "group_id": 48,
+          "dua": "أُعِيْذُكُمَا بِكَلِمَاتِ اللهِ التَّامَّةِ، مِنْ كُلِّ شَيْطَانٍ وَهـَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لامَّةٍ",
+          "translation": "Aku meletakkan kamu di bawah perlindungan kalimat-kalimat Allah yang sempurna dari setiap syaitan, binatang berbisa, dan setiap mata jahat.",
+          "reference": "Al-Bukhârî [3371](4/119)."
+        }
+      ]
+    },
+    {
+      "group_id": 49,
+      "title": "Ketika Menziarahi Orang Sakit",
+      "duas": [
+        {
+          "id": 147,
+          "group_id": 49,
+          "dua": "لَا بأْسَ طَهُورٌ إِنْ شَاءَ اللهُ",
+          "translation": "Jangan khawatir, semoga penyakit ini menjadi penyucian, jika Allah menghendaki.",
+          "reference": "Al-Bukhârî [3616](10/118)."
+        },
+        {
+          "id": 148,
+          "group_id": 49,
+          "dua": "أَسْأَلُ اللهَ العَظِيْمَ، رَبَّ العَرْشِ العَظِيْمِ، أَنْ يَشْفِيَكَ [سَبْعَ مَرَّاتٍ]",
+          "translation": "Aku memohon kepada Allah Yang Maha Agung, Tuhan arasy yang agung untuk menyembuhkanmu. (tujuh kali)",
+          "reference": "At-Tirmidhî [2083] dan Abû Dâwud [3106]. Juga lihat Ŝaĥîĥ At-Tirmidhî (2/210) dan Ŝaĥîĥ Al-Jâmi' [5766](5/180)."
+        }
+      ]
+    },
+    {
+      "group_id": 50,
+      "title": "Keutamaan Menziarahi Orang Sakit",
+      "duas": [
+        {
+          "id": 149,
+          "group_id": 50,
+          "dua": "إذَا عَادَ الرَّجُلُ أخَاهُ المُسْلِمَ، مَشَى فِي خِرَافَةِ الجَنَّةِ حَتَّى يَجْلِسَ، فَإذَا جَلَسَ غَمَرَتْهُ الرَّحْمَةُ،  فَإنْ كَانَ غُدْوَةً صَلَّى عَلَيْهِ سَبْعُونَ ألْفَ مَلَكٍ حَتَّى يُمْسِيَ، و إنْ كَانَ مَسَاءً صَلَّى عَلَيْهِ سَبْعُونَ ألْفَ مَلَكٍ حَتَّى يُصْبِحَ",
+          "translation": "Jika seseorang menziarahi saudaranya yang Muslim yang sakit, seakan-akan dia berjalan memetik buah-buahan surga hingga dia duduk, dan ketika dia duduk, dia diliputi rahmat. Jika itu di pagi hari, tujuh puluh ribu malaikat bersalawat kepadanya hingga sore, dan jika itu di malam hari, tujuh puluh ribu malaikat bersalawat kepadanya hingga pagi.",
+          "reference": "At-Tirmidhî [969], Ibn Mâjah [1442] dan Aĥmad (1/97). Juga lihat Ŝaĥîĥ Ibn Mâjah (1/244) dan Ŝaĥîĥ At-Tirmidhî (1/286). Shaykh Aĥmad Shâkir juga mensahihkannya."
+        }
+      ]
+    },
+    {
+      "group_id": 51,
+      "title": "Ketika Orang Sakit Sudah Menyerah Dari Kehidupan",
+      "duas": [
+        {
+          "id": 150,
+          "group_id": 51,
+          "dua": "اللَّهُمَّ اغْفِرْ لي، وَارْحَمْنِي، وَأَلْحِقْنِي بِالرَّفِيْقِ الأعْلَى",
+          "translation": "Ya Allah, ampunilah aku, kasihanilah aku, dan satukanlah aku dengan teman-teman yang mulia.",
+          "reference": "Al-Bukhârî [4440](7/10) dan Muslim [2444](4/1893)."
+        },
+        {
+          "id": 151,
+          "group_id": 51,
+          "dua": "لَا إِلَهَ إِلَّا اللهُ، إِنَّ لِلْمَوْتِ لَسَكَرَاتٍ",
+          "translation": "Tidak ada Tuhan selain Allah, kematian memang mengandung kepahitan.",
+          "reference": "Al-Bukhârî [4449](8/144)."
+        },
+        {
+          "id": 152,
+          "group_id": 51,
+          "dua": "لَا إلَهَ إلَّا اللهُ وَاللهُ أَكْبَرُ، لَا إلَهَ إلَّا اللهُ وحْدَهُ، لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لهُ، لَا إلَهَ إلَّا اللهُ لَهُ المُلْكُ ولَهُ الحَمْدُ، لَا إلَهَ إلَّا اللهُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+          "translation": "Tidak ada Tuhan selain Allah dan Allah Maha Besar. Tidak ada Tuhan selain Allah, sendiri. Tidak ada Tuhan selain Allah, sendiri, tiada sekutu bagi-Nya. Tidak ada Tuhan selain Allah, kepada-Nya segala kerajaan dan pujian. Tidak ada Tuhan selain Allah dan tiada daya dan kekuatan kecuali dengan Allah.",
+          "reference": "At-Tirmidhî [3430] dan Ibn Mâjah [3794]. Al-Albânî mensahihkannya. Juga lihat Ŝaĥîĥ At-Tirmidhî (3/152) dan Ŝaĥîĥ Ibn Mâjah (2/317)."
+        }
+      ]
+    },
+    {
+      "group_id": 52,
+      "title": "Petunjuk Untuk Yang Mendekati Kematian",
+      "duas": [
+        {
+          "id": 153,
+          "group_id": 52,
+          "dua": "لَا إلَهَ إلَّا اللهُ",
+          "translation": "Barangsiapa yang terakhir kalimatnya 'Tidak ada Tuhan selain Allah', dia akan masuk surga.",
+          "reference": "Abû Dâwud [3116](3/190). Juga lihat Ŝaĥîĥ Al-Jâmi' [6479](5/432)."
+        }
+      ]
+    },
+    {
+      "group_id": 54,
+      "title": "Ketika Menutup Mata Orang Yang Sudah Meninggal",
+      "duas": [
+        {
+          "id": 155,
+          "group_id": 54,
+          "dua": "اللَّهُمَّ اغْفِرْ لِفُلانٍ (باسْمِهِ)، وَارْفَعْ دَرَجَتَهُ في المَهْدِيِّيْنَ، وَاخْلُفْهُ في عَقِبِهِ في الغَابِرِيْنَ، وَاغْفِرْ لَنَا وَلَهُ يَا رَبَّ العَالَمِيْنَ، وَافْسَحْ لَهُ في قَبْرِهِ وَنَوِّرْ لَهُ فِيْهِ",
+          "translation": "Ya Allah, ampunilah (nama orang yang meninggal) dan angkatlah derajatnya di antara yang diberi petunjuk, gantilah dia di kalangan orang yang ditinggalkannya, dan ampunilah kami dan dia, wahai Tuhan seluruh alam. Luaskanlah kuburnya dan berilah dia cahaya di dalamnya.",
+          "reference": "Muslim [920](2/634)."
+        }
+      ]
+    },
+    {
+      "group_id": 55,
+      "title": "Untuk Orang Yang Sudah Meninggal Saat Sholat Jenazah",
+      "duas": [
+        {
+          "id": 156,
+          "group_id": 55,
+          "dua": "اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ، وَعافِهِ، وَاعْفُ عَنْهُ، وَأَكْرِمْ نُزُلَهُ، وَوَسِّعْ مُدْخَلَهُ، وَاغْسِلْهُ بِالْمَاءِ وَالثَّـلْجِ وَالْبَرَدِ، وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الأَبْيَضَ مِنَ الدَّنَسِ، وَأَبْدِلْهُ داراً خَيْراً مِنْ دَارِهِ، وَأَهْلاً خَيْراً مِنْ أَهْلِهِ، وَزَوْجَاً خَيْراً مِنْ زَوْجِهِ، وَأَدْخِلْهُ الْجَنَّةَ، وَأَعِذْهُ مِنْ عَذَابِ القَبْرِ(وَ عَذَابِ النَّارِ)",
+          "translation": "Ya Allah, ampunilah dia dan kasihanilah dia, maafkanlah dia dan ampuni dia, dan muliakanlah tempat tinggalnya. Luaskanlah pintu masuknya, bersihkanlah dia dengan air, salju, dan embun, serta sucikan dia dari segala dosa sebagaimana Engkau menyucikan pakaian putih dari kotoran. Gantilah tempat tinggalnya dengan tempat tinggal yang lebih baik, keluarganya dengan keluarga yang lebih baik, dan pasangannya dengan pasangan yang lebih baik. Masukkanlah dia ke surga dan lindungilah dia dari siksa kubur (dan siksa neraka).",
+          "reference": "Muslim [963](2/663)."
+        },
+        {
+          "id": 157,
+          "group_id": 55,
+          "dua": "اللَّهُمَّ اغْفِرْ لِحَيِّنَا، وَمَيِّتِنَا، وَشَاهِدِنَا، وَغَائِبِنَا، وَصَغِيْرِنَا، وَكَبِيْرِنَا، وَذَكَرِنَا، وَأُنْثَانَا، اللَّهُمَّ مَنْ أَحْيَيْتَهُ مِنَّا فَأَحْيِهِ عَلَى الإِسْلامِ، وَمَنْ تَوَفَّيْتَهُ مِنَّا فَتَوَفَّهُ عَلَى الإِيْمَانِ، اللَّهُمَّ لَا تَحْرِمْنَا أَجْرَهُ، وَلَا تُضِلَّنَا بَعْدَهُ",
+          "translation": "Ya Allah, ampunilah orang hidup kami dan orang mati kami, yang hadir dan yang tidak hadir, yang kecil dan yang besar, yang laki-laki dan yang perempuan. Ya Allah, siapa saja yang Engkau hidupkan di antara kami, maka hidupkanlah dia dalam Islam, dan siapa saja yang Engkau wafatkan di antara kami, wafatkanlah dia dalam iman. Ya Allah, janganlah Engkau haramkan kami dari pahalanya dan janganlah Engkau menyesatkan kami setelahnya.",
+          "reference": "Ibn Mâjah [1498](1/480), Abû Dâwud [3201], At-Tirmidhî [1024], An-Nisâ'i [1988] dan Aĥmad (2/368). Juga lihat Ŝaĥîĥ Ibn Mâjah (1/251)."
+        },
+        {
+          "id": 158,
+          "group_id": 55,
+          "dua": "اللَّهُمَّ إِنَّ فُلانَ بْنَ فُلانٍ في ذِمَّتِكَ، وَحَبْلِ جِوارِكَ، فَقِهِ مِنْ فِتْنَةِ الْقَبْرِ وَعَذَابِ النَّارِ، وَأَنْتَ أَهْلُ الْوَفاءِ وَالْحَقِّ، فَاغْفِرْ لَهُ، وَارْحَمْهُ، إِنَّكَ أَنْتَ الغَفُورُ الرَّحِيْمُ",
+          "translation": "Ya Allah, fulan bin fulan ada di bawah perlindungan-Mu dan dalam perjanjian perlindungan-Mu, maka lindungilah dia dari fitnah kubur dan siksa neraka. Engkaulah yang Maha Setia dan Maha Benar, maka ampunilah dia, dan kasihanilah dia. Sesungguhnya Engkau adalah Maha Pengampun lagi Maha Penyayang.",
+          "reference": "Ibn Mâjah [1499] dan Abû Dâwud (3/211). Juga lihat Ŝaĥîĥ Ibn Mâjah (1/251)."
+        },
+        {
+          "id": 159,
+          "group_id": 55,
+          "dua": "اللَّهُمَّ عَبْدُكَ وَابْنُ أَمَتِكَ، احْتَاجَ إِلى رَحْمَتِكَ، وَأَنْتَ غَنِيٌّ عَنْ عَذَابِهِ، إِنْ كَانَ مُحْسِناً فَزِدْ في حَسَنَاتِهِ، وَإِنْ كَانَ مُسِيْئاً فَتَجَاوَزْ عَنْهُ",
+          "translation": "Ya Allah, hamba-Mu dan anak hamba perempuan-Mu ini sangat membutuhkan rahmat-Mu dan Engkau tidak memerlukan hukumannya. Jika dia orang yang baik, maka tambahkanlah kebaikannya, dan jika dia orang yang berdosa, maafkanlah dosa-dosanya.",
+          "reference": "Al-Hâkim (1/359) dan dia mensahihkannya dan Adh-Dhahabî menyetujuinya. Juga lihat Aĥkâm Al-Janâ'iz oleh Al-Albânî (hlm. 125)."
+        }
+      ]
+    },
+    {
+      "group_id": 56,
+      "title": "Ketika Almarhum Adalah Seorang Anak, Selama Sholat Jenazah",
+      "duas": [
+        {
+          "id": 160,
+          "group_id": 56,
+          "dua": "اللَّهُمَّ اجْعَلْهُ فَرَطاً وَذُخْراً لِوالِدَيْهِ، وَشَفِيْعاً مُجَاباً، اللَّهُمَّ ثَقِّلْ بِهِ مَوَازِيْنَهُمَا، وَأَعْظِمْ بِهِ أُجـُورَهُمَا، وَأَلْحِقْهُ بِصَالِحِ المُؤْمِنِيْنَ، وَاجْعَلْهُ في كَفَالَةِ إِبْرَاهـِيْمَ، وَقِهِ بِرَحْمَتِكَ عَذَابَ الْجَحِيْمِ، و أبْدِلْهُ دَاراً خَيْراً مِنْ دَارِهِ، و أهْلاً خَيْراً مِنْ أهْلِهِ، اللهم اغْفِرْ لأسْلاَفِنَا، وَ أفْرَاطِنَا، وَ مَنْ سَبَقَنَا باِلإيْمَانِ",
+          "translation": "Ya Allah, jadikanlah dia sebagai pahala dan simpanan bagi kedua orang tuanya, serta sebagai syafaat yang diterima. Ya Allah, dengan keberadaannya, beratkanlah timbangan amal kedua orang tuanya dan besarkanlah ganjaran mereka. Satukanlah dia dengan orang-orang mukmin yang saleh, tempatkanlah dia di bawah asuhan Ibrahim, dan lindungilah dia dengan rahmat-Mu dari siksa neraka. Berilah dia tempat tinggal yang lebih baik dari tempat tinggalnya, dan keluarga yang lebih baik dari keluarganya. Ya Allah, ampunilah pendahulu-pendahulu kami dan anak-anak kami serta mereka yang mendahului kami dalam keimanan.",
+          "reference": "Lihat Al-Mughnî oleh Ibn Qudâmah (3/416) dan Ad-Durûs Al-Muhimmah Li'âmah Al-Ummah oleh Shaykh Ibn Bâz (hlm. 15)."
+        },
+        {
+          "id": 161,
+          "group_id": 56,
+          "dua": "اللَّهُمَّ اجْعَلْهُ لَنَا فَرَطاً، وَسَلَفاً، وَأَجْراً",
+          "translation": "Ya Allah, jadikanlah dia sebagai pahala yang mendahului kami, pendahuluan, dan ganjaran bagi kami.",
+          "reference": "Al-Baghawî [Sharĥ As-Sunnah](5/357)."
+        }
+      ]
+    },
+    {
+      "group_id": 57,
+      "title": "Ucapan Takziah",
+      "duas": [
+        {
+          "id": 162,
+          "group_id": 57,
+          "dua": "إِنَّ لِلَّهِ مَا أَخَذَ، وَلَهُ مَا أَعْطَى، وَكُلُّ شَيءٍ عِنْدَهُ بِأَجَلٍ مُسَمَّىً...فَلْتَصْبِرْ وَ لْتَحْتَسِبْ",
+          "translation": "Sesungguhnya milik Allah apa yang Dia ambil, dan milik-Nya apa yang Dia beri, dan segala sesuatu di sisi-Nya ada waktu yang ditetapkan... maka bersabarlah dan mintalah pahala dari-Nya.",
+          "reference": "Al-Bukhârî [1284](2/80) dan Muslim [923](2/636)."
+        }
+      ]
+    },
+    {
+      "group_id": 58,
+      "title": "Ketika Meletakkan Jenazah Di Dalam Kubur",
+      "duas": [
+        {
+          "id": 163,
+          "group_id": 58,
+          "dua": "بِسْمِ اللهِ، وَعَلَى سُنَّةِ رَسُولِ اللهِ",
+          "translation": "Dengan nama Allah dan atas sunnah Rasulullah.",
+          "reference": "Abû Dâwud [3213](3/314) dengan sanad yang sahih dan Aĥmad (2/40) dengan frasa: (بسم الله و على ملة رسول الله) dan sanadnya sahih."
+        }
+      ]
+    },
+    {
+      "group_id": 59,
+      "title": "Setelah Menguburkan Jenazah",
+      "duas": [
+        {
+          "id": 164,
+          "group_id": 59,
+          "dua": "اللَّهُمَّ اغْفِرْ لَهُ، اللَّهُمَّ ثَبِّتْهُ",
+          "translation": "Ya Allah, ampunilah dia, Ya Allah, tetapkanlah dia.",
+          "reference": "Abû Dâwud [3221](3/315) dan Al-Hâkim (1/370) dan dia mensahihkannya dan Adh-Dhahabî menyetujuinya."
+        }
+      ]
+    },
+    {
+      "group_id": 60,
+      "title": "Saat Menziarahi Kuburan",
+      "duas": [
+        {
+          "id": 165,
+          "group_id": 60,
+          "dua": "السَّلَامُ عَلَيْكُمْ أَهْلَ الدِّيَارِ، مِنَ المُؤْمِنِيْنَ، وَالْمُسْلِمِيْنَ، وَإِنَّا إِنْ شَاءَ اللهُ بِكُمْ لَاحِقُونَ، [وَ يَرْ حَمُ اللهُ المُسْتَقْدِمِيْنَ مِنَّا وَ المُسْتَأخِرِيْنَ] أسْألُ اللهَ لَنَا وَلَكُمْ العَافِيَةَ",
+          "translation": "Salam sejahtera bagi kalian semua, wahai penghuni kuburan, di kalangan orang-orang beriman dan Muslim. Sesungguhnya kami, insya Allah, akan bergabung dengan kalian, kami meminta kesejahteraan untuk kami dan kalian.",
+          "reference": "Muslim [975](2/671) dan Ibn Mâjah [1547](1/494) dan redaksinya adalah dari Ibn Mâjah. Apa yang ada dalam tanda kurung berasal dari hadits 'Â'ishah yang diriwayatkan oleh Muslim [974](2/671)."
+        }
+      ]
+    },
+    {
+      "group_id": 124,
+      "title": "Ketika Merasa Sakit Di Bagian Tubuh",
+      "duas": [
+        {
+          "id": 243,
+          "group_id": 124,
+          "dua": "بِسْمِ اللهِ (ثَلاثاً)أَعُوذُ بِاللهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ.(سَبْعَ مَرَّاتٍ)",
+          "translation": "Bacalah 'Dengan nama Allah.' (tiga kali), kemudian 'Aku berlindung kepada Allah dan dengan kekuasaan-Nya dari kejahatan yang aku rasakan dan aku khawatirkan.' (tujuh kali).",
+          "reference": "Muslim [2202](4/1728)."
+        }
+      ]
+    }
+  ]
+}
+]
+

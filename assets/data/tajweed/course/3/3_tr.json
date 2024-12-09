@@ -1,0 +1,167 @@
+{
+    "id": 2,
+    "title": "Duraklama Kuralları",
+    "desc1_desc": "Duraklama kuralları, Kur'an-ı Kerim okurken doğru telaffuzu ve Tecvid kurallarına uygunluğu sağlamak için nasıl durulacağını veya ara verileceğini açıklar.",
+    "desc2_title": "Örnekler ve Senaryolar",
+    "desc2_desc": "Duraklama kuralları, sesler, Fetha Tanvini, Müşeddet harfler gibi farklı kurallar örneklerle açıklanır.",
+    "Lesson number": 7,
+    "Quiz number": 10,
+    "Lessons": [
+        {
+            "id": 0,
+            "name": "Fetha Tanvini Dışındaki Seslerde Duraklama",
+            "pengertian": "Duraklama sırasında son harfi Sükun (sessiz son) gibi kabul edin.",
+            "caraMembaca": "Son ünlünün sesini nötrleştirerek yavaşça durun.",
+            "example": "أَكْبَرُ",
+            "gambar": "3.01.jpg",
+            "suara": "3.01.mp3"
+        },
+        {
+            "id": 1,
+            "name": "Fetha Tanvininde Duraklama",
+            "pengertian": "Son harf Fetha Tanvini taşıyorsa veya ardından Elif-Medd geliyorsa, Fetha Tanvini kuralına göre durun.",
+            "caraMembaca": "Tanvinin sesini atlayın ve net bir şekilde durun.",
+            "example": "يُسْرًا",
+            "gambar": "3.02.jpg",
+            "suara": "3.02.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Te Harfi (ة) Üzerinde Duraklama",
+            "pengertian": "Te harfini, H harfi gibi sükun taşıyormuş gibi kabul edin.",
+            "caraMembaca": "Hiçbir ünlü olmadan nazikçe telaffuz edin.",
+            "example": "بَصِيْرَةٌ",
+            "gambar": "3.03.jpg",
+            "suara": "3.03.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Müşeddet Harflerde Duraklama",
+            "subrules": [
+                {
+                    "title": "Kalkale Harfleri (ق, ط, ب, ج, د)",
+                    "pengertian": "Harf, sakin halindeyken güçlü bir kalkale etkisiyle (yankı etkisi) okunur.",
+                    "example": "وَٱلۡحَجُّ",
+                    "gambar": "3.04.jpg",
+                    "suara": "3.04.mp3"
+                },
+                {
+                    "title": "Diğer Harfler",
+                    "pengertian": "Harf sükun taşıyormuş gibi kabul edilir ancak ses burunda 2 vuruş boyunca tutulur (Ğunne).",
+                    "example": "مِنْ",
+                    "gambar": "3.05.jpg",
+                    "suara": "3.05.mp3"
+                },
+                {
+                    "title": "Kalkale Olmayan Müşeddet Harfler",
+                    "pengertian": "Şedde sükunla değiştirilir ve hafif bir duraklama yapılır (nabr).",
+                    "example": "فِي شَكٍّ",
+                    "gambar": "3.06.jpg",
+                    "suara": "3.06.mp3"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Sakin veya Medd Harflerinde Duraklama (ء, ى, ا)",
+            "pengertian": "Hiçbir değişiklik yapmadan yazıldığı gibi durun.",
+            "examples": [
+                {
+                    "text": "فَكَبِّرْ",
+                    "gambar": "3.07.jpg",
+                    "suara": "3.07.mp3"
+                },
+                {
+                    "text": "مُوسَى",
+                    "gambar": "3.08.jpg",
+                    "suara": "3.08.mp3"
+                }
+            ],
+            "exceptions": [
+                {
+                    "title": "ى veya ء ile biten kelimelerde duraklama",
+                    "pengertian": "ى veya ء sükunla değiştirilir.",
+                    "example": "رَسُولَهُ",
+                    "gambar": "3.09.jpg",
+                    "suara": "3.09.mp3"
+                },
+                {
+                    "title": "Kalkale Harfinde Duraklama",
+                    "pengertian": "Güçlü bir kalkale uygulanır.",
+                    "example": "يُولَدُ",
+                    "gambar": "3.10.jpg",
+                    "suara": "3.10.mp3"
+                },
+                {
+                    "title": "Çok Uzun Medd ile Bitmiş Kelimelerde Duraklama",
+                    "pengertian": "Asıl Medd ile değiştirilir.",
+                    "example": "أَنَا",
+                    "gambar": "3.11.jpg",
+                    "suara": "3.11.mp3"
+                }
+            ]
+        }
+    ],
+    "Quizs": [
+        {
+            "id": 0,
+            "question": "فِي شَكٍّ üzerinde duraklamanın doğru yöntemi nedir?",
+            "answers": [
+                {"answer": "Sükun uygulayın ve hafif bir duraklama yapın.", "right": 1},
+                {"answer": "Şeddeyi göz ardı edin.", "right": 0},
+                {"answer": "Harf, damma taşıyormuş gibi kabul edilir.", "right": 0},
+                {"answer": "Onu medd ile okuyun.", "right": 0}
+            ]
+        },
+        {
+            "id": 1,
+            "question": "قُلِ ٱللَّهُمَّ üzerinde duraklamanın doğru kuralı nedir?",
+            "answers": [
+                {"answer": "Sükun ile değiştirin.", "right": 1},
+                {"answer": "Kelimeye tanvin ekleyin.", "right": 0},
+                {"answer": "Duraklama kurallarını göz ardı edin.", "right": 0},
+                {"answer": "Kasra taşıyormuş gibi kabul edin.", "right": 0}
+            ]
+        },
+        {
+            "id": 2,
+            "question": "بَصِيْرَةٌ kelimesinde ة harfi nasıl ele alınır?",
+            "answers": [
+                {"answer": "H harfi gibi sükun taşıyormuş gibi kabul edilir.", "right": 1},
+                {"answer": "Onu tanvin ile okuyun.", "right": 0},
+                {"answer": "Duraklama sırasında ة harfini göz ardı edin.", "right": 0},
+                {"answer": "Onu medd olarak ele alın.", "right": 0}
+            ]
+        },
+        {
+            "id": 3,
+            "question": "يُولَدُ kelimesinde kalkale nasıl uygulanır?",
+            "answers": [
+                {"answer": "Güçlü bir kalkale uygulayın.", "right": 1},
+                {"answer": "Sükun ekleyin.", "right": 0},
+                {"answer": "Kalkaleyi göz ardı edin.", "right": 0},
+                {"answer": "Onu medd olarak okuyun.", "right": 0}
+            ]
+        },
+        {
+            "id": 4,
+            "question": "أَنَا kelimesinde duraklamanın doğru yöntemi nedir?",
+            "answers": [
+                {"answer": "Uzun meddi asıl medd ile değiştirin.", "right": 1},
+                {"answer": "Meddi tamamen kaldırın.", "right": 0},
+                {"answer": "Meddi daha fazla uzatın.", "right": 0},
+                {"answer": "Sonuna tanvin ekleyin.", "right": 0}
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Sakin harflerde (ء, ى, ا) duraklama kuralı nedir?",
+            "answers": [
+                {"answer": "Hiçbir değişiklik yapmadan yazıldığı gibi durun.", "right": 1},
+                {"answer": "Harf üzerine sükun ekleyin.", "right": 0},
+                {"answer": "Medd uygulayın.", "right": 0},
+                {"answer": "Duraklama kurallarını göz ardı edin.", "right": 0}
+            ]
+        }
+    ]
+}

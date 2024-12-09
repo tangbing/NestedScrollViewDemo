@@ -1,0 +1,2729 @@
+[
+  {
+    "category_id": 1,
+    "title": "Matin & Soir",
+    "group": [
+      {
+        "group_id": 1,
+        "title": "Quand on se réveille",
+        "duas": [
+          {
+            "id": 1,
+            "group_id": 1,
+            "dua": "اَلحَمدُ لِلهِ الَّذِي أحيَانَا بَعْدَ مَا أمَاتَنَا وَ إِلَيهِ النُّشُورُ",
+            "translation": "Louange à Allah qui nous redonne la vie après nous avoir fait mourir, et c'est vers Lui que nous serons ressuscités.",
+            "reference": "Al-Bukhârî [6312], voir Fatĥ al-Bârî (11/113) et Muslim [2711](4/2083)."
+          },
+          {
+            "id": 2,
+            "group_id": 1,
+            "dua": "لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الحَمدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، سُبْحاَنَ اللهِ، وَالحَمدُ للهِ، وَلَا إِلَهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ، رَبِّ اغْفِرْ لِي",
+            "translation": "Il n'y a de divinité digne d'adoration qu'Allah seul, sans associé, à Lui appartient la royauté et à Lui revient la louange, et Il est capable de toute chose. Gloire à Allah. Louange à Allah. Il n'y a de divinité digne d'adoration qu'Allah. Allah est le Plus Grand. Il n'y a de puissance ni de force que par Allah, l'Exalté, le Grand. Ô Seigneur, pardonne-moi. (Celui qui dit cela sera pardonné, et si quelqu'un fait des invocations, Allah les exaucera ; s'il fait les ablutions et prie, sa prière sera acceptée).",
+            "reference": "Al-Bukhârî [1154], voir Fatĥ al-Bârî (3/39) et les mots sont de Ibn Mâjah (2/335), voir aussi Ŝaĥiĥ Ibn Mâjah (2/335)."
+          },
+          {
+            "id": 3,
+            "group_id": 1,
+            "dua": "الحَمدُ لِلهِ الَّذِي عَافَانِي فِي جَسَدِي، وَرَدَّ عَلَيَّ رُوحِي، وَأَذِنَ لِي بِذِكْرِهِ",
+            "translation": "Louange à Allah qui a donné de la force à mon corps, qui m'a rendu mon âme et qui m'a permis de me souvenir de Lui.",
+            "reference": "At-Tirmidhî [3401](5/473), voir aussi Ŝaĥiĥ At-Tirmidhî (3/144)."
+          },
+          {
+            "id": 4,
+            "group_id": 1,
+            "dua": "يقرأ سورة آل عمران ٣: ١٩٠-٢٠٠",
+            "translation": "Récitez la sourate Al-'Imran [3:190-200].",
+            "reference": "Al-Bukhârî [4572], voir Fatĥ al-Bârî (8/237) et Muslim [763](1/530)."
+          }
+        ]
+      },
+      {
+        "group_id": 27,
+        "title": "Le matin et le soir",
+        "duas": [
+          {
+            "id": 75,
+            "group_id": 27,
+            "dua": "﴾اللهُ لَا إله إلَّا هُوَ الحَيُّ القَيُّومُ لَا...﴿",
+            "translation": "Quiconque dit cela (Âyat al-Kursî) lorsqu'il se lève le matin sera protégé des djinns jusqu'à ce qu'il se couche le soir, et quiconque le dit le soir sera protégé d'eux jusqu'au matin.",
+            "reference": "Al-Hâkim (1/562) et Al-Albânî l'a authentifié dans Ŝaĥîĥ At-Targhîb wa At-Tarhîb [655](1/273) et il l'a attribué à An-Nisâ'i ['Amal al-Yawm wa al-Laylah][960] et Ťabarânî [Al-Kabîr][541], et a dit que la chaîne du dernier est bonne."
+          },
+          {
+            "id": 76,
+            "group_id": 27,
+            "dua": "﴾قُل هُوَ اللهُ أحَدٌ...﴿﴾قُلْ أعُوذُ بِرَبِّ اْلفَلَقِ...﴿﴾قُلْ أعُوذُ بِرَبِّ النَّاسِ...﴿[ثلاث مرات]",
+            "translation": "Récitez :1. Sourate Al-Ikhlâs (Qur'ân : 112)2. Sourate Al-Falaq (Qur'ân : 113)3. Sourate An-Nâs (Qur'ân : 114)[Trois fois]",
+            "reference": "Abû Dâwud [5082](4/322), At-Tirmidhî [5/567](3575). Voir aussi Ŝaĥîĥ At-Tirmidhî (3/182)."
+          },
+          {
+            "id": 77,
+            "group_id": 27,
+            "dua": "أصْبَحْنَا وَ أصْبَحَ المُلْكُ لِلَّهِ، وَ الحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ، وَ لَهُ الحَمْدُ، وَ هُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، رَبِّ أسْألُكَ خَيْرَ مَا في هَذَا اليَوْمِ وَ خَيْرَ مَا بَعْدَهُ، وَ أعُوذُ بِكَ مِنْ شَرِّ مَا في هَذَا اليَوْمِ وَ شَرِّ مَا بَعْدَهُ، رَبِّ أعُوذُ بِكَ مِنَ الكَسَلِ، وَ سُوءِ الكِبَرِ، رَبِّ أعُوذُ بِكَ مِنْ عَذَابٍ في النَّارِ وَ عَذَابٍ في القَبْرِ.(١)وَ إذَا أمْسَى قَالَ: أمْسَيْنَا وَ أمْسَى المُلْكُ لِلَّهِ.وَ إذَا أمْسَى قَالَ: رَبِّ أسْألُكَ خَيْرَ مَا في هَذِهِ اللَّيْلَةِ وَ خَيْرَ مَا بَعْدَهَا، وَ أعُوذُ بِكَ مِنْ شَرِّ مَا في هَذِهِ اللَّيْلَةِ وَ شَرِّ مَا بَعْدَهَا.",
+            "translation": "'Nous avons atteint le matin et avec lui toute la domination appartient à Allah. Louange à Allah. Nul n'a le droit d'être adoré sauf Allah seul, sans associé. À Allah appartient la domination, et à Lui la louange, et Il est capable de toute chose. Seigneur, je Te demande le bien de ce jour et le bien des jours à venir, et je me réfugie auprès de Toi contre le mal de ce jour et le mal des jours à venir. Seigneur, je me réfugie auprès de Toi contre la paresse et la vieillesse déplorable. Seigneur, je me réfugie auprès de Toi contre le châtiment du feu et le châtiment de la tombe.'La nuit, récitez à la place :'Nous avons atteint la soirée et avec elle toute la domination appartient à Allah...'et :'...Seigneur, je Te demande le bien de cette nuit et le bien des nuits à venir, et je me réfugie auprès de Toi contre le mal de cette nuit et le mal des nuits à venir...'",
+            "reference": "Muslim [2723](4/2088)."
+          },
+          {
+            "id": 78,
+            "group_id": 27,
+            "dua": "اللهم بِكَ أصْبَحْنَا، وَ بِكَ أمْسَيْنَا، وَ بِكَ نَحْيَا، وَ بِكَ نَمُوتُ، وَ إلَيْكَ النُّشُورُ.(١)وَإذَا أمْسَى قَالَ: اللهم بِكَ أمْسَيْنَا، وَ بِكَ أصْبَحْنَا، وَ بِكَ نَحْيَا، وَ بِكَ نَمُوتُ، وَ إلَيْكَ المَصِيْرُ.",
+            "translation": "'Ô Allah, par Ta permission nous avons atteint le matin et par Ta permission nous avons atteint le soir, par Ta permission nous vivons et nous mourons et vers Toi est notre résurrection.'La nuit, récitez à la place :'Ô Allah, par Ta permission nous avons atteint le soir et par Ta permission nous avons atteint le matin, par Ta permission nous vivons et nous mourons et vers Toi est notre retour.'",
+            "reference": "At-Tirmidhî [3391](5/466). Voir aussi Ŝaĥîĥ At-Tirmidhî (3/142)."
+          },
+          {
+            "id": 79,
+            "group_id": 27,
+            "dua": "اللهم أنْتَ رَبِّي لَا إلَهَ إلَّا أنْتَ، خَلَقْتَنِي وَ أنَا عَبْدُكَ، وَ أنَا عَلَى عَهْدِكَ وَ وَعْدِكَ مَا اسْتَطَعْتُ، أعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أبُوءُلَكَ بِنِعْمَتِكَ عَلَيَّ، وَ أبُوءُ بِذَنْبِي فَاغْفِرْ لي فَإنَّهُ لَا يَغْفِرُ الذُّنُوبَ إلَّا أنْتَ.",
+            "translation": "Ô Allah, Tu es mon Seigneur, nul n'a le droit d'être adoré en dehors de Toi, Tu m'as créé et je suis Ton serviteur et je m'efforce d'obéir à Ton alliance et à Ta promesse du mieux que je peux. Je cherche refuge auprès de Toi contre le mal de ce que j'ai fait. Je reconnais Tes bienfaits sur moi et je reconnais mes péchés, alors pardonne-moi, car nul ne peut pardonner les péchés sauf Toi.",
+            "reference": "Al-Bukhârî [6306](7/150)."
+          },
+          {
+            "id": 80,
+            "group_id": 27,
+            "dua": "اللهم إنِّي أصْبَحْتُ أُشْهِدُكَ، وَ أُشْهِدُ حَمَلَةَ عَرْشِكَ، وَ مَلَائِكَتِكَ، وَ جَمِيْعَ خَلْقِكَ، أنَّكَ أنْتَ اللهُ لَا إلَهَ إلَّا أنْتَ وَحْدَكَ لَا شَرِيْكَ لَكَ، وَ أنَّ مُحَمَّداً عَبْدُكَ وَ رَسُولُكَ. [أرْبَعَ مَرَّاتٍ]",
+            "translation": "Ô Allah, en vérité, j'ai atteint le matin et je fais appel à Toi, aux porteurs de Ton trône, à Tes anges et à toute Ta création pour témoigner que Tu es Allah, nul n'a le droit d'être adoré sauf Toi, seul, sans associé, et que Muhammad est Ton serviteur et messager. [Quatre fois]",
+            "reference": "Abû Dâwud [5069](4/317), Al-Bukhârî [Al-Adab Al-Mufrad][1201], An-Nisâ'i ['Amal al-Yawm wa al-Laylah][9] et Ibn As-Sunnî [70]. Shaykh Ibn Bâz a déclaré la chaîne de An-Nisâ'i et Abû Dâwud, Hasan dans [Tuĥfat Al-Akhyâr][pg. 23]. Cependant, Al-Albânî l'a déclaré faible. Voir Al-Kalim Ať-Ťayyib [25]."
+          },
+          {
+            "id": 81,
+            "group_id": 27,
+            "dua": "أللهم مَا أصْبَحَ بِي مِنْ نِعْمَةٍ، أوْ بِأحَدٍ مِنْ خَلْقِكَ، فَمِنْكَ وَحْدَكَ لَا شَرِيْكَ لَكَ، فَلَكَ الحَمْدُ وَ لَكَ الشُّكْرُ.(١)و إذَا أمْسَى قَالَ: اللهم مَا أمْسَى بِي...",
+            "translation": "Ô Allah, toute bénédiction dont je ou toute Ta création avons joui ce matin vient de Toi seul, sans associé. A Toi reviennent la louange et les remerciements.",
+            "reference": "Abû Dâwud [5073](4/318), An-Nisâ'i ['Amal al-Yawm wa al-Laylah][7], Ibn As-Sunnî [41], Ibn Ĥibân [Muwârid][2361]. Shaykh Ibn Bâz a déclaré sa chaîne Ĥasan dans [Tuĥfat Al-Akhyâr][pg. 24]. Cependant, Al-Albânî l'a déclaré faible. Voir Al-Kalim Ať-Ťayyib [26]."
+          },
+          {
+            "id": 82,
+            "group_id": 27,
+            "dua": "اللَّهُمَّ عَافِنِي فِي بَدَنِي، اللَّهُمَّ عَافِنِي فِي سَمْعِي، اللَّهُمَّ عَافِنِي فِي بَصْرِي، لَا إِلَهَ إِلَّا أَنْتَ، اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكُفْرِ، وَالْفَقْرِ، وأَعُوْذُ بِكَ مِنْ عَذَابِ القَبْرِ، لَا إِلَهَ إِلَّا أَنْتَ.[ثَلاثَ مَرَّاتٍ]",
+            "translation": "Ô Allah, accorde la santé à mon corps, ô Allah, accorde la santé à mon ouïe, ô Allah, accorde la santé à ma vue. Nul n'a le droit d'être adoré sauf Toi. Ô Allah, je cherche refuge auprès de Toi contre l'incrédulité et la pauvreté, et je cherche refuge auprès de Toi contre le châtiment de la tombe ; nul n'a le droit d'être adoré sauf Toi. [Trois fois]",
+            "reference": "Abû Dâwud [5090](4/324), Aĥmad (5/42), An-Nisâ'i ['Amal al-Yawm wa al-Laylah][22], Ibn As-Sunnî [69], Al-Bukhârî [Al-Adab Al-Mufrad]. Shaykh Ibn Bâz a authentifié sa chaîne dans [Tuĥfat Al-Akhyâr][pg. 26]. Al-Albânî l'a déclaré faible. Voir Ďa'îf Al-J Al-Jâmi' [1210]."
+          },
+          {
+            "id": 83,
+            "group_id": 27,
+            "dua": "حَسْبِيَ اللهُ لَا إلَهَ إلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ العَرْشِ العَظِيمِ [سَبْعَ مَرَّاتٍ]",
+            "translation": "Allah me suffit, nul n'a le droit d'être adoré sauf Lui, en Lui je place ma confiance et Il est le Seigneur du trône immense. [Sept fois]",
+            "reference": "Ibn As-Sunnî [71][Marfû'] et Abû Dâwud [5081](4/321)[Mawqûf]. Shu'aîb et 'Abdul Qadir Al-Arnâ'ûť l'ont déclaré authentique. Voir aussi Zâd al-Ma'âd (2/376). Al-Albânî l'a déclaré faible. Voir Ďa'îf Abî Dâwud."
+          },
+          {
+            "id": 84,
+            "group_id": 27,
+            "dua": "اللَّهُمَّ إِنِّي أسْأَلُكَ العَفْوَ وَ العَافِيَةَ في الدُّنْيَا وَالآخِرَةِ، اللّهُمَّ إِنِّي أسْأَلُكَ العَفْوَ وَ العَافِيَةَ في دِيْنِي وَدُنْيَايَ وَأهْلي وَمالي، اللَّهُمَّ اسْتُرْ عَوْرَاتي، وَآمِنْ رَوْعَاتي، اللَّهُمَّ احْفَظْني مِنْ بَيْنِ يَدَيَّ، وَمِنْ خَلْفِي، وَعَنْ يَمِيْنِي وَعَنْ شِمَالي، وَمِنْ فَوْقي ، وَ أعُوذُ بِعَظَمَتِكَ أنْ أُغْتَالَ مِنْ تَحْتِي.",
+            "translation": "Ô Allah, je Te demande le pardon et la santé dans cette vie et dans l'au-delà. Ô Allah, je Te demande le pardon et la santé dans ma religion, dans mes affaires mondaines, dans ma famille et dans mes biens. Ô Allah, voile mes défauts et apaise mes peurs. Ô Allah, protège-moi de devant, de derrière, de ma droite, de ma gauche et de dessus, et je cherche refuge dans Ta grandeur contre le fait d'être pris au dépourvu par en dessous.",
+            "reference": "Abû Dâwud [5074], Ibn Mâjah [3871]. Voir aussi Ŝaĥîĥ Ibn Mâjah (2/332)."
+          },
+          {
+            "id": 85,
+            "group_id": 27,
+            "dua": "اللَّهُمَّ عَالِمَ الغَيْبِ وَالشَّهَادَةِ، فَاطِرَ السَّمَاوَاتِ وَ الأرْضِ، رَبَّ كلِّ شَيءٍ وَمَلِيْكَه، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي وَمِنْ شَرِّ الشَّيْطانِ وَشِرْكِهِ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوءاً، أَوْ أَجْرَّهُ إِلَى مُسْلِمٍ.",
+            "translation": "Ô Allah, Connaisseur de l'invisible et du visible, Créateur des cieux et de la Terre, Seigneur et Souverain de toutes choses, je témoigne que nul n'a le droit d'être adoré sauf Toi. Je cherche refuge auprès de Toi contre le mal de mon âme et contre le mal et l'association du diable, et contre le fait de commettre un tort contre mon âme ou d'en infliger un à un autre musulman.",
+            "reference": "At-Tirmidhî [3392] et Abû Dâwud [5067]. Voir aussi Ŝaĥîĥ At-Tirmidhî (3/142)."
+          },
+          {
+            "id": 86,
+            "group_id": 27,
+            "dua": "بِسمِ اللهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيءٌ في الأرْضِ وَلَا في السَّمَاءِ وَهـوَ السَّمِيعُ العَلِيمُ [ثَلاثَ مَرَّاتٍ]",
+            "translation": "Au nom d'Allah, avec Son nom, rien ne peut nuire sur terre ni dans les cieux, et Il est l'Audient, l'Omniscient. [Trois fois]",
+            "reference": "Abû Dâwud [5088, 5089](4/323), At-Tirmidhî [3388](5/465), Ibn Mâjah [3869], Aĥmad (1/72). Voir aussi Ŝaĥîĥ Ibn Mâjah (2/332). Shaykh Ibn Bâz a authentifié sa chaîne dans [Tuĥfat Al-Akhyâr][pg. 39]."
+          },
+          {
+            "id": 87,
+            "group_id": 27,
+            "dua": " رَضِيْتُ بِاللهِ رَبًّا، وَبِالإسْلامِ دِيْناً، وَبِمُحَمَّدٍ نَبِيًّا [ثَلاثَ مَرَّاتٍ]",
+            "translation": "Je suis satisfait d'Allah comme Seigneur, de l'Islam comme religion et de Muhammad comme Prophète. [Trois fois]",
+            "reference": "Aĥmad (4/337), An-Nisâ'i ['Amal al-Yawm wa al-Laylah][4], Ibn As-Sunnî [68], Abû Dâwud [5072](4/318) et At-Tirmidhî [3389](5/465). Shaykh Ibn Bâz l'a déclaré Ĥasan dans [Tuĥfat Al-Akhyâr][39]."
+          },
+          {
+            "id": 88,
+            "group_id": 27,
+            "dua": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيْثُ، أَصْلِحْ لي شَأْني كُلَّهُ، وَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ",
+            "translation": "Ô Vivant, ô Subsistant par Toi-même, par Ta miséricorde je cherche assistance, rectifie pour moi toutes mes affaires et ne me laisse pas à moi-même, ne serait-ce que le temps d'un clin d'œil.",
+            "reference": "Al-Hâkim (1/545); il l'a authentifié et Adh-Dhahabî a été d'accord avec lui. Voir aussi Ŝaĥîĥ At-Targhîb wa At-Tarhîb [654](1/273)."
+          },
+          {
+            "id": 89,
+            "group_id": 27,
+            "dua": "أَصْبَحْنَا وَ أَصْبَحَ المُلْكُ لِلَّهِ رَبِّ العَالَمِيْنَ، اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَ هـَذَا اليَوْمِ: فَتْحَهُ، وَنَصْرَهُ وَ نُورَهُ، وَ بَرَكَتَهُ،وَ هُدَاهُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فِيْهِ وَ شَرِّ مَا بَعْدَهُ.و إذا أمسى قال: أَمْسَيْنَا وَأَمْسَى المُلْكُ لِلّهَِ رَبِّ العَالَمِيْنَ، اللَّهُمَّ إِنِّي أسْأَلُكَ خَيْرَ هـَذِهِ اللَّيْلَةِ، فَتْحَهَا، وَنَصْرَهـَا، وَنورَهـَا وَبَرَكَتَهَا، وَ هُدَاهـَا، وَ أَعُوذُ بِكَ مِنْ شَرِّ مَا فِيْهَا وَشَرِّ مَا بَعْدَهـَا.",
+            "translation": "'Nous avons atteint le matin et en ce moment même toute souveraineté appartient à Allah, Seigneur des mondes. Ô Allah, je Te demande le bien de ce jour, ses triomphes et ses victoires, sa lumière et ses bénédictions et sa guidance, et je me réfugie auprès de Toi contre le mal de ce jour et le mal qui le suivra.'La nuit, récitez à la place : 'Nous avons atteint la soirée et en ce moment même toute souveraineté appartient à Allah, Seigneur des mondes. Ô Allah, je Te demande le bien de cette nuit, ses triomphes et ses victoires, sa lumière et ses bénédictions et sa guidance, et je me réfugie auprès de Toi contre le mal de cette nuit et le mal qui la suivra.'",
+            "reference": "Abû Dâwud [5084](4/322), Shu'aîb et 'Abdul Qadir Al-Arnâ'ûť l'ont déclaré Ĥasan dans leur recherche de Zâd al-Ma'âd (2/273)."
+          },
+          {
+            "id": 90,
+            "group_id": 27,
+            "dua": "أَصْبَحْنَا عَلَى فِطْرَةِ الإسْلامِ، وَعَلَى كَلِمَةِ الإخْلاصِ، وَعَلَى دِيْنِ نَبِيِّنَا مُحَمَّدٍ ﷺ، وَعَلَى مِلَّةِ أبِيْنَا إِبْرَاهِيمَ، حَنِيْفاً مُسْلِماً وَمَا كَانَ مِنَ المُشْرِكِيْنَ.وَ إذَا أمسَى قَالَ: أمْسَيْنَا عَلَى فِطْرَةِ الإسْلامِ.",
+            "translation": "Nous nous réveillons sur la fitrah de l'Islam, et la parole de la foi pure, et sur la religion de notre Prophète Muhammad et la religion de notre ancêtre Ibraheem, qui était un musulman et de la vraie foi, et qui n'était pas de ceux qui associent quelque chose à Allah.",
+            "reference": "Aĥmad (3/406,407) et Ibn As-Sunnî ['Amal al-Yawm wa al-Laylah][34]. Voir aussi Ŝaĥîĥ Al-Jâmi' [4674](4/209)."
+          },
+          {
+            "id": 91,
+            "group_id": 27,
+            "dua": "سُبْحَانَ اللهِ وَبِحَمْدِهِ [مِئَةَ مَرَّةٍ]",
+            "translation": "Gloire à Allah et je Le loue. [Cent fois]",
+            "reference": "Muslim [2723](4/2071)."
+          },
+          {
+            "id": 92,
+            "group_id": 27,
+            "dua": "لَا إلَهَ إلَّا اللهُ وحْدَهُ لَا شَرِيكَ لهُ، لهُ المُلْكُ ولهُ الحَمْدُ، وهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ. [عشر مرات](١)أو [مرة واحدة](٢)",
+            "translation": "Nul n'a le droit d'être adoré sauf Allah, seul, sans associé, à Lui appartient toute la souveraineté et toute la louange et Il est capable de toute chose.   ou  .",
+            "reference": "(1) An-Nisâ'i ['Amal al-Yawm wa al-Laylah][24] du ĥadîth de Abû Ayûb Al-Anŝârî (qu'Allah soit satisfait de lui). Voir aussi Ŝaĥîĥ At-Targhîb wa At-Tarhîb [650](1/272) et Tuĥfat Al-Akhyâr (pg. 55).(2) Abû Dâwud [5077](4/319), Ibn Mâjah [3867] et Aĥmad (4/60). Voir aussi Ŝaĥîĥ At-Targhîb wa At-Tarhîb (1/270), Ŝaĥîĥ Abî Dâwud (3/957), Ŝaĥîĥ Ibn Mâjah (2/331) et Zâd Al-Ma'âd (2/377)."
+          },
+          {
+            "id": 93,
+            "group_id": 27,
+            "dua": "لَا إلَهَ إلَّا اللهُ وحْدَهُ لَا شَريْكَ لهُ، لهُ المُلْكُ ولَهُ الحَمْدُ، وهُوَ عَلَى كُلِّ شَيءٍ قَدِيْرٌ [مئةَ مَرَّةٍ إذا أصْبَحَ]",
+            "translation": "Nul n'a le droit d'être adoré sauf Allah, seul, sans associé, à Lui appartient toute la souveraineté et toute la louange, et Il est capable de toute chose. [Cent fois le matin]",
+            "reference": "Al-Bukhârî [3293](4/95) et Muslim [2691](4/2071)."
+          },
+          {
+            "id": 94,
+            "group_id": 27,
+            "dua": "سُبْحَانَ اللهِ وَبِحَمْدِهِ، عَدَدَ خَلْقِهِ، وَرِضَا نَفْسِهِ، وَزِنَةَ عَرْشِهِ ، وَمِدَادَ كَلِمَاتِهِ. [ثَلاثَ مَرَّاتٍ إذا أصْبَحَ]",
+            "translation": "Gloire à Allah et je Le loue par le nombre de Ses créatures, par Son plaisir, par le poids de Son trône et par l'encre de Ses paroles. [Trois fois le matin]",
+            "reference": "Muslim [2726](4/2090)."
+          },
+          {
+            "id": 95,
+            "group_id": 27,
+            "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نَافِعاً، وَ رِزْقاً طَيِّباً، وَ عَمَلاً مُتَقَبَّلاً [إذا أصْبَحَ]",
+            "translation": "Ô Allah, je Te demande une science utile, une subsistance pure et des actes acceptés. [Le matin]",
+            "reference": "Ibn As-Sunnî ['Amal al-Yawm wa al-Laylah][54] et Ibn Mâjah [925]. Shu'aîb et 'Abdul Qadir Al-Arnâ'ûť l'ont déclaré authentique dans leur recherche de Zâd al-Ma'âd (2/375)."
+          },
+          {
+            "id": 96,
+            "group_id": 27,
+            "dua": "أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ [مِئَةَ مَرَّةٍ اليَوْمِ]",
+            "translation": "Je cherche pardon auprès d'Allah et je me repens à Lui. [Cent fois par jour]",
+            "reference": "Al-Bukhârî [6307](11/101) et Muslim [2702](4/2075)."
+          },
+          {
+            "id": 97,
+            "group_id": 27,
+            "dua": "أَعُوذُبِكَلِمَاتِ اللهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ [ثَلاثَ مَرَّاتٍ إذا أمْسَى]",
+            "translation": "Je cherche refuge dans les paroles parfaites d'Allah contre le mal de ce qu'Il a créé. [Trois fois le soir]",
+            "reference": "Aĥmad (2/290), An-Nisâ'i ['Amal al-Yawm wa al-Laylah][590], Ibn As-Sunnî (68). Voir aussi Ŝaĥîĥ At-Tirmidhî (3/187), Ŝaĥîĥ Ibn Mâjah (2/266) et Tuĥfat Al-Akhyâr (p. 45)"
+          },
+          {
+            "id": 98,
+            "group_id": 27,
+            "dua": "اللَّهُمَّ صَلِّ وَ سَلِّمْ عَلَى نَبِيِّنَا مُحَمَّدٍ [عَشْرَ مَرَّاتٍ]",
+            "translation": "Ô Allah, envoie la prière et la paix sur notre Prophète Muhammad. [Dix fois]",
+            "reference": "Ať-Ťabarânî à travers deux chaînes, dont une est bonne. Voir Majm'u Az-Zawâ 'id (10/120) et Ŝaĥîĥ At-Targhîb wa At-Tarhîb [656](1/273)."
+          }
+        ]
+      },
+      {
+        "group_id": 28,
+        "title": "Avant de dormir",
+        "duas": [
+          {
+            "id": 99,
+            "group_id": 28,
+            "dua": "﴾قُل هُوَ اللهُ أحَدٌ...﴿﴾قُلْ أعُوذُ بِرَبِّ اْلفَلَقِ...﴿﴾قُلْ أعُوذُ بِرَبِّ النَّاسِ...﴿[ثلاث مرات]",
+            "translation": "Lorsque le Prophète (salla Allaahu ʻalayhi wa salaam) se couchait chaque nuit, il rassemblait ses mains, y soufflait légèrement, récitait les trois dernières sourates du Qur'ân, puis passait ses mains sur tout son corps autant que possible, en commençant par la tête et le visage, et ensuite sur le reste de son corps ; il faisait cela trois fois.",
+            "reference": "Al-Bukhârî [5017](9/62) et Muslim [2192](4/1723)."
+          },
+          {
+            "id": 100,
+            "group_id": 28,
+            "dua": "﴾اللهُ لَا إلَهَ إلَّا هُوَ الحَيُّ القَيُّومُ... ﴿",
+            "translation": "Le Prophète (salla Allaahu ʻalayhi wa salaam) a également dit : 'Lorsque tu es sur le point de dormir, récite Ayat Al-Kursî, car une protection d'Allah restera sur toi et aucun diable ne s'approchera de toi jusqu'au matin.'",
+            "reference": "Al-Bukhârî [2311](4/487)."
+          },
+          {
+            "id": 101,
+            "group_id": 28,
+            "dua": "﴾ءامَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ...﴿",
+            "translation": "Le Prophète (salla Allaahu ʻalayhi wa salaam) a également dit : 'Quiconque récite les deux derniers versets de la sourate Al-Baqarah la nuit ; ces deux versets lui suffiront.'",
+            "reference": "Al-Bukhârî [4008](9/94) et Muslim [808](1/554)."
+          },
+          {
+            "id": 102,
+            "group_id": 28,
+            "dua": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي، وَبِكَ أَرْفَعُهُ، فإِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا، بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِينَ",
+            "translation": "Si l'un de vous se lève de son lit puis y retourne, il doit le dépoussiérer avec le bord de son vêtement trois fois car il ne sait pas ce qui a pu se produire en son absence, et lorsqu'il se couche, il doit dire cette invocation : 'C'est en Ton nom, Seigneur, que je pose mon flanc, et c'est en Ton nom que je le relève. Si Tu retiens mon âme, alors fais-lui miséricorde ; et si Tu la renvoies, alors protège-la comme Tu protèges Tes serviteurs pieux.'",
+            "reference": "Al-Bukhârî [6320](11/126) et Muslim [2714](4/2084)."
+          },
+          {
+            "id": 103,
+            "group_id": 28,
+            "dua": "اللَّهُمَّ إِنَّكَ خَلَقْتَ نَفْسي وَأَنْتَ تَوَفَّاهـَا، لَكَ مَمَاتُهَا وَمَحْيَاهَا، إِنْ أَحْيَيْتَهَا فَاحْفَظْهَا، وَإِنْ أَمَتَّهَا فَاغْفِرْ لَهَا، اللَّهُمَّ إِنَّي أَسْألُكَ العَافِيَةَ",
+            "translation": "Ô Allah, en vérité, Tu as créé mon âme et Tu reprendras sa vie, à Toi appartient sa vie et sa mort. Si Tu la laisses en vie, alors protège-la, et si Tu lui reprends la vie, alors pardonne-lui. Ô Allah, je Te demande la santé.",
+            "reference": "Muslim [2712](4/2083) et Aĥmad (2/79)."
+          },
+          {
+            "id": 104,
+            "group_id": 28,
+            "dua": "اللَّهُمَّ قِنِي عَذابَكَ، يَوْمَ تَبْعَثُ عِبَادَكَ",
+            "translation": "Ô Allah, protège-moi de Ton châtiment le jour où Tu ressusciteras Tes serviteurs.",
+            "reference": "Abû Dâwud [5045](4/311). Voir aussi Ŝaĥîĥ At-Tirmidhî (3/143)."
+          },
+          {
+            "id": 105,
+            "group_id": 28,
+            "dua": "بِاسْمِكَ اللَّهُمَّ أَموتُ وَأحْيَا",
+            "translation": "En Ton nom, ô Allah, je vis et je meurs.",
+            "reference": "Abû Dâwud [5045](4/311). Voir aussi Ŝaĥîĥ At-Tirmidhî (3/143)."
+          },
+          {
+            "id": 106,
+            "group_id": 28,
+            "dua": "سُبْحَانَ اللهِ (ثَلاثاً وثَلاثِينَ)وَالحَمْدُ لِلَّهِ (ثَلاثاً وثَلاثِينَ)وَاللهُ أكْبرُ (أربَعاً وثَلاثِينَ)",
+            "translation": "Gloire à Allah [Trente-trois fois].Louange à Allah [Trente-trois fois].Allah est le Plus Grand [Trente-quatre fois].",
+            "reference": "Al-Bukhârî [3705](7/71) et Muslim [2727](4/2091)."
+          },
+          {
+            "id": 107,
+            "group_id": 28,
+            "dua": "اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ، وَرَبَّ الأرْضِ، وربَّ العَرْشِ العَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيءٍ، فَالِقَ الحَبِّ وَالنَّوَى، وَمُنْزِلَ التَّوْرَاةِ وَالإنْجِيْلِ و الفُرْقَانِ، أَعوذُ بِكَ مِن شَرِّ كُلِّ شَيءٍ أَنْتَ آخِذٌ بِنَاصِيتِهِ، اللَّهُمَّ أَنْتَ الأوَّلُ فَلَيْسَ قَبْلَكَ شَيءٌ، وَأَنْتَ الآخِرُ فَلَيْسَ بَعْدَكَ شَيءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيءٌ، اقْضِ عَنَّا الدَّيْنَ، وَأَغْنِنَا مِنَ الفَقْرِ",
+            "translation": "Ô Allah, Seigneur des sept cieux et du trône exalté, notre Seigneur et Seigneur de toutes choses, Diviseur de la graine et du noyau, Révélateur de la Torah, de l'Évangile et du Furqân, je cherche refuge auprès de Toi contre le mal de toute chose dont Tu tiens la destinée. Ô Allah, Tu es Le Premier et rien n'est avant Toi et Tu es Le Dernier et rien n'est après Toi. Tu es Az-Zâhir et rien n'est au-dessus de Toi et Tu es Al-Bâtin et rien n'est plus proche que Toi. Règle notre dette et préserve-nous de la pauvreté.",
+            "reference": "Muslim [2713](4/2084)."
+          },
+          {
+            "id": 108,
+            "group_id": 28,
+            "dua": "الحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا، وَكَفَانَا، وَآوَانَا، فَكَمْ مِمَّنْ لَا كَافِيَ لَهُ وَلَا مُؤْوِيَ",
+            "translation": "Louange à Allah, qui nous a donné à manger et à boire, qui a été suffisant pour nous et qui nous a abrités, car combien sont ceux qui n'ont ni suffisant ni abri.",
+            "reference": "Muslim [2715](4/2085)."
+          },
+          {
+            "id": 109,
+            "group_id": 28,
+            "dua": "اللَّهُمَّ عالِمَ الغَيْبِ وَالشّهَادَةِ فَاطِرَ السَّمَوَاتِ وَالأرْضِ، رَبَّ كُلِّ شَيْءٍ وَمَلَيْكَهُ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَعُوذُ بِكَ مِن شَرِّ نَفْسِي، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوءاً، أَوْ أَجُـرَّهُ إِلَى مُسْلِمٍ",
+            "translation": "Ô Allah, Connaisseur de l'invisible et du visible, Créateur des cieux et de la terre, Seigneur et Souverain de toutes choses, je témoigne que nul n'a le droit d'être adoré sauf Toi. Je cherche refuge auprès de Toi contre le mal de mon âme et contre le mal et l'association du diable, et contre le fait de commettre un tort contre mon âme ou d'en infliger un à un autre musulman.",
+            "reference": "Abû Dâwud [5083](4/317). Voir aussi Ŝaĥîĥ At-Tirmidhî (3/142)."
+          },
+          {
+            "id": 110,
+            "group_id": 28,
+            "dua": "يَقْرَاُ ﴾الٓمٓ . تَنْزِيْلُ الْكِتَابِ...﴿ وَ ﴾تَبَارَكَ الَّذِي بِيَدِهِ المُلْكَ...﴿",
+            "translation": "Récitez la sourate As-Sajdah et la sourate Al-Mulk.",
+            "reference": "At-Tirmidhî [3404] et An-Nisâ'i ['Amal al-Yawm wa al-Laylah][707]. Voir aussi Ŝaĥîĥ Al-Jâmi' [4873](4/255)."
+          },
+          {
+            "id": 111,
+            "group_id": 28,
+            "dua": "اللَّهُمَّ أَسْلَمْتُ نَفْسِي إِلَيْكَ، وَفَوَّضْتُ أَمْرِي إِلَيْكَ، وَوَجَّهْتُ وَجْهِي إِلَيْكَ، وَأَلْجَأتُ ظَهْرِي إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لَا مَلْجَأَ وَلا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِي أَنْزَلْتَ، وَبِنَبِيِّكَ الَّذِي أَرْسَلْتَ",
+            "translation": "Ô Allah, je soumets mon âme à Toi, et je confie mon affaire à Toi, et je tourne mon visage vers Toi, et je m'appuie totalement sur Toi, dans l'espoir et la crainte de Toi. En vérité, il n'y a pas de refuge ni de salut contre Toi sauf auprès de Toi. Je crois en Ton Livre que Tu as révélé et en Ton Prophète que Tu as envoyé.",
+            "reference": "Al-Bukhârî [6313,6315,7488](11/113) et Muslim [2710](4/2081)."
+          }
+        ]
+      },
+      {
+        "group_id": 29,
+        "title": "En se retournant pendant la nuit",
+        "duas": [
+          {
+            "id": 112,
+            "group_id": 29,
+            "dua": "لَا إِلَهَ إِلَّا اللهُ الوَاحِدُ القَهَّارُ، رَبُّ السَّمَوَاتِ وَالأرْضِ وَمَا بَيْنَهُمَا العَزِيْزُ الغَـفَّارُ",
+            "translation": "Nul n'a le droit d'être adoré sauf Allah, Le Seul, Al-Qahhâr. Seigneur des cieux et de la Terre et de tout ce qui est entre eux, L'Exalté, Le Très-Pardonnant.",
+            "reference": "Al-Hâkim (1/540) et il l'a authentifié et Adh-Dhahabî a été d'accord avec lui, An-Nisâ'i ['Amal al-Yawm wa al-Laylah][864] et Ibn As-Sunnî ['Amal al-Yawm wa al-Laylah](757). Voir aussi Ŝaĥîĥ Al-Jâmi' [4693](4/213)."
+          }
+        ]
+      },
+      {
+        "group_id": 30,
+        "title": "En cas d'agitation, de peur, d'appréhension... pendant le sommeil",
+        "duas": [
+          {
+            "id": 113,
+            "group_id": 30,
+            "dua": "أَعُوذُبِكَلِمَاتِ اللهِ التَّامَّاتِ، مِنْ غَضَبِهِ وَعِقَابِهِ، وَشَرِّ عِبَادِهِ، وَمِنْ هَمَزَاتِ الشَّيَاطِينِ، وَأنْ يَحْضُرُونِ",
+            "translation": "Je cherche refuge dans les paroles parfaites d'Allah contre Sa colère et Son châtiment, contre le mal de Ses serviteurs, contre la folie et l'apparition des démons.",
+            "reference": "Abû Dâwud [3893](4/12). Voir aussi Ŝaĥîĥ At-Tirmidhî (3/171)."
+          }
+        ]
+      },
+      {
+        "group_id": 31,
+        "title": "Après avoir fait un bon ou un mauvais rêve",
+        "duas": [
+          {
+            "id": 114,
+            "group_id": 31,
+            "dua": "يَنْفُثُ عَن يَسَارِهِ (ثَلاثاً).يَسْتَعِيْذُ بِااللهِ مِنَ الشَّيْطَانِ، وَ مِنْ شَرِّ مَا رَأَى (ثَلاثَ مَرَّاتٍ).لَا يُحَدِّثُ بِهَا أحَداً.يتحَوَّلُ عَنْ جَنْبِهِ الَّذِي كَانَ عَلَيْهِ",
+            "translation": "Résumé de ce qu'il faut faire après avoir fait un mauvais rêve :(1) Cracher trois fois à gauche.(2) Chercher refuge auprès d'Allah contre Shayťân et contre le mal de ce que vous avez vu, trois fois.(3) Ne raconter ce rêve à personne.(4) Se retourner et dormir sur l'autre côté de celui sur lequel vous étiez.",
+            "reference": "Al-Bukhârî [7044] et Muslim [2261](4/1772)."
+          },
+          {
+            "id": 115,
+            "group_id": 31,
+            "dua": "يَقُومُ يُصَلِّي إنْ أرَادَ ذَلِكَ",
+            "translation": "Se lever et prier si vous le souhaitez.",
+            "reference": "Muslim [2263](4/1773)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 2,
+    "title": "Prière",
+    "group": [
+      {
+        "group_id": 8,
+        "title": "Lors du début des ablutions",
+        "duas": [
+          {
+            "id": 12,
+            "group_id": 8,
+            "dua": "بِسْمِ اللهِ",
+            "translation": "Au nom d'Allah.",
+            "reference": "Abû Dâwud [101], Ibn Mâjah [399] et Aĥmad (2/418). Voir également Irwâ'-ul-Ghalîl (1/122)."
+          }
+        ]
+      },
+      {
+        "group_id": 9,
+        "title": "Après avoir complété les ablutions",
+        "duas": [
+          {
+            "id": 13,
+            "group_id": 9,
+            "dua": "أَشْهَدُ أَنْ لَّا إِلَهَ إِلَّا اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ",
+            "translation": "Je témoigne qu'aucune divinité ne mérite d'être adorée sauf Allah, Seul, sans partenaire, et je témoigne que Muhammad est Son serviteur et Son messager.",
+            "reference": "Muslim [234](1/209)."
+          },
+          {
+            "id": 14,
+            "group_id": 9,
+            "dua": "اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ، وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ",
+            "translation": "Ô Allah, fais de moi un de ceux qui reviennent souvent à Toi en repentir et fais de moi un de ceux qui restent propres et purs.",
+            "reference": "At-Tirmidhî [55](1/78). Voir également Ŝaĥiĥ At-Tirmidhî (1/18)."
+          },
+          {
+            "id": 15,
+            "group_id": 9,
+            "dua": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيكَ",
+            "translation": "Tu es parfait, ô Allah, et je Te loue. Je témoigne qu'il n'y a de divinité qu'en Toi. Je cherche ton pardon et me repens à Toi.",
+            "reference": "An-Nisâ'i ['Amal al-Yawm wa al-Laylah][81](173)."
+          }
+        ]
+      },
+      {
+        "group_id": 12,
+        "title": "En allant à la mosquée",
+        "duas": [
+          {
+            "id": 19,
+            "group_id": 12,
+            "dua": "اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُوْراً، وَفِي لِسَانِي نُوْراً، وَ فِي سَمْعِي نُوْراً، وَ فِي بَصَري نُوْراً، وَ مِنْ فَوقِي نُوْراً، وَمِنْ تحْتِي نُوْراً، وَعَنْ يَمِيْنِي نُوْراً، وَ عَنْ شِمَالِي  نُوْراً، وَ مِنْ أَمَامِي نُوْراً، وَ مِنْ خَلْفِي نُوراً، واجْعَلْ فِي نَفْسِي نُوراً، وَ أعْظِمْ لي نُوراً، وَ عَظِّمْ لي نُوراً، وَاجْعَلْ لي نُوراً، وَاجْعَلْنِي نُوراً، اللهم أَعْطِنِي نُوراً، وَاجْعَلْ في عَصَبِي نُوراً، وَ في لَحْمِي نُوراً، وَ في دَمِي نُوراً، وَ في شَعْرِي نُوراً، وَ في بَشَرِي نُوراً(١)[اللهم اجْعَلْ لي نُوراً في قَبْرِي...وَ نُوراً في عِظَامِي](٢)[وَ زِدْنِي نُوراً، وَ زِدْنِي نُوراً، وَ زِدْنِي نُوراً](١)[وَهَبْ لِي نُوراً عَلَى نُورٍ](٢)",
+            "translation": "Ô Allah, mets la lumière dans mon cœur, et la lumière sur ma langue, et dans mes oreilles la lumière et dans ma vue la lumière, et au-dessus de moi la lumière, et en dessous de moi la lumière, et à ma droite la lumière, et à ma gauche la lumière, et devant moi la lumière et derrière moi la lumière. Mets la lumière dans mon âme. Magnifie pour moi la lumière, et amplifie pour moi la lumière. Fais de moi une lumière et fais de moi une lumière. Ô Allah, accorde-moi la lumière, et mets la lumière dans mes nerfs, et dans mon corps la lumière et dans mon sang la lumière, dans mes cheveux la lumière et dans ma peau la lumière. [Ô Allah, fais une lumière pour moi dans ma tombe... et une lumière dans mes os]. [Augmente-moi de lumière, augmente-moi de lumière, augmente-moi de lumière].",
+            "reference": "(1) Al-Bukhârî [6316](11/116) et Muslim [763](1/526,529,530).(2) At-Tirmidhî [3419](5/483)."
+          }
+        ]
+      },
+      {
+        "group_id": 13,
+        "title": "En entrant dans la mosquée",
+        "duas": [
+          {
+            "id": 20,
+            "group_id": 13,
+            "dua": "(يَبْدَأُ بِرِجْلِهِ اليُمْنَى)(١)، ويقول: (أَعُوْذُ بِاللَّهِ الْعَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ)(٢)، (بِسْمِ اللَّهِ, وَالصَّلاةُ)(٣) [وَالسَّلامُ عَلَى رَسُوْلِ اللَّهِ](٤)، (اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ)(٥)",
+            "translation": "(Entrer avec votre pied droit)(1), puis dire : (Je cherche refuge auprès d'Allah, Le Suprême, avec Sa noble Face, et Son autorité éternelle, contre le diable maudit.)(2) , (Au nom d'Allah, et prières)(3) [et que la paix soit sur le Messager d'Allah](4), (Ô Allah, ouvre pour moi les portes de Ta miséricorde)(5)",
+            "reference": "(1) Al-Hakim (1/218) et il l'a authentifié selon les conditions de Muslim et Adh-Dhahabî était d'accord avec lui, Al-Baihaqî (2/442), et Al-Albânî l'a déclaré ĥasan dans Silsilah Al-Ahâdîth Aŝ-Ŝaĥîĥah [2478](5/624).(2) Abû Dâwud [466]. Voir également Ŝaĥiĥ Al-Jâmi' [4591].(3) An-Nisâ'i [88] et Al-Albânî l'a déclaré ĥasan.(4) Abû Dâwud [465](1/126). Voir également Ŝaĥiĥ Al-Jâmi' [514](1/528).(5) Muslim [713](1/494), Ibn Mâjah [771] et Al-Albânî l'a déclaré ŝaĥiĥ en raison de ses shawâhid ; voir Ŝaĥîĥ Ibn Mâjah (1/128-129)."
+          }
+        ]
+      },
+      {
+        "group_id": 14,
+        "title": "En sortant de la mosquée",
+        "duas": [
+          {
+            "id": 21,
+            "group_id": 14,
+            "dua": "(يَبْدَأُ بِرِجْلِهِ الْيُسْرَى)(١)، وَ يَقُولُ: (بِسْمِ اللهِ وَ الصَّلاةُ وَالسَّلامُ عَلَى رَسُولِ اللهِ، اللهم إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ، اللهم اعْصِمْنِي مِنَ الشَّيْطَانِ الرَّجِيْمِ)(٢) ",
+            "translation": "(Sortir avec votre pied gauche)(1), puis dire : (Au nom d'Allah, et prières et paix sur le Messager d'Allah. Ô Allah, je Te demande de Ton bienfait. Ô Allah, protège-moi contre le diable maudit)(2)",
+            "reference": "(1) Al-Hâkim (1/218), Al-Baihaqî (2/442) et Al-Albânî l'a déclaré ĥasan dans Silsilah Al-Ahâdîth Aŝ-Ŝaĥîĥah [2478](5/624)(2) Voir takhrîj du hadith précédent (du'a #20) et l'extension (اللهم اعصمني من الشيطان الرجيم) est de Ibn Mâjah [773], voir Ŝaĥîĥ Ibn Mâjah (1/129)."
+          }
+        ]
+      },
+      {
+        "group_id": 15,
+        "title": "Concernant l'Athan (l'appel à la prière)",
+        "duas": [
+          {
+            "id": 22,
+            "group_id": 15,
+            "dua": "يَقُولُ مِثْلَ مَا يَقُولُ المُؤَذِّنُ إلَّا فِي «حَيَّ عَلَى الصَّلاةِ» وَ «حَيَّ عَلَى الفَلاحِ» فَيَقُولُ: «لَا حَولَ وَ لَا قُوَّةَ إلَّا بِاللهِ».",
+            "translation": "On répète ce que dit le muezzin (celui qui appelle à la prière), sauf lorsqu'il dit «venez prier» ou «venez au succès», on doit dire «Il n'y a ni force ni puissance si ce n'est par Allah».",
+            "reference": "Al-Bukhârî [611](1/152) et Muslim [383](1/288)."
+          },
+          {
+            "id": 23,
+            "group_id": 15,
+            "dua": "يَقُولُ: «وَ أَنَا أَشْهَدُ أَنْ لَا إله إلَّا اللهُ وَ حْدَهُ لَا شَرِيْكَ لَهُ، وَ أَنَّ مُحَمَّداً عَبْدُهُ وَ رَسُولُهُ، رَضِيْتُ بِاللهِ رَبًّا، وَ بِمُحَمَّدٍ رَسُولًا، وَ بِالإِسْلامِ دِيْنًا»(١) «يَقُولَ ذَلِكَ عَقِبَ تَشَهُّدِ المُؤَذِّنِ»(٢)",
+            "translation": "Immédiatement après la déclaration de foi prononcée par le muezzin, on dit : (1) ‘Et moi aussi je témoigne qu'aucune divinité ne mérite d'être adorée excepté Allah, seul, sans associé, et que Muhammad est Son serviteur et messager. Je suis satisfait d'Allah comme Seigneur, de Muhammad comme messager et de l'Islam comme religion.’",
+            "reference": "(1) Muslim [386](1/290).(2) Ibn Khuzaîymah [422](1/220)."
+          },
+          {
+            "id": 24,
+            "group_id": 15,
+            "dua": "يُصَلِّي عَلَى النَّبِي صلى الله عليه وسلم بَعْدَ فَرَاغِهِ مِنْ إِجَابَةِ المُؤَذِّنِ.",
+            "translation": "On doit envoyer des prières sur le Prophète (que la paix et les bénédictions d'Allah soient sur lui) après avoir répondu à l'appel du muezzin.",
+            "reference": "Muslim [384](1/288)."
+          },
+          {
+            "id": 25,
+            "group_id": 15,
+            "dua": "يَقُولُ: «اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ ، وَالصَّلاةِ القَائِمَةِ ، آتِ مُحَمَّداً الوَسِيْلَةَ وَالفَضِيْلَةَ ، وَابْعَثْهُ مَقَاماً مَحْمُوْداً الَّذِي وَعَدْتَهُ ، [إِنَّكَ لاَ تُخْلِفُ الْمِيعَادِ] »",
+            "translation": "Dire : ‘Ô Allah, Seigneur de cet appel parfait et de cette prière sur le point d'être accomplie, accorde à Muhammad Al-Wasîlah et Al-Faďîlah et envoie-le sur la plateforme louée que Tu lui as promise. [En vérité, Tu ne faillis jamais à Ta promesse.]’",
+            "reference": "Al-Bukhârî [614](1/152) et ce qui est entre crochets est de Al-Baihaqî (1/410). Shaykh Abdul 'Azîz bin Bâz a authentifié la chaîne de ce dernier dans Tuĥfah Al-Akhbâr (p. 38)."
+          },
+          {
+            "id": 26,
+            "group_id": 15,
+            "dua": "يَدْعُو لِنَفْسِهِ بَيْنَ الأَذَانِ وَالإِقَامَةِ؛ فَإنَّ الدُّعَاءَ حِيْنَئذٍ لَا يُرَدُّ.",
+            "translation": "On doit également invoquer pour soi-même pendant le temps entre l'Adhan et l'Iqamah, car l'invocation à ce moment n'est pas rejetée.",
+            "reference": "At-Tirmidhî [212], Abû Dâwud [521] et Ahmad [3/119]. Voir également Irwâ'-ul-Ghalîl (1/262)."
+          }
+        ]
+      },
+      {
+        "group_id": 16,
+        "title": "Au début de la prière (après le takbir)",
+        "duas": [
+          {
+            "id": 27,
+            "group_id": 16,
+            "dua": "اللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ، اللَّهُمَّ نَقِّنِي مِنْ خَطَايَايَ، كَمَا يُنَقَّى الثَّوْبُ الأَبْيَضُ مِنَ الدَّنَسِ، اللَّهُمَّ اغْسِلْنِي مِنْ خَطَايَايَ، بِالثَّلْجِ وَالْمَاءِ وَالْبَرَدِ.",
+            "translation": "Ô Allah, éloigne-moi de mes péchés comme Tu as éloigné l'Orient de l'Occident. Ô Allah, purifie-moi de mes péchés comme un vêtement blanc est purifié de la saleté. Ô Allah, lave-moi de mes péchés avec de la neige, de l'eau et de la glace.",
+            "reference": "Al-Bukhârî [744](1/181) et Muslim [598](1/419)."
+          },
+          {
+            "id": 28,
+            "group_id": 16,
+            "dua": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ، وَلاَ إِلَهَ غَيْرُكَ.",
+            "translation": "Gloire à Toi, ô Allah, et louange à Toi. Béni soit Ton nom, élevé soit Ton rang, et il n'y a pas de divinité autre que Toi.",
+            "reference": "Abû Dâwud [775,776], At-Tirmidhî [242, 432], An-Nisâ'i (2/133), et Ibn Mâjah [804, 806]. Voir également Ŝaĥîĥ At-Tirmidhî (1/77) et Ŝaĥîĥ Ibn Mâjah (1/135)."
+          },
+          {
+            "id": 29,
+            "group_id": 16,
+            "dua": "وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَوَاتِ وَالأَرْضَ حَنِيفاً وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلاتِي، وَنُسُكِي، وَمَحْيَايَ, وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ، لاَ شَرِيكَ لَهُ، وَبِذَلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِينَ. اللَّهُمَّ أَنْتَ الْمَلِكُ لاَ إِلَهَ إِلاَّ أَنْتَ، أَنْتَ رَبِّي، وَأَنَا عَبْدُكَ، ظَلَمْتُ نَفْسِي، وَاعْتَرَفْتُ بِذَنْبِي فَاغْفِرْ لِي ذُنُوبِي جَمِيعاً إِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ، وَاهْدِنِي لأَحْسَنِ الأَخْلاقِ لا يَهْدِي لأَحْسَنِهَا إلاَّ أَنْتَ، وَاصْرِفْ عَنِّي سَيِّئَهَا لاَ يَصْرِفُ عَنِّي سَيِّئَهَا إِلاَّ أَنْتَ، لَبَّيْكَ وَسَعْدَيْكَ، وَالْخَيْرُ كُلُّهُ بِيَدَيْكَ، وَالشَّرُّ لَيْسَ إِلَيْكَ، أَنَا بِكَ وَإِلَيْكَ، تَبَارَكْتَ وَتَعَالَيْتَ، أَسْتَغْفِرُكَ وَأَتُوْبُ إِلَيْكَ.",
+            "translation": "Je tourne mon visage sincèrement vers Celui qui a créé les cieux et la terre, et je ne suis pas parmi ceux qui associent (à Allah). En vérité, ma prière, mon sacrifice, ma vie et ma mort appartiennent à Allah, Seigneur des mondes, sans associé. Par ce commandement je suis guidé et je suis parmi les musulmans. Ô Allah, Tu es le Roi, il n'y a pas de divinité autre que Toi. Tu es mon Seigneur, et je suis Ton serviteur. J'ai fait du tort à mon âme et j'ai reconnu mon péché, alors pardonne-moi tous mes péchés car nul ne pardonne les péchés à part Toi. Guide-moi vers le meilleur des caractères, car nul ne peut me guider vers lui sauf Toi, et éloigne de moi le pire des caractères, car nul ne peut m'en éloigner sauf Toi. Me voici, répondant à Ton appel, heureux de Te servir. Tout le bien est entre Tes mains et le mal ne provient pas de Toi. J'existe par Ta volonté et je retournerai à Toi. Tu es béni et élevé. Je Te demande pardon et me repens à Toi.",
+            "reference": "Muslim [771](1/534)."
+          },
+          {
+            "id": 30,
+            "group_id": 16,
+            "dua": "اللهم رَبَّ جِبرَائِيْلَ، وَ مِيكَائيْلَ، وَإسْرَافيْلَ، فَاطِرَ السَّمَوَاتِ وَ الأرْضِ، عَالِمَ الغَيْبِ وَ الشَّهَادَةِ، أنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ، اهْدِنِي لِمَا اخْتُلِفَ فِيهِ مِنَ الحَقِّ بِإذْنِكَ، إنَّكَ تَهْدِي مَنْ تَشَاءُ إلَى صِرَاطٍ مُسْتَقِيمٍ.",
+            "translation": "Ô Allah, Seigneur de Jibril, Mika'il et Israfil, Créateur des cieux et de la terre, Connaisseur de l'invisible et du visible. Tu es l'arbitre entre Tes serviteurs dans ce sur quoi ils divergent. Guide-moi vers la vérité par Ta permission dans ce sur quoi ils ont divergé, car en vérité, Tu guides qui Tu veux vers un chemin droit.",
+            "reference": "Muslim [770](1/534)."
+          },
+          {
+            "id": 31,
+            "group_id": 16,
+            "dua": "اللهُ أكْبَرُ كَبِيراً، اللهُ أكْبَرُ كَبِيراً، اللهُ أكْبَرُ كَبِيراً، وَ الحَمْدُلِلَّهِ كَثِيراً، وَالحَمْدُلِلَّهِ كَثِيراً، وَالحَمْدُلِلَّهِ كَثِيراً، وَ سُبْحَانَ اللهِ بُكْرَةً وَأصِيلاً (ثَلاثًا) أعُوذ بِا اللهِ مِنَ الشَّيْطَانِ: مِنْ نَفْحِهِ وَ نَفْثِهِ، وَ هَمْزِهِ.",
+            "translation": "Allah est le plus grand, Allah est le plus grand, Allah est le plus grand. Beaucoup de louanges sont à Allah, beaucoup de louanges sont à Allah, beaucoup de louanges sont à Allah, et je déclare la perfection d'Allah matin et soir (trois fois). Je cherche refuge auprès d'Allah contre le diable, contre son orgueil, ses poèmes et sa folie.",
+            "reference": "Abû Dâwud [764](1/203), Ibn Mâjah [807](1/265), Ahmad (4/85), et Muslim [601](1/420) avec l'extension : (مِنْ نَفْحِهِ)."
+          },
+          {
+            "id": 32,
+            "group_id": 16,
+            "dua": "اللهم لَكَ الحَمْدُ أنْتَ نُورُ السَّمَوَاتِ و الأرْضِ وَ مَنْ فِيهِنَّ، وَ لَكَ الحَمْدُ أنْتَ قَيِّمُ السَّمَوَاتِ وَ الأرْضِ وَ مَنْ فِيهِنَّ، [وَ لَكَ الحَمْدُ أنْتَ رَبُّ السَّمَوَاتِ وَ الأرْضِ وَ مَنْ فِيهِنَّ] ، [وَ لَكَ الحَمْدُ لَكَ مُلْكُ السَّمَوَاتِ وَ الأرْضِ وَ مَنْ فِيهِنَّ][وَ لَكَ الحَمْدُ أنْتَ مَلِكُ السَّمَوَاتِ وَ الأرْضِ][وَ لَكَ الحَمْدُ][أنْتَ الحَقُّ، وَ وَعْدُكَ الحَقُّ، وَ قَولُكَ الحَقُّ، وَ لِقَاؤُكَ الحَقُّ، وَ الجَنَّةُ حَقٌّ، وَ النَّارُ حَقٌّ، وَ النَّبِيُّونَ حَقٌّ، وَ مُحَمَّدٌﷺ حَقٌّ، وَالسَّاعَةُ حَقٌّ][اللهم لَكَ أسْلَمْتُ، وَ عَلَيْكَ تَوَكَّلْتُ، وَ بِكَ آمَنْتُ، وَ إلَيْكَ أنَبْتُ، وَ بِكَ خَاصَمْتُ، وَ إلَيْكَ حَاكَمْتُ. فَاغْفِرْ لِي مَا قَدَّمْتُ، و أخَّرْتُ، وَ مَا أسْرَرْتُ، وَ مَا أعْلَنْتُ][أنْتَ المُقَدِّمُ، وَ أنْتَ المُؤَخِّرُ لَا إله إلَّا أنْتَ][أنْتَ إلَهِي لَا إله إلَّا أنْتَ].",
+            "translation": "Le Prophète (que la paix et les bénédictions d'Allah soient sur lui) disait (comme supplication d'ouverture dans la prière) lorsqu'il se levait pour prier durant la nuit :‘Ô Allah, à Toi appartiennent toutes les louanges, Tu es la lumière des cieux et de la terre et de tout ce qui s'y trouve. À Toi appartiennent toutes les louanges, Tu es le Soutien des cieux et de la terre et de tout ce qui s'y trouve. À Toi appartiennent toutes les louanges. Tu es le Seigneur des cieux et de la terre et de tout ce qui s'y trouve. À Toi appartiennent toutes les louanges et le royaume des cieux et de la terre et de tout ce qui s'y trouve. À Toi appartiennent toutes les louanges, Tu es le Roi des cieux et de la terre, à Toi appartiennent toutes les louanges. Tu es La Vérité, Ta promesse est vérité, Ta Parole est vérité, et le Jour où nous Te rencontrerons est vérité, le Paradis est vérité et l'Enfer est vérité, et les Prophètes sont vérité, Muhammad (que la paix et les bénédictions d'Allah soient sur lui) est vérité et l'Heure dernière est vérité. Ô Allah, à Toi je me suis soumis, en Toi j'ai placé ma confiance, en Toi j'ai cru, à Toi je me suis tourné en repentance, avec Toi j'ai disputé, et vers Toi j'ai demandé jugement. Pardonne-moi donc pour mes péchés passés et futurs, et pour ce que j'ai caché et ce que j'ai fait en public. Tu es Al-Muqaddim et Al-Mu'akhkhir. Nulle divinité n'a le droit d'être adorée en dehors de Toi. Tu es mon Dieu, il n'y a pas de divinité en dehors de Toi.’",
+            "reference": "Al-Bukhârî (3/3), (11/116), et [1120](13/371, 423, 465) et Muslim [769](1/532) dans une version résumée."
+          }
+        ]
+      },
+      {
+        "group_id": 17,
+        "title": "En s'inclinant dans la prière",
+        "duas": [
+          {
+            "id": 33,
+            "group_id": 17,
+            "dua": "سُبْحَانَ رَبِّيَ الْعَظِيمِ (ثلاثا)",
+            "translation": "Gloire à mon Seigneur, Le Très Grand. (Trois fois)",
+            "reference": "Abû Dâwud [871], At-Tirmidhî [262], An-Nisâ'i (1/190), Ibn Mâjah (888) et Ahmad (5/382, 394). Voir également Ŝaĥîĥ At-Tirmidhî (1/83)."
+          },
+          {
+            "id": 34,
+            "group_id": 17,
+            "dua": "سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ اللَّهُمَّ اغْفِرْلِي",
+            "translation": "Gloire à Toi, ô Allah, notre Seigneur, et louange à Toi. Ô Allah, pardonne-moi.",
+            "reference": "Al-Bukhârî [794](1/99) et Muslim [484](1/350)."
+          },
+          {
+            "id": 35,
+            "group_id": 17,
+            "dua": "سُبُّوحٌ، قُدُّوسٌ، رَبُّ المَلائِكَةِ وَالرُّوحِ.",
+            "translation": "Parfait et Saint (Il est), Seigneur des anges et de l'Esprit (Jibril).",
+            "reference": "Muslim [487](1/353) et Abû Dâwud [872](1/230)."
+          },
+          {
+            "id": 36,
+            "group_id": 17,
+            "dua": "اللَّهُمَّ لَكَ رَكَعْتُ ، وَبِكَ آمَنْتُ ، وَلَكَ أَسْلَمْتُ ، خَشَعَ لَكَ سَمْعِي ، وَبَصَرِي ، وَمُخِّي ، وَعَظْمِي ، وَعَصَبِي ، [وَمَا اسْتَقَلَّت بِهِ قَدَمِي]",
+            "translation": "Ô Allah, c'est pour Toi que je me suis incliné, et en Toi que j'ai cru, et à Toi que je me suis soumis. Mon ouïe, ma vue, mon cerveau, mes os et mes nerfs sont humbles devant Toi, ainsi que ce que mes pieds supportent.",
+            "reference": "Muslim [771](1/534), Abû Dâwud [760], At-Tirmidhî [266] et An-Nisâ'i [2/130]. L'extension se trouve dans Ibn Ĥibân, voir Ŝaĥîĥ Ibn Ĥibân [1901] et Ŝaĥîĥ Ibn Khuzaîmah [607]."
+          },
+          {
+            "id": 37,
+            "group_id": 17,
+            "dua": "سُبْحَانَ ذِي الْجَبَروتِ ، وَالْمَلَكُوتِ ، وَالكِبْرِيَاءِ ، وَالْعَظَمَةِ.",
+            "translation": "Gloire à Celui qui possède toute la puissance, la royauté, la magnificence et la grandeur.",
+            "reference": "Abû Dâwud [873](1/230), An-Nisâ'i (2/191) et Aĥmad (6/24)."
+          }
+        ]
+      },
+      {
+        "group_id": 18,
+        "title": "En se relevant de l'inclinaison",
+        "duas": [
+          {
+            "id": 38,
+            "group_id": 18,
+            "dua": "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ.",
+            "translation": "Qu'Allah entende celui qui Le loue.",
+            "reference": "Al-Bukhârî [795](2/282)."
+          },
+          {
+            "id": 39,
+            "group_id": 18,
+            "dua": "رَبَّنَا وَلَكَ الْحَمْدُ حَمْداً كَثِيراً طَيِّباً مُبَارَكاً فِيهِ.",
+            "translation": "Notre Seigneur, à Toi appartient la louange, une louange abondante, belle et bénie.",
+            "reference": "Al-Bukhârî [799](2/284)."
+          },
+          {
+            "id": 40,
+            "group_id": 18,
+            "dua": "مِلْءَ السَّمَوَاتِ وَمِلْءَ الأَرْضِ وَمَا بَيْنَهُمَا ، وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ ، أَهْلَ الثَّنَاءِ وَالْمَجْدِ ، أَحَقُّ مَا قَالَ الْعَبْدُ ، وَكُلُّنَا لَكَ عَبْدٌ ، اللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ ، وَلَامُعْطِي لِمَا مَنَعْتَ ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ.",
+            "translation": "Les cieux et la terre et tout ce qu'il y a entre eux sont remplis de Tes louanges, ainsi que tout ce que Tu veux au-delà de cela. Ô Toi qui mérites toute louange et majesté, la chose la plus véridique qu'un serviteur ait dite (à Ton sujet) et nous sommes tous Tes serviteurs. Ô Allah, nul ne peut empêcher ce que Tu as décrété de donner, et nul ne peut donner ce que Tu as décrété de refuser, et aucune richesse ni majesté ne peut bénéficier à quiconque, car toute richesse et majesté proviennent de Toi.",
+            "reference": "Muslim [477](1/346)."
+          }
+        ]
+      },
+      {
+        "group_id": 19,
+        "title": "En se prosternant",
+        "duas": [
+          {
+            "id": 41,
+            "group_id": 19,
+            "dua": "سُبْحَانَ رَبَّيَ الأَعْلَى (ثلاثا)",
+            "translation": "Gloire à mon Seigneur, Le Très Haut. (Trois fois)",
+            "reference": "Abû Dâwud [871], At-Tirmidhî [262], An-Nisâ'i (1/190), Ibn Mâjah [888] et Aĥmad (5/382, 394). Voir également Ŝaĥîĥ At-Tirmidhî (1/83)."
+          },
+          {
+            "id": 42,
+            "group_id": 19,
+            "dua": "سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ اللَّهُمَّ اغْفِرْ لِي",
+            "translation": "Gloire à Toi, ô Allah, notre Seigneur, et louange à Toi. Ô Allah, pardonne-moi.",
+            "reference": "Al-Bukhârî [794](1/99) et Muslim [484](1/350)."
+          },
+          {
+            "id": 43,
+            "group_id": 19,
+            "dua": "سُبُّوحٌ، قُدُّوسٌ، رَبُّ المَلائِكَةِ وَالرُّوحِ",
+            "translation": "Parfait et Saint (Il est), Seigneur des anges et de l'Esprit (Jibril).",
+            "reference": "Muslim (1/533)."
+          },
+          {
+            "id": 44,
+            "group_id": 19,
+            "dua": "اللَّهُمَّ لَكَ سَجَدْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ، وَصَوَّرَهَ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ، تَبَارَكَ اللَّهُ أَحْسَنُ الخَالِقِينَ",
+            "translation": "Ô Allah, c'est à Toi que je me suis prosterné, en Toi que j'ai cru, et à Toi que je me suis soumis. Mon visage s'est prosterné devant Celui qui l'a créé, l'a formé et a ouvert ses facultés d'ouïe et de vue. Béni soit Allah, le Meilleur des créateurs.",
+            "reference": "Muslim [771](1/534)."
+          },
+          {
+            "id": 45,
+            "group_id": 19,
+            "dua": "سُبْحَانَ ذِي الْجَبَرُوتِ، وَالْمَلَكُوتِ، وَالكِبْرِيَاءِ، وَالْعَظَمَةِ",
+            "translation": "Gloire à Celui qui possède toute la puissance, la royauté, la magnificence et la grandeur.",
+            "reference": "Abû Dâwud [873](1/230), Ahmad (6/24), et An-Nisâ'i (2/191). Al-Albânî l'a authentifié dans Ŝaĥîĥ Abî Dâwud (1/166)."
+          },
+          {
+            "id": 46,
+            "group_id": 19,
+            "dua": "اللًّهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ، دِقَّهُ وَجِلَّهُ، وَأَوَّلَهُ وَآخِرَهُ، وَعَلانِيَتَهُ وَسِرَّهُ",
+            "translation": "Ô Allah, pardonne-moi tous mes péchés, les petits et les grands, les premiers et les derniers, et ceux que j'ai commis en secret et en public.",
+            "reference": "Muslim [483](1/350)."
+          },
+          {
+            "id": 47,
+            "group_id": 19,
+            "dua": "اللَّهُمَّ إِنِّي أَعُوْذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ، وَأَعُوْذُ بِكَ مِنْكَ، لاَ أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ",
+            "translation": "Ô Allah, je cherche refuge dans Ta satisfaction contre Ton mécontentement, dans Ton pardon contre Ton châtiment, et je cherche refuge en Toi contre Toi-même. Je ne peux énumérer Tes louanges. Tu es tel que Tu t'es loué.",
+            "reference": "Muslim [486](1/352)."
+          }
+        ]
+      },
+      {
+        "group_id": 20,
+        "title": "Entre les deux prosternations",
+        "duas": [
+          {
+            "id": 48,
+            "group_id": 20,
+            "dua": "رَبِّ اغْفِرْ لِي، رَبِّ اغْفِرْ لِي",
+            "translation": "Mon Seigneur, pardonne-moi, mon Seigneur, pardonne-moi.",
+            "reference": "Abû Dâwud [874](1/231). Voir également Ŝaĥîĥ Ibn Mâjah (1/148)."
+          },
+          {
+            "id": 49,
+            "group_id": 20,
+            "dua": "اللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، وَاهْدِنِي، وَاجْبُرْنِي، وَعَافِنِي، وَارْزُقْنِي، وَارْفَعْنِي",
+            "translation": "Ô Allah, pardonne-moi, aie pitié de moi, guide-moi, enrichis-moi, accorde-moi la santé, pourvois à mes besoins et élève mon rang.",
+            "reference": "Abû Dâwud [850], At-Tirmidhî [284], Ibn Mâjah [898]. Voir également Ŝaĥîĥ At-Tirmidhî (1/90) et Ŝaĥîĥ Ibn Mâjah (1/148)."
+          }
+        ]
+      },
+      {
+        "group_id": 21,
+        "title": "En se prosternant lors de la récitation du Coran",
+        "duas": [
+          {
+            "id": 50,
+            "group_id": 21,
+            "dua": "سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ، بِحَوْلِهِ وَقُوَّتِهِ (فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ)",
+            "translation": "Mon visage s'est prosterné devant Celui qui l'a créé et qui lui a donné les facultés d'entendre et de voir par Sa puissance (Béni soit Allah, le Meilleur des créateurs).",
+            "reference": "At-Tirmidhî [580](2/474), Aĥmad (6/30) et Al-Hâkim l'ont déclaré authentique, Ad-Dhahabî a été d'accord avec lui (1/220). L'extension est tirée de la sourate Al-Mu'minûn."
+          },
+          {
+            "id": 51,
+            "group_id": 21,
+            "dua": "اللَّهُمَّ اكْتُبْ لِي بِهَا عِنْدَكَ أَجْراً، وَضَعْ عَنِّي بِهَا وِزْراً، وَاجْعَلْهَا لِي عِنْدَكَ ذُخْراً، وَتَقَبَّلَهَا مِنِّي كَمَا تَقَبَّلْتَهَا مِنْ عَبْدِكَ دَاوُدَ",
+            "translation": "Ô Allah, accorde-moi une récompense pour cette prosternation, et pardonne-moi un péché. Fais-en pour moi un trésor auprès de Toi et accepte-la de moi comme Tu l'as acceptée de Ton serviteur Dâwud.",
+            "reference": "At-Tirmidhî [579](2/473) et Al-Hâkim l'ont déclaré Ŝaĥîĥ, Ad-Dhahabî a été d'accord avec lui (1/219)."
+          }
+        ]
+      },
+      {
+        "group_id": 22,
+        "title": "Le Tashahhud",
+        "duas": [
+          {
+            "id": 52,
+            "group_id": 22,
+            "dua": "التَّحِيَّاتُ لِلَّهِ، وَالصَّلَوَاتُ، وَالطَّيِّبَاتُ، السَّلامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ،. أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ، وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ",
+            "translation": "Les salutations sont pour Allah. Tous les actes de culte et les bonnes actions Lui sont destinés. Que la paix, la miséricorde et les bénédictions d'Allah soient sur toi, ô Prophète. Que la paix soit sur nous et sur tous les serviteurs pieux d'Allah. Je témoigne qu'il n'y a de dieu qu'Allah, et je témoigne que Muhammad est Son serviteur et Messager.",
+            "reference": "Al-Bukhârî [831](2/311) et Muslim [402](1/301)."
+          }
+        ]
+      },
+      {
+        "group_id": 23,
+        "title": "Prières sur le Prophète (SAWS) après le Tashahhud",
+        "duas": [
+          {
+            "id": 53,
+            "group_id": 23,
+            "dua": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+            "translation": "Ô Allah, envoie Tes prières sur Muhammad et les adeptes de Muhammad, comme Tu as envoyé Tes prières sur Ibrahim et sur les adeptes d'Ibrahim. En vérité, Tu es digne de louanges et de majesté. Ô Allah, envoie Tes bénédictions sur Muhammad et les adeptes de Muhammad, comme Tu as envoyé Tes bénédictions sur Ibrahim et sur les adeptes d'Ibrahim. En vérité, Tu es digne de louanges et de majesté.",
+            "reference": "Al-Bukhârî [337](6/408)."
+          },
+          {
+            "id": 54,
+            "group_id": 23,
+            "dua": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ، وَبَارِكْ عَلَى مُحَمَّدٍ، وَ عَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+            "translation": "Ô Allah, envoie Tes prières sur Muhammad et sur ses épouses et sa descendance, comme Tu as envoyé Tes prières sur la famille d'Ibrahim. Et envoie Tes bénédictions sur Muhammad, ses épouses et sa descendance, comme Tu as envoyé Tes bénédictions sur la famille d'Ibrahim. En vérité, Tu es digne de louanges et de majesté.",
+            "reference": "Al-Bukhârî [3369](2/407) et Muslim [407](1/306)."
+          }
+        ]
+      },
+      {
+        "group_id": 24,
+        "title": "Après le dernier Tashahhud et avant le Salam",
+        "duas": [
+          {
+            "id": 55,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَمِنْ عَذَابِ جَهَنَّمَ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ",
+            "translation": "Ô Allah, je cherche refuge auprès de Toi contre le châtiment de la tombe, contre le châtiment de l'Enfer, contre les épreuves et tentations de la vie et de la mort, et contre le mal de l'épreuve de l'Antéchrist (Al-Masîh Ad-Dajjâl).",
+            "reference": "Al-Bukhârî 2/102 et Muslim 1/412."
+          },
+          {
+            "id": 56,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ",
+            "translation": "Ô Allah, je cherche refuge auprès de Toi contre le châtiment de la tombe, et je cherche refuge auprès de Toi contre les tentations et les épreuves de l'Antéchrist, et je cherche refuge auprès de Toi contre les épreuves de la vie et de la mort. Ô Allah, je cherche refuge auprès de Toi contre le péché et la dette.",
+            "reference": "Al-Bukhârî [832](2/102) et Muslim [589](1/412), la formulation étant celle de ce dernier."
+          },
+          {
+            "id": 57,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْماً كَثِيراً، وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، فَاغْفِرْ لِي مَغْفِرةً مِنْ عِنْدِكَ، وَارْحَمْني، إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
+            "translation": "Ô Allah, j'ai certes été très injuste envers moi-même, et nul ne pardonne les péchés en dehors de Toi, alors accorde-moi un pardon venant de Toi, et fais-moi miséricorde. Certes, Tu es Le Pardonneur, Le Très Miséricordieux.",
+            "reference": "Al-Bukhârî [7387](8/168) et Muslim [2705](4/2078)."
+          },
+          {
+            "id": 58,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ اغْفِرْ لِي مَا قَدَّمْتُ، وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ، وَمَا أَعْلَنْتُ، وَمَا أَسْرَفْتُ، وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي، أَنْتَ الْمُقَدِّمُ، وَأَنْتَ الْمُؤَخِّرُ لَا إِلَهَ إِلَّا أَنْتَ",
+            "translation": "Ô Allah, pardonne-moi mes péchés passés et futurs, ceux commis en secret et en public, ainsi que là où j'ai dépassé les limites, et les choses que Toi seul connais. Tu es Celui qui avance et Celui qui retarde. Il n'y a de divinité digne d'adoration que Toi.",
+            "reference": "Muslim [771](1/534)."
+          },
+          {
+            "id": 59,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ، وَشُكْرِكَ، وَحُسْنِ عِبَادَتِكَ",
+            "translation": "Ô Allah, aide-moi à T'invoquer, à Te remercier et à T'adorer de la meilleure manière.",
+            "reference": "Abû Dâwud [1522](2/86) et An-Nisâ'i (3/53). Al-Albânî l'a authentifié dans Ŝaĥîĥ Abî Dâwud (1/284)."
+          },
+          {
+            "id": 60,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ البُخْلِ، وَأَعُوذُبِكَ مِنَ الْجُبْنِ، وَأَعُوْذُ بِكَ مِنْ أَنْ أُرَدَّ إِلَى أَرْذَلِ الْعُمُرِ، وَأَعُوذُ بِكَ مِنْ فِتْنَةِ الدُّنْيَا، وَأعُوذُبِكَ مِنْ عَذَابِ الْقَبْرِ",
+            "translation": "Ô Allah, je cherche refuge auprès de Toi contre l'avarice, et je cherche refuge auprès de Toi contre la lâcheté, et je cherche refuge auprès de Toi contre le fait de retourner au pire des âges. Et je cherche refuge auprès de Toi contre les épreuves de ce monde et contre le châtiment de la tombe.",
+            "reference": "Al-Bukhârî [2822](6/35)."
+          },
+          {
+            "id": 61,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ، وَأَعُوْذُ بِكَ مِنْ النَّارِ",
+            "translation": "Ô Allah, je Te demande de m'accorder le Paradis, et je cherche refuge auprès de Toi contre le Feu.",
+            "reference": "Abû Dâwud [792] et Ibn Mâjah, voir Ŝaĥîĥ Ibn Mâjah (2/328)."
+          },
+          {
+            "id": 62,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ بِعِلْمِكَ الْغَيْبَ وَقُدْرَتِكَ عَلَى الْخَلْقِ؛ أَحْيِنِي مَا عَلِمْتَ الْحَيَاةَ خَيْراً لِي، وَتَوَفَّنِي إِذَا عَلِمْتَ الْوَفَاةَ خَيْراً لِي، اللَّهُمَّ إِنِّي أَسْأَلُكَ خَشْيَتَكَ فِي الْغَيْبِ وَالشَّهَادَةِ، وَأَسْأَلُكَ كَلِمَةَ الْحَقِّ فِي الرِّضَا وَالْغَضَبِ، وَأَسْأَلُكَ الْقَصْدَ فِي الْغِنَى وَالْفَقْرِ، وَأَسْأَلُكَ نَعِيماً لاَ يَنْفَدُ، وَأَسْأَلُكَ قُرَّةَ عَيْنٍ لاَ تَنْقَطِعُ، وَأَسْأَلُكَ الرَّضَا بَعْدَ الْقَضَاءِ، وَأَسْأَلُكَ بَرْدَ الْعَيْشِ بَعْدَ الْمَوْتِ، وَأَسْأَلُكَ لَذَّةَ النَّظَرِ إِلَى وَجْهِكَ، وَالشَّوْقَ إِلَى لِقَائِكَ فِي غَيْرِ ضَرَّاءَ مُضِرَّةٍ، وَلَا فِتْنَةٍ مُضِلَّةٍ، اللَّهُمَّ زَيَّنَّا بِزِينَةِ الإِيمَانِ، وَاجْعَلْنَا هُدَاةً مُهْتَدِينَ",
+            "translation": "Ô Allah, par Ta connaissance de l'invisible et Ta puissance sur la création, maintiens-moi en vie aussi longtemps que Tu sais que la vie est meilleure pour moi, et fais-moi mourir si Tu sais que la mort est meilleure pour moi. Ô Allah, je Te demande de me donner la crainte révérencielle en secret comme en public, et je Te demande de me faire être véridique dans la parole, que je sois satisfait ou en colère. Je Te demande de me faire être modéré dans la richesse comme dans la pauvreté. Je Te demande une jouissance éternelle et un bonheur qui ne tarira jamais. Je Te demande d'être satisfait de ce que Tu as décrété, et une vie tranquille après la mort. Je Te demande le plaisir de contempler Ton Visage et le désir de Te rencontrer, sans souffrance nuisible ni épreuve déviant du droit chemin. Ô Allah, embellis-nous avec l'ornement de la foi et fais de nous ceux qui guident et qui sont bien guidés.",
+            "reference": "An-Nisâ'i (4/54, 55) et Aĥmad (4/364). Al-Albânî l'a authentifié dans Ŝaĥîĥ An-Nisâ'i (1/281)."
+          },
+          {
+            "id": 63,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ يَا اللَّهُ بِأَنَّكَ الْوَاحِدُ الأَحَدُ الصَّمَدُ، الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُنْ لَهُ كُفُواً أَحَدٌ، أَنْ تَغْفِرَ لِي ذُنُوبِي، إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
+            "translation": "Ô Allah, je Te demande, ô Allah, car Tu es L'Unique, L'Un, Le Soutien absolu, Celui qui n'engendre pas et n'a pas été engendré, et nul ne Lui est égal, de me pardonner mes péchés. Certes, Tu es Le Pardonneur, Le Très Miséricordieux.",
+            "reference": "An-Nisâ'i (3/52) et Aĥmad (4/238). Al-Albânî l'a authentifié dans Ŝaĥîĥ An-Nisâ'i (1/280)."
+          },
+          {
+            "id": 64,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ إِنِّي أَسأَلُكَ بِأَنَّ لَكَ الْحَمْدُ، لَا إِلَهَ إِلَّا أَنْتَ، وَحْدَكَ لَا شَرِيكَ لَكَ، الْمَنَّانُ، يَا بَدِيْعَ السَّمَوَاتِ وَالأَرْضِ، يَاذَا الْجَلالِ وَالإكْرَامِ، يَاحَيُّ يَاقَيُّومُ، إِنِّي أَسْأَلُكَ الْجَنَّةَ، وَأَعُوْذُ بِكَ مِنَ النَّارِ",
+            "translation": "Ô Allah, je Te demande car à Toi est la louange, il n'y a de dieu que Toi, Seul, sans associé, Le Bienfaiteur. Ô Créateur des cieux et de la Terre, ô Possesseur de majesté et d'honneur, ô Vivant, ô Subsistant, je Te demande le Paradis et je cherche refuge auprès de Toi contre le Feu.",
+            "reference": "Abû Dâwud [1495], An-Nisâ'i (3/52), Ibn Mâjah [3858] et At-Tirmidhî [3544]. Voir aussi Ŝaĥîĥ Ibn Mâjah (2/329)."
+          },
+          {
+            "id": 65,
+            "group_id": 24,
+            "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنِّي أَشْهَدُ أَنَّكَ أَنْتَ اللَّهُ لَا إِلَهَ إِلَّا أَنْتَ، الأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُنْ لَهُ كُفُواً أَحَدٌ",
+            "translation": "Ô Allah, je Te demande car je témoigne que Tu es Allah, il n'y a de dieu que Toi, L'Unique, Le Soutien absolu, Celui qui n'engendre pas et n'a pas été engendré, et nul ne Lui est égal.",
+            "reference": "Abû Dâwud [1493](2/62), At-Tirmidhî [3475](5/515), Ibn Mâjah [3857](2/1267) et Aĥmad (5/360). Voir aussi Ŝaĥîĥ Ibn Mâjah (2/329) et Ŝaĥîĥ At-Tirmidhî (3/163)."
+          }
+        ]
+      },
+      {
+        "group_id": 25,
+        "title": "Après le Salam",
+        "duas": [
+          {
+            "id": 66,
+            "group_id": 25,
+            "dua": "(١) أَسْتَغْفِرُ اللَّهَ (ثلاثا)(٢) اللَّهُمَّ أَنْتَ السَّلامُ وَمِنْكَ السَّلامُ تَبَارَكْتَ يَاذَا الجَلالِ وَالإكْرَامِ",
+            "translation": "(1) Je demande pardon à Allah (trois fois)(2) Ô Allah, Tu es La Paix et de Toi provient la paix, béni sois-Tu, ô Possesseur de majesté et d'honneur.",
+            "reference": "Muslim [591](1/414)."
+          },
+          {
+            "id": 67,
+            "group_id": 25,
+            "dua": "لَا إِلَهَ إلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ(ثلاثاً)، اللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الجَدُّ",
+            "translation": "Il n'y a de divinité digne d'adoration qu'Allah, Seul, sans associé, à Lui appartient la royauté et à Lui la louange, et Il est capable de toute chose (trois fois). Ô Allah, nul ne peut empêcher ce que Tu donnes, et nul ne peut donner ce que Tu empêches, et la richesse ou la puissance d'une personne ne lui sera d'aucun secours face à Toi.",
+            "reference": "Al-Bukhârî [844](1/255) et Muslim [593](1/414)."
+          },
+          {
+            "id": 68,
+            "group_id": 25,
+            "dua": "لاَ إِلَهَ إلَّا اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ، لاَ إِلَهَ إِلَّا اللَّهُ، وَلَا نَعْبُدُ إِلَّا إِيَّاهُ، لَهُ النِّعْمَةُ وَلَهُ الْفَضْلُ وَلَهُ الثَّنَاءُ الْحَسَنُ، لَا إِلَهَ إِلَّا اللَّهُ مُخْلِصِينَ لَهُ الدِّيْنَ وَلَوْ كَرِهَ الْكَافِرُونَ",
+            "translation": "Il n'y a de divinité digne d'adoration qu'Allah, Seul, sans associé, à Lui appartient la royauté et à Lui la louange, et Il est capable de toute chose. Il n'y a de puissance ni de force qu'en Allah. Il n'y a de divinité digne d'adoration qu'Allah, et nous ne Lui adorons que Lui. À Lui appartient toute grâce, tout honneur, et toutes les louanges. Il n'y a de divinité digne d'adoration qu'Allah, et nous sommes sincères dans notre foi et dévotion envers Lui, même si cela déplaît aux mécréants.",
+            "reference": "Muslim [594](1/415)."
+          },
+          {
+            "id": 69,
+            "group_id": 25,
+            "dua": "(١) سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَاللَّهُ أَكْبَرُ (ثلاثا و ثلاثين)(٢) لاَ إِلَهَ إلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+            "translation": "(1) Gloire à Allah, louange à Allah, et Allah est le plus grand. (33 fois)(2) Il n'y a de divinité digne d'adoration qu'Allah, Seul, sans associé, à Lui appartient la royauté et à Lui la louange, et Il est capable de toute chose.",
+            "reference": "Muslim [597](1/418)."
+          },
+          {
+            "id": 70,
+            "group_id": 25,
+            "dua": "(١) (قُلْ هُوَ اللَّهُ أَحَدٌ...)(٢) (قٌلْ أَعُوْذُ بِرَبَّ الْفَلَقِ...)(٣) (قُلْ أَعُوْذُ بِرَبَّ النَّاسِ...)",
+            "translation": "Les trois sourates suivantes doivent être récitées une fois après les prières du Zuhr, de l'Asr et de l'Isha, et trois fois après les prières du Fajr et du Maghrib :(1) Al-Ikhlâs(2) Al-Falaq(3) An-Nâs",
+            "reference": "Abû Dâwud [1523](2/86) et An-Nisâ'i (3/68). Voir aussi Ŝaĥîĥ At-Tirmidhî (2/8)."
+          },
+          {
+            "id": 71,
+            "group_id": 25,
+            "dua": "(اللَّهُ لا إِلَهَ إِلا هُوَ الْحَيُّ الْقَيُّومُ لا تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ...)",
+            "translation": "Il est également recommandé de réciter le verset Ayat al-Kursi après chaque prière :[Al Baqarah: 255]",
+            "reference": "An-Nisâ'i ('Amal al-Yawm wa al-Laylah)(100) et Ibn Sinnî [121]. Al-Albânî l'a authentifié dans Ŝaĥîĥ Al-Jâmi' [6464](5/339) et Silsilah Al-Ahâdîth Aŝ-Ŝaĥîĥah [972](2/697)."
+          },
+          {
+            "id": 72,
+            "group_id": 25,
+            "dua": "لَا إِلَهَ إلَّا اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ (عشر مرات بعد المغرب و الصبح)",
+            "translation": "Il n'y a de divinité digne d'adoration qu'Allah, Seul, sans associé, à Lui appartient la royauté et à Lui la louange, Il donne la vie et cause la mort, et Il est capable de toute chose. (Dix fois après les prières du Maghrib et du Fajr)",
+            "reference": "At-Tirmidhî [3474]5/515 et Aĥmad (4/227). Voir aussi Zâd Al-Ma'âd (1/300)."
+          },
+          {
+            "id": 73,
+            "group_id": 25,
+            "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نَافِعاً وَرِزْقاً طَيِّباً، وَعَمَلاً مُتَقَبَّلاً (بعد السلام من صلاة الفجر)",
+            "translation": "Ô Allah, je Te demande une science bénéfique, une subsistance pure et des œuvres acceptées (à dire après avoir prononcé le salam de la prière du Fajr).",
+            "reference": "Ibn Mâjah [925]. Voir aussi Ŝaĥîĥ Ibn Mâjah (1/152) et Majmu' Az-Zawâ'id [95](10/111)."
+          }
+        ]
+      },
+      {
+        "group_id": 32,
+        "title": "Qunoot Al-Witr",
+        "duas": [
+          {
+            "id": 116,
+            "group_id": 32,
+            "dua": "اللَّهُمَّ اهْدِنِي فِيْمَنْ هَدَيْتَ، وَعَافِنِي فِيْمَنْ عَافَيْتَ، وَتَوَلَّنِي فِيْمَنْ تَوَلَّيْتَ، وَبَارِكْ لِي فِيْمَا أَعْطَيْتَ، وَقِنِي شَرَّ مَا قَضَيْتَ، فَإِنَّكَ تَقْضِي وَلَا يُقْضَى عَلَيْكَ، إِنَّهُ لَا يَذِلُّ مَنْ والَيْتَ، [وَ لَا يَعِزُّ مَنْ عَادَيْتَ]، تَبارَكْتَ رَبَّنَا وَتَعَالَيْتَ",
+            "translation": "Ô Allah, guide-moi parmi ceux que Tu as guidés, accorde-moi la santé parmi ceux que Tu as préservés, sois mon allié parmi ceux dont Tu es l'allié, bénis pour moi ce que Tu m'as donné et protège-moi du mal que Tu as décrété, car Tu es Celui qui décrète et nul ne peut décréter contre Toi. Il n'y a pas d'humiliation pour celui que Tu protèges, [et il n'y a pas d'honneur pour celui contre qui Tu es allié]. Tu es Béni, ô notre Seigneur, et Exalté.",
+            "reference": "Abû Dâwud [1425], At-Tirmidhî [464], An-Nisâ'i (1/252), Ibn Mâjah [1178], Aĥmad (1/200), Ad-Dârimî (1/373), Al-Hâkim (3/172), Al-Baihaqî (2/209,497,498). Ce qui est entre crochets est tiré de Al-Baihaqî. Voir aussi Ŝaĥîĥ At-Tirmidhî (1/144), Ŝaĥîĥ Ibn Mâjah (1/194), et Irwâ'-ul-Ghalîl (2/172)."
+          },
+          {
+            "id": 117,
+            "group_id": 32,
+            "dua": "اللَّهُمَّ إِنِّي أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ، وَأَعُوذُ بِكَ مِنْكَ، لَا أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ",
+            "translation": "Ô Allah, je cherche refuge dans Ton agrément contre Ta colère, et dans Ton pardon contre Ton châtiment, et je cherche refuge en Toi contre Toi. Je ne peux Te louer comme il se doit, car Tu es tel que Tu T'es loué.",
+            "reference": "Abû Dâwud [1427], At-Tirmidhî [3561], An-Nisâ'i (1/252), Ibn Mâjah [1179], et Aĥmad (1/96,118,150). Voir aussi Ŝaĥîĥ At-Tirmidhî (3/180), Ŝaĥîĥ Ibn Mâjah (1/194) et Irwâ'-ul-Ghalîl (2/175)."
+          },
+          {
+            "id": 118,
+            "group_id": 32,
+            "dua": "اللَّهُمَّ إِيَّاكَ نَعْبُدُ، وَلَكَ نُصَلِّي وَنَسْجُدُ، وَإِلَيْكَ نَسْعَى وَنَحْفِدُ، نَرْجُو رَحْمَتَكَ، وَنَخْشَى عَذَابَكَ، إِنَّ عَذَابَكَ بِالكَافِرِيْنَ ملْحَقٌ، اللَّهُمَّ إِنَّا نَسْتَعِيْنُكَ، وَنَسْتَغْفِرُكَ، وَنُثْنِي عَلَيْكَ الخَيْرَ، وَلَا نَكْفُرُكَ، وَنُؤْمِنُ بِكَ، وَنَخْضَعُ لَكَ، وَنَخْلَعُ مَنْ يَكْفُرُكَ",
+            "translation": "Ô Allah, c'est Toi que nous adorons, et c'est pour Toi que nous prions et prosternons, et c'est vers Toi que nous accourons et servons. Nous espérons Ta miséricorde et craignons Ton châtiment, car Ton châtiment frappera les mécréants. Ô Allah, nous Te demandons Ton aide et Ton pardon, nous Te louons avec tout ce qui est bon et ne Te renions pas. Nous croyons en Toi et nous nous soumettons à Toi, et nous désavouons ceux qui Te renient.",
+            "reference": "Al-Baihaqî [As-Sunan Al-Kubrâ](2/211) et il a déclaré sa chaîne Ŝaĥîĥ. Al-Albânî a dit dans [Irwâ'-ul-Ghalîl](2/170) que sa chaîne est Ŝaĥîĥ et que la narration est mawqûf à travers 'Umar (RadiAllah ʻanhu)."
+          }
+        ]
+      },
+      {
+        "group_id": 33,
+        "title": "Immédiatement après le Salam de la prière du Witr",
+        "duas": [
+          {
+            "id": 119,
+            "group_id": 33,
+            "dua": "سُبْحَانَ المَلِكِ القُدُّوسِ (ثَلاثَ مَرَّاتٍ، وَ الثَّالِثَةُ يَجْهَرُ بِهَا وَيَمُدُّ صَوْتَهُ يَقُولُ:[ ربِّ المَلائِكَةِ وَالرُّوحِ])",
+            "translation": "Gloire au Roi, Le Saint (trois fois, et à la troisième fois, le Prophète élevait la voix, la prolongeait et ajoutait : [Seigneur des anges et du Rûĥ]).",
+            "reference": "An-Nisâ'i (3/244), Ad-Dârquťnî (2/31) et l'ajout entre crochets vient de lui et sa chaîne est Ŝaĥîĥ. Voir aussi les recherches de Shu'aîb et 'Abdul Qadir Al-Arnâ'ûť sur Zâd al-Ma'âd (1/337)."
+          }
+        ]
+      },
+      {
+        "group_id": 42,
+        "title": "Pour celui qui est affecté par des chuchotements pendant la prière ou la récitation",
+        "duas": [
+          {
+            "id": 138,
+            "group_id": 42,
+            "dua": "أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ، واتْفُلْ عَلَى يَساَرِكَ [ثَلاثاً]",
+            "translation": "Je cherche refuge auprès d'Allah contre Shaytan le maudit, puis (cracher légèrement) sur votre gauche trois fois.",
+            "reference": "Muslim [2203](4/1729)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "title": "Louange à Allah",
+    "group": [
+        {
+            "group_id": 26,
+            "title": "Pour demander des conseils en prenant une décision ou en choisissant la bonne voie",
+            "duas": [
+                {
+                    "id": 74,
+                    "group_id": 26,
+                    "dua": "اللَّهُمَّ إِنِّي أَسْتَخِيْرُكَ بِعِلْمِكَ، وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ، وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ، فَإِنَّكَ تَقْدِرُ وَلَا أَقْدِرُ، وَتَعْلَمُ وَلَا أَعْلَمُ، وَأَنْتَ عَلَّامُ الْغُيُوبِ، اللَّهُمَّ إنْ كُنْتَ تَعْلَمُ أَنْ هَذَاالأَمْرَ - ويُسَمِّي حَاجَتَه - خَيْرٌ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي – أو قالَ: عَاجِلِهِ وَ آجِلِهِ - فَاقْدُرْهُ لِي وَيَسِّرْهُ لِي، ثُمَّ بَارِكْ لِي فِيهِ، وَإِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الأمْرَ شَرٌّ لِي فِي دِينِي وَمَعَاشي وَعَاقِبَةِ أَمْرِي – أوْ قالَ: عَاجِلِهِ وَ آجِلِهِ - فَاصْرِفْهُ عَني، وَاصْرِفْنِي عَنْهُ، وَاقْدُرْ لِيَ الْخَيْرَ حَيْثُ كَانَ، ثُمَّ أَرْضِنِي بِهِ.(١)وَ مَا نَدِمَ مَنْ اسْتَخَارَ الخَالِقَ، وَ شَاوَرَ المَخْلُوقِينَ المُؤمِنِينَ، وَ تَثَبَّتَ فِي أمْرِهِ، فَقَدْ قَالَ سُبْحَانَهُ: ﴾وَ شَاوِرْ هُمْ فِي الأَمْرِ فَإذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللهِ﴿(٢)",
+                    "translation": "D'après Jaabir Ibn ‘Abdullah (RA), il a dit : 'Le Prophète (salla Allaahu ʻalayhi wa salaam) nous ordonnait de prier pour la guidance dans toutes nos préoccupations, tout comme il nous enseignait un chapitre du Coran. Il (salla Allaahu ʻalayhi wa salaam) disait : 'Si l'un de vous a l'intention d'entreprendre une affaire, qu'il prie deux unités surérogatoires (Deux Rak'ah nâfilah) de prière et qu'il invoque ensuite :'Ô Allah, je Te demande conseil par Ta connaissance et par Ton pouvoir je cherche force, et je Te demande de Ton immense faveur, car en vérité Tu es capable tandis que je ne le suis pas, et en vérité Tu sais tandis que je ne sais pas, et Tu es Le Savant de l'invisible. Ô Allah, si Tu sais que cette affaire - et ici il mentionne son besoin - est bonne pour moi en relation avec ma religion, ma vie, et ma fin, alors décrète-la et facilite-la pour moi, et bénis-moi avec elle, et si Tu sais que cette affaire est mauvaise pour moi en relation avec ma religion, ma vie et ma fin, alors écarte-la de moi et éloigne-moi d'elle, et décrète-moi ce qui est bon, où qu'il soit, et rends-moi satisfait.'(١)Celui qui cherche guidance auprès de son Créateur, consulte ses compagnons croyants et reste ferme dans sa résolution ne regrette pas, car Allah a dit : {…et consulte-les dans l'affaire. Puis quand tu as pris une décision, mets ta confiance en Allah…}(٢)",
+                    "reference": "(1) Al-Bukhârî [1162](7/162).(2) Coran Al-'Imran [3:159]."
+                }
+            ]
+        },
+        {
+            "group_id": 43,
+            "title": "Pour celui dont les affaires sont devenues difficiles",
+            "duas": [
+                {
+                    "id": 139,
+                    "group_id": 43,
+                    "dua": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلاً، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذا شِئْتَ سَهْلاً",
+                    "translation": "Ô Allah, il n'y a pas de facilité sauf dans ce que Tu rends facile, et Tu rends la difficulté, si Tu le souhaites, facile.",
+                    "reference": "Ibn Ĥibbân dans son Ŝaĥîĥ [2427], Mawârid et Ibn As-Sunnî [351]. Et Ibn Ĥajar a dit : \"Ce ĥadîth est Ŝaĥîĥ\". 'Abdul Qadir Al-Arnâ'ûť l'a également déclaré Ŝaĥîĥ dans son takrîj de l'Athkâr d'Imam Nawawî (pg. 106)."
+                }
+            ]
+        },
+        {
+            "group_id": 44,
+            "title": "Lorsqu'on commet un péché",
+            "duas": [
+                {
+                    "id": 140,
+                    "group_id": 44,
+                    "dua": "مَا مِنْ عَبْدٍ يُذْنِبُ ذَنْباً فَيُحْسِنُ الطُّهُورَ، ثُمَّ يَقُومُ فَيُصَلِّي رَكْعَتَيْنِ، ثُمَّ يَسْتَغْفِرُاللهَ إلَّا غَفَرَ اللهُ لَهُ",
+                    "translation": "Tout serviteur qui commet un péché et, en conséquence, fait ses ablutions, prie deux raka'ahs de Ŝalah et ensuite demande pardon à Allah, Allah lui pardonnera.",
+                    "reference": "Abû Dâwud [1521](2/86) et At-Tirmidhî [406,3006](2/257). Al-Albânî l'a authentifié dans Ŝaĥîĥ Abî Dâwud (1/283)."
+                }
+            ]
+        },
+        {
+            "group_id": 46,
+            "title": "En cas de malheur ou d'épreuve",
+            "duas": [
+                {
+                    "id": 144,
+                    "group_id": 46,
+                    "dua": "قَدَرُ اللهِ وَما شَاءَ فَعَلَ",
+                    "translation": "Allah a décrété et ce qu'Il veut, Il le fait.",
+                    "reference": "Muslim [2664](4/2052)."
+                }
+            ]
+        },
+        {
+            "group_id": 88,
+            "title": "Protection contre le Dajjal",
+            "duas": [
+                {
+                    "id": 199,
+                    "group_id": 88,
+                    "dua": "مَنْ حَفِظَ عَشَرَ آيَاتٍ مِنْ أوُّلِ سُورَةِ الكَهْفِ، عُصِمَ مِنَ الدَّجَّالِ",
+                    "translation": "Celui qui mémorise les dix premiers versets de la sourate Al-Kahf sera protégé contre le Dajjâl.",
+                    "reference": "Muslim [809](1/555)."
+                }
+            ]
+        },
+        {
+            "group_id": 107,
+            "title": "Excellence de l'envoi de prières sur le Prophète (saws)",
+            "duas": [
+                {
+                    "id": 219,
+                    "group_id": 107,
+                    "dua": "قَالَ ﷺ: «مَنْ صَلَّ عَلَيَّ صَلاةً صَلَّ اللهُ عَلَيْهِ بِهَا عَشَراً»",
+                    "translation": "Le Prophète (salla Allaahu ʻalayhi wa salaam) a dit : 'Quiconque envoie une prière sur moi, Allah lui en envoie dix.'",
+                    "reference": "Muslim [408](1/288)."
+                },
+                {
+                    "id": 220,
+                    "group_id": 107,
+                    "dua": "قَالَ ﷺ: «لا تَجْعَلُوا قَبْرِيْ عِيْداً وَ صَلُّوا عَلَيَّ فَإِنَّ صَلاتَكُمْ تَبْلُغُنِي حَيْثُ كُنْتُمْ»",
+                    "translation": "Le Prophète (salla Allaahu ʻalayhi wa salaam) a dit : 'Ne prenez pas ma tombe comme un lieu de cérémonie habituelle. Envoyez des prières sur moi, car en vérité vos prières me parviennent où que vous soyez.'",
+                    "reference": "Abû Dâwud [2042](2/218) et Aĥmad (2/367). Al-Albânî l'a authentifié dans Ŝaĥîĥ Abû Dâwud (2/383)."
+                },
+                {
+                    "id": 221,
+                    "group_id": 107,
+                    "dua": "قَالَ ﷺ: «البَخِيْلُ مَنْ ذُكِرْتُ عِنْدَهُ فَلَمْ يُصَلِّ عَلَيَّ»",
+                    "translation": "Le Prophète (salla Allaahu ʻalayhi wa salaam) a dit : 'Un avare est celui qui, lorsqu'on mentionne mon nom devant lui, ne m'envoie pas de prières.'",
+                    "reference": "At-Tirmidhî [3546](5/551). Voir aussi Ŝaĥîĥ Al-Jâmi' [2787](3/25) et Ŝaĥîĥ At-Tirmidhî (3/177)."
+                },
+                {
+                    "id": 222,
+                    "group_id": 107,
+                    "dua": "قَالَ ﷺ: «إنَّ لِلَّهِ مَلائِكَةً سَيَّا حِيْنَ فِي الأرْضِ، يُبَلِّغُونِي مِنْ أُمَّتِي السَّلامَ»",
+                    "translation": "Le Prophète (salla Allaahu ʻalayhi wa salaam) a dit : 'Allah, exalté soit-Il, a des anges parcourant la terre pour m'apporter les salutations de ma communauté.'",
+                    "reference": "An-Nisâ'i (3/43) et Al-Hâkim (2/421). Al-Albânî l'a authentifié dans Ŝaĥîĥ An-Nisâ'i (1/274)."
+                },
+                {
+                    "id": 223,
+                    "group_id": 107,
+                    "dua": "قَالَ ﷺ: «مَا مِنْ أحَدٍ يُسَلِّمُ عَلَيَّ، إلَّا رَدَّ اللهُ عَلَيَّ رُوْحي، حَتَّى أرُدَّ عَلَيْهِ السَّلامَ»",
+                    "translation": "Le Prophète (salla Allaahu ʻalayhi wa salaam) a dit : 'Chaque fois que quelqu'un me salue, Allah me redonne mon âme pour que je réponde à ce salut.'",
+                    "reference": "Abû Dâwud (2041). Al-Albânî l'a déclaré Ĥasan dans Ŝaĥîĥ Abû Dâwud (1/283)."
+                }
+            ]
+        },
+        {
+            "group_id": 129,
+            "title": "Demander pardon et se repentir",
+            "duas": [
+                {
+                    "id": 248,
+                    "group_id": 129,
+                    "dua": "قَالَ رَسُولُ اللهِ ﷺ: «وَ اللهِ إِنِّي لأسْتَغْفِرُ اللهَ وَ أ تُوبُ إلَيْهِ فِي اليَوْمِ أكثَرَ مِنْ سَبْعِيْنَ مَرَّةٍ»",
+                    "translation": "Le Messager d'Allah (salla Allaahu ʻalayhi wa salaam) a dit : 'Par Allah, je demande pardon à Allah et je me repens à Lui plus de soixante-dix fois par jour.'",
+                    "reference": "Al-Bukhârî [6307](11/101)."
+                },
+                {
+                    "id": 249,
+                    "group_id": 129,
+                    "dua": "قَالَ رَسُولُ اللهِ ﷺ: «يَا أَيُّهَا النَّاسُ تُوبُوا إلَى اللهِ، فَإِنِّي أتُوبُ إلَيْهِ مِئَةَ مَرَّةٍ»",
+                    "translation": "Le Messager d'Allah (salla Allaahu ʻalayhi wa salaam) a dit : 'Ô gens, repentez-vous ! En vérité, je me repens à Allah, cent fois par jour.'",
+                    "reference": "Muslim [2702](4/2076)."
+                },
+                {
+                    "id": 250,
+                    "group_id": 129,
+                    "dua": "قَالَ رَسُولُ اللهِ ﷺ: «مَنْ قَالَ أسْتَغْفِرُ اللهَ العَظِيْمَ الَّذِي لَا إلَهَ إلَّا هُوَ الحَيُّ القَيُّومُ وَ أتُوبُ إلَيْهِ، غَفَرَ للهُ لَهُ، وَ إنْ كَانَ فَرَّ مِنَ الزَّحْفِ»",
+                    "translation": "Je demande pardon à Allah, en dehors de qui, nul n'a le droit d'être adoré sauf Lui, Le Vivant, Le Subsistant par Lui-même, et je me repens à Lui.",
+                    "reference": "Abû Dâwud [1517](2/85), At-Tirmidhî [3577](5/569), Al-Hâkim (1/511) et il l'a authentifié et Adh-Dhahabî a été d'accord avec lui. Al-Albânî l'a authentifié, voir Ŝaĥîĥ At-Tirmidhî (3/182) et Al-Jâmi' Al-'Uŝûl Li-Ahâdîth Al-Rasûl (4/389-390) avec des recherches de Arnâ'ûť."
+                },
+                {
+                    "id": 251,
+                    "group_id": 129,
+                    "dua": "قَالَ رَسُولُ اللهِ ﷺ: «أقْرَبُ مَا يَكُونُ الرَّبُّ مِنَ العَبْدِ، فِي جَوْفِ اللَّيْلِ الآخِرِ؛ فَإنْ اسْتَطَعْتَ أنْ تَكُونَ مِمَّنْ يَذْكُرُ اللهَ فِي تِلْكَ السَّاعَةِ؛ فَكُنْ»",
+                    "translation": "Le Messager d'Allah (salla Allaahu ʻalayhi wa salaam) a dit : 'Le moment où le Seigneur est le plus proche de Son serviteur est au milieu de la nuit, alors si vous êtes capable de faire partie de ceux qui se souviennent d'Allah à ce moment, alors soyez-le.'",
+                    "reference": "At-Tirmidhî [3579], An-Nisâ'i (1/279), et Al-Hâkim. Voir aussi Ŝaĥîĥ At-Tirmidhî (3/183) et Al-Jâmi' Al-'Uŝûl Li-Ahâdîth Al-Rasûl (4/144) avec des recherches de Arnâ'ûť."
+                },
+                {
+                    "id": 252,
+                    "group_id": 129,
+                    "dua": "قَالَ رَسُولُ اللهِ ﷺ: «أقْرَبُ مَا يَكُونُ العَبْدُ مِنْ رَبِّهِ، وَ هُوَ سَاجِدٌ فَأكْثِرُوا الدُّعَاءَ»",
+                    "translation": "Le Messager d'Allah (salla Allaahu ʻalayhi wa salaam) a dit : 'Le moment où un serviteur est le plus proche de son Seigneur est lorsqu'il est en prosternation, alors multipliez les invocations dans cet état.'",
+                    "reference": "Muslim [482](1/350)."
+                },
+                {
+                    "id": 253,
+                    "group_id": 129,
+                    "dua": "قَالَ رَسُولُ اللهِ ﷺ: «إنَّهُ لَيُغَانُ عَلَى قَلْبِي، وَ إنِّي لأسْتَغْفِرُ اللهَ فِي اليَوْمِ مِئَةَ مَرَّةٍ»",
+                    "translation": "Le Messager d'Allah (salla Allaahu ʻalayhi wa salaam) a dit : 'En vérité, mon cœur se trouve parfois obscurci, et en vérité je demande pardon à Allah cent fois par jour.'",
+                    "reference": "Muslim [2702](4/2075). Voir aussi Al-Jâmi' Al-'Uŝûl Li-Ahâdîth Al-Rasûl (4/386)."
+                }
+            ]
+        },
+        {
+            "group_id": 130,
+            "title": "Excellence du souvenir et de la glorification d'Allah",
+            "duas": [
+                {
+                    "id": 254,
+                    "group_id": 130,
+                    "dua": "قَالَ رَسُولُ اللهِ ﷺ: «مَنْ قَالَ: سُبْحَانَ اللهِ وَ بِحَمْدِهِ فِي يَومٍ مِئَةَ مَرَّةٍ، حُطَّتْ خَطَايَاهُ، وَ لَو كَانَتْ مِثْلَ زَبَدِ البَحْرِ»",
+                    "translation": "Quiconque dit : 'Gloire à Allah et Louange à Lui' cent fois par jour, ses péchés seront effacés même s'ils étaient aussi nombreux que l'écume de la mer.",
+                    "reference": "Al-Bukhârî [6405](7/168) et Muslim [2691](4/2071)."
+                },
+                {
+                    "id": 255,
+                    "group_id": 130,
+                    "dua": "قَالَ رَسُولُ اللهِ ﷺ: «مَنْ قَالَ: لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ، وَ لَهُ الحَمْدُ، وَ هُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ عَشْرَ مِرَارٍ، كَانَ كَمَنْ أعْتَقَ أرْبَعَةَ أنْفُسٍ مِنْ وَلَدِ إسْمَاعِيلَ»",
+                    "translation": "Celui qui dit : 'Il n'y a de divinité digne d'adoration qu'Allah, Seul, sans associé. À Lui appartient le Royaume et à Lui reviennent toutes les louanges et Il est capable de toute chose' dix fois, sera comme celui qui aurait affranchi quatre esclaves parmi les enfants d'Ismaël.",
+                    "reference": "Al-Bukhârî (7/67) et Muslim (4/2017)."
+                },
+                {
+                    "id": 256,
+                    "group_id": 130,
+                    "dua": "قَالَ رَسُولُ اللهِ ﷺ: «كَلِمَتَانِ خَفِيفَتَانِ عَلَى اللِّسَانِ، ثَقِيلَتَانِ فِي الِميْزَانِ، حَبِيبَتَانِ إلَى الرَّحْمَنِ: سُبْحَانَ اللهِ وَ بِحَمْدِهِ، سُبْحَانَ اللهِ العَظِيْمِ»",
+                    "translation": "Le Messager d'Allah (salla Allaahu ʻalayhi wa salaam) a dit : 'Il y a deux paroles (expressions), légères sur la langue, lourdes dans la balance et aimées du Tout Miséricordieux : 'Gloire à Allah et Louange à Lui.' et 'Gloire à Allah, Le Suprême.'",
+                    "reference": "Al-Bukhârî [3462](7/168) et Muslim [2694](4/2072)."
+                },
+                {
+                    "id": 257,
+                    "group_id": 130,
+                    "dua": "قَالَ رَسُولُ اللهِ ﷺ: «لَأنْ أقُولَ: سُبْحَانَ اللهِ، وَ الحَمْدُ لِلَّهِ، وَ لَا إلَهَ إلَّا اللهُ، وَ اللهُ أكْبَرُ، أحَبُّ إلَيَّ مِمَّا طَلَعَتْ عَلَيْهِ الشَّمْسُ»",
+                    "translation": "Le Messager d'Allah (salla Allaahu ʻalayhi wa salaam) a dit : 'Dire 'Gloire à Allah, Louange à Allah, Il n'y a de divinité digne d'adoration qu'Allah et Allah est le Plus Grand' est plus aimé pour moi que tout ce sur quoi le soleil s'est levé.'",
+                    "reference": "Muslim [2695](4/2072)."
+                },
+                {
+                    "id": 258,
+                    "group_id": 130,
+                    "dua": "قَالَ رَسُولُ اللهِ ﷺ: «أيَعْجِزُ أحَدُكُمْ أنْ يَكْسِبَ كُلَّ يَوْمٍ ألْفَ حَسَنَةٍ» فَسَألَهُ سَائِلٌ مِنْ جُلَسَائِهِ: كَيْفَ يَكْسِبُ أحَدُنَا ألْفَ حَسَنَةٍ؟ قَالَ: «يُسَبِّحُ مِئَةَ تَسْبِيْحَةٍ، فَيُكْتَبُ لَهُ ألْفُ حَسَنَةٍ، أوْ يُحَطُّ عَنْهُ ألْفُ خَطِيْئَةٍ»",
+                    "translation": "Le Prophète (salla Allaahu ʻalayhi wa salaam) a dit : 'L'un de vous serait-il incapable de gagner mille bonnes actions chaque jour ?' Un de ses compagnons lui demanda : 'Comment l'un de nous pourrait-il gagner mille bonnes actions ?' Il répondit : 'Celui qui glorifie Allah cent fois aura mille bonnes actions inscrites pour lui ou mille péchés effacés.'",
+                    "reference": "Muslim [2698](4/2073)."
+                },
+                {
+                    "id": 259,
+                    "group_id": 130,
+                    "dua": "قَالَ رَسُولُ اللهِ ﷺ: «مَنْ قَالَ: سُبْحَانَ اللهِ العَظِيمِ وَ بِحَمْدِهِ، غُرِسَتْ لَهُ نَخْلَةٌ فِي الجَنَّةِ»",
+                    "translation": "Le Prophète (salla Allaahu ʻalayhi wa salaam) a dit : 'Quiconque dit : 'Gloire à Allah, Le Suprême, et Louange à Lui' aura un palmier planté pour lui au Paradis.'",
+                    "reference": "At-Tirmidhî [3464-3465](5/511), Al-Hâkim (1/501) et il l'a authentifié et Adh-Dhahabî a été d'accord avec lui. Voir aussi Ŝaĥîĥ Al-Jâmi' [6429](5/531) et Ŝaĥîĥ At-Tirmidhî (3/160)."
+                },
+                {
+                    "id": 260,
+                    "group_id": 130,
+                    "dua": "قَالَ ﷺ: «يَا عَبْدَاللهِ بْنَ قَيْسٍ، ألَا أدُلُّكَ عَلَى كَنْزٍ مِنْ كُنُوزِ الجَنَّةِ؟» فَقُلْتُ: بَلَى يَا رَسُولَ اللهِ، قَالَ: «قُلْ لَا حَوْلَ وَ لَا قُوَّةَ إلَّا بِااللهِ»",
+                    "translation": "Le Prophète (salla Allaahu ʻalayhi wa salaam) a dit : 'Ô Abdullah ibn Qays, veux-tu que je te montre un trésor des trésors du Paradis ?' J'ai répondu : 'Bien sûr, ô Messager d'Allah.' Il a dit : 'Dis : Il n'y a de force ni de puissance qu'en Allah.'",
+                    "reference": "Al-Bukhârî [4205](11/213) et Muslim [2704](4/2076)."
+                },
+                {
+                    "id": 261,
+                    "group_id": 130,
+                    "dua": "قَالَ ﷺ: «أحَبُّ الكَلَامِ إلَى اللهِ أرْبَعٌ: سُبْحَانَ اللهِ، وَ الحَمْدُ للهِ، وَ لَا إلَهَ إلَّا اللهُ، وَ اللهُ أكْبَرُ، لَا يَضُرُّكَ بِأيِّهِنَّ بَدَأْتَ»",
+                    "translation": "Le Prophète (salla Allaahu ʻalayhi wa salaam) a dit : 'Quatre expressions sont aimées d'Allah : 'Gloire à Allah', 'Louange à Allah', 'Il n'y a de divinité digne d'adoration qu'Allah', et 'Allah est le Plus Grand.' Peu importe par laquelle vous commencez.'",
+                    "reference": "Muslim [2137](3/1685)."
+                },
+                {
+                    "id": 262,
+                    "group_id": 130,
+                    "dua": "جَاءَ أعْرَابِيٌّ إلَى رَسُولُ اللهِ ﷺ فَقَالَ: عَلِّمْنِي كَلَامًا أقُولُهُ؟ قَالَ: «قُلْ: لَا إلَهَ إلَّا اللهُ وَ حْدَهُ لَا شَرِيكَ لَهُ، اللهُ أكْبَرُ كَبِيْراً، وَ الحَمْدُ للهِ كَثِيْراً، سُبْحَانَ اللهِ رَبِّ العَالَمِيْنَ، لَا حَوْلَ وَ لَا قُوَّةَ إلَّا بِااللهِ العَزِيزِ الحَكِيمِ»، قَالَ: فَهَؤُلَاءِ لِرَبِّي فَمَا لِي؟ قَالَ: «قُلْ: اللهم اغْفِرلِي، وَارْحَمْنِي، واهْدِنِي، وَارْزُقْنِي»",
+                    "translation": "Un bédouin est venu voir le Messager d'Allah (salla Allaahu ʻalayhi wa salaam) et a dit : 'Enseigne-moi des paroles à dire.' Il a répondu : 'Dis : Il n'y a de divinité digne d'adoration qu'Allah, Seul, sans associé. Allah est le Plus Grand, immensément. Louange à Allah en abondance. Gloire à Allah, Seigneur des mondes. Il n'y a de force ni de puissance qu'en Allah, Le Tout-Puissant, Le Sage.' Puis il demanda : 'Cela est pour mon Seigneur, mais qu'en est-il de moi ?' Le Prophète répondit : 'Dis : Ô Allah, pardonne-moi, aie pitié de moi, guide-moi et accorde-moi la subsistance.'",
+                    "reference": "Muslim [2696](4/2072)."
+                },
+                {
+                    "id": 263,
+                    "group_id": 130,
+                    "dua": "كَانَ الرَّجُلُ إذَا أَسْلَمَ عَلَّمَهُ النَّبِيُّ ﷺ الصَّلَاةَ، ثُمَّ أمَرَهُ أنْ يَدْعُوَ بِهَؤُلَاءِ الكَلِمَاتِ: «اللهم اغْفِرْلِي، وَارْحَمْنِي، وَاهْدِنِي، وِ عَافِنِي، وَارْزُقْنِي»",
+                    "translation": "Lorsque quelqu'un embrassait l'islam, le Prophète (salla Allaahu ʻalayhi wa salaam) lui enseignait la prière, puis lui ordonnait d'invoquer avec ces paroles : 'Ô Allah, pardonne-moi, aie pitié de moi, guide-moi, accorde-moi la santé et la subsistance.'",
+                    "reference": "Muslim [2697](4/2073)."
+                },
+                {
+                    "id": 264,
+                    "group_id": 130,
+                    "dua": "إنَّ أفْضَلَ الدُّعَاءِ: الحَمْدُ لِلَّهِ، وَ أفْضَلُ الذِّكْرِ: لَا إلَهَ إلَّا اللهُ",
+                    "translation": "Le meilleur des invocations est : 'Louange à Allah', et le meilleur des souvenirs est : 'Il n'y a de divinité digne d'adoration qu'Allah.'",
+                    "reference": "At-Tirmidhî [3383](5/462), Ibn Mâjah [3800](2/1249), et Al-Hâkim (1/503) et il l'a authentifié et Adh-Dhahabî a été d'accord avec lui. Voir aussi Ŝaĥîĥ Al-Jâmi' [1104](1/362)."
+                },
+                {
+                    "id": 265,
+                    "group_id": 130,
+                    "dua": "البَاقِيَاتُ الصَّالِحَاتُ: سُبْحَانَ اللهِ، وَ الحَمْدُللهِ، وَ لَا إلَهَ إلَّا اللهُ، وَ اللهُ أكْبَرُ، وَ لَا حَوْلَ وَ لَا قُوَّةَ إلَّا بِااللهِ",
+                    "translation": "Les bonnes œuvres durables sont : 'Gloire à Allah, Louange à Allah, Il n'y a de divinité digne d'adoration qu'Allah, et Allah est le Plus Grand. Il n'y a de force ni de puissance qu'en Allah.'",
+                    "reference": "Aĥmad [513](3/75) selon l'ordre d'Aĥmad Shâkir et sa chaîne est authentique. Voir aussi Majma' Az-Zawâ'id (1/297)..... [COMPLÈTEZ CECI]"
+                }
+            ]
+        },
+        {
+            "group_id": 131,
+            "title": "Comment le Prophète (SAWS) faisait le Tasbeeh",
+            "duas": [
+                {
+                    "id": 266,
+                    "group_id": 131,
+                    "dua": "عَنْ عَبْدِ اللهِ بْنِ عَمْروٍ قَالَ: رَأيْتُ النَّبِيَّ يَعْقِدُ التَّسْبِيْحَ بِيَمِيْنِهِ",
+                    "translation": "'Abdullah ibn 'Amr (RadiAllah ʻanhu) a dit : J'ai vu le Prophète (salla Allaahu ʻalayhi wa salaam) faire le tasbeeh avec sa main droite.",
+                    "reference": "Abû Dâwud [1502](2/81) et At-Tirmidhî [3486](5/521). Voir aussi Ŝaĥîĥ Al-Jâmi' [4865](4/271)."
+                }
+            ]
+        }
+    ]
+  },
+  {
+    "category_id": 4,
+    "title": "Hajj et Omra",
+    "group": [
+      {
+        "group_id": 115,
+        "title": "Le Talbiya pour celui qui fait le Hajj ou l'Omra",
+        "duas": [
+          {
+            "id": 233,
+            "group_id": 115,
+            "dua": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيْكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ والنِّعْمَةَ، لَكَ وَالمُلْكَ، لَا شَرِيْكَ لَكَ",
+            "translation": "Me voici, ô Allah, me voici. Me voici, Tu n’as pas d’associé, me voici. En vérité, toute louange, bénédiction et souveraineté T’appartiennent. Tu n’as pas d’associé.",
+            "reference": "Al-Bukhârî [1549](3/408) et Muslim [1184](2/841)."
+          }
+        ]
+      },
+      {
+        "group_id": 116,
+        "title": "Le Takbîr en passant près de la Pierre Noire",
+        "duas": [
+          {
+            "id": 234,
+            "group_id": 116,
+            "dua": "اللهُ أَكْبَرُ",
+            "translation": "Allah est le plus grand.",
+            "reference": "Al-Bukhârî [1612](1/476)."
+          }
+        ]
+      },
+      {
+        "group_id": 117,
+        "title": "Entre l'angle yéménite et la Pierre Noire",
+        "duas": [
+          {
+            "id": 235,
+            "group_id": 117,
+            "dua": "﴾رَبَّنَا آتِنَا في الدُّنْيَا حَسَنَةً وفي الآخِرَةِ حَسَنَةً وقِنَا عَذَابَ النَّارِ﴿",
+            "translation": "Ô notre Seigneur, accorde-nous le meilleur en cette vie et le meilleur dans l'au-delà, et préserve-nous du châtiment du Feu.",
+            "reference": "(1) Abû Dâwud [1892](2/179), Aĥmad (3/411) et Al-Baghawî dans Sharĥ As-Sunnah (7/128). Al-Albânî l'a déclaré Ĥasan dans Ŝaĥîĥ Abû Dâwud (1/354).(2) Sûrah Al-Baqarah : 201."
+          }
+        ]
+      },
+      {
+        "group_id": 118,
+        "title": "Lorsqu’on est sur le mont Safa et le mont Marwah",
+        "duas": [
+          {
+            "id": 236,
+            "group_id": 118,
+            "dua": "لَمَّا دَنَا النَّبِيُّ ﷺ مِنَ الصَّفَا قَرَأ: ﴾إنَّ الصَّفَا وَ المَرْوَةَ مِنْ شَعَائِرِ اللهِ﴿«أبْدَأ بِمَا بَدَأ اللهُ بِهِ» فَبَدأ بِالصَّفَا، فَرَقِيَ عَلَيْهِ، حَتَّى رَأَى البَيْتَ، فَاسْتَقْبَلَ القِبْلَةَ، فَوَحَّدَ اللهَ، وَ كَبَّرَهُ، وَ قَالَ: «لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ وَ لَهُ الحَمْدُ، وَ هُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ، لَا إلَهَ إلَّا اللهٌ وَ حْدَهُ، أنْجَزَ وَعْدَهُ، وَ نَصَرَ عَبْدَهُ، وَ هَزَمَ الأَحْزَابَ وَحْدَهُ، ثُمَّ دَعَا بَيْنَ ذَلِكَ، قَالَ مِثْلَ هَذَا ثَلَاثَ مَرَّاتٍ...، الحَدِيْثُ، وَ فِيْهِ: فَفَعَلَ عَلَى المَرْوَةِ كَمَا فَعَلَ عَلَى الصَّفَا»",
+            "translation": "En vérité, le mont Safa et le mont Marwah font partie des lieux de culte d'Allah… Il n'y a de divinité digne d'adoration qu'Allah, Allah est le plus grand. Il n'y a de divinité digne d'adoration qu'Allah, Seul, sans associé. À Lui appartient toute souveraineté et toute louange, et Il est capable de toute chose. Il n'y a de divinité digne d'adoration qu'Allah, Seul. Il a accompli Sa promesse, aidé Son serviteur et, seul, a vaincu les alliés.",
+            "reference": "Muslim [1218](2/888)."
+          }
+        ]
+      },
+      {
+        "group_id": 119,
+        "title": "Le jour de Arafah",
+        "duas": [
+          {
+            "id": 237,
+            "group_id": 119,
+            "dua": "لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ، ولَهُ الحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ",
+            "translation": "Il n'y a de divinité digne d'adoration qu'Allah, Seul, sans associé. À Lui appartiennent toute louange et toute souveraineté, et Il est capable de toute chose.",
+            "reference": "At-Tirmidhî [3585]. Al-Albânî l'a authentifié dans Ŝaĥîĥ At-Tirmidhî (3/184) et Al-Aĥâdîth Aŝ-Ŝaĥîĥah (4/6)."
+          }
+        ]
+      },
+      {
+        "group_id": 120,
+        "title": "Rappel à Muzdalifa",
+        "duas": [
+          {
+            "id": 238,
+            "group_id": 120,
+            "dua": "رَكِبَ ﷺ القَصْوَاءَ حَتَّى أتَى المَشْعَرَ الحَرَامَ، فَاسْتَقْبَلَ القِبْلَةَ (فَدَعَاهُ، وَ كَبَّرَهُ، وَ هَلَّلَهُ، وَ وَحَّدَهُ) فَلَمْ يَزَلْ وَاقِفًا حَتَّى أسْفَرَ جِدّاً، فَدَفَعَ قَبْلَ أنْ تَطْلُعَ الشَّمْسُ",
+            "translation": "Le Prophète (salla Allaahu ʻalayhi wa salaam) monta Al-Qaswa jusqu'à ce qu'il atteigne Al-Mash'ar Al-Haram, il se tourna ensuite vers la qibla, fit des invocations à Allah, loua Sa grandeur et Son unicité. Il resta debout jusqu'à ce que le soleil brille mais partit avant qu'il ne se lève.",
+            "reference": "Muslim [1218](2/891)."
+          }
+        ]
+      },
+      {
+        "group_id": 121,
+        "title": "Lors du lancer de chaque caillou aux Jamarat",
+        "duas": [
+          {
+            "id": 239,
+            "group_id": 121,
+            "dua": "يُكَبِّرُ كُلَّمَا رَمَى بِحَصَاةٍ عِنْدَ الجِمَارِ الثَّلاثِ، ثُمَّ يَتَقَدَّمُ، وَ يَقِفُ يَدْعُوْ مُسْتَقْبِلَ القِبْلَةَ، رَافِعاً يَدَيْهِ بَعْدَ الجَمْرَةِ الأوْلَى وَ الثَّانِيَةِ، أمَّا جَمْرَةُ العَقَبَةِ فَيَرْمِيْهَا، وَ يُكَبِّرُ عِنْدَ كُلِّ حَصَاةٍ، وَ يَنْصَرِفُ، وَ لَا يَقِفُ عِنْدَهَا",
+            "translation": "Al-Bukhârî [1752 et 1753](3/583-584), voir aussi son libellé là-bas, Al-Bukhârî [1750](3/581) et Muslim [1296] l'ont aussi rapporté du hadith d'Ibn Mas'ûd (RA).",
+            "reference": "Al-Bukhârî [1752, 1753](3/583-584) et voir son libellé là-bas, Al-Bukhârî [1750](3/581) et Muslim [1296]."
+          }
+        ]
+      },
+      {
+        "group_id": 127,
+        "title": "Lors du sacrifice ou de l'offrande d'un sacrifice",
+        "duas": [
+          {
+            "id": 246,
+            "group_id": 127,
+            "dua": "بِسْمِ اللهِ واللهُ أَكْبَرُ [اللَّهُمَّ مِنْكَ ولَكَ] اللَّهُمَّ تَقَبَّلْ مِنِّي",
+            "translation": "Au nom d'Allah, et Allah est le plus grand. Ô Allah, (cela vient) de Toi et T'appartient, ô Allah, accepte cela de moi.",
+            "reference": "Muslim [1966](3/1557) et Baihaqî (9/287). Ce qui est entre crochets provient de Baihaqî et d'autres."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 5,
+    "title": "Voyage",
+    "group": [
+      {
+        "group_id": 95,
+        "title": "Lors de la montée sur un animal ou tout moyen de transport",
+        "duas": [
+          {
+            "id": 206,
+            "group_id": 95,
+            "dua": "بِسْمِ اللهِ، وَالْحَمْدُ لِلَّهِ ﴾سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ﴿ الحَمْدُ لِلَّهِ، الحَمْدُ لِلَّهِ، الحَمْدُ لِلَّهِ، اللهُ أكْبَرُ، اللهُ أكْبَرُ، اللهُ أكْبَرُ، سُبْحَانَكَ اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِيْ، فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+            "translation": "Au nom d'Allah et toute louange est pour Allah. Qu'Il soit parfait, Lui qui a mis cela (le transport) à notre service, et nous n'en aurions pas été capables, et vers notre Seigneur est notre destinée finale. Toute louange est pour Allah, Toute louange est pour Allah, Toute louange est pour Allah, Allah est le plus grand, Allah est le plus grand, Allah est le plus grand. Qu'Il soit parfait, ô Allah, en vérité j'ai injustement traité mon âme, alors pardonne-moi, car nul ne peut pardonner les péchés à part Toi.",
+            "reference": "Abû Dâwud [2602](3/34) et At-Tirmidhî [3446](5/510). Voir aussi Ŝaĥîĥ At-Tirmidhî (3/156)."
+          }
+        ]
+      },
+      {
+        "group_id": 96,
+        "title": "Pour le voyage",
+        "duas": [
+          {
+            "id": 207,
+            "group_id": 96,
+            "dua": "(١) اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ ﴾سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ﴿ اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِعَنَّا بُعْدَهُ، اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَلِيْفَةُ فِي الأَهْلِ، اللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكآبَةِ الْمَنْظَرِ وَسُوءِ المُنْقَلَبِ فِي الْمَالِ وَالأَهْلِ(٢) آيِبُونَ، تَائِبُونَ، عَابِدُونَ، لِرَبِّنَا حَامِدُونَ",
+            "translation": "(1) Allah est le plus grand, Allah est le plus grand, Allah est le plus grand. Qu'Il soit parfait, Lui qui a mis cela (le transport) à notre service, et nous n'en aurions pas été capables, et vers notre Seigneur est notre destinée finale. Ô Allah, nous Te demandons la piété et la crainte pieuse (taqwa) dans ce voyage, et nous Te demandons des actes qui Te plaisent. Ô Allah, facilite notre voyage et laisse-nous en couvrir rapidement la distance. Ô Allah, Tu es le compagnon en voyage et le successeur de la famille. Ô Allah, je cherche refuge auprès de Toi contre les difficultés du voyage, contre les malheurs et contre un mauvais sort avec la richesse et la famille.Au retour, la même supplication est récitée avec l'ajout suivant :(2) 'Nous revenons, nous repentons, adorons et louons notre Seigneur.'",
+            "reference": "Muslim [1342](2/998)."
+          }
+        ]
+      },
+      {
+        "group_id": 97,
+        "title": "Lors de l'entrée dans une ville ou un village",
+        "duas": [
+          {
+            "id": 208,
+            "group_id": 97,
+            "dua": "اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَمَا أَظْلَلْنَ، وَرَبَّ الأَرْاضِيْنَ السَّبْعِ وَمَا أقْلَلْنَ، وَرَبَّ الشَّيَاطِيْنِ وَمَا أَضْلَلْنَ، وَرَبَّ الرِّيَاحِ وَمَا ذَرَيْنَ، أَسْأَلُكَ خَيْرَ هَذِهِ الْقَرْيَةِ وَخَيْرَ أَهْلِهَا، وَخَيْرَ مَا فِيْهَا، وَأَعُوذُ بِكَ مِنْ شَـرِّهَا، وَشَرِّ أَهْلِهَا، وَشَرِّ مَا فِيْهَا",
+            "translation": "Ô Allah, Seigneur des sept cieux et de tout ce qu'ils enveloppent, Seigneur des sept terres et de tout ce qu'elles portent, Seigneur des démons et de ceux qu'ils égarent, Seigneur des vents et de ceux qu'ils dispersent. Je Te demande le bien de ce village, le bien de ses habitants et tout le bien qui s'y trouve, et je cherche refuge auprès de Toi contre le mal de ce village, le mal de ses habitants et tout le mal qui s'y trouve.",
+            "reference": "Al-Hâkim (2/100) l'a authentifiée et Adh-Dhahabî a été d'accord, Ibn As-Sunnî [524], Al-Hâfiž l'a déclarée Ĥasan dans Takrîj Al-Athkâr (5/154). Shaykh Ibn Bâz a dit qu'elle a été narrée par An-Nisâ'i ['Amal al-Yawm wa al-Laylah][547-548] avec une chaîne Ĥasan. Voir aussi Tuĥfat Al-Akhyâr (pg. 37)."
+          }
+        ]
+      },
+      {
+        "group_id": 98,
+        "title": "Lors de l'entrée dans le marché",
+        "duas": [
+          {
+            "id": 209,
+            "group_id": 98,
+            "dua": "لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ المُلْكُ وَلَهُ الحَمْدُ، يُحْيِي وَيُمِيْتُ، وَهُوَ حَيٌّ لَا يَمُوتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ",
+            "translation": "Nul n'a le droit d'être adoré à part Allah, seul, sans associé, à Lui appartiennent la souveraineté et la louange. Il donne la vie et cause la mort, et Il est vivant et ne meurt pas. Dans Sa main est tout bien et Il est capable de toute chose.",
+            "reference": "At-Tirmidhî [3429](5/291), Al-Hâkim (1/538) et Ibn Mâjah [2235]. Al-Albânî l'a classée comme Ĥasan dans Ŝaĥîĥ Ibn Mâjah (2/21) et Ŝaĥîĥ At-Tirmidhî (3/152)."
+          }
+        ]
+      },
+      {
+        "group_id": 99,
+        "title": "Lorsque l'animal (ou le moyen de transport) trébuche",
+        "duas": [
+          {
+            "id": 210,
+            "group_id": 99,
+            "dua": "بِسْمِ اللهِ",
+            "translation": "Au nom d'Allah.",
+            "reference": "Abû Dâwud [4982](4/296). Al-Albânî l'a authentifiée dans Ŝaĥîĥ Abû Dâwud (3/941)."
+          }
+        ]
+      },
+      {
+        "group_id": 100,
+        "title": "Supplication du voyageur pour le résident",
+        "duas": [
+          {
+            "id": 211,
+            "group_id": 100,
+            "dua": "أَسْتَوْدِعُكُمُ اللَّهَ، الَّذِيْ لَا تَضِيْعُ وَدَائِعُهُ",
+            "translation": "Je vous place sous la protection d'Allah, dont la protection ne fait jamais défaut.",
+            "reference": "Aĥmad (2/403) et Ibn Mâjah [2825](2/943). Voir aussi Ŝaĥîĥ Ibn Mâjah (2/133)."
+          }
+        ]
+      },
+      {
+        "group_id": 101,
+        "title": "Supplication du résident pour le voyageur",
+        "duas": [
+          {
+            "id": 212,
+            "group_id": 101,
+            "dua": "أَسْتَوْدِعُ اللَّهَ دِيْنَكَ، وَأَمَانَتَكَ، وَخَوَاتِيْمَ عَمَلِكَ",
+            "translation": "Je place ta religion, ta fidélité et la fin de tes actions sous la protection d'Allah.",
+            "reference": "Aĥmad (2/7) et At-Tirmidhî [3443](5/499). Voir aussi Ŝaĥîĥ At-Tirmidhî (2/155)."
+          },
+          {
+            "id": 213,
+            "group_id": 101,
+            "dua": "زَوَّدَكَ اللَّهُ التَّقْوَى، وَغَفَرَذَنْبَكَ، وَيَسَّرَ لَكَ الخَيْرَ حَيْثُمَا كُنْتَ",
+            "translation": "Qu'Allah t'accorde la piété, pardonne tes péchés et te facilite tout bien, où que tu sois.",
+            "reference": "At-Tirmidhî [3444]. Voir aussi Ŝaĥîĥ At-Tirmidhî (3/155)."
+          }
+        ]
+      },
+      {
+        "group_id": 102,
+        "title": "Souvenir en montant ou descendant",
+        "duas": [
+          {
+            "id": 214,
+            "group_id": 102,
+            "dua": "(١) اللهُ أَكْبَرُ(٢) سُبْحَانَ اللهُ",
+            "translation": "Lors de la montée, récitez (1) 'Allah est le plus grand', et lors de la descente, récitez (2) 'Qu'Allah soit parfait'.",
+            "reference": "Al-Bukhârî [2993](6/135)."
+          }
+        ]
+      },
+      {
+        "group_id": 103,
+        "title": "Prière du voyageur à l'approche de l'aube",
+        "duas": [
+          {
+            "id": 215,
+            "group_id": 103,
+            "dua": "سَمَّعَ سَامِعٌ بِحَمْدِ اللهِ، وَحُسْنِ بَلائِهِ عَلَيْنَا،.رَبَّنَا صَاحِبْنَا، وَأَفْضِلْ عَلَيْنَا عَائِذاً باللهِ مِنَ النَّارِ",
+            "translation": "Qu'un témoin soit témoin de notre louange à Allah pour Ses faveurs et bénédictions sur nous. Notre Seigneur, protège-nous, accorde-nous Tes faveurs et délivre-nous de tout mal. Je prends refuge auprès d'Allah contre le feu.",
+            "reference": "Muslim [2718](4/2086)."
+          }
+        ]
+      },
+      {
+        "group_id": 104,
+        "title": "Lors de l'arrêt ou de l'hébergement quelque part",
+        "duas": [
+          {
+            "id": 216,
+            "group_id": 104,
+            "dua": "أَعُوذُ بِكَلِمَاتِ اللّهِِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+            "translation": "Je prends refuge dans les paroles parfaites d'Allah contre le mal qu'Il a créé.",
+            "reference": "Muslim [2708](4/2080)."
+          }
+        ]
+      },
+      {
+        "group_id": 105,
+        "title": "Lors du retour de voyage",
+        "duas": [
+          {
+            "id": 217,
+            "group_id": 105,
+            "dua": "اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لهُ، لهُ المُلْكُ وَ لَهُ الحَمْدُ، وهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ، آيِبُونَ، تَائِبُونَ، عَابِدُونَ، لِرَبِّنَا حـَامِدُونَ، صَدَقَ اللهُ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَهَزَمَ الأحْزَابَ وَحْدَهُ",
+            "translation": "Allah est le plus grand, Allah est le plus grand, Allah est le plus grand. Nul n'a le droit d'être adoré à part Allah, seul, sans associé. À Lui appartiennent la souveraineté et la louange, et Il est capable de toute chose. Nous revenons, repentons, adorons et louons notre Seigneur. Allah a tenu Sa promesse, aidé Son serviteur, et vaincu à Lui seul les alliés.",
+            "reference": "Al-Bukhârî [1797](7/163) et Muslim [1344](2/980)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 6,
+    "title": "Joie et Détresse",
+    "group": [
+      {
+        "group_id": 34,
+        "title": "Pour l'Anxiété et la Tristesse",
+        "duas": [
+          {
+            "id": 120,
+            "group_id": 34,
+            "dua": "اللَّهُمَّ إِنِّي عَبْدُكَ، ابْنُ عَبْدِكَ، ابْنُ أَمَتِكَ، نَاصِيَتِي بِيَدِكَ، مَاضٍ فِيَّ حُكْمُكَ، عَدْلٌ فِيَّ قَضَاؤُكَ، أَسْأَلُكَ بِكُلِّ اسْمٍ هُوَ لَكَ، سَمَّيْتَ بِهِ نَفْسَكَ، أوْ أَنْزَلْتَهُ فِي كِتَابِكَ، أَوْ عَلَّمْتَهُ أَحَداً مِنْ خَلْقِكَ، أَوِ اسْتَأْثَرْتَ بِهِ فِي عِلْمِ الغَيْبِ عِنْدَكَ، أَنْ تَجْعَلَ القُرْآنَ رَبِيْعَ قَلْبِي، وَنُورَ صَدْرِي، وجَلَاءَ حُزْنِي، وَذَهَابَ هَمِّي",
+            "translation": "Ô Allah, je suis Ton serviteur, fils de Ton serviteur, fils de Ta servante, mon front est entre Tes mains, Ton commandement à mon égard est exécuté à jamais et Ton jugement sur moi est juste. Je Te demande par tous les noms qui T'appartiennent, par lesquels Tu T'es nommé, ou que Tu as révélés dans Ton Livre, ou que Tu as enseignés à l'un de Tes créatures, ou que Tu as préservés dans la connaissance de l'invisible auprès de Toi, de faire du Coran la vie de mon cœur, la lumière de ma poitrine, et un départ pour ma tristesse et un soulagement pour mon anxiété.",
+            "reference": "Aĥmad (1/391). Al-Albânî l'a authentifié dans Al-Kalam Ať-Ťayyib [124]."
+          },
+          {
+            "id": 121,
+            "group_id": 34,
+            "dua": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الهَمِّ وَ الْحَـزَنِ، والعَجْـزِ والكَسَلِ، والبُخْلِ والجُبْنِ، وضَلَعِ الدَّيْنِ وغَلَبَةِ الرِّجَالِ",
+            "translation": "Ô Allah, je cherche refuge auprès de Toi contre l'anxiété et la tristesse, la faiblesse et la paresse, l'avarice et la lâcheté, le fardeau des dettes et d'être dominé par les hommes.",
+            "reference": "Al-Bukhârî [6363](7/158), voir Fatĥ al-Bârî (11/173)."
+          }
+        ]
+      },
+      {
+        "group_id": 35,
+        "title": "Pour Une Personne En Détresse",
+        "duas": [
+          {
+            "id": 122,
+            "group_id": 35,
+            "dua": "لَا إلَهَ إِلَّا اللَّهُ الْعَظِيْمُ الْحَلِيْمُ، لَا إِلَهَ إِلَّا اللَّهُ رَبُّ العَرْشِ العَظِيْمُ، لَا إِلَهَ إِلَّا اللَّهُ رَبُّ السَّمَوَاتِ، وَرَبُّ الأَرْضِ وَرَبُّ العَرْشِ الكَرِيْمِ",
+            "translation": "Il n'y a de divinité digne d'adoration qu'Allah, Le Majestueux, Le Clément. Il n'y a de divinité digne d'adoration qu'Allah, Seigneur du trône magnifique. Il n'y a de divinité digne d'adoration qu'Allah, Seigneur des cieux, Seigneur de la Terre et Seigneur du trône noble.",
+            "reference": "Al-Bukhârî [6346](7/154) et Muslim [2730](4/2092)."
+          },
+          {
+            "id": 123,
+            "group_id": 35,
+            "dua": "اللَّهُمَّ رَحْمَتَكَ أَرْجـُو، فَلا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ، وَأَصْلِحْ لِي شَأْنِي كُلَّهُ، لَا إِلَهَ إِلَّا أنْتَ",
+            "translation": "Ô Allah, c'est Ta miséricorde que j'espère, ne me laisse pas à mes propres affaires ne serait-ce qu'un clin d'œil, et répare pour moi toutes mes affaires. Il n'y a de divinité digne d'adoration que Toi.",
+            "reference": "Abû Dâwud [5090](4/324) et Aĥmad (5/42). Al-Albânî l'a authentifié dans Ŝaĥîĥ Abî Dâwud (3/959)."
+          },
+          {
+            "id": 124,
+            "group_id": 35,
+            "dua": "لَا إِلَهَ إِلَّا أنْتَ سُبْحَانَكَ، إِنِّي كُنْتُ مِنَ الظَّالِمِيْنَ",
+            "translation": "Il n'y a de divinité digne d'adoration que Toi. Que Tu es parfait, en vérité, j'étais parmi les injustes.",
+            "reference": "At-Tirmidhî [3505](5/529) et Al-Hâkim (1/505) qui l'a authentifié et Adh-Dhahabî a été d'accord avec lui. Voir aussi Ŝaĥîĥ At-Tirmidhî (3/168)."
+          },
+          {
+            "id": 125,
+            "group_id": 35,
+            "dua": "اللهُ اللهُ رَبِّي لَا أُشْرِكُ بِهِ شَيْئاً",
+            "translation": "Allah, Allah est mon Seigneur, je ne Lui associe rien.",
+            "reference": "Abû Dâwud [1525](2/87). Voir aussi Ŝaĥîĥ Ibn Mâjah (2/335)."
+          }
+        ]
+      },
+      {
+        "group_id": 36,
+        "title": "Lors de la rencontre d'un ennemi ou d'une autorité",
+        "duas": [
+          {
+            "id": 126,
+            "group_id": 36,
+            "dua": "اللَّهُمَّ إِنَّا نَجْعَلُكَ فِي نُحُورِهِمْ، وَنَعُوذُ بِكَ مِنْ شُرُورِهـِمْ",
+            "translation": "Ô Allah, nous Te mettons face à eux et nous cherchons refuge auprès de Toi contre leur mal.",
+            "reference": "Abû Dâwud [1537](2/89) et Al-Hâkim (2/142) qui l'a authentifié et Adh-Dhahabî a été d'accord avec lui."
+          },
+          {
+            "id": 127,
+            "group_id": 36,
+            "dua": "اللَّهُمَّ أَنْتَ عَضُدِي، وَأَنْتَ نَصِيْرِي، بِكَ أَحُولُ، وَبِكَ أَصُولُ، وَبِكَ أُقَاتِلُ",
+            "translation": "Ô Allah, Tu es mon soutien et mon secours, par Toi je me déplace, par Toi j'attaque et par Toi je combats.",
+            "reference": "Abû Dâwud [2632](3/42) et At-Tirmidhî [3584](5/572). Voir aussi Ŝaĥîĥ At-Tirmidhî (3/183)."
+          },
+          {
+            "id": 128,
+            "group_id": 36,
+            "dua": "حَسْبُنَا اللهُ، وَنِعْمَ الوَكِيْلُ",
+            "translation": "Allah nous suffit, et quel excellent garant (Il est).",
+            "reference": "Al-Bukhârî [4563](5/172)."
+          }
+        ]
+      },
+      {
+        "group_id": 37,
+        "title": "Pour Celui Qui Craint L'injustice d'un Gouverneur",
+        "duas": [
+          {
+            "id": 129,
+            "group_id": 37,
+            "dua": "اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ، وَ رَبَّ العَرْشِ العَظِيْمِ، كُنْ لِي جَاراً مِنْ فُلَانِ بْنِ فُلَانٍ، وَ أَحْزَابِهِ مِنْ خَلائِقِكَ؛ أَنْ يَفْرُطَ عَلَيَّ أَحَدٌ مِنهُمْ أوْ يَطْغَى، عَزَّ جَارُكَ، وَ جَلَّ ثَنَائُكَ، وَ لَا إِلَهَ إِلَّا أَنْتَ",
+            "translation": "Ô Allah, Seigneur des sept cieux et de la Terre et du grand trône, protège-moi contre untel, fils d'untel, et contre ses alliés parmi Tes créatures, de sorte qu'aucun d'entre eux ne puisse me tyranniser ou m'opprimer. Honneur à celui qui est sous Ta protection, exalté soit Ton éloge, il n'y a de divinité digne d'adoration que Toi.",
+            "reference": "Al-Bukhârî [Al-Adab Al-Mufrad][707] et Al-Albânî l'a authentifié dans Ŝaĥîĥ Al-Adab Al-Mufrad [545]."
+          },
+          {
+            "id": 130,
+            "group_id": 37,
+            "dua": "اللهُ أَكْبَرُ، اللهُ أَعَزُّ مِنْ خَلْقِهِ جَمِيْعًا، اللهُ أَعَزُّ مِمَّا أَخَافُ وَ أَحْذَرُ، أَعُوذُ باللهِ الَّذِي لَا إِلَهَ إِلَّا هُوَ، الْمُمْسِكِ السَّمَوَاتِ السَّبْعِ أَنْ يَقَعْنَ عَلَى الأَرْضِ إِلَّا بِإِذْنِهِ، مِنْ شَرِّ عَبْدِكَ فُلاَنٍ، وُجُنُودِهِ وَ أَتْبَاعِهِ وَ أَشْيَاعِهِ، مِنَ الْجِنِّ وَ الإِنْسِ، اللَّهُمَّ كُنْ لِي جَارًا مِنْ شَرِّهِمْ، جَلَّ ثَنَاؤُك، وَ عَزَّ جَارُكَ، وَ تَبَارَكَ اسْمُكَ: وَ لَا إِلَهَ غَيْرُكَ. [ثَلاثَ مَرَّاتٍ]",
+            "translation": "Allah est le plus grand, Allah est plus puissant que toutes Ses créatures. Allah est plus puissant que celui que je crains et dont je me méfie. Je cherche refuge auprès d'Allah, nul n'a le droit d'être adoré si ce n'est Allah, qui retient les sept cieux de tomber sur la Terre sauf par Sa permission, contre les mauvaises actions de Ton serviteur untel, de ses soldats, de ses partisans parmi les djinns et les êtres humains. Ô Seigneur, sois mon protecteur contre leurs méfaits. Exalté soit Ton éloge, honoré soit Ton protégé, béni soit Ton nom et nul n'a le droit d'être adoré si ce n'est Toi.",
+            "reference": "Al-Bukhârî [Al-Adab Al-Mufrad][708] et Al-Albânî l'a authentifié dans Ŝaĥîĥ Al-Adab Al-Mufrad (546)."
+          }
+        ]
+      },
+      {
+        "group_id": 38,
+        "title": "Contre les Ennemis",
+        "duas": [
+          {
+            "id": 131,
+            "group_id": 38,
+            "dua": "اللَّهُمَّ مُنْزِلَ الْكِتَابِ، سَرِيْعَ الْحِسَابِ، اهْزِمِ الأحْزَابَ، اللَّهُمَّ اهْزِمْهُمْ وَ زَلْزِلْهُمْ",
+            "translation": "Ô Allah, Révélateur du Livre, Rapide à rendre compte, défais les confédérés. Ô Allah, défais-les et fais-les trembler.",
+            "reference": "Muslim [1742](3/1362)."
+          }
+        ]
+      },
+      {
+        "group_id": 39,
+        "title": "Lorsqu'on A Peur D'un Groupe De Personnes",
+        "duas": [
+          {
+            "id": 132,
+            "group_id": 39,
+            "dua": "اللَّهُمَّ اكْفِنِيْهِمْ بِمَا شِئْتَ",
+            "translation": "Ô Allah, protège-moi contre eux de la manière que Tu choisis.",
+            "reference": "Muslim [3005](4/2300)."
+          }
+        ]
+      },
+      {
+        "group_id": 40,
+        "title": "Pour Celui Qui Est Tourmenté Par Des Doutes Sur Sa Foi",
+        "duas": [
+          {
+            "id": 133,
+            "group_id": 40,
+            "dua": "(1) يَسْتَعِيْذُ بِاللهِ(2) يَنْتَهِي عَمَّا وَسْوَسَ فِيْهِ",
+            "translation": "(1) Cherchez refuge auprès d'Allah contre Shaytân.(2) Renoncez à ce qui provoque de tels doutes.",
+            "reference": "Al-Bukhârî [6/336](6/336) et Muslim [134,214](1/120)."
+          },
+          {
+            "id": 134,
+            "group_id": 40,
+            "dua": "آمَنْتُ بِاللهِ وَرُسُلِهِ",
+            "translation": "J'ai cru en Allah et en Ses Messagers.",
+            "reference": "Muslim [134,212](1/119-120)."
+          },
+          {
+            "id": 135,
+            "group_id": 40,
+            "dua": "﴾هُوَ الأوَّلُ وَالآخِـرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ﴿",
+            "translation": "Il est Le Premier et Le Dernier, Ath-Thâhir et Al-Bâtin, et Il sait tout.",
+            "reference": "(1) Sûrah Al-Ĥadîd : 3.(2) Abû Dâwud [5110](4/329) et Al-Albânî l'a déclaré Ĥasan dans Ŝaĥîĥ Abî Dâwud (3/962)."
+          }
+        ]
+      },
+      {
+        "group_id": 41,
+        "title": "Pour Régler Une Dette",
+        "duas": [
+          {
+            "id": 136,
+            "group_id": 41,
+            "dua": "اللَّهُمَّ اكْفِنِي بِحَلاَلِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+            "translation": "Ô Allah, fais que ce qui est licite me suffise, par opposition à ce qui est illicite, et épargne-moi par Ta grâce du besoin des autres.",
+            "reference": "At-Tirmidhî [3563](5/650). Voir aussi Ŝaĥîĥ At-Tirmidhî (3/180)."
+          },
+          {
+            "id": 137,
+            "group_id": 41,
+            "dua": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الهَمِّ وَ الْحَـزَنِ، والعَجْزِ والكَسَلِ، والبُخْلِ والجُبْنِ، وضَلَعِ الدَّيْنِ وغَلَبَةِ الرِّجَال",
+            "translation": "Ô Allah, je cherche refuge auprès de Toi contre l'anxiété et la tristesse, la faiblesse et la paresse, l'avarice et la lâcheté, le fardeau des dettes et d'être dominé par les hommes.",
+            "reference": "Al-Bukhârî [6363](7/158)."
+          }
+        ]
+      },
+      {
+        "group_id": 53,
+        "title": "Pour Une Personne Affligée Par Une Calamité",
+        "duas": [
+          {
+            "id": 154,
+            "group_id": 53,
+            "dua": "إِنَّا لِلهِ وَ إِنَّا إِلَيْهِ رَاجِعُونَ، اللَّهُمَّ أجُرْنِي فِي مُصِيْبَتِي، وَ أخْلِفْ لِي خَيْراً مِنْهَا",
+            "translation": "Nous appartenons à Allah et c'est à Lui que nous retournerons. Ô Allah, récompense-moi pour mon affliction et remplace-la pour moi par quelque chose de meilleur.",
+            "reference": "Muslim [918](2/632)."
+          }
+        ]
+      },
+      {
+        "group_id": 92,
+        "title": "Pour La Crainte Du Shirk",
+        "duas": [
+          {
+            "id": 203,
+            "group_id": 92,
+            "dua": "اللَّهُمَّ إِنِّي أَعُوذُبِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لَا أَعْلَمُ",
+            "translation": "Ô Allah, je cherche refuge auprès de Toi de peur que je commette du shirk envers Toi en pleine conscience et je cherche Ton pardon pour ce que je ne connais pas.",
+            "reference": "Aĥmad (4/403). Voir aussi Ŝaĥîĥ Al-Jâmi' [3731](3/233) et Ŝaĥîĥ At-Targhîb wa At-Tarhîb [36](1/122) par Al-Albânî."
+          }
+        ]
+      },
+      {
+        "group_id": 94,
+        "title": "Interdiction D'attribuer Des Choses À Des Présages",
+        "duas": [
+          {
+            "id": 205,
+            "group_id": 94,
+            "dua": "اللَّهُمَّ لَا طَيْرَ إِلَّا طَيْرُكَ، وَلَا خَيْرَ إِلَّا خَيْرُكَ، وَلَا إِلَهَ غَيْرُكَ",
+            "translation": "Ô Allah, il n'y a pas de présage mais il y a reliance en Toi, il n'y a pas de bien sauf Ton bien et nul n'a le droit d'être adoré si ce n'est Toi.",
+            "reference": "Aĥmad (2/220), Ibn As-Sunnî [292] et Al-Albânî l'a authentifié dans [Al-Aḥâdîth Aŝ-Ŝaĥîĥah][1065](3/54). Le Prophète (salla Allaahu ʻalayhi wa salaam) aimait Al-Fa'al [الفأل] (bons présages). Quand il entendait un bon mot d'un homme, il l'appréciait et disait : «Nous avons pris vos bons présages de votre bouche», rapporté par Abû Dâwud [3917] et Imâm Aĥmad ; et Al-Albânî l'a authentifié dans [Al-Aḥâdîth Aŝ-Ŝaĥîĥah](2/363). Ce hadith se trouve également dans le livre de Abû As-Shaykh [Akhlâq An-Nabî (salla Allaahu ʻalayhi wa salaam)] (p. 270)."
+          }
+        ]
+      },
+      {
+        "group_id": 106,
+        "title": "Que Dire Lors De L'Annonce De Bonnes Ou Mauvaises Nouvelles",
+        "duas": [
+          {
+            "id": 218,
+            "group_id": 106,
+            "dua": "(١) الحَمْدُ لِلَّهِ الَّذِيْ بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ(٢) الحَمْدُ لِلَّهِ عَلَى كُلِّ حَالٍ",
+            "translation": "En recevant de bonnes nouvelles, dites : (1) 'Louange à Allah, par Sa grâce les bonnes œuvres sont accomplies.'En recevant de mauvaises nouvelles, dites : (2) 'Louange à Allah en toutes circonstances.'",
+            "reference": "Ibn As-Sunnî ['Amal al-Yawm wa al-Laylah][378] et Al-Hâkim (1/499) qui l'a authentifié. Al-Albânî l'a authentifié dans Ŝaĥîĥ Al-Jâmi' [4640](4/201)."
+          }
+        ]
+      },
+      {
+        "group_id": 122,
+        "title": "Dans les moments d'étonnement et de joie",
+        "duas": [
+          {
+            "id": 240,
+            "group_id": 122,
+            "dua": "سُبْحَانَ اللهِ!",
+            "translation": "Gloire à Allah!",
+            "reference": "Al-Bukhârî [155](1/210), [283](1/390) et Muslim [371], [314](414), [332](4/1857)."
+          },
+          {
+            "id": 241,
+            "group_id": 122,
+            "dua": "اللهُ أَكْبَرُ",
+            "translation": "Allah est le plus grand.",
+            "reference": "Al-Bukhârî [4741](8/441). Voir aussi Ŝaĥîĥ At-Tirmidhî (2/103),(2/235) et Aĥmad (5/218)."
+          }
+        ]
+      },
+      {
+        "group_id": 123,
+        "title": "Lors De La Réception De Bonnes Nouvelles",
+        "duas": [
+          {
+            "id": 242,
+            "group_id": 123,
+            "dua": "كَانَ النَّبِيُّ ﷺ إذَا أتَاهُ أَمْرٌ يَسُرُّهُ أَوْ يُسَرُّ بِهِ؛ خَرَّ سَاجِداً شُكْراً لله تَبَارَكَ وَ تَعَالَى",
+            "translation": "Le Prophète (salla Allaahu ʻalayhi wa salaam) se prosternait en remerciement envers Allah lorsqu'il recevait une nouvelle qui lui faisait plaisir ou causait de la joie.",
+            "reference": "Abû Dâwud [2774], At-Tirmidhî [1578] et Ibn Mâjah [1394]. Voir aussi Ŝaĥîĥ Ibn Mâjah (1/233) et Irwâ'-ul-Ghalîl (2/226)."
+          }
+        ]
+      },
+      {
+        "group_id": 126,
+        "title": "Lorsqu'on Est Surpris",
+        "duas": [
+          {
+            "id": 245,
+            "group_id": 126,
+            "dua": "لَا إلَهَ إلَّا اللهُ",
+            "translation": "Il n'y a de divinité digne d'adoration que Allah.",
+            "reference": "Al-Bukhârî [3346](6/381) et Muslim [2880](4/2208)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 7,
+    "title": "Nature",
+    "group": [
+      {
+        "group_id": 61,
+        "title": "Pendant une tempête de vent",
+        "duas": [
+          {
+            "id": 166,
+            "group_id": 61,
+            "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَأَعُوذُ بِكَ مِنْ شَرِّهَا",
+            "translation": "Ô Allah, je Te demande son bien et je cherche refuge auprès de Toi contre son mal.",
+            "reference": "Abû Dâwud [5097](4/326) et Ibn Mâjah [3727](2/1228). Voir aussi Ŝaĥîĥ Ibn Mâjah (2/305)."
+          },
+          {
+            "id": 167,
+            "group_id": 61,
+            "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَخَيْرَ مَا فِيْهَا، وَخَيْرَ مَا اُرْسِلَتْ بِهِ، وَأَعُوذُ بِكَ مِنْ شَـرِّهَا، وَشَرِّ مَا فِيْهَا، وَشَرِّ مَا اُرْسِلَتْ بِهِ",
+            "translation": "Ô Allah, je Te demande son bien, le bien en elle, et le bien avec lequel elle a été envoyée, et je cherche refuge auprès de Toi contre son mal, le mal en elle, et le mal avec lequel elle a été envoyée.",
+            "reference": "Muslim [899](2/616) et Al-Bukhârî [3206](4/76)."
+          }
+        ]
+      },
+      {
+        "group_id": 62,
+        "title": "En entendant le tonnerre",
+        "duas": [
+          {
+            "id": 168,
+            "group_id": 62,
+            "dua": "سُبْحَانَ الَّذِي يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ، وَالمَلائِكَةُ مِنْ خِيْفَتِهِ",
+            "translation": "Qu'Il soit parfait, Celui que le tonnerre glorifie avec Sa louange, tout comme les anges par crainte de Lui.",
+            "reference": "Al-Muwaťťa' (2/992) et Al-Albânî a déclaré sa chaîne de transmission Ŝaĥîĥ et Mawqûf."
+          }
+        ]
+      },
+      {
+        "group_id": 63,
+        "title": "Pour la pluie",
+        "duas": [
+          {
+            "id": 169,
+            "group_id": 63,
+            "dua": "اللَّهُمَّ أَسْقِنَا غَيْثاً مُغِيْثاً مَرِيْئاً مَرِيْعاً، نَافِعاً، غَيْرَ ضَارٍّ، عاجِلاً غَيْرَ آجِلٍ",
+            "translation": "Ô Allah, envoie-nous une pluie utile, saine, bénéfique et non nuisible, maintenant et non plus tard.",
+            "reference": "Abû Dâwud [1169](1/303). Al-Albânî l'a déclarée authentique dans Ŝaĥîĥ Abû Dâwud (1/216)."
+          },
+          {
+            "id": 170,
+            "group_id": 63,
+            "dua": "اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا",
+            "translation": "Ô Allah, soulage-nous, Ô Allah, soulage-nous, Ô Allah, soulage-nous.",
+            "reference": "Al-Bukhârî [1013](1/224) et Muslim [897](2/613)."
+          },
+          {
+            "id": 171,
+            "group_id": 63,
+            "dua": "اللَّهُمَّ اسْقِ عِبَادَكَ، وَبَهَائِمَكَ، وَانْشُرْ رَحْمَتَكَ، وَأَحْيِيْ بَلَدَكَ المَيِّتَ",
+            "translation": "Ô Allah, abreuve Tes serviteurs et Tes bêtes, répands Ta miséricorde et fais revivre Ta terre morte.",
+            "reference": "Abû Dâwud [1176](1/305) et Al-Albânî l'a déclarée Ĥasan dans Ŝaĥîĥ Abû Dâwud (1/218)."
+          }
+        ]
+      },
+      {
+        "group_id": 64,
+        "title": "Lorsqu'il pleut",
+        "duas": [
+          {
+            "id": 172,
+            "group_id": 64,
+            "dua": "اللَّهُمَّ صَيِّباً نَافِعاً",
+            "translation": "Ô Allah, que ce soit une pluie bénéfique.",
+            "reference": "Al-Bukhârî [1032](2/518)."
+          }
+        ]
+      },
+      {
+        "group_id": 65,
+        "title": "Après la pluie",
+        "duas": [
+          {
+            "id": 173,
+            "group_id": 65,
+            "dua": "مُطِرْنَا بِفَضْلِ اللهِ وَرَحْمَتِهِ",
+            "translation": "Nous avons reçu de la pluie par la grâce et la miséricorde d'Allah.",
+            "reference": "Al-Bukhârî [846](1/205) et Muslim [71](1/83)."
+          }
+        ]
+      },
+      {
+        "group_id": 66,
+        "title": "Demander un ciel dégagé",
+        "duas": [
+          {
+            "id": 174,
+            "group_id": 66,
+            "dua": "اللَّهُمَّ حَوَالَيْنَا وَلَا عَلَيْنَا، اللَّهُمَّ عَلَى الآكَامِ وَالظِّرَابِ، وَبُطُونِ الأوْدِيَةِ، وَمَنَابِتِ الشَّجَرِ",
+            "translation": "Ô Allah, fais tomber la pluie autour de nous et non sur nous, Ô Allah, (qu'elle tombe) sur les pâturages, les collines, les vallées et les racines des arbres.",
+            "reference": "Al-Bukhârî [1013](1/224) et Muslim [897](2/614)."
+          }
+        ]
+      },
+      {
+        "group_id": 67,
+        "title": "Lors de la vue du croissant de lune",
+        "duas": [
+          {
+            "id": 175,
+            "group_id": 67,
+            "dua": "اللهُ أَكْبَرُ، اللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِالأمْنِ وَالإيْمَانِ، والسَّلامَةِ والإسْلامِ، وَالتَّوْفِيْقِ لِمَا تُحِبُّ رَبَّنَا وَتَرْضَى، رَبُّنَا وَرَبُّكَ اللهُ",
+            "translation": "Allah est le plus grand. Ô Allah, fais apparaître le croissant au-dessus de nous dans la sécurité, la foi, la paix et l'Islam, et en accord avec tout ce que Tu aimes et qui Te plaît. Notre Seigneur et ton Seigneur est Allah.",
+            "reference": "At-Tirmidhî [3451](5/405) et Ad-Dârimî (1/336), dont le texte est le sien. Voir aussi Ŝaĥîĥ At-Tirmidhî (3/157)."
+          }
+        ]
+      },
+      {
+        "group_id": 76,
+        "title": "Lors de la vue des fruits précoces",
+        "duas": [
+          {
+            "id": 187,
+            "group_id": 76,
+            "dua": "اللَّهُمَّ بَارِكْ لَنَا فِي ثَمَرِنَا، وَبَارِكْ لَنَا فِي مَدِيْنَتِنَا، وَبَارِكْ لَنَا فِي صَاعِنَا، وَبَارِكْ لَنَا فِي مُدِّنَا",
+            "translation": "Ô Allah, bénis nos fruits pour nous, bénis notre ville pour nous, bénis notre saAA pour nous et bénis notre mudd pour nous.",
+            "reference": "Muslim [1373](2/1000)."
+          }
+        ]
+      },
+      {
+        "group_id": 110,
+        "title": "En entendant le chant du coq ou le braiment d'un âne",
+        "duas": [
+          {
+            "id": 228,
+            "group_id": 110,
+            "dua": "إذَا سَمِعْتُمْ صِيَاحَ الدِّيَكَةِ فَاسْألُوا اللهَ مِنْ فَضْلِهِ؛ فَإنَّهَا رَأَتْ مَلَكاً، وَ إذَا سَمِعْتُمْ نَهِيْقَ الحِمَارِ فَتَعوَّذُوا بِااللهِ مِنَ الشَّيْطَانِ؛ فَإنَّهُ رَأى شَيْطَانًا",
+            "translation": "Si vous entendez le chant d'un coq, demandez à Allah de Ses bienfaits, car il a vu un ange, et si vous entendez le braiment d'un âne, cherchez refuge auprès d'Allah, car il a vu un diable.",
+            "reference": "Al-Bukhârî [3303](6/350) et Muslim [2729](4/2092)."
+          }
+        ]
+      },
+      {
+        "group_id": 111,
+        "title": "En entendant les aboiements des chiens la nuit",
+        "duas": [
+          {
+            "id": 229,
+            "group_id": 111,
+            "dua": "أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+            "translation": "Si vous entendez les aboiements des chiens ou le braiment des ânes la nuit, cherchez refuge auprès d'Allah car ils voient ce que vous ne voyez pas.",
+            "reference": "Abû Dâwud [5103](4/327) et Aĥmad (3/306). Al-Albânî l'a authentifiée dans Ŝaĥîĥ Abû Dâwud (3/961)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 8,
+    "title": "Bonnes manières",
+    "group": [
+      {
+        "group_id": 47,
+        "title": "Félicitations à l'occasion d'une naissance",
+        "duas": [
+          {
+            "id": 145,
+            "group_id": 47,
+            "dua": "بَارَكَ اللهُ لَكَ فِي الْمَوْهُوبِ لَكَ، وَ شَكَرْتَ الْوَاهِبَ، وَ بَلَغَ أَشُدَّهُ، وَ رُزِقْتَ بِرَّهُوَيَرُدُّ عَلَيْهِ المُهَنَّأ فَيَقُولُ: بَارَكَ اللهُ لَكَ، وَ بَارَكَ عَلَيْكَ، وجَزَاكَ اللهُ خَيْراً، وَرَزَقَكَ اللهُ مِثْلَهُ، وأَجْزَلَ ثَوَابَكَ",
+            "translation": "'Qu'Allah bénisse ce qu'Il vous a attribué (cet enfant) et que vous soyez reconnaissant envers Celui qui vous l'a donné. Qu'il (cet enfant) parvienne à maturité et qu'Allah lui accorde une bonne conduite envers vous.'Réponse : 'Qu'Allah bénisse tout ce qu'Il vous attribue ! Qu'Allah vous récompense par Son pardon, vous accorde un nouveau-né comme le mien et vous accorde une abondante rétribution.'",
+            "reference": "An-Nawawî [Al-Athkâr](pg. 349). Also see Ŝaĥîĥ Al-Athkâr of Imam An-Nawawî (2/713) by Shaykh Salîm Al-Hilâlî."
+          }
+        ]
+      },
+      {
+        "group_id": 75,
+        "title": "Lorsqu'on est insulté en jeûnant",
+        "duas": [
+          {
+            "id": 186,
+            "group_id": 75,
+            "dua": "إِنِّي صَائِمٌ، إِنِّي صَائِمٌ",
+            "translation": "Je jeûne, je jeûne.",
+            "reference": "Al-Bukhârî [1894](4/103) et Muslim [1151](2/806)."
+          }
+        ]
+      },
+      {
+        "group_id": 77,
+        "title": "Lorsqu'on éternue",
+        "duas": [
+          {
+            "id": 188,
+            "group_id": 77,
+            "dua": "(١) الْحَمْدُ للهِ (٢) يَرْحَمُكَ اللهُ(٣) يَهْدِيْكُمُ اللهُ وَيُصْلِحُ بَالَكُمْ",
+            "translation": "(1) Louange à Allah. (2) Qu'Allah ait miséricorde de toi.(3) Qu'Allah vous guide et améliore votre condition.",
+            "reference": "Al-Bukhârî [6224](7/125)."
+          }
+        ]
+      },
+      {
+        "group_id": 78,
+        "title": "Lorsque quelqu'un qui ne croit pas loue Allah après avoir éternué",
+        "duas": [
+          {
+            "id": 189,
+            "group_id": 78,
+            "dua": "يَهْدِيْكُمُ اللهُ، وَيُصْلِحُ بَالَكُمْ",
+            "translation": "Qu'Allah vous guide et améliore votre condition.",
+            "reference": "At-Tirmidhî [2739](5/82), Aĥmad (4/400) et Abû Dâwud [5038](4/308). Also see Ŝaĥîĥ At-Tirmidhî (2/354)."
+          }
+        ]
+      },
+      {
+        "group_id": 80,
+        "title": "La nuit de noces ou lors de l'achat d'un animal",
+        "duas": [
+          {
+            "id": 191,
+            "group_id": 80,
+            "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ خَيْرَهَا، وَخَيْرَ مَا جَبَلْتَهَا عَلَيْهِ، وَأَعُوذُ بِكَ مِنْ شَرِّهَا، وَشَرِّ مَا جَبَلْتَهَا عَلَيْهِ",
+            "translation": "Ô Allah, je Te demande ce qu'il y a de mieux en elle, et ce que Tu l'as prédisposée à être. Et je cherche protection auprès de Toi contre le mal qu'il y a en elle, et le mal auquel Tu l'as prédisposée.",
+            "reference": "Abû Dâwud [2160](2/248) et Ibn Mâjah [1918](1/617). Also see Ŝaĥîĥ Ibn Mâjah (1/324)."
+          }
+        ]
+      },
+      {
+        "group_id": 82,
+        "title": "Lorsque l'on est en colère",
+        "duas": [
+          {
+            "id": 193,
+            "group_id": 82,
+            "dua": "أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+            "translation": "Je cherche refuge auprès d'Allah contre le diable lapidé.",
+            "reference": "Al-Bukhârî [6048](7/99) et Muslim [2610](5/2015)."
+          }
+        ]
+      },
+      {
+        "group_id": 83,
+        "title": "En voyant quelqu'un éprouvé",
+        "duas": [
+          {
+            "id": 194,
+            "group_id": 83,
+            "dua": "الْحَمْدُ لِلَّهِ الَّذِيْ عَافَانِي مِمَّا ابْتَلاكَ بِهِ، وَفَضَّلَنِي عَلَى كَثِيْرٍ مِمَّنْ خَلَقَ تَفْضِيْلاً",
+            "translation": "Louange à Allah Qui m'a épargné de ce par quoi Il t'a éprouvé, et Qui m'a grandement favorisé par rapport à beaucoup de Sa création.",
+            "reference": "At-Tirmidhî [3432](5/493,494). Also see Ŝaĥîĥ At-Tirmidhî (3/153)."
+          }
+        ]
+      },
+      {
+        "group_id": 84,
+        "title": "Lors d'une assemblée ou d'un rassemblement",
+        "duas": [
+          {
+            "id": 195,
+            "group_id": 84,
+            "dua": "رَبِّ اغْفِرْ لي، وَتُبْ عَلَـيَّ، إِنَّكَ أَنْتَ التَّوَّابُ الغَفُورُ",
+            "translation": "Ô mon Seigneur, pardonne-moi et accepte mon repentir. En vérité, Tu es Celui qui accepte le repentir et Le Tout-Pardonnant.",
+            "reference": "At-Tirmidhî [3432]. Also see Ŝaĥîĥ At-Tirmidhî (3/153) and Ŝaĥîĥ Ibn Mâjah (2/321) et les termes sont ceux d'At-Tirmidhî."
+          }
+        ]
+      },
+      {
+        "group_id": 85,
+        "title": "Pour l'expiation des péchés, à la fin d'une assemblée ou d'un rassemblement",
+        "duas": [
+          {
+            "id": 196,
+            "group_id": 85,
+            "dua": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
+            "translation": "Gloire à Toi, ô Allah, et louange à Toi. J'atteste qu'il n'y a pas de divinité digne d'adoration en dehors de Toi. Je demande Ton pardon et me repens à Toi.",
+            "reference": "Abû Dâwud [4859], At-Tirmidhî [3433], An-Nisâ'i ['Amal al-Yawm wa al-Laylah][397]. Also see Ŝaĥîĥ At-Tirmidhî (3/153)."
+          }
+        ]
+      },
+      {
+        "group_id": 86,
+        "title": "Réponse à une supplication de pardon",
+        "duas": [
+          {
+            "id": 197,
+            "group_id": 86,
+            "dua": "وَلَكَ",
+            "translation": "Et qu'Allah te pardonne également.",
+            "reference": "Aĥmad (5/82) et An-Nisâ'i ['Amal al-Yawm wa al-Laylah](pg. 218)."
+          }
+        ]
+      },
+      {
+        "group_id": 87,
+        "title": "À celui qui vous rend service",
+        "duas": [
+          {
+            "id": 198,
+            "group_id": 87,
+            "dua": "جَزَاكَ اللهُ خَيْراً",
+            "translation": "Qu'Allah te récompense en bien.",
+            "reference": "At-Tirmidhî [2035]. Voir aussi Ŝaĥîĥ Al-Jâmi' [6244] et Ŝaĥîĥ At-Tirmidhî (2/200)."
+          }
+        ]
+      },
+      {
+        "group_id": 89,
+        "title": "À celui qui prononce son amour pour vous, pour l'amour d'Allah",
+        "duas": [
+          {
+            "id": 200,
+            "group_id": 89,
+            "dua": "أَحَبَّكَ الَّذِيْ أَحْبَبْتَنِي لَهُ",
+            "translation": "Qu'Il t'aime pour qui tu m'aimes.",
+            "reference": "Abû Dâwud [5125](4/333) et Al-Albânî l'a authentifié dans Ŝaĥîĥ Abû Dâwud (3/965)."
+          }
+        ]
+      },
+      {
+        "group_id": 90,
+        "title": "À celui qui vous a offert de sa richesse",
+        "duas": [
+          {
+            "id": 201,
+            "group_id": 90,
+            "dua": "بَارَكَ اللهُ لَكَ في أَهْلِكَ وَمالِكَ",
+            "translation": "Qu'Allah bénisse pour toi ta famille et ta richesse.",
+            "reference": "Abû Dâwud [5125](4/333) et Al-Albânî l'a déclaré Ĥasan dans Ŝaĥîĥ Abû Dâwud (3/965)."
+          }
+        ]
+      },
+      {
+        "group_id": 91,
+        "title": "Au débiteur lorsqu'il a réglé sa dette",
+        "duas": [
+          {
+            "id": 202,
+            "group_id": 91,
+            "dua": "بَارَكَ اللهُ لَكَ في أَهْلِكَ وَمالِك، إِنَّمَا جَزَاءُ السَّلَفِ الْحَمْدُ والأَدَاءُ",
+            "translation": "Qu'Allah bénisse pour toi ta famille et ta richesse. La récompense d'un prêt est la reconnaissance et le remboursement.",
+            "reference": "An-Nisâ'i ['Amal al-Yawm wa al-Laylah][372](pg. 300) et Ibn Mâjah [2424](2/809). Voir aussi Ŝaĥîĥ Ibn Mâjah (2/55)."
+          }
+        ]
+      },
+      {
+        "group_id": 93,
+        "title": "Répondre à une supplication après avoir offert un cadeau ou une aumône à quelqu'un",
+        "duas": [
+          {
+            "id": 204,
+            "group_id": 93,
+            "dua": "وَفِيْكَ بَارَكَ اللهُ",
+            "translation": "Qu'Allah te bénisse.",
+            "reference": "Ibn As-Sunnî [278](pg. 138). Voir aussi Ibn Qayyim [Al-Wabil Aŝ-Ŝayyib](pg. 304) avec recherche de Bashîr Muĥammad 'Uyun."
+          }
+        ]
+      },
+      {
+        "group_id": 108,
+        "title": "Excellence de répandre le salut islamique",
+        "duas": [
+          {
+            "id": 224,
+            "group_id": 108,
+            "dua": "قَالَ ﷺ: «لا تَدْخُلُوا الجَنَّة حَتَّى تُؤمِنُوا، وَ لَا تُؤمِنُوا حَتَّى تَحَابُّوا، أَوَلَا أدُلُّكُمْ عَلَى شَيْءٍ إذَا فَعَلْتُمُوهُ تَحَابَبْتُمْ، أَفْشُوا السَّلامَ بَيْنَكُمْ»",
+            "translation": "Le Prophète ﷺ a dit : « Vous n'entrerez pas au paradis tant que vous ne croirez pas, et vous ne croirez pas tant que vous ne vous aimerez pas. Voulez-vous que je vous indique quelque chose qui, si vous le faites, vous aimerez les uns les autres ? Répandez le Salâm entre vous. »",
+            "reference": "Muslim [54](1/74)."
+          },
+          {
+            "id": 225,
+            "group_id": 108,
+            "dua": "قَالَ عمار بن ياسر(رضي الله عنه): «ثَلاثٌ مَنْ جَمَعَهُنَّ فَقَدْ جَمَعَ الإيْمَانَ: الإنْصَافُ مِنْ نَفْسِكَ، و بَذْلُ السَّلامِ لِلْعَالَمِ، و الإنْفَاقُ مِنَ الإقْتَارِ»",
+            "translation": "'Ammâr bin Yâsir (RadiAllah ʻanhu) a dit : « Trois caractéristiques, celui qui les réunit a complété sa foi : être juste envers soi-même, répandre les salutations à tous, et dépenser (en charité) même lorsque l'on est dans la difficulté. »",
+            "reference": "Al-Bukhârî [Before hadith[28]](1/82)."
+          },
+          {
+            "id": 226,
+            "group_id": 108,
+            "dua": "وَ عَنْ عَبْدِاللهِ بِنْ عَمْرٍو(رضي الله عنه): «أنَّ رَجُلاً سَأَلَ النَّبِيَّ ﷺ أيُّ الإسْلامِ خَيْرٌ؟» قَالَ: «تُطْعِمُ الطَّعَامَ، وَتَقْرَأُ السَّلامَ عَلَى مَنْ عَرَفْتَ وَ مَنْ لَمْ تَعْرِف»",
+            "translation": "'Abdullah Ibn 'Amr (RadiAllah ʻanhu) a rapporté qu'un homme demanda au Prophète ﷺ : 'Quel islam est le meilleur ?'. Il répondit : 'Donner à manger (aux pauvres), et saluer ceux que tu connais et ceux que tu ne connais pas.'",
+            "reference": "Al-Bukhârî [12](1/55) et Muslim [39](1/65)."
+          }
+        ]
+      },
+      {
+        "group_id": 109,
+        "title": "Répondre à un salut d'un non-croyant",
+        "duas": [
+          {
+            "id": 227,
+            "group_id": 109,
+            "dua": "وَ عَلَيْكُمْ",
+            "translation": "Et sur vous.",
+            "reference": "Al-Bukhârî [6258](11/42) et Muslim [2163](4/1705)."
+          }
+        ]
+      },
+      {
+        "group_id": 112,
+        "title": "Pour celui que vous avez insulté",
+        "duas": [
+          {
+            "id": 230,
+            "group_id": 112,
+            "dua": "اللَّهُمَّ فأَيُّمَا مُؤْمِنٍ سَبَبْتُهُ؛ فَاجْعَلْ ذَلِكَ لَهُ قُرْبَةً إلَيْكَ يَوْمَ القِيَامَةِ",
+            "translation": "Ô Allah, pour tout croyant que j'ai insulté, fais que cela soit un moyen de se rapprocher de Toi le Jour de la Résurrection.",
+            "reference": "Al-Bukhârî [6361](11/171) et Muslim [2601](4/2007)."
+          }
+        ]
+      },
+      {
+        "group_id": 113,
+        "title": "L'étiquette de louer un frère musulman",
+        "duas": [
+          {
+            "id": 231,
+            "group_id": 113,
+            "dua": "قَالَ ﷺ: «إذَا كَانَ أحَدُكُمْ مَادِحاً صَاحِبَهُ لَا مَحَالَةَ؛ فَلْيَقُل: أحْسِبُ فُلَانًا: وَ اللهُ حَسِيْبُهُ، وَ لَا أُزَكِّي عَلَى اللهِ أحَداً: أحْسِبُهُ – إنْ كَانَ يَعْلمُ ذَاكَ – كَذَا وَ كَذَا»",
+            "translation": "Le Prophète ﷺ a dit : « Si l'un de vous doit louer son compagnon sans l'ombre d'un doute, qu'il dise : 'Je crois que tel est vertueux, et Allah est son comptable, et je ne loue personne devant Allah. Je pense qu'il est tel ou tel…' (s'il le sait de lui). »",
+            "reference": "Muslim [3000](4/2296) et Al-Bukhârî [2662]."
+          }
+        ]
+      },
+      {
+        "group_id": 114,
+        "title": "Pour celui qui a été loué",
+        "duas": [
+          {
+            "id": 232,
+            "group_id": 114,
+            "dua": "اللَّهُمَّ لَا تُؤَاخِذْنِي بِمَا يَقُولُونَ، وَ اغْفِرْ لِي مَا لاَ يَعْلَمُونَ [وَ اجْعَلْنِي خَيْراً مِمَّا يَظُنُّونَ]",
+            "translation": "Ô Allah, ne me blâme pas pour ce qu'ils disent, pardonne-moi pour ce qu'ils ne savent pas (et fais-moi meilleur que ce qu'ils pensent de moi).",
+            "reference": "Al-Bukhârî [Adab Al-Mufrad][761] et Al-Albânî a déclaré sa chaîne Ĥasan dans Ŝaĥîĥ Adab Al-Mufrad [585]. Ce qui est entre crochets est une extension de Al-Baihaqî [Shu'ab Al-Imân](4/228) par une autre voie."
+          }
+        ]
+      }
+    ]
+},
+  {
+  "category_id": 9,
+  "title": "Maison et Famille",
+  "group": [
+    {
+      "group_id": 2,
+      "title": "Lorsqu'on met un vêtement",
+      "duas": [
+        {
+          "id": 5,
+          "group_id": 2,
+          "dua": "اَلحَمدُ لِلهِ الَّذِي كَسَانِي هَذَا (الثَّوْبَ) وَرَزَقَنِيهِ مِنْ غَيْرِ حَولٍ مِنِّي وَ لَا قُوَّةٍ",
+          "translation": "Louange à Allah qui m'a vêtu de ce (vêtement) et me l'a fourni sans ma propre puissance ni capacité.",
+          "reference": "Abû Dâwud [4023], At-Tirmidhî [2458] et Ibn Mâjah [3285]. Voir aussi Irwâ'-ul-Ghalîl (7/47)."
+        }
+      ]
+    },
+    {
+      "group_id": 3,
+      "title": "Lorsqu'on porte un nouveau vêtement",
+      "duas": [
+        {
+          "id": 6,
+          "group_id": 3,
+          "dua": "اللَّهُمَّ لَكَ الحَمدُ أَنْتَ كَسَوْتَنِيهِ، أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشِّرِ مَا صُنِعَ لَهُ",
+          "translation": "Ô Allah, pour Toi est toute louange, Tu m'as vêtu de ce (vêtement), je Te demande le bien qu'il contient et le bien pour lequel il a été fabriqué, et je cherche refuge auprès de Toi contre son mal et le mal pour lequel il a été fabriqué.",
+          "reference": "Abû Dâwud [4020] et At-Tirmidhî [1767] et Al-Baghawî. Le texte provient d'Abû Dâwud. Voir aussi Mukhtaŝar Shama'il At-Tirmidhî par Al-Albânî (p. 47)."
+        }
+      ]
+    },
+    {
+      "group_id": 4,
+      "title": "À quelqu'un qui porte un nouveau vêtement",
+      "duas": [
+        {
+          "id": 7,
+          "group_id": 4,
+          "dua": "تُبْلِي وَيُخْلِفُ اللهُ تَعَالَى",
+          "translation": "Puisse-tu le porter jusqu'à ce qu'il s'use et qu'Allah le remplace (par un autre).",
+          "reference": "Abû Dâwud [4020](4/41). Voir aussi Ŝaĥiĥ Abû Dâwud (2/760)."
+        },
+        {
+          "id": 8,
+          "group_id": 4,
+          "dua": "إِلبَسْ جَدِيداً، وَعِشْ حَمِيداً، وَمُتْ شَهِيداً",
+          "translation": "Porte du neuf, vis dignement et meurs en martyr.",
+          "reference": "Ibn Mâjah [3558](2/1178) et Al-Baghawî (12/41). Voir aussi Ŝaĥiĥ Ibn Mâjah (2/275)."
+        }
+      ]
+    },
+    {
+      "group_id": 5,
+      "title": "Avant de se déshabiller",
+      "duas": [
+        {
+          "id": 9,
+          "group_id": 5,
+          "dua": "بِسْمِ اللهِ",
+          "translation": "Au nom d'Allah.",
+          "reference": "At-Tirmidhî [606](2/505) et Sahîh Al-Jâmi' [3210](3/203). Voir aussi Irwâ'-ul-Ghalîl [50]."
+        }
+      ]
+    },
+    {
+      "group_id": 6,
+      "title": "Avant d'entrer dans les toilettes",
+      "duas": [
+        {
+          "id": 10,
+          "group_id": 6,
+          "dua": "(بِسْمِ اللهِ) اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبْثِ وَالْخَبَائِثِ",
+          "translation": "(Au nom d'Allah). Ô Allah, je cherche refuge auprès de Toi contre tout mal et les mauvais êtres.",
+          "reference": "Al-Bukhârî [142](1/45) et Muslim [375](1/283). La narration avec l'extension \"Au nom d'Allah\" a été rapportée par Sa'eed bin Manŝoor, voir Fatĥ al-Bârî (1/244)."
+        }
+      ]
+    },
+    {
+      "group_id": 7,
+      "title": "Après être sorti des toilettes",
+      "duas": [
+        {
+          "id": 11,
+          "group_id": 7,
+          "dua": "غُفْرَانَكَ",
+          "translation": "Je Te demande pardon (Allah).",
+          "reference": "At-Tirmidhî [7], Abû Dâwud [30], Ibn Mâjah [300] et An-Nisâ'i ['Amal al-Yawm wa al-Laylah][79]."
+        }
+      ]
+    },
+    {
+      "group_id": 10,
+      "title": "Lorsqu'on entre chez soi",
+      "duas": [
+        {
+          "id": 16,
+          "group_id": 10,
+          "dua": "بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ، وَلاَحَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+          "translation": "Au nom d'Allah, je place ma confiance en Allah, et il n'y a de force ni de pouvoir que par Allah.",
+          "reference": "Abû Dâwud [5094](4/325) et At-Tirmidhî [3427](5/490). Voir aussi Ŝaĥiĥ At-Tirmidhî (3/151)."
+        },
+        {
+          "id": 17,
+          "group_id": 10,
+          "dua": "اللَّهُمَّ إِنَّي أَعْوْذُ بِكَ أَنْ أَضِلَّ، أَوْ أُضِلَّ، أَوْ أَزِلَّ، أُوْ أُزَلَّ أَوْ أَظْلِمَ، أَوْ أُظْلَمَ، أَوْ أَجْهَلَ، أَوْ يُجْهَلَ عَلَيَّ",
+          "translation": "Ô Allah, je cherche refuge auprès de Toi de peur que je ne m'égare ou que l'on m'égare, que je trébuche ou que l'on me fasse trébucher, que je sois injuste ou que l'on me fasse subir l'injustice, que je me comporte de manière insensée ou que l'on se comporte ainsi avec moi.",
+          "reference": "Abû Dâwud [5094], At-Tirmidhî [3427], An-Nisâ'i (8/268) et Ibn Mâjah [3884]. Voir aussi Ŝaĥiĥ At-Tirmidhî (3/152) et Ŝaĥiĥ Ibn Mâjah (2/336)."
+        }
+      ]
+    },
+    {
+      "group_id": 11,
+      "title": "Lorsqu'on sort de chez soi",
+      "duas": [
+        {
+          "id": 18,
+          "group_id": 11,
+          "dua": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللهِ رَبَّنَا تَوَكَّلْنَا",
+          "translation": "Au nom d'Allah nous entrons et au nom d'Allah nous sortons, et c'est en notre Seigneur que nous plaçons notre confiance.",
+          "reference": "Abû Dâwud [5096](4/325) et Shaykh Abdul 'Azîz bin Bâz a classé sa chaîne de transmission ĥasan dans [Tuĥfat al-Akhyâr](28)."
+        }
+      ]
+    },
+    {
+      "group_id": 45,
+      "title": "Pour expulser le diable et ses suggestions",
+      "duas": [
+        {
+          "id": 141,
+          "group_id": 45,
+          "dua": "الاسْتِعَاذَةُ بِاللهِ مِنْهُ",
+          "translation": "Cherchez refuge auprès d'Allah contre lui.",
+          "reference": "Abû Dâwud (1/206) et At-Tirmidhî. Voir aussi Ŝaĥîĥ At-Tirmidhî (1/77)."
+        },
+        {
+          "id": 142,
+          "group_id": 45,
+          "dua": "الأذَانُ",
+          "translation": "L'Athân (l'Appel à la prière).",
+          "reference": "Al-Bukhârî [608](1/151) et Muslim [389](1/291)."
+        },
+        {
+          "id": 143,
+          "group_id": 45,
+          "dua": "الأذْكَارُ وَ قِراءَةُ القُرْآنِ",
+          "translation": "Les textes authentiques de rappel et la récitation du Coran.",
+          "reference": "Muslim [780](1/539)."
+        }
+      ]
+    },
+    {
+      "group_id": 79,
+      "title": "Pour les nouveaux mariés",
+      "duas": [
+        {
+          "id": 190,
+          "group_id": 79,
+          "dua": "بَارَكَ اللّهُ لَكَ، وَبَارَكَ عَلَيْكَ، وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
+          "translation": "Qu'Allah te bénisse, qu'Il te comble de bénédictions, et qu'Il vous unisse tous deux dans le bien.",
+          "reference": "Abû Dâwud [2130], At-Tirmidhî [1091], et Ibn Mâjah [1905]. Voir aussi Ŝaĥîĥ Ibn Mâjah (1/324)."
+        }
+      ]
+    },
+    {
+      "group_id": 81,
+      "title": "Avant les rapports sexuels",
+      "duas": [
+        {
+          "id": 192,
+          "group_id": 81,
+          "dua": "بِسْمِ اللهِ، اللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ، وَجَنِّبِ الشَّيْطانَ مَا رَزَقْتَنَا",
+          "translation": "Au nom d'Allah. Ô Allah, éloigne le diable de nous et éloigne le diable de ce que Tu nous as accordé.",
+          "reference": "Al-Bukhârî [3271](6/141) et Muslim [1434](2/1028)."
+        }
+      ]
+    },
+    {
+      "group_id": 125,
+      "title": "Lorsqu'on craint de nuire à quelqu'un ou à quelque chose par son regard",
+      "duas": [
+        {
+          "id": 244,
+          "group_id": 125,
+          "dua": "اللَّهُمَّ بَارِك عَلَيْهِ",
+          "translation": "Si vous voyez quelque chose chez votre frère, vous-même ou un bien qui vous impressionne, invoquez des bénédictions pour cela, car le mauvais œil est bien réel.",
+          "reference": "Aĥmad (4/447), Ibn Mâjah [3509] et Mâlik [1697-1698]. Al-Albânî l'a authentifié dans Ŝaĥîĥ Al-Jâmi' [556](1/212). Voir aussi la recherche de Zâd al-Ma'âd par Al-Arnâ'ûť."
+        }
+      ]
+    },
+    {
+      "group_id": 128,
+      "title": "Pour repousser la tromperie des shaytans obstinés",
+      "duas": [
+        {
+          "id": 247,
+          "group_id": 128,
+          "dua": "أَعُوذُ بِكَلِمَاتِ اللهِ التَّامَّاتِ، الَّتِي لَا يُجَاوِزُهُنَّ بَرٌّ ولَا فَاجِرٌ مِنْ شَرِّ مَا خَلقَ، وبَرَأَ وذَرَأَ، ومِنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَاءِ، وِمنْ شَرِّ مَا يَعْرُجُ فِيْهَا، ومِنْ شَرِّ مَا ذَرَأَ فِي الأَرْضِ، ومِنْ شَرِّ مَا يَخْرُجُ مِنْهَا، وِمنْ شَرِّ فِتَنِ اللَّيْلِ والنَّهَارِ، ومِنْ شَرِّ كُلِّ طَارِقٍ إِلَّا طَارِقاً يَطْرُقُ بِخَيْرٍ يَا رَحْمَنُ",
+          "translation": "Je prends refuge dans les paroles parfaites d'Allah, qu'aucun juste ou pécheur ne peut transgresser, contre tout le mal qu'Il a créé, formé et produit. (Je prends refuge) contre le mal qui descend du ciel et le mal qui y monte. (Je prends refuge) contre le mal qui est répandu sur Terre et le mal qui en jaillit, et je prends refuge contre le mal des épreuves de la nuit et du jour, et contre le mal de toute personne qui rend visite sauf celle qui apporte du bien, Ô Miséricordieux.",
+          "reference": "Aĥmad (3/419) avec une chaîne Ŝaĥîĥ, Ibn As-Sunnî [637]. Al-Arnâ'ûť a déclaré sa chaîne Ŝaĥîĥ dans sa recherche sur Ať-Ťaĥawiyyah (p. 133). Voir aussi Majma' Az-Zawâ'id (10/127)."
+        }
+      ]
+    },
+    {
+      "group_id": 132,
+      "title": "Règles générales et bienfaisantes",
+      "duas": [
+        {
+          "id": 267,
+          "group_id": 132,
+          "dua": "إذَا كَانَ جُنْحُ اللَّيْل – أوْ أمْسَيْتُم – فَكُفُّوا صِبْيَانَكُمْ؛ فَإنَّ الشَّيَاطِيْنَ تَنْتَشِرُ حِيْنَئَذٍ، فَإذَا ذَهَبَ سَاعَةٌ مِنَ اللَّيْلِ فَخَلُّوهُمْ، وَأغْلقُوا الأبْوَابَ، وَاذْكُرُوا اسْمَ اللهِ؛ فَإنَّ الشَّيْطَانَ لَا يَفْتَحُ بَابًا مُغْلَقًا، وَ أوْكُوا قِرَبَكُمْ، وَاذْكُرُوا اسْمَ اللهِ، وَ خَمِّرُوا آنِيَتَكُمْ وَاذْكُرُوا اسْمَ اللهِ، وَ لَوْ أنْ تَعْرِضُوا عَلَيْهَا شَيْئًا، وَ أطْفِئُوا مَصَابِيْحَكُمْ",
+          "translation": "Lorsque la nuit tombe, retenez vos enfants (de sortir), car à ce moment-là les diables se propagent. Après qu'un certain temps soit passé, laissez-les être. Fermez vos portes et mentionnez le nom d'Allah, car le diable n'ouvre pas une porte fermée. Fermez vos outres à eau et mentionnez le nom d'Allah, couvrez vos récipients avec quoi que ce soit et mentionnez le nom d'Allah, et éteignez vos lampes.",
+          "reference": "Al-Bukhârî [5623](10/88) et Muslim [2012](3/1595)."
+        }
+      ]
+    }
+  ]
+},
+  {
+  "category_id": 10,
+  "title": "Nourriture et Boisson",
+  "group": [
+    {
+      "group_id": 68,
+      "title": "Lors de la rupture du jeûne",
+      "duas": [
+        {
+          "id": 176,
+          "group_id": 68,
+          "dua": "ذَهَبَ الظَّمَأُ، وَابْتَلَّتِ العُرُوقُ، وَثَبَتَ الأجْرُ إِنْ شَاءَ اللهُ",
+          "translation": "La soif est partie et les veines sont désaltérées, et la récompense est confirmée, si Allah le veut.",
+          "reference": "Abû Dâwud [2357](2/306). Voir aussi Ŝaĥîĥ Al-Jâmi' [4678](4/209)."
+        },
+        {
+          "id": 177,
+          "group_id": 68,
+          "dua": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِرَحْمَتِكَ الَّتِي وَسِعَتْ كُلَّ شَيْءٍ، أَنْ تَغْفِرَ لِي",
+          "translation": "Ô Allah, je Te demande par Ta miséricorde qui englobe toutes choses, de me pardonner.",
+          "reference": "Ibn Mâjah [1753](1/557) et Al-Hâfiž l'a classée Ĥasan dans son takhrîj d'Al-Athkâr. Voir aussi Sharĥ Al-Athkâr (4/342)."
+        }
+      ]
+    },
+    {
+      "group_id": 69,
+      "title": "Avant de manger",
+      "duas": [
+        {
+          "id": 178,
+          "group_id": 69,
+          "dua": "بِسْمِ اللهِ (في أَوَّلِهِ وَآخِرِهِ)",
+          "translation": "Au nom d'Allah (au début et à la fin)*.",
+          "reference": "* Les mots entre crochets doivent être récités si l'on oublie de dire le dua avant de manger et qu'on s'en souvient en mangeant.Abû Dâwud [3767](3/347) et At-Tirmidhî [1858](4/288). Voir aussi Ŝaĥîĥ At-Tirmidhî (2/167)."
+        },
+        {
+          "id": 179,
+          "group_id": 69,
+          "dua": "(١) اللَّهُمَّ بَارِكْ لَنَا فِيْهِ، وَأَطْعِمْنَا خَيْراً مِنْهُ(٢) اللَّهُمَّ بَارِكْ لَنَا فِيْهِ، وَزِدْنَا مِنْهُ",
+          "translation": "(1) 'Ô Allah, bénis-le pour nous et nourris-nous mieux que cela.'Si l'on reçoit du lait, récitez plutôt :(2) 'Ô Allah, bénis-le pour nous et donne-nous-en davantage.'",
+          "reference": "Abû Dâwud [3767] et An-Nisâ'i ['Amal al-Yawm wa al-Laylah][282]. Al-Albânî l'a classé faible, voir Al-Kalam Ať-Ťayyib [184]."
+        }
+      ]
+    },
+    {
+      "group_id": 70,
+      "title": "À la fin du repas",
+      "duas": [
+        {
+          "id": 180,
+          "group_id": 70,
+          "dua": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هـَذَا، وَرَزَقَنِيْهِ، مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+          "translation": "Louange à Allah qui m'a nourri avec ceci et me l'a accordé sans force ni pouvoir de ma part.",
+          "reference": "Abû Dâwud [4023], At-Tirmidhî [3458] et Ibn Mâjah [3285]. Voir aussi Ŝaĥîĥ At-Tirmidhî (3/159)."
+        },
+        {
+          "id": 181,
+          "group_id": 70,
+          "dua": "الْحَمْدُ لِلَّهِ حَمْداً كَثِيْراً طَيِّباً مُبَارَكاً فِيْهِ، غَيْرَ [مَكْفِيٍّ وَلَا] مُوَدَّعٍ، وَلَا مُسْتَغْنىً عَنْهُ رَبُّنَا",
+          "translation": "Louange à Allah avec une louange abondante, belle et bénie, une louange infinie, une louange que nous ne cesserons jamais de Lui rendre, Il est notre Seigneur.",
+          "reference": "Al-Bukhârî [5458](6/214) et At-Tirmidhî [3456](5/507) et la formulation est la sienne."
+        }
+      ]
+    },
+    {
+      "group_id": 71,
+      "title": "Dua de l'invité pour l'hôte",
+      "duas": [
+        {
+          "id": 182,
+          "group_id": 71,
+          "dua": "اللَّهُمَّ بَارِكْ لَهُمْ فِيْمَا رَزَقْتَهُمْ، وَاغْفِرْ لَهُمْ، وَارْحَمْهُمْ",
+          "translation": "Ô Allah, bénis pour eux ce que Tu leur as donné, pardonne-leur et aie pitié d'eux.",
+          "reference": "Muslim [2042](3/1615)."
+        }
+      ]
+    },
+    {
+      "group_id": 72,
+      "title": "À celui qui offre à boire ou qui a l'intention de le faire",
+      "duas": [
+        {
+          "id": 183,
+          "group_id": 72,
+          "dua": "اللَّهُمَّ أَطْعِمْ مَنْ أَطْعَمَنِي، وَاسْقِ مَنْ سَقَانِي",
+          "translation": "Ô Allah, nourris celui qui m'a nourri, et donne à boire à celui qui m'a donné à boire.",
+          "reference": "Muslim [2055](3/1626)."
+        }
+      ]
+    },
+    {
+      "group_id": 73,
+      "title": "Lors de la rupture du jeûne dans la maison de quelqu’un",
+      "duas": [
+        {
+          "id": 184,
+          "group_id": 73,
+          "dua": "أَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ، وَأَكَلَ طَعَامَكُمُ الأبْرَارُ، وَصَلَّتْ عَلَيْكُمُ المَلائِكَةُ",
+          "translation": "Puisse les jeûneurs rompre leur jeûne chez vous, et puissent les pieux manger votre nourriture, et puissent les anges prier pour vous.",
+          "reference": "Abû Dâwud [3854](3/367), Ibn Mâjah [1747](1/556) et An-Nisâ'i ['Amal al-Yawm wa al-Laylah][296-298]. Al-Albânî l'a authentifiée dans Ŝaĥîĥ Abû Dâwud (2/730)."
+        }
+      ]
+    },
+    {
+      "group_id": 74,
+      "title": "Pour celui qui jeûne lorsqu'on lui présente de la nourriture sans rompre son jeûne",
+      "duas": [
+        {
+          "id": 185,
+          "group_id": 74,
+          "dua": "إذَا دُعِيَ أحَدُكُمْ فَلْيُجِبْ، فَإنْ كَانَ صَائِمًا فَلْيُصَلِّ، وَ إنْ كَانَ مُفْطِراً فَلْيَطْعَمْ (وَ مَعنَى فَلْيُصَلِّ؛ أيْ: فَلْيَدْعُ)",
+          "translation": "Si vous êtes invités à un repas, alors acceptez. Si vous jeûnez, priez (pour ceux présents), et si vous ne jeûnez pas, mangez. (Le terme 'priez' signifie ici 'faire des invocations').",
+          "reference": "Muslim [1431](2/1054)."
+        }
+      ]
+    }
+  ]
+},
+  {
+  "category_id": 11,
+  "title": "Maladie et Mort",
+  "group": [
+    {
+      "group_id": 48,
+      "title": "Mettre les enfants sous la protection d'Allah",
+      "duas": [
+        {
+          "id": 146,
+          "group_id": 48,
+          "dua": "أُعِيْذُكُمَا بِكَلِمَاتِ اللهِ التَّامَّةِ، مِنْ كُلِّ شَيْطَانٍ وَهـَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لامَّةٍ",
+          "translation": "Je vous place sous la protection des paroles parfaites d'Allah, contre tout diable, vermine et mauvais œil.",
+          "reference": "Al-Bukhârî [3371](4/119)."
+        }
+      ]
+    },
+    {
+      "group_id": 49,
+      "title": "Lors de la visite d'un malade",
+      "duas": [
+        {
+          "id": 147,
+          "group_id": 49,
+          "dua": "لَا بأْسَ طَهُورٌ إِنْ شَاءَ اللهُ",
+          "translation": "Ce n'est rien, puisse cette maladie être une purification, si Allah le veut.",
+          "reference": "Al-Bukhârî [3616](10/118)."
+        },
+        {
+          "id": 148,
+          "group_id": 49,
+          "dua": "أَسْأَلُ اللهَ العَظِيْمَ، رَبَّ العَرْشِ العَظِيْمِ، أَنْ يَشْفِيَكَ [سَبْعَ مَرَّاتٍ]",
+          "translation": "Je demande à Allah Le Suprême, Seigneur du trône majestueux, de te guérir. (Sept fois)",
+          "reference": "At-Tirmidhî [2083] et Abû Dâwud [3106]. Voir aussi Ŝaĥîĥ At-Tirmidhî (2/210) et Ŝaĥîĥ Al-Jâmi' [5766](5/180)."
+        }
+      ]
+    },
+    {
+      "group_id": 50,
+      "title": "Mérite de visiter un malade",
+      "duas": [
+        {
+          "id": 149,
+          "group_id": 50,
+          "dua": "إذَا عَادَ الرَّجُلُ أخَاهُ المُسْلِمَ، مَشَى فِي خِرَافَةِ الجَنَّةِ حَتَّى يَجْلِسَ، فَإذَا جَلَسَ غَمَرَتْهُ الرَّحْمَةُ،  فَإنْ كَانَ غُدْوَةً صَلَّى عَلَيْهِ سَبْعُونَ ألْفَ مَلَكٍ حَتَّى يُمْسِيَ، و إنْ كَانَ مَسَاءً صَلَّى عَلَيْهِ سَبْعُونَ ألْفَ مَلَكٍ حَتَّى يُصْبِحَ",
+          "translation": "Si un homme rend visite à son frère musulman malade, c'est comme s'il marchait en récoltant les fruits du Paradis jusqu'à ce qu'il s'asseye, et lorsqu'il s'asseoit, il est baigné de miséricorde. Si cette visite a lieu le matin, soixante-dix mille anges prient pour lui jusqu'au soir, et si c'était le soir, soixante-dix mille anges prient pour lui jusqu'au matin.",
+          "reference": "At-Tirmidhî [969], Ibn Mâjah [1442] et Aĥmad (1/97). Voir aussi Ŝaĥîĥ Ibn Mâjah (1/244) et Ŝaĥîĥ At-Tirmidhî (1/286). Shaykh Aĥmad Shâkir l'a également authentifié."
+        }
+      ]
+    },
+    {
+      "group_id": 51,
+      "title": "Lorsque le malade perd tout espoir de vie",
+      "duas": [
+        {
+          "id": 150,
+          "group_id": 51,
+          "dua": "اللَّهُمَّ اغْفِرْ لي، وَارْحَمْنِي، وَأَلْحِقْنِي بِالرَّفِيْقِ الأعْلَى",
+          "translation": "Ô Allah, pardonne-moi, aie pitié de moi et unis-moi aux plus hauts compagnons.",
+          "reference": "Al-Bukhârî [4440](7/10) et Muslim [2444](4/1893)."
+        },
+        {
+          "id": 151,
+          "group_id": 51,
+          "dua": "لَا إِلَهَ إِلَّا اللهُ، إِنَّ لِلْمَوْتِ لَسَكَرَاتٍ",
+          "translation": "Il n'y a de dieu que Allah, la mort contient vraiment des agonies.",
+          "reference": "Al-Bukhârî [4449](8/144)."
+        },
+        {
+          "id": 152,
+          "group_id": 51,
+          "dua": "لَا إلَهَ إلَّا اللهُ وَاللهُ أَكْبَرُ، لَا إلَهَ إلَّا اللهُ وحْدَهُ، لَا إلَهَ إلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لهُ، لَا إلَهَ إلَّا اللهُ لَهُ المُلْكُ ولَهُ الحَمْدُ، لَا إلَهَ إلَّا اللهُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+          "translation": "Il n'y a de dieu que Allah et Allah est le plus grand. Il n'y a de dieu que Allah, seul. Il n'y a de dieu que Allah, seul, sans partenaire. Il n'y a de dieu que Allah, à Lui appartient la souveraineté et la louange. Il n'y a de dieu que Allah et il n'y a de puissance ni de force qu'en Allah.",
+          "reference": "At-Tirmidhî [3430] et Ibn Mâjah [3794]. Al-Albânî l'a authentifié. Voir aussi Ŝaĥîĥ At-Tirmidhî (3/152) et Ŝaĥîĥ Ibn Mâjah (2/317)."
+        }
+      ]
+    },
+    {
+      "group_id": 52,
+      "title": "Instruction pour celui qui est proche de la mort",
+      "duas": [
+        {
+          "id": 153,
+          "group_id": 52,
+          "dua": "لَا إلَهَ إلَّا اللهُ",
+          "translation": "Celui dont les dernières paroles sont 'Il n'y a de dieu que Allah' entrera au Paradis.",
+          "reference": "Abû Dâwud [3116](3/190). Voir aussi Ŝaĥîĥ Al-Jâmi' [6479](5/432)."
+        }
+      ]
+    },
+    {
+      "group_id": 54,
+      "title": "Lorsque l’on ferme les yeux du défunt",
+      "duas": [
+        {
+          "id": 155,
+          "group_id": 54,
+          "dua": "اللَّهُمَّ اغْفِرْ لِفُلانٍ (باسْمِهِ)، وَارْفَعْ دَرَجَتَهُ في المَهْدِيِّيْنَ، وَاخْلُفْهُ في عَقِبِهِ في الغَابِرِيْنَ، وَاغْفِرْ لَنَا وَلَهُ يَا رَبَّ العَالَمِيْنَ، وَافْسَحْ لَهُ في قَبْرِهِ وَنَوِّرْ لَهُ فِيْهِ",
+          "translation": "Ô Allah, pardonne (nom du défunt) et élève son rang parmi les bien-guidés, et sois un protecteur pour ceux qu'il a laissés derrière lui, et pardonne-nous ainsi qu'à lui, ô Seigneur des mondes. Élargis-lui sa tombe et illumine-la pour lui.",
+          "reference": "Muslim [920](2/634)."
+        }
+      ]
+    },
+    {
+      "group_id": 55,
+      "title": "Pour le défunt lors de la prière funéraire",
+      "duas": [
+        {
+          "id": 156,
+          "group_id": 55,
+          "dua": "اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ، وَعافِهِ، وَاعْفُ عَنْهُ، وَأَكْرِمْ نُزُلَهُ، وَوَسِّعْ مُدْخَلَهُ، وَاغْسِلْهُ بِالْمَاءِ وَالثَّـلْجِ وَالْبَرَدِ، وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الأَبْيَضَ مِنَ الدَّنَسِ، وَأَبْدِلْهُ داراً خَيْراً مِنْ دَارِهِ، وَأَهْلاً خَيْراً مِنْ أَهْلِهِ، وَزَوْجَاً خَيْراً مِنْ زَوْجِهِ، وَأَدْخِلْهُ الْجَنَّةَ، وَأَعِذْهُ مِنْ عَذَابِ القَبْرِ(وَ عَذَابِ النَّارِ)",
+          "translation": "Ô Allah, pardonne-lui et aie pitié de lui, excuse-le et absous-le, et rends honorable son accueil. Élargis son entrée et purifie-le avec de l'eau, de la neige et de la glace, et purifie-le de ses péchés comme un vêtement blanc est purifié de la saleté. Remplace sa demeure par une meilleure demeure, et sa famille par une meilleure famille, et son conjoint par un meilleur conjoint. Fais-le entrer au Paradis, et protège-le du châtiment de la tombe (et du châtiment du Feu).",
+          "reference": "Muslim [963](2/663)."
+        },
+        {
+          "id": 157,
+          "group_id": 55,
+          "dua": "اللَّهُمَّ اغْفِرْ لِحَيِّنَا، وَمَيِّتِنَا، وَشَاهِدِنَا، وَغَائِبِنَا، وَصَغِيْرِنَا، وَكَبِيْرِنَا، وَذَكَرِنَا، وَأُنْثَانَا، اللَّهُمَّ مَنْ أَحْيَيْتَهُ مِنَّا فَأَحْيِهِ عَلَى الإِسْلامِ، وَمَنْ تَوَفَّيْتَهُ مِنَّا فَتَوَفَّهُ عَلَى الإِيْمَانِ، اللَّهُمَّ لَا تَحْرِمْنَا أَجْرَهُ، وَلَا تُضِلَّنَا بَعْدَهُ",
+          "translation": "Ô Allah, pardonne à nos vivants et à nos morts, ceux présents et ceux absents, nos jeunes et nos vieux, nos hommes et nos femmes. Ô Allah, ceux d'entre nous que Tu maintiens en vie, fais que leur vie soit sur l'Islam, et ceux d'entre nous que Tu prends, fais que leur mort soit sur la foi. Ô Allah, ne nous prive pas de sa récompense et ne nous égare pas après lui.",
+          "reference": "Ibn Mâjah [1498](1/480), Abû Dâwud [3201], At-Tirmidhî [1024], An-Nisâ'i [1988] et Aĥmad (2/368). Voir aussi Ŝaĥîĥ Ibn Mâjah (1/251)."
+        },
+        {
+          "id": 158,
+          "group_id": 55,
+          "dua": "اللَّهُمَّ إِنَّ فُلانَ بْنَ فُلانٍ في ذِمَّتِكَ، وَحَبْلِ جِوارِكَ، فَقِهِ مِنْ فِتْنَةِ الْقَبْرِ وَعَذَابِ النَّارِ، وَأَنْتَ أَهْلُ الْوَفاءِ وَالْحَقِّ، فَاغْفِرْ لَهُ، وَارْحَمْهُ، إِنَّكَ أَنْتَ الغَفُورُ الرَّحِيْمُ",
+          "translation": "Ô Allah, untel est sous Ta protection et dans Ton voisinage, alors protège-le de l'épreuve de la tombe et du châtiment du Feu. En vérité, Tu es fidèle et véridique. Pardonne-lui et fais-lui miséricorde, Tu es assurément Le Tout-Pardonnant, Le Très-Miséricordieux.",
+          "reference": "Ibn Mâjah [1499] et Abû Dâwud (3/211). Voir aussi Ŝaĥîĥ Ibn Mâjah (1/251)."
+        },
+        {
+          "id": 159,
+          "group_id": 55,
+          "dua": "اللَّهُمَّ عَبْدُكَ وَابْنُ أَمَتِكَ، احْتَاجَ إِلى رَحْمَتِكَ، وَأَنْتَ غَنِيٌّ عَنْ عَذَابِهِ، إِنْ كَانَ مُحْسِناً فَزِدْ في حَسَنَاتِهِ، وَإِنْ كَانَ مُسِيْئاً فَتَجَاوَزْ عَنْهُ",
+          "translation": "Ô Allah, Ton serviteur et le fils de Ta servante a besoin de Ta miséricorde, et Tu n'as pas besoin de le châtier. S'il était pieux, augmente ses bonnes actions, et s'il était fautif, pardonne-lui.",
+          "reference": "Al-Hâkim (1/359) qui l'a authentifiée, et Adh-Dhahabî est d'accord avec lui. Voir aussi Aĥkâm Al-Janâ'iz par Al-Albânî (p. 125)."
+        }
+      ]
+    },
+    {
+      "group_id": 56,
+      "title": "Lorsque le défunt est un enfant, pendant la prière funéraire",
+      "duas": [
+        {
+          "id": 160,
+          "group_id": 56,
+          "dua": "اللَّهُمَّ اجْعَلْهُ فَرَطاً وَذُخْراً لِوالِدَيْهِ، وَشَفِيْعاً مُجَاباً، اللَّهُمَّ ثَقِّلْ بِهِ مَوَازِيْنَهُمَا، وَأَعْظِمْ بِهِ أُجـُورَهُمَا، وَأَلْحِقْهُ بِصَالِحِ المُؤْمِنِيْنَ، وَاجْعَلْهُ في كَفَالَةِ إِبْرَاهـِيْمَ، وَقِهِ بِرَحْمَتِكَ عَذَابَ الْجَحِيْمِ، و أبْدِلْهُ دَاراً خَيْراً مِنْ دَارِهِ، و أهْلاً خَيْراً مِنْ أهْلِهِ، اللهم اغْفِرْ لأسْلاَفِنَا، وَ أفْرَاطِنَا، وَ مَنْ سَبَقَنَا باِلإيْمَانِ",
+          "translation": "Ô Seigneur, fais-en une récompense anticipée et un trésor pour ses parents, et un intercesseur dont l'intercession est acceptée. Ô Allah, à travers lui, alourdis leurs balances et multiplie leurs récompenses. Réunis-le avec les croyants pieux, place-le sous la protection d'Ibrahim, et protège-le par Ta miséricorde du châtiment de l'Enfer. Donne-lui en échange une meilleure demeure et une meilleure famille que la sienne. Ô Allah, pardonne à nos ancêtres et à nos descendants, et à ceux qui nous ont précédés dans la foi.",
+          "reference": "Voir Al-Mughnî par Ibn Qudâmah (3/416) et Ad-Durûs Al-Muhimmah Li'âmah Al-Ummah par Shaykh Ibn Bâz (p. 15)."
+        },
+        {
+          "id": 161,
+          "group_id": 56,
+          "dua": "اللَّهُمَّ اجْعَلْهُ لَنَا فَرَطاً، وَسَلَفاً، وَأَجْراً",
+          "translation": "Ô Allah, fais-en pour nous une récompense anticipée, un précurseur et une rétribution.",
+          "reference": "Al-Baghawî [Sharĥ As-Sunnah](5/357)."
+        }
+      ]
+    },
+    {
+      "group_id": 57,
+      "title": "Condoléances",
+      "duas": [
+        {
+          "id": 162,
+          "group_id": 57,
+          "dua": "إِنَّ لِلَّهِ مَا أَخَذَ، وَلَهُ مَا أَعْطَى، وَكُلُّ شَيءٍ عِنْدَهُ بِأَجَلٍ مُسَمَّىً...فَلْتَصْبِرْ وَ لْتَحْتَسِبْ",
+          "translation": "En vérité, à Allah appartient ce qu'Il a pris, et à Lui appartient ce qu'Il a donné, et toute chose avec Lui a un délai fixé... Alors sois patient et espère Sa récompense.",
+          "reference": "Al-Bukhârî [1284](2/80) et Muslim [923](2/636)."
+        }
+      ]
+    },
+    {
+      "group_id": 58,
+      "title": "Placer le défunt dans la tombe",
+      "duas": [
+        {
+          "id": 163,
+          "group_id": 58,
+          "dua": "بِسْمِ اللهِ، وَعَلَى سُنَّةِ رَسُولِ اللهِ",
+          "translation": "Au nom d'Allah et selon la tradition du Messager d'Allah.",
+          "reference": "Abû Dâwud [3213](3/314) avec une chaîne Ŝaĥîĥ, et Aĥmad (2/40) avec la phrase: (بسم الله و على ملة رسول الله) et sa chaîne est Ŝaĥîĥ."
+        }
+      ]
+    },
+    {
+      "group_id": 59,
+      "title": "Après l'enterrement du défunt",
+      "duas": [
+        {
+          "id": 164,
+          "group_id": 59,
+          "dua": "اللَّهُمَّ اغْفِرْ لَهُ، اللَّهُمَّ ثَبِّتْهُ",
+          "translation": "Ô Allah, pardonne-lui, Ô Allah, protège-le.",
+          "reference": "Abû Dâwud [3221](3/315) et Al-Hâkim (1/370) qui l'a authentifiée, et Adh-Dhahabî est d'accord avec lui."
+        }
+      ]
+    },
+    {
+      "group_id": 60,
+      "title": "Lors de la visite des tombes",
+      "duas": [
+        {
+          "id": 165,
+          "group_id": 60,
+          "dua": "السَّلَامُ عَلَيْكُمْ أَهْلَ الدِّيَارِ، مِنَ المُؤْمِنِيْنَ، وَالْمُسْلِمِيْنَ، وَإِنَّا إِنْ شَاءَ اللهُ بِكُمْ لَاحِقُونَ، [وَ يَرْحَمُ اللهُ المُسْتَقْدِمِيْنَ مِنَّا وَ المُسْتَأخِرِيْنَ] أسْألُ اللهَ لَنَا وَلَكُمْ العَافِيَةَ",
+          "translation": "Que la paix soit sur vous, ô habitants des tombes, parmi les croyants et les musulmans. En vérité, si Allah le veut, nous vous rejoindrons bientôt. Nous demandons à Allah le bien-être pour nous et pour vous.",
+          "reference": "Muslim [975](2/671) et Ibn Mâjah [1547](1/494), et le libellé est le sien. Ce qui est entre crochets provient du hadith d'Â'ishah recueilli par Muslim [974](2/671)."
+        }
+      ]
+    },
+    {
+      "group_id": 124,
+      "title": "En cas de douleur dans le corps",
+      "duas": [
+        {
+          "id": 243,
+          "group_id": 124,
+          "dua": "بِسْمِ اللهِ (ثَلاثاً)أَعُوذُ بِاللهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ.(سَبْعَ مَرَّاتٍ)",
+          "translation": "Récitez 'Au nom d'Allah.' (trois fois) suivi de ''Je cherche refuge auprès d'Allah et dans Sa puissance contre le mal que je ressens et dont je me méfie.' (sept fois).",
+          "reference": "Muslim [2202](4/1728)."
+        }
+      ]
+    }
+    ]
+  }
+]

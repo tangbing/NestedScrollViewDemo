@@ -1,0 +1,119 @@
+{
+  "id": 5,
+  "title": "Meem Sakin Kuralları",
+  "desc1_desc": "Kur’an tilavetinde, Meem Sakin (م) harfi geçtiğinde, ardından gelen harfe bağlı olarak aşağıdaki üç kuraldan biri uygulanmalıdır:",
+  "sections": [
+    {
+      "id": 0,
+      "title": "İdğam Şafavi",
+      "definition": "Bu kural, harekeli bir başka Meem harfi Meem Sakin’den sonra geldiğinde uygulanır. Genellikle ikinci Meem’de Şedde (ّ) bulunur.",
+      "how_to_pronounce": "İki Meem’i yumuşak bir şekilde birleştirin ve 2-3 vuruş boyunca Gunne (burun sesi) kullanın.",
+      "example": {
+        "text": "لَهُم مَا",
+        "gambar": "/quran/tajweed/pictures/601.jpg",
+        "suara": "/quran/tajweed/audio/601.mp3"
+      }
+    },
+    {
+      "id": 1,
+      "title": "İhfa Şafavi",
+      "definition": "Bu kural, Meem Sakin’in harekeli bir Ba (ب) harfinden önce geldiğinde uygulanır.",
+      "how_to_pronounce": "Meem’in sesini gizleyin ve 2-3 vuruş boyunca Gunne ile telaffuz edin.",
+      "example": {
+        "text": "رَبَّهُم بِهِم",
+        "gambar": "/quran/tajweed/pictures/602.jpg",
+        "suara": "/quran/tajweed/audio/602.mp3"
+      },
+      "note": "Bu kural genellikle gözden kaçırılır, bu nedenle doğru uygulandığından emin olun."
+    },
+    {
+      "id": 2,
+      "title": "İzhar Şafavi",
+      "definition": "İzhar Şafavi, Meem Sakin’den sonra Meem veya Ba dışındaki bir harf geldiğinde uygulanır.",
+      "how_to_pronounce": "Meem’i Gunne (burun sesi) olmadan net bir şekilde telaffuz edin.",
+      "example": {
+        "text": "أَلَم تَرَ",
+        "gambar": "/quran/tajweed/pictures/603.jpg",
+        "suara": "/quran/tajweed/audio/603.mp3"
+      }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 0,
+      "question": "تَرۡمِيۡهِم بِحِجَارَةٍ ifadesinde Meem Sakin için hangi kural uygulanır?",
+      "answers": [
+        {
+          "answer": "İhfa Şafavi: Meem Sakin, Ba harfinden önce gelir ve burun sesiyle okunur.",
+          "right": 1
+        },
+        {
+          "answer": "İdğam Şafavi: Meem Sakin, bir sonraki Meem ile birleşir.",
+          "right": 0
+        },
+        {
+          "answer": "İzhar Şafavi: Meem Sakin herhangi bir birleşme olmadan net bir şekilde telaffuz edilir.",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "كُنتُم مُّؤۡمِنِينَ ifadesinde Meem Sakin için hangi kural uygulanır?",
+      "answers": [
+        {
+          "answer": "İhfa Şafavi: Meem Sakin, Ba harfinden önce gelir ve burun sesiyle okunur.",
+          "right": 0
+        },
+        {
+          "answer": "İdğam Şafavi: Meem Sakin, bir sonraki Meem ile birleşir.",
+          "right": 1
+        },
+        {
+          "answer": "İzhar Şafavi: Meem Sakin herhangi bir birleşme olmadan net bir şekilde telaffuz edilir.",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "وَهُمۡ سَـالِمُونَ ifadesinde Meem Sakin için hangi kural uygulanır?",
+      "answers": [
+        {
+          "answer": "İhfa Şafavi: Meem Sakin, Ba harfinden önce gelir ve burun sesiyle okunur.",
+          "right": 0
+        },
+        {
+          "answer": "İdğam Şafavi: Meem Sakin, bir sonraki Meem ile birleşir.",
+          "right": 0
+        },
+        {
+          "answer": "İzhar Şafavi: Meem Sakin herhangi bir birleşme olmadan net bir şekilde telaffuz edilir.",
+          "right": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Gunne içermeyen seçeneği seçin:",
+      "answers": [
+        {
+          "answer": "لَهُمۡ مَّا",
+          "right": 0
+        },
+        {
+          "answer": "رَبَّهُم بِهِم",
+          "right": 0
+        },
+        {
+          "answer": "أَلَمۡ تَرَ",
+          "right": 1
+        },
+        {
+          "answer": "وَ أَنِ احۡكُم بَيۡنَهُم",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

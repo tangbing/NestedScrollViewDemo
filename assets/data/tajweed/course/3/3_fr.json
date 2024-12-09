@@ -1,0 +1,167 @@
+{
+    "id": 2,
+    "title": "Règles d'arrêt",
+    "desc1_desc": "Les règles d'arrêt expliquent comment s'arrêter ou faire une pause pendant la récitation du Coran, garantissant une prononciation correcte et le respect des principes de Tajwid.",
+    "desc2_title": "Exemples et scénarios",
+    "desc2_desc": "Les différentes règles d'arrêt, telles que sur les sons, le Tanwin Fatha, les lettres Mushaddad, etc., sont illustrées par des exemples.",
+    "Lesson number": 7,
+    "Quiz number": 10,
+    "Lessons": [
+        {
+            "id": 0,
+            "name": "Arrêt sur des sons autres que Tanwin Fatha",
+            "pengertian": "Lors de l'arrêt, traitez la dernière lettre comme si elle portait un Sukun (fin silencieuse).",
+            "caraMembaca": "Faites une pause doucement tout en neutralisant le son de la voyelle finale.",
+            "example": "أَكْبَرُ",
+            "gambar": "3.01.jpg",
+            "suara": "3.01.mp3"
+        },
+        {
+            "id": 1,
+            "name": "Arrêt sur le Tanwin Fatha",
+            "pengertian": "Si la dernière lettre porte un Tanwin Fatha ou est suivie d'un Alif-Madd, arrêtez-vous conformément à la règle du Tanwin Fatha.",
+            "caraMembaca": "Omettez le son du Tanwin et arrêtez-vous clairement.",
+            "example": "يُسْرًا",
+            "gambar": "3.02.jpg",
+            "suara": "3.02.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Arrêt sur la lettre ة",
+            "pengertian": "Considérez la lettre ة comme portant un Sukun, comme la lettre ه.",
+            "caraMembaca": "Prononcez doucement sans aucun son de voyelle.",
+            "example": "بَصِيْرَةٌ",
+            "gambar": "3.03.jpg",
+            "suara": "3.03.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Arrêt sur les lettres Mushaddad",
+            "subrules": [
+                {
+                    "title": "Lettres Qalqalah (ق, ط, ب, ج, د)",
+                    "pengertian": "Prononcez la lettre avec un fort effet Qalqalah (effet d'écho) dans sa forme Saakin.",
+                    "example": "وَٱلۡحَجُّ",
+                    "gambar": "3.04.jpg",
+                    "suara": "3.04.mp3"
+                },
+                {
+                    "title": "Autres lettres",
+                    "pengertian": "Traitez la lettre comme si elle portait un Sukun, mais maintenez le son dans le nez pendant 2 battements (Ghunnah).",
+                    "example": "مِنْ",
+                    "gambar": "3.05.jpg",
+                    "suara": "3.05.mp3"
+                },
+                {
+                    "title": "Lettres Mushaddad non Qalqalah",
+                    "pengertian": "Remplacez le Shaddah par un Sukun et faites une légère pause (nabr).",
+                    "example": "فِي شَكٍّ",
+                    "gambar": "3.06.jpg",
+                    "suara": "3.06.mp3"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Arrêt sur des lettres Saakin ou Madd (ء, ى, ا)",
+            "pengertian": "Arrêtez comme écrit, sans effectuer de changements.",
+            "examples": [
+                {
+                    "text": "فَكَبِّرْ",
+                    "gambar": "3.07.jpg",
+                    "suara": "3.07.mp3"
+                },
+                {
+                    "text": "مُوسَى",
+                    "gambar": "3.08.jpg",
+                    "suara": "3.08.mp3"
+                }
+            ],
+            "exceptions": [
+                {
+                    "title": "Arrêt sur des mots terminés par ى ou ء",
+                    "pengertian": "Remplacez ى ou ء par un Sukun.",
+                    "example": "رَسُولَهُ",
+                    "gambar": "3.09.jpg",
+                    "suara": "3.09.mp3"
+                },
+                {
+                    "title": "Arrêt sur une lettre Qalqalah",
+                    "pengertian": "Appliquez une forte Qalqalah.",
+                    "example": "يُولَدُ",
+                    "gambar": "3.10.jpg",
+                    "suara": "3.10.mp3"
+                },
+                {
+                    "title": "Arrêt sur un Madd très long",
+                    "pengertian": "Remplacez par Madd Asli.",
+                    "example": "أَنَا",
+                    "gambar": "3.11.jpg",
+                    "suara": "3.11.mp3"
+                }
+            ]
+        }
+    ],
+    "Quizs": [
+        {
+            "id": 0,
+            "question": "Quelle est la méthode correcte pour s'arrêter sur فِي شَكٍّ?",
+            "answers": [
+                {"answer": "Appliquez le Sukun et faites une légère pause.", "right": 1},
+                {"answer": "Ignorez le Shaddah.", "right": 0},
+                {"answer": "Considérez-le comme ayant un Dammah.", "right": 0},
+                {"answer": "Récitez-le avec un Madd.", "right": 0}
+            ]
+        },
+        {
+            "id": 1,
+            "question": "Quelle est la règle correcte d'arrêt sur قُلِ ٱللَّهُمَّ?",
+            "answers": [
+                {"answer": "Remplacez-le par un Sukun.", "right": 1},
+                {"answer": "Ajoutez un Tanwin au mot.", "right": 0},
+                {"answer": "Ignorez les règles d'arrêt.", "right": 0},
+                {"answer": "Considérez-le comme ayant une Kasrah.", "right": 0}
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Comment traiter la lettre ة dans un mot comme بَصِيْرَةٌ?",
+            "answers": [
+                {"answer": "Prononcez-le comme s'il portait un Sukun, comme la lettre ه.", "right": 1},
+                {"answer": "Récitez-le avec un Tanwin.", "right": 0},
+                {"answer": "Ignorez ة lors de l'arrêt.", "right": 0},
+                {"answer": "Traitez-le comme un Madd.", "right": 0}
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Comment appliquer la Qalqalah sur un mot comme يُولَدُ?",
+            "answers": [
+                {"answer": "Appliquez une forte Qalqalah.", "right": 1},
+                {"answer": "Ajoutez un Sukun.", "right": 0},
+                {"answer": "Ignorez la Qalqalah.", "right": 0},
+                {"answer": "Récitez-le comme un Madd.", "right": 0}
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Quelle est la méthode correcte pour s'arrêter sur أَنَا?",
+            "answers": [
+                {"answer": "Remplacez le Madd long par Madd Asli.", "right": 1},
+                {"answer": "Omettez complètement le Madd.", "right": 0},
+                {"answer": "Prolongez davantage le Madd.", "right": 0},
+                {"answer": "Ajoutez un Tanwin à la fin.", "right": 0}
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Quelle est la règle d'arrêt sur des lettres Saakin comme (ء, ى, ا)?",
+            "answers": [
+                {"answer": "Arrêtez comme écrit, sans changement.", "right": 1},
+                {"answer": "Ajoutez un Sukun à la lettre.", "right": 0},
+                {"answer": "Appliquez un Madd.", "right": 0},
+                {"answer": "Ignorez les règles d'arrêt.", "right": 0}
+            ]
+        }
+    ]
+}

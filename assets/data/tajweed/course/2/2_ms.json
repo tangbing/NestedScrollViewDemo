@@ -1,0 +1,134 @@
+{
+    "id": 1,
+    "title": "Madd Panjang",
+    "desc1_desc": "Madd panjang berlaku apabila huruf mempunyai tanda madd (~) dan diikuti oleh syarat tertentu, yang memerlukan pemanjangan bunyi. Ia mungkin melibatkan pertemuan dengan Hamzah (ء), Sukoon, atau Shaddah, dan bunyi dipanjangkan untuk bilangan denyutan tertentu.",
+    "desc2_title": "Contoh Madd Panjang",
+    "desc2_desc": "Tempoh pemanjangan bergantung kepada jenis Madd yang ditemui. Berikut adalah senario di mana Madd panjang digunakan:",
+    "Lessons": [
+        {
+            "id": 0,
+            "name": "Tanda Panjang Bertemu Hamzah (ء) di Perkataan Seterusnya",
+            "pengertian": "Apabila huruf Madd diikuti oleh Hamzah (ء) di perkataan seterusnya, bunyi mesti dipanjangkan selama 2, 4, atau 5 denyutan.",
+            "caraMembaca": "Pembaca melanjutkan bunyi berdasarkan konteks, memastikan irama yang betul semasa membaca.",
+            "example": "يَا أَيُّهَا",
+            "gambar": "2.01.jpg",
+            "suara": [
+                {"beats": 2, "file": "2.01-1.mp3"},
+                {"beats": 4, "file": "2.01-2.mp3"},
+                {"beats": 5, "file": "2.01-3.mp3"}
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Tanda Panjang Bertemu Hamzah (ء) dalam Perkataan Sama",
+            "pengertian": "Jika huruf Madd diikuti oleh Hamzah (ء) dalam perkataan yang sama, bunyi dipanjangkan selama 4 atau 5 denyutan.",
+            "caraMembaca": "Pembaca memastikan pemanjangan yang jelas sambil menghormati peraturan Tajwid.",
+            "example": "وَٱلسَّمَآءِ",
+            "gambar": "2.04.jpg",
+            "suara": "2.04.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Tanda Panjang Bertemu Sukoon",
+            "pengertian": "Jika huruf Madd bertemu dengan Sukoon, bunyi mesti dipanjangkan selama 6 denyutan.",
+            "caraMembaca": "Pembaca memerhatikan Sukoon dengan teliti untuk memastikan pemanjangan yang tepat.",
+            "example": "ءَالْـَٰٔنَ",
+            "gambar": "2.05.jpg",
+            "suara": "2.05.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Tanda Panjang Bertemu Shaddah",
+            "pengertian": "Apabila huruf Madd bertemu dengan Shaddah, bunyi dipanjangkan selama 6 denyutan.",
+            "caraMembaca": "Pembaca menekankan Shaddah sambil mengekalkan irama yang stabil.",
+            "example": "ٱلۡحَاقَّةُ",
+            "gambar": "2.06.jpg",
+            "suara": "2.06.mp3"
+        }
+    ],
+    "tips": {
+        "title": "Menguasai Madd Panjang",
+        "advice": "Untuk mengelakkan kesilapan atau gangguan semasa pemanjangan, anda boleh mengikuti panduan Nabi (saw) sebagaimana yang diriwayatkan oleh Al Baroo': 'Hiasilah Al-Quran dengan suara anda.'"
+    },
+    "muqattaat": {
+        "title": "Huruf Muqatta'at (مُقَطَّعَات)",
+        "pengertian": "Beberapa bab dalam Al-Quran bermula dengan huruf-huruf yang terputus-putus yang dikenali sebagai Huroof al MuqaTTa'at. Huruf-huruf ini mesti dipanjangkan dengan Madd panjang selama 6 denyutan.",
+        "example": "الٓمٓ",
+        "gambar": "2.07.jpg",
+        "suara": "2.07.mp3"
+    },
+    "Quizs": [
+        {
+            "id": 0,
+            "question": "Yang manakah simbol berikut menunjukkan bahawa huruf mesti dipanjangkan dengan sangat panjang?",
+            "answers": [
+                {"answer": "ا", "right": 0},
+                {"answer": "ي", "right": 0},
+                {"answer": "و", "right": 0},
+                {"answer": "ٓ", "right": 1}
+            ]
+        },
+        {
+            "id": 1,
+            "question": "Ayat manakah yang menunjukkan Madd panjang dengan betul?",
+            "answers": [
+                {"answer": "يَا أَيُّهَا", "right": 1},
+                {"answer": "قَالَ", "right": 0},
+                {"answer": "كَانَ", "right": 0},
+                {"answer": "يَغْشَىٰ", "right": 0}
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Dalam contoh ini, huruf pertama 'ي' boleh dibaca selama denyutan ini, kecuali...",
+            "answers": [
+                {"answer": "4", "right": 0},
+                {"answer": "5", "right": 0},
+                {"answer": "6", "right": 1},
+                {"answer": "2", "right": 0}
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Ayat manakah yang menunjukkan sebutan 'عسق' yang betul?",
+            "answers": [
+                {"answer": "عۡسۡقَ", "right": 0},
+                {"answer": "عَسَقَ", "right": 0},
+                {"answer": "عۡسۡقُ", "right": 1},
+                {"answer": "عُسِقَ", "right": 0}
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Pilih pilihan yang menunjukkan Madd dengan pemanjangan paling panjang.",
+            "answers": [
+                {"answer": "عَسَىٰ", "right": 0},
+                {"answer": "جَآءَ", "right": 1},
+                {"answer": "كَانٌَ", "right": 0},
+                {"answer": "وَٱلنَّهَارِ", "right": 0}
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Pilih semua perkataan yang mengandungi huruf yang mesti dipanjangkan dengan sangat panjang.",
+            "answers": [
+                {"answer": "جَآءَتِ", "right": 1},
+                {"answer": "أَعۡطَىٰ", "right": 0},
+                {"answer": "وَالسَّمَآءِ", "right": 1},
+                {"answer": "صَلَاتُهُمۡ", "right": 0},
+                {"answer": "عِيسَىٰ", "right": 0},
+                {"answer": "ءَآلۡأَٰنَ", "right": 1}
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Berapa lamakah pemanjangan dalam contoh Madd panjang? (dalam denyutan)",
+            "answers": [
+                {"answer": "2", "right": 0},
+                {"answer": "4", "right": 0},
+                {"answer": "6", "right": 1},
+                {"answer": "8", "right": 0}
+            ]
+        }
+    ]
+}

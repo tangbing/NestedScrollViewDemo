@@ -1,0 +1,317 @@
+[
+  {
+    "id": 7,
+    "title": "Mənşəli Mədd",
+    "desc1_desc": "Mədd Far'i, tələffüz zamanı Həmzə (همزة) və ya Sukun (سكون) olduğuna görə uzadılmanı ifadə edir.",
+    "desc2_title": "Mənşəli Məddin Növləri",
+    "desc2_desc": "Mənşəli Mədd, uzadılmanın səbəbinə görə müxtəlif kateqoriyalara bölünür, məsələn, Həmzə və ya Sukun, və tətbiq üçün xüsusi qaydaları əhatə edir.",
+    "Lessons": [
+      {
+        "id": 0,
+        "name": "Həmzə ilə əlaqəli uzadılma",
+        "pengertian": "Həmzə müxtəlif vəziyyətlərdə Mədd hərfləri ilə qarşılıqlı təsir göstərdikdə baş verir. Buna, sözlər arasında və ya daxilində qarşılıqlı təsirə əsaslanan müəyyən növlər daxildir.",
+        "rules": [
+          {
+            "name": "Mədd Bədəl",
+            "description": "Həmzə Mədd hərfindən əvvəl olduqda baş verir. Əvvəlcə, sözdə iki Həmzə var, lakin biri tələffüzü asanlaşdırmaq üçün Məddə çevrilir.",
+            "duration": "2 say",
+            "examples": [
+              {
+                "text": "آمَنَا",
+                "image": "801.jpg",
+                "audio": "801.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Mədd Vacib Muttəsil",
+            "description": "Mədd Asli eyni sözdə Həmzə ilə qarşılaşdıqda, tələffüz uzadılmalıdır.",
+            "duration": "4 və ya 5 say",
+            "examples": [
+              {
+                "text": "جَاءَ",
+                "image": "802.jpg",
+                "audio": "802.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Mədd Cais Münfəsil",
+            "description": "Əgər Mədd Asli bir sözdə olub digər sözdəki Həmzə ilə birləşərsə, uzadılma dəyişə bilər. Sessiya boyunca uzadılmanın müddəti sabit olmalıdır.",
+            "duration": "2, 4 və ya 5 say",
+            "examples": [
+              {
+                "text": "يَا أَيُّهَا",
+                "image": "803.jpg",
+                "audio": "803.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Mədd Silə Tavilə",
+            "description": "Ha Dəmir (ه) digər sözdəki Həmzədən əvvəl olduqda baş verir.",
+            "duration": "4 və ya 5 say",
+            "examples": [
+              {
+                "text": "بِهِۦۤۦ أَمْرُ",
+                "image": "804.jpg",
+                "audio": "804.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Sukun ilə əlaqəli uzadılma",
+        "pengertian": "Mədd Asli Sukun və ya Şəddə ilə qarşılaşdıqda baş verir, daha uzun uzadılma tələb olunur.",
+        "rules": [
+          {
+            "name": "Mədd Lazım Mütəssəqqəl Kəlimi",
+            "description": "Mədd Asli eyni sözdə Şəddə ilə qarşılaşdıqda baş verir.",
+            "duration": "6 say",
+            "examples": [
+              {
+                "text": "الطَّآمَّةُ",
+                "image": "805.jpg",
+                "audio": "805.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Mədd Lazım Muxəffəf Kəlimi",
+            "description": "Mədd Asli bir sözdəki Sukun ilə qarşılaşdıqda baş verir.",
+            "duration": "6 say",
+            "examples": [
+              {
+                "text": "آلآنَ",
+                "image": "806.jpg",
+                "audio": "806.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Mədd Fərqi",
+            "description": "Mədd Bədəl ardınca Şəddəli hərf gəldikdə baş verir.",
+            "duration": "5 və ya 6 say",
+            "examples": [
+              {
+                "text": "أَلَّذِينَ كَفَرُوا",
+                "image": "807.jpg",
+                "audio": "807.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Sukun və Vaqf ilə əlaqəli uzadılma",
+        "pengertian": "Mədd Sukun ilə qarşılıqlı təsir göstərdikdə və dayanma nöqtəsi (Vaqf) tərəfindən təsirləndikdə baş verir.",
+        "rules": [
+          {
+            "name": "Mədd Lin",
+            "description": "Bir sözdə ikinci sonuncu hərf Lin hərfi olduqda (Fat-hahdan sonra و və ya ي), dayanma zamanı baş verir.",
+            "duration": "2, 4, 5 və ya 6 say",
+            "examples": [
+              {
+                "text": "قُرَيْشٍ",
+                "image": "810.jpg",
+                "audio": "810.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Mədd Arız Lis-Sukun",
+            "description": "Mədd dayanma səbəbindən Sukun ilə qarşılaşdıqda baş verir.",
+            "duration": "2, 4 və ya 6 say",
+            "examples": [
+              {
+                "text": "النَّاسِ",
+                "image": "811.jpg",
+                "audio": "811.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Quizs": [
+      {
+        "id": 0,
+        "question": "Söz سَوَآءٌ üçün Mədd Far'i düzgün yazılışı hansıdır?",
+        "answers": [
+          {
+            "answer": "سَوَاءٌ",
+            "right": 0
+          },
+          {
+            "answer": "سَوَآءٌ (Alif Mədd ilə)",
+            "right": 1
+          },
+          {
+            "answer": "سَوَءٌ",
+            "right": 0
+          },
+          {
+            "answer": "سَوَّآءٌ (Şəddə və Alif Mədd ilə)",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 1,
+      "question": "İNNƏ ƏNZƏLNƏHU ifadəsində Mədd Far'i düzgün tətbiqi hansıdır?",
+      "answers": [
+        {
+          "answer": "إِنَّا أَنزَلْنَاحُ",
+          "right": 0
+        },
+        {
+          "answer": "إِنَّا أَنزَلْنَاهُ (düzgün yazılış)",
+          "right": 1
+        },
+        {
+          "answer": "إِنَّ أَنزَلْنَاهُ (Mədd olmadan)",
+          "right": 0
+        },
+        {
+          "answer": "إِنَّا أَنزَلْنَاهَا (yanlış sonluq)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "ƏLM ifadəsində Mədd Far'i düzgün tələffüzü necədir?",
+      "answers": [
+        {
+          "answer": "M hərfini 6 hərəkətə qədər uzatmaq",
+          "right": 1
+        },
+        {
+          "answer": "L hərfindən sonra nəfəs almaq",
+          "right": 0
+        },
+        {
+          "answer": "Hər hərfi tez oxumaq",
+          "right": 0
+        },
+        {
+          "answer": "M hərfini oxumamaq",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "QUL ƏALZƏKRAYN ifadəsində Mədd Far'i düzgün yazılışı hansıdır?",
+      "answers": [
+        {
+          "answer": "قُلۡ ءَآلذَّكَرَيۡنِ (düzgün yazılış)",
+          "right": 1
+        },
+        {
+          "answer": "قُلۡ ءَالذَّكَرَيۡنِ (Mədd olmadan)",
+          "right": 0
+        },
+        {
+          "answer": "قُ ءَآلذَّكَرَيۡنِ (QUL olmadan)",
+          "right": 0
+        },
+        {
+          "answer": "قُلۡ عَآلذَّكَرَيۡنِ (yanlış söz)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "HƏM sözündə Mədd Far'i düzgün yazılışı hansıdır?",
+      "answers": [
+        {
+          "answer": "هم",
+          "right": 0
+        },
+        {
+          "answer": "حم (düzgün yazılış)",
+          "right": 1
+        },
+        {
+          "answer": "حآمآ",
+          "right": 0
+        },
+        {
+          "answer": "حَآمَآ (yanlış hərəkələrlə)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "MƏLİKİN NAS ifadəsində Mədd Far'i düzgün tətbiqi hansıdır?",
+      "answers": [
+        {
+          "answer": "مَلِكِ ٱلنَّاسِ (düzgün yazılış)",
+          "right": 1
+        },
+        {
+          "answer": "مَالِكِ ٱلنَّسِ (yanlış hərəkə)",
+          "right": 0
+        },
+        {
+          "answer": "مَلِكِ ٱلنَّسِي (yanlış sonluq)",
+          "right": 0
+        },
+        {
+          "answer": "مَلِكِ ٱلنَّسِ (Hərəkə olmadan)",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Mədd Vacib Muttəsil üçün nümunə hansıdır?",
+      "answers": [
+        {
+          "answer": "آمَنَا",
+          "right": 0
+        },
+        {
+          "answer": "جَاءَ (düzgün nümunə)",
+          "right": 1
+        },
+        {
+          "answer": "قُرَيْشٍ",
+          "right": 0
+        },
+        {
+          "answer": "يَا أَيُّهَا",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Mədd Lazım Mütəssəqqəl Kəlimi üçün uzadılma müddəti nə qədərdir?",
+      "answers": [
+        {
+          "answer": "2 hərəkət",
+          "right": 0
+        },
+        {
+          "answer": "4 hərəkət",
+          "right": 0
+        },
+        {
+          "answer": "6 hərəkət (düzgün müddət)",
+          "right": 1
+        },
+        {
+          "answer": "Dəyişkən müddət",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

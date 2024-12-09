@@ -1,0 +1,162 @@
+{
+  "id": 3,
+  "title": "Waqf Symbols",
+  "desc1_desc": "This guide explains the different types of Waqf signs in the Quran, highlighting their meanings and usage during recitation.",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Six Types of Waqf Signs",
+      "types": [
+        {
+          "id": 0,
+          "name": "Mandatory Stop",
+          "symbol": ["م"],
+          "rule": "You must stop when you see this sign.",
+          "example": {
+            "text": "إِنَّمَا يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ وَٱلْمَوْتَىٰ يَبْعَثُهُمُ ٱللَّهُ ثُمَّ إِلَيْهِ يُرْجَعُونَ",
+            "gambar": "4.01.png",
+            "suara": "4.01.mp3"
+          }
+        },
+        {
+          "id": 1,
+          "name": "Recommended Stop",
+          "symbol": ["ط", "قلى"],
+          "rule": "It is better to stop at this sign for smoother recitation.",
+          "example": {
+            "text": "وَإِذَا لَقِيتُمُ الَّذِينَ كَفَرُوا فَضَرْبَ الرِّقَابِ حَتَّىٰ إِذَا أَثْخَنتُمُوهُمْ فَشُدُّوا ٱلْوَثَاقَ فَإِمَّا مَنًّا بَعْدُ وَإِمَّا فِدَاءً",
+            "gambar": "4.02.png",
+            "suara": "4.02.mp3"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Optional Stop or Continuation",
+          "symbol": ["ج"],
+          "rule": "You may choose to stop or continue at this sign based on your preference.",
+          "example": {
+            "text": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسۡعَهَا لَهَا مَا كَسَبَتْ وَعَلَيۡهَا مَا ٱكۡتَسَبَتْ",
+            "gambar": "4.03.png",
+            "suara": "4.03.mp3"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Recommended Continuation",
+          "symbol": ["صلى", "ز"],
+          "rule": "It is better to continue without stopping at this sign.",
+          "example": {
+            "text": "وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا بَلْ أَحْيَاءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ",
+            "gambar": "4.04.png",
+            "suara": "4.04.mp3"
+          }
+        },
+        {
+          "id": 4,
+          "name": "Mandatory Continuation",
+          "symbol":[ "لا"],
+          "rule": "Stopping is prohibited at this sign, and you must continue reciting.",
+          "example": {
+            "text": "وَمَا أُهِلَّ بِهِ لِغَيْرِ اللَّهِ",
+            "gambar": "4.05.png",
+            "suara": "4.05.mp3"
+          }
+        },
+        {
+          "id": 5,
+          "name": "Stop at One, Not Both",
+          "symbol": ["Two 'ق' signs"],
+          "rule": "It is preferable to stop at one of these signs but avoid stopping at both.",
+          "example": {
+            "text": "ذَٰلِكَ ٱلْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ",
+            "gambar": "4.06.png",
+            "suara": "4.06.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "title": "The 'ع' Sign",
+      "details": {
+        "meaning": "Found at the end of a verse or on the side of the Quran page, it marks divisions within the Quran known as Ruku' (ركوع).",
+        "purpose": "These sections, around 540 in total, are often used as convenient stopping points during Salah (prayer).",
+        "additional_info": {
+          "count": "Approximately 200 sections across 114 chapters.",
+          "description": "Each Ruku' usually contains 3-10 verses and helps organize the Quran for easier recitation management."
+        }
+      }
+    }
+  ],
+  "summary": {
+    "Mandatory Stop": "Indicated by the 'م' sign.",
+    "Recommended Stop": "Indicated by the 'ط' or 'قلى' sign.",
+    "Optional Stop": "Indicated by the 'ج' sign.",
+    "Recommended Continuation": "Indicated by the 'صلى' or 'ز' sign.",
+    "Mandatory Continuation": "Indicated by the 'لا' sign.",
+    "Stop at One Sign, Not Both": "Indicated by two 'ق' signs.",
+    "Ruku' Sign": "The 'ع' sign shows where to end a recitation session conveniently."
+  },
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "The verse above has a sign that indicates that the reciter...",
+      "answers": [
+        { "answer": "Must continue", "right": 0 },
+        { "answer": "Free to stop or continue", "right": 0 },
+        { "answer": "Better to continue", "right": 0 },
+        { "answer": "Must stop", "right": 1 }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Which signs indicate the reciter should stop at one sign but not both?",
+      "answers": [
+        { "answer": "ۖ", "right": 0 },
+        { "answer": "ۙ", "right": 0 },
+        { "answer": "ۛ", "right": 1 },
+        { "answer": "ۚ", "right": 0 }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Select the sign that indicates the reciter is better to stop.",
+      "answers": [
+        { "answer": "ۖ", "right": 0 },
+        { "answer": "ۗ", "right": 1 },
+        { "answer": "ۙ", "right": 0 },
+        { "answer": "ۚ", "right": 0 }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "How should this type of stop sign be recited?",
+      "answers": [
+        { "answer": "Free to stop or continue", "right": 1 },
+        { "answer": "Better to stop", "right": 0 },
+        { "answer": "Better to continue", "right": 0 },
+        { "answer": "Better to stop in one sign, but not both", "right": 0 }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct example which has the sign indicating the reciter must continue.",
+      "answers": [
+        { "answer": "إِلَّا ٱمۡرَأَتَهُۥ قَدَّرۡنَآ ۙ إِنَّهَا لَمِنَ ٱلۡغَٰبِرِينَ ◯", "right": 1 },
+        { "answer": "وَقَالُواْ كُونُواْ هُودًا أَوۡ نَصَٰرَىٰ تَهۡتَدُوا۟ ۗ قُلۡ بَلۡ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفًا ◯", "right": 0 },
+        { "answer": "وَلَا تَعَاوَنُواْ عَلَى ٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ ۖ وَٱتَّقُواْ ٱللَّهَ ◯", "right": 0 },
+        { "answer": "لَا يُكَلِّفُ ٱللَّهُ نَفۡسًا إِلَّا وُسۡعَهَا ۚ لَهَا مَا كَسَبَتۡ وَعَلَيۡهَا مَا ٱكۡتَسَبَتۡ ◯", "right": 0 }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which of the following examples indicates a better continuation?",
+      "answers": [
+        { "answer": "وَمَا أُهِلَّ بِهِ لِغَيْرِ اللَّهِ ◯", "right": 0 },
+        { "answer": "وَإِذَا قِيلَ لَهُمُ ٱتَّقُواْ ٱللَّهَ ۚ ◯", "right": 0 },
+        { "answer": "وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ ◯", "right": 1 },
+        { "answer": "يَسْتَجِيبُ الَّذِينَ يَسْمَعُونَ ◯", "right": 0 }
+      ]
+    }
+  ]
+}

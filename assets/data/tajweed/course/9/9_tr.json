@@ -1,0 +1,211 @@
+{
+  "id": 8,
+  "title": "Gelişmiş İdğam Teknikleri",
+  "desc1_desc": "İdğam, Kur'an-ı Kerim'in okunmasında iki harf bir araya geldiğinde uygulanır. İlk harf sakin (cezimli), ikinci harf ise harekeli (fetha, kesra veya damme) olur. Bu teknik, okumanın akıcılığını ve doğruluğunu sağlar.",
+  "Lessons": [
+    {
+      "id": 0,
+      "name": "Aynı Harfler (المثلين)",
+      "pengertian": "Bu kural, iki harf tamamen aynı olduğunda uygulanır. İdğam kuralı, bu harfleri tek bir akıcı sesle birleştirir. Harf ن (Nun) veya م (Mim) olduğunda, 2 veya 3 hareke süresince gunnah (genizden ses) eklenir.",
+      "examples": [
+        {
+          "text": "يَدْكُرُونَ",
+          "image": "901.jpg",
+          "audio": "901.mp3"
+        },
+        {
+          "text": "مَن يُنْصَرُ",
+          "image": "901.jpg",
+          "audio": "901.mp3"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Benzer Çıkış Noktalarına Sahip Harfler (المتقاربين)",
+      "pengertian": "Bu kural, iki harf aynı çıkış noktasına (mahreç) sahip olduğunda ancak özelliklerinde farklılık gösterdiğinde uygulanır. Seslerin uyumlu bir şekilde birleşmesini sağlamak için idğam kullanılır.",
+      "examples": [
+        {
+          "text": "قَد تَّبَيَّنَ",
+          "image": "902.jpg",
+          "audio": "902.mp3"
+        },
+        {
+          "text": "أَثْقَلَت دَّعَوَا",
+          "image": "903.jpg",
+          "audio": "903.mp3"
+        },
+        {
+          "text": "إِذْ تَسْتَغْفِرُ",
+          "image": "904.jpg",
+          "audio": "904.mp3"
+        },
+        {
+          "text": "يَذْهَبْ بِهِمْ",
+          "image": "906.jpg",
+          "audio": "906.mp3"
+        },
+        {
+          "text": "يَلْهَثْ تَتْلُوهَا",
+          "image": "907.jpg",
+          "audio": "907.mp3"
+        },
+        {
+          "text": "أَلَمْ نَخْلُقكُّم",
+          "image": "908.jpg",
+          "audio": "908.mp3"
+        },
+        {
+          "text": "بَلْ رَفَعَهُ اللهُ",
+          "image": "909.jpg",
+          "audio": "909.mp3"
+        },
+        {
+          "text": "لَئِن بَسَطْتَ",
+          "image": "910.jpg",
+          "audio": "910.mp3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Yakın Çıkış Noktalarına Sahip Harfler (المتقاربين)",
+      "pengertian": "Bu kural, harflerin çıkış noktaları yakın olduğunda ancak özelliklerinde farklılık gösterdiğinde uygulanır. Genellikle, bu durumda izhar (açık okuma) kuralı uygulanır.",
+      "examples": [
+        {
+          "text": "قُلْ رَبِّ",
+          "image": "911.jpg",
+          "audio": "911.mp3"
+        },
+        {
+          "text": "أَلَمْ نَخْلُقكُّم",
+          "image": "912.jpg",
+          "audio": "912.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Farklı Çıkış Noktalarına Sahip Harfler (المتباعدين)",
+      "pengertian": "Bu kural, harflerin çıkış noktaları ve özellikleri tamamen farklı olduğunda uygulanır. Bu durumda izhar kuralı her zaman uygulanır.",
+      "examples": [
+        {
+          "text": "فَسَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+          "image": "913.jpg",
+          "audio": "913.mp3"
+        }
+      ]
+    }
+  ],
+  "Quizs": [
+    {
+      "id": 0,
+      "question": "وَقَد دَّخَلُوا بِٱلۡكُفۡرِ وَهُمۡ قَدۡ خَرَجُواۡ بِهِ ifadesinde idğam nasıl uygulanır?",
+      "answers": [
+        {
+          "answer": "قَد ve دَّ bir vurguyla tek bir ses halinde birleştirilir",
+          "right": 1
+        },
+        {
+          "answer": "قَد ve دَّ tamamen ayrı okunur",
+          "right": 0
+        },
+        {
+          "answer": "دَّ okunmaz",
+          "right": 0
+        },
+        {
+          "answer": "قَد 6 hareke uzatılır",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "وَلَكُمۡ مَّاكَسَبۡتُمۡ ifadesinde idğam nasıl uygulanır?",
+      "answers": [
+        {
+          "answer": "وَلَكُمۡ ve مَّاكَسَبۡتُمۡ gunnah ile birleştirilir",
+          "right": 1
+        },
+        {
+          "answer": "Her kelime ayrı okunur",
+          "right": 0
+        },
+        {
+          "answer": "مَّاكَسَبۡتُمۡ okunmaz",
+          "right": 0
+        },
+        {
+          "answer": "وَلَكُمۡ 6 hareke uzatılır",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "أَثۡقَلَتۡ دَّعَوَا ifadesinde idğam nasıl uygulanır?",
+      "answers": [
+        {
+          "answer": "أَثۡقَلَتۡ ve دَّعَوَا gunnah ile birleştirilir",
+          "right": 1
+        },
+        {
+          "answer": "أَثۡقَلَتۡ ve دَّعَوَا tamamen ayrı okunur",
+          "right": 0
+        },
+        {
+          "answer": "دَّعَوَا okunmaz",
+          "right": 0
+        },
+        {
+          "answer": "أَثۡقَلَتۡ 6 hareke uzatılır",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Okuma sırasında aynı harfler bir araya geldiğinde idğam nasıl uygulanır?",
+      "answers": [
+        {
+          "answer": "Harfler gerektiğinde gunnah ile birlikte pürüzsüz bir şekilde birleştirilir",
+          "right": 1
+        },
+        {
+          "answer": "Harfler ayrı ve net bir şekilde okunur",
+          "right": 0
+        },
+        {
+          "answer": "İlk harf okunmaz",
+          "right": 0
+        },
+        {
+          "answer": "Okuma 6 harekeye kadar uzatılır",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Aşağıdakilerden hangisi okuma sırasında izharın doğru bir uygulamasıdır?",
+      "answers": [
+        {
+          "answer": "فَسَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+          "right": 1
+        },
+        {
+          "answer": "قَد تَّبَيَّنَ",
+          "right": 0
+        },
+        {
+          "answer": "وَلَكُمۡ مَّاكَسَبۡتُمۡ",
+          "right": 0
+        },
+        {
+          "answer": "أَثۡقَلَتۡ دَّعَوَا",
+          "right": 0
+        }
+      ]
+    }
+  ]

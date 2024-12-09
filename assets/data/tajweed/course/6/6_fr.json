@@ -1,0 +1,119 @@
+{
+  "id": 5,
+  "title": "Règles pour Meem Sakin",
+  "desc1_desc": "Lors de la récitation du Coran, lorsque Meem Sakin (م) apparaît, l'une des trois règles suivantes doit être appliquée, en fonction de la lettre qui suit :",
+  "sections": [
+    {
+      "id": 0,
+      "title": "Idgham Shafawi",
+      "definition": "Cette règle s'applique lorsque Meem Sakin est suivi par un autre Meem avec une voyelle. Généralement, le second Meem porte un Shaddah (ّ).",
+      "how_to_pronounce": "Fusionnez les deux Meem en douceur, en utilisant un son nasal (Ghunnah) pendant 2 à 3 temps.",
+      "example": {
+        "text": "لَهُم مَا",
+        "gambar": "/quran/tajweed/pictures/601.jpg",
+        "suara": "/quran/tajweed/audio/601.mp3"
+      }
+    },
+    {
+      "id": 1,
+      "title": "Ikhfa Shafawi",
+      "definition": "Cette règle s'applique lorsque Meem Sakin est suivi de la lettre Ba (ب) avec une voyelle.",
+      "how_to_pronounce": "Cachez partiellement le son du Meem et prononcez-le avec un son nasal (Ghunnah) pendant 2 à 3 temps.",
+      "example": {
+        "text": "رَبَّهُم بِهِم",
+        "gambar": "/quran/tajweed/pictures/602.jpg",
+        "suara": "/quran/tajweed/audio/602.mp3"
+      },
+      "note": "Cette règle est souvent négligée, il est donc important d'y prêter une attention particulière pour une application correcte."
+    },
+    {
+      "id": 2,
+      "title": "Izhar Shafawi",
+      "definition": "Izhar Shafawi se produit lorsque Meem Sakin est suivi d'une lettre autre que Meem ou Ba.",
+      "how_to_pronounce": "Prononcez le Meem clairement sans aucun son nasal (Ghunnah).",
+      "example": {
+        "text": "أَلَم تَرَ",
+        "gambar": "/quran/tajweed/pictures/603.jpg",
+        "suara": "/quran/tajweed/audio/603.mp3"
+      }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 0,
+      "question": "Quelle est la règle correcte appliquée pour Meem Sakin dans la phrase تَرۡمِيۡهِم بِحِجَارَةٍ ?",
+      "answers": [
+        {
+          "answer": "Ikhfa Shafawi : Le Meem Sakin est suivi d'un Ba et est récité avec un son nasal.",
+          "right": 1
+        },
+        {
+          "answer": "Idgham Shafawi : Le Meem Sakin fusionne avec le Meem suivant.",
+          "right": 0
+        },
+        {
+          "answer": "Izhar Shafawi : Le Meem Sakin est prononcé clairement sans fusion.",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Quelle est la règle correcte appliquée pour Meem Sakin dans la phrase كُنتُم مُّؤۡمِنِينَ ?",
+      "answers": [
+        {
+          "answer": "Ikhfa Shafawi : Le Meem Sakin est suivi d'un Ba et est récité avec un son nasal.",
+          "right": 0
+        },
+        {
+          "answer": "Idgham Shafawi : Le Meem Sakin fusionne avec le Meem suivant.",
+          "right": 1
+        },
+        {
+          "answer": "Izhar Shafawi : Le Meem Sakin est prononcé clairement sans fusion.",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quelle est la règle correcte appliquée pour Meem Sakin dans la phrase وَهُمۡ سَـالِمُونَ ?",
+      "answers": [
+        {
+          "answer": "Ikhfa Shafawi : Le Meem Sakin est suivi d'un Ba et est récité avec un son nasal.",
+          "right": 0
+        },
+        {
+          "answer": "Idgham Shafawi : Le Meem Sakin fusionne avec le Meem suivant.",
+          "right": 0
+        },
+        {
+          "answer": "Izhar Shafawi : Le Meem Sakin est prononcé clairement sans fusion.",
+          "right": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Quelle option ne contient pas de son nasal (Ghunnah) ?",
+      "answers": [
+        {
+          "answer": "لَهُمۡ مَّا",
+          "right": 0
+        },
+        {
+          "answer": "رَبَّهُم بِهِم",
+          "right": 0
+        },
+        {
+          "answer": "أَلَمۡ تَرَ",
+          "right": 1
+        },
+        {
+          "answer": "وَ أَنِ احۡكُم بَيۡنَهُم",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}

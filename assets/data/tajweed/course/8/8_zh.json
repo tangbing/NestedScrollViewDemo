@@ -1,0 +1,317 @@
+[
+  {
+    "id": 7,
+    "title": "延長誦讀的規則（Madd Far'i）",
+    "desc1_desc": "Madd Far'i 是指由於存在 Hamzah（همزة）或 Sukun（سكون）而導致誦讀時需要延長的情況。",
+    "desc2_title": "延長誦讀的類型",
+    "desc2_desc": "根據延長的原因，如 Hamzah 或 Sukun，Madd Far'i 被分為多種類型，並包含適用的具體規則。",
+    "Lessons": [
+      {
+        "id": 0,
+        "name": "因 Hamzah 延長",
+        "pengertian": "當 Hamzah 與延音字母（Madd Letters）以不同方式互動時出現。根據其在單詞內或單詞之間的相互作用分為具體類型。",
+        "rules": [
+          {
+            "name": "Madd Badal",
+            "description": "當 Hamzah 出現在延音字母之前時出現。最初該單詞包含兩個 Hamzah，但其中一個被轉化為 Madd 以便於發音。",
+            "duration": "延長 2 拍",
+            "examples": [
+              {
+                "text": "آمَنَا",
+                "image": "801.jpg",
+                "audio": "801.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Wajib Muttasil",
+            "description": "當延音字母在同一單詞中與 Hamzah 相遇時，必須延長誦讀。",
+            "duration": "延長 4 或 5 拍",
+            "examples": [
+              {
+                "text": "جَاءَ",
+                "image": "802.jpg",
+                "audio": "802.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Jaiz Munfasil",
+            "description": "當延音字母出現在一個單詞中，而 Hamzah 出現在下一個單詞中時，延長時間可以有所不同。整個誦讀過程中應保持一致性。",
+            "duration": "延長 2、4 或 5 拍",
+            "examples": [
+              {
+                "text": "يَا أَيُّهَا",
+                "image": "803.jpg",
+                "audio": "803.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Silah Thawilah",
+            "description": "當 Ha' Dhamir（ه）後接另一單詞中的 Hamzah 時發生。",
+            "duration": "延長 4 或 5 拍",
+            "examples": [
+              {
+                "text": "بِهِۦۤۦ أَمْرُ",
+                "image": "804.jpg",
+                "audio": "804.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "因 Sukun 延長",
+        "pengertian": "當延音字母後接 Sukun 或 Shaddah 時，需要更長的延長。",
+        "rules": [
+          {
+            "name": "Madd Lazim Mutsaqqal Kalimi",
+            "description": "當延音字母出現在同一單詞中，並在 Shaddah 後時出現。",
+            "duration": "延長 6 拍",
+            "examples": [
+              {
+                "text": "الطَّآمَّةُ",
+                "image": "805.jpg",
+                "audio": "805.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Lazim Mukhaffaf Kalimi",
+            "description": "當延音字母在單詞內與 Sukun 相遇時出現。",
+            "duration": "延長 6 拍",
+            "examples": [
+              {
+                "text": "آلآنَ",
+                "image": "806.jpg",
+                "audio": "806.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Farqi",
+            "description": "當 Madd Badal 後接帶有 Shaddah 的字母時出現。",
+            "duration": "延長 5 或 6 拍",
+            "examples": [
+              {
+                "text": "أَلَّذِينَ كَفَرُوا",
+                "image": "807.jpg",
+                "audio": "807.mp3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "因 Sukun 和停頓延長",
+        "pengertian": "當延音字母與 Sukun 互動，並受停頓（Waqf）影響時出現。",
+        "rules": [
+          {
+            "name": "Madd Leen",
+            "description": "當單詞的倒數第二個字母為軟音字母（و 或 ي）並在 Fathah 後時出現。",
+            "duration": "延長 2、4、5 或 6 拍",
+            "examples": [
+              {
+                "text": "قُرَيْشٍ",
+                "image": "810.jpg",
+                "audio": "810.mp3"
+              }
+            ]
+          },
+          {
+            "name": "Madd Aridh Lis-Sukoon",
+            "description": "當延音字母因停頓後接 Sukun 而延長時出現。",
+            "duration": "延長 2、4 或 6 拍",
+            "examples": [
+              {
+                "text": "النَّاسِ",
+                "image": "811.jpg",
+                "audio": "811.mp3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Quizs": [
+      {
+        "id": 0,
+        "question": "以下哪種書寫正確代表了單詞 سَوَآءٌ 中的延音規則？",
+        "answers": [
+          {
+            "answer": "سَوَاءٌ",
+            "right": 0
+          },
+          {
+            "answer": "سَوَآءٌ（帶有 Alif Madd）",
+            "right": 1
+          },
+          {
+            "answer": "سَوَءٌ",
+            "right": 0
+          },
+          {
+            "answer": "سَوَّآءٌ（帶有 Shaddah 和 Alif Madd）",
+            "right": 0
+          }
+        ]
+      },
+      {
+        "id": 1,
+      "question": "以下哪種書寫正確應用了 إِنَّا أَنزَلْنَاهُ 中的延音規則？",
+      "answers": [
+        {
+          "answer": "إِنَّا أَنزَلْنَاحُ",
+          "right": 0
+        },
+        {
+          "answer": "إِنَّا أَنزَلْنَاهُ（正確書寫）",
+          "right": 1
+        },
+        {
+          "answer": "إِنَّ أَنزَلْنَاهُ（沒有延音）",
+          "right": 0
+        },
+        {
+          "answer": "إِنَّا أَنزَلْنَاهَا（錯誤結尾）",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "應如何正確誦讀 الم 中的延音規則？",
+      "answers": [
+        {
+          "answer": "將 م 的誦讀延長至 6 拍",
+          "right": 1
+        },
+        {
+          "answer": "在 ل 後暫停",
+          "right": 0
+        },
+        {
+          "answer": "快速誦讀每個字母",
+          "right": 0
+        },
+        {
+          "answer": "跳過 م 的誦讀",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "以下哪種書寫正確應用了 قُلۡ ءَآلذَّكَرَيۡنِ 中的延音規則？",
+      "answers": [
+        {
+          "answer": "قُلۡ ءَآلذَّكَرَيۡنِ（正確書寫）",
+          "right": 1
+        },
+        {
+          "answer": "قُلۡ ءَالذَّكَرَيۡنِ（沒有延音）",
+          "right": 0
+        },
+        {
+          "answer": "قُ ءَآلذَّكَرَيۡنِ（缺少 قُل）",
+          "right": 0
+        },
+        {
+          "answer": "قُلۡ عَآلذَّكَرَيۡنِ（錯誤的單詞）",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "以下哪種書寫正確代表了 حم 中的延音規則？",
+      "answers": [
+        {
+          "answer": "هم",
+          "right": 0
+        },
+        {
+          "answer": "حم（正確書寫）",
+          "right": 1
+        },
+        {
+          "answer": "حآمآ",
+          "right": 0
+        },
+        {
+          "answer": "حَآمَآ（帶有錯誤的符號）",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "以下哪種書寫正確應用了 مَلِكِ ٱلنَّاسِ 中的延音規則？",
+      "answers": [
+        {
+          "answer": "مَلِكِ ٱلنَّاسِ（正確書寫）",
+          "right": 1
+        },
+        {
+          "answer": "مَالِكِ ٱلنَّسِ（錯誤的符號）",
+          "right": 0
+        },
+        {
+          "answer": "مَلِكِ ٱلنَّسِي（錯誤結尾）",
+          "right": 0
+        },
+        {
+          "answer": "مَلِكِ ٱلنَّسِ（缺少符號）",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "以下哪一個是 Madd Wajib Muttasil 的例子？",
+      "answers": [
+        {
+          "answer": "آمَنَا",
+          "right": 0
+        },
+        {
+          "answer": "جَاءَ（正確例子）",
+          "right": 1
+        },
+        {
+          "answer": "قُرَيْشٍ",
+          "right": 0
+        },
+        {
+          "answer": "يَا أَيُّهَا",
+          "right": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Madd Lazim Mutsaqqal Kalimi 的延長時間是多久？",
+      "answers": [
+        {
+          "answer": "2 拍",
+          "right": 0
+        },
+        {
+          "answer": "4 拍",
+          "right": 0
+        },
+        {
+          "answer": "6 拍（正確延長時間）",
+          "right": 1
+        },
+        {
+          "answer": "可變延長時間",
+          "right": 0
+        }
+      ]
+    }
+  ]
+}
