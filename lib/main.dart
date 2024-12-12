@@ -1,9 +1,12 @@
 
 import 'package:first_project/profile_main_page.dart';
+import 'package:first_project/tasbin_page.dart';
 import 'package:flutter/material.dart';
 import 'dart:math';
 
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+
+import 'keyDemoWidget.dart';
 
 class NativeMethodChannel {
   static final NativeMethodChannel _instance = NativeMethodChannel._internal();
@@ -34,8 +37,15 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
+  
+  // @override
+  // Widget build(BuildContext context) {
+  //  return MaterialApp(
+  //    home:  TasbinPage(),
+  //  );
+  // }
 
-  // This widget is the root of your application.
+ // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return ScreenUtilInit(
@@ -63,11 +73,37 @@ class MyApp extends StatelessWidget {
           //colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: ProfileMainPage(),
+        home: TasbinPage(),
       ),
     );
   }
 }
+
+class FirstPage extends StatelessWidget {
+  const FirstPage({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: Center(
+        child: ElevatedButton(onPressed: () {
+          Navigator.of(context).push(MaterialPageRoute(builder: (context) => SecondPage()));
+        }, child: Text('跳转')),
+      ),
+    );
+  }
+}
+
+
+class SecondPage extends StatelessWidget {
+  const SecondPage({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return const Placeholder();
+  }
+}
+
 
 class OpenCircleWithDot extends StatefulWidget {
   const OpenCircleWithDot({super.key, required this.progress});

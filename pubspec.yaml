@@ -42,6 +42,9 @@ dependencies:
   cached_network_image: any
   extended_nested_scroll_view: ^6.2.1
   loading_more_list: any
+  audioplayers: ^6.0.0
+  geolocator: ^13.0.1
+  vibration: ^2.0.0
 
 
 dev_dependencies:
