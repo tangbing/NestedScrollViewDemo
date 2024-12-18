@@ -1,11 +1,15 @@
 
+import 'package:first_project/didChangeDependenciesWidget.dart';
 import 'package:first_project/profile_main_page.dart';
 import 'package:first_project/tasbin_page.dart';
+import 'package:first_project/updateWidget.dart';
 import 'package:flutter/material.dart';
 import 'dart:math';
 
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
+import 'AnimationValueDemo.dart';
+import 'HeroDemo.dart';
 import 'keyDemoWidget.dart';
 
 class NativeMethodChannel {
@@ -73,7 +77,7 @@ class MyApp extends StatelessWidget {
           //colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: TasbinPage(),
+        home: HeroAnimationWidget(),
       ),
     );
   }
