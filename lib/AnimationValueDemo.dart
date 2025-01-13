@@ -1,6 +1,7 @@
 
 
 
+import 'package:first_project/PopUtilWidget.dart';
 import 'package:flutter/material.dart';
 
 class AnimationDemo extends StatefulWidget {
@@ -39,11 +40,17 @@ class _AnimationDemoState extends State<AnimationDemo> with SingleTickerProvider
   }
 
 
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: Text('Animation 动画Demo'),
+        actions: [
+          TextButton(onPressed: () {
+               PopUtils.popLoginPage(context);
+          }, child: Text('pop second page'))
+        ],
       ),
       body: Center(
         child: Container(

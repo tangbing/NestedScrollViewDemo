@@ -10,6 +10,9 @@ import 'dart:math';
 
 import 'package:vibration/vibration.dart';
 
+import 'AnimationValueDemo.dart';
+import 'PopUtilWidget.dart';
+
 class TasbinPage extends StatefulWidget {
   const TasbinPage({super.key});
 
@@ -255,7 +258,18 @@ class _TasbinPageState extends State<TasbinPage>
     return Scaffold(
       backgroundColor: Color(0xff121212),
       appBar: AppBar(
-          title: Text('Tasbin')),
+          title: Text('Tasbin'),
+        actions: [
+          TextButton(onPressed: () {
+            Navigator.of(context).push(
+                MaterialPageRoute(builder: (context) {
+                  return AnimationDemo();
+            },
+                  settings: RouteSettings(name: AppRouter.animation)
+                ));
+          }, child: Text('go next page'))
+        ],
+      ),
       body: _isResourcesLoaded
           ? Stack(
               children: [
