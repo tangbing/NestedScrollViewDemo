@@ -45,6 +45,8 @@ dependencies:
   audioplayers: ^6.0.0
   geolocator: ^13.0.1
   vibration: ^2.0.0
+  http:
+
 
 
 dev_dependencies:

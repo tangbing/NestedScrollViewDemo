@@ -14,23 +14,58 @@ class _KeydemowidgetState extends State<Keydemowidget> {
     StatelessContainer(color: Colors.red),
     StatelessContainer(color: Colors.yellow)
   ];
-  @override
+
+  // @override
+  // Widget build(BuildContext context) {
+  //   return Scaffold(
+  //     body: Center(
+  //       child: Row(
+  //         mainAxisAlignment: MainAxisAlignment.center,
+  //         children: widgets,
+  //       ),
+  //     ),
+  //     floatingActionButton: FloatingActionButton(
+  //       child: Icon(Icons.undo),
+  //         onPressed: () {
+  //       widgets.insert(0, widgets.removeAt(1));
+  //       setState(() {});
+  //     }),
+  //   );
+  // }
+
+  final key1 = UniqueKey();
+  final key2 = UniqueKey();
+
+   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: Center(
-        child: Row(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: widgets,
+      return Scaffold(
+        body: Column(
+          children: [
+            Text('name'),
+            TextField(key: UniqueKey()),
+
+            Text('adress'),
+            TextField(key: UniqueKey()),
+
+            AnimatedSwitcher(
+                duration: Duration(seconds: 1),
+              child: Container(
+                color: Colors.red,
+                child: Text("HI", key: UniqueKey()),
+              ),
+            ),
+
+
+
+
+
+
+          ],
         ),
-      ),
-      floatingActionButton: FloatingActionButton(
-        child: Icon(Icons.undo),
-          onPressed: () {
-        widgets.insert(0, widgets.removeAt(1));
-        setState(() {});
-      }),
-    );
+      );
   }
+
+
 }
 
 class StatelessContainer extends StatefulWidget {

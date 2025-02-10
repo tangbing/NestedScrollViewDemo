@@ -2,22 +2,22 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-class CounterProvider extends InheritedWidget {
+class TBCounterProvider extends InheritedWidget {
   final int counter;
 
-  const CounterProvider({
+  const TBCounterProvider({
     Key? key,
     required this.counter,
     required Widget child}) : super(key: key, child: child);
 
   @override
-  bool updateShouldNotify(covariant CounterProvider oldWidget) {
+  bool updateShouldNotify(covariant TBCounterProvider oldWidget) {
     // 当counter 值发生变化时通知依赖组件
     return oldWidget.counter != counter;
   }
 
-  static CounterProvider? of(BuildContext context) {
-    return context.dependOnInheritedWidgetOfExactType<CounterProvider>();
+  static TBCounterProvider? of(BuildContext context) {
+    return context.dependOnInheritedWidgetOfExactType<TBCounterProvider>();
   }
 }
 
@@ -36,7 +36,7 @@ class _CounterConsumerState extends State<CounterConsumer> {
   void didChangeDependencies() {
     super.didChangeDependencies();
 
-    final provider = CounterProvider.of(context);
+    final provider = TBCounterProvider.of(context);
     setState(() {
       _counter = provider?.counter;
     });
@@ -66,7 +66,7 @@ class _MyMainPageState extends State<MyMainPage> {
   
   @override
   Widget build(BuildContext context) {
-    return CounterProvider(
+    return TBCounterProvider(
         counter: _counter,
         child: Scaffold(
           appBar: AppBar(
