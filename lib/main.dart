@@ -21,6 +21,7 @@ import 'package:provider/provider.dart';
 
 import 'AnimationValueDemo.dart';
 import 'HeroDemo.dart';
+import 'MapWithMenuScreen/map_with_menu_screen.dart';
 import 'ParallaxRecipe.dart';
 import 'PopUtilWidget.dart';
 import 'customPaint/CustomCheckboxTest.dart';
@@ -88,7 +89,7 @@ class MyApp extends StatelessWidget {
           ChangeNotifierProvider(create: (_) => PostViewModel()),
           ChangeNotifierProvider(create: (_) => AuthenticationViewModel())
         ],
-        child: AuthenticationView(),
+        child: MapWithMenuScreen(),
       ),
     );
   }
