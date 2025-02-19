@@ -2,6 +2,7 @@
 import 'package:first_project/didChangeDependenciesWidget.dart';
 import 'package:first_project/key/keyExapmpleWidget.dart';
 import 'package:first_project/layout_example/layoutRenderObject.dart';
+import 'package:first_project/methodChannel/SdCard_demo.dart';
 import 'package:first_project/mvvm_architecture/viewModels/authenticcation_view_model.dart';
 import 'package:first_project/mvvm_architecture/viewModels/counter_view_model.dart';
 import 'package:first_project/mvvm_architecture/viewModels/post_view_model.dart';
@@ -89,7 +90,7 @@ class MyApp extends StatelessWidget {
           ChangeNotifierProvider(create: (_) => PostViewModel()),
           ChangeNotifierProvider(create: (_) => AuthenticationViewModel())
         ],
-        child: MapWithMenuScreen(),
+        child: SdcardDemo(),
       ),
     );
   }
