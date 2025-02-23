@@ -1,4 +1,6 @@
 
+import 'package:first_project/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F/proxy_page.dart';
+import 'package:first_project/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/payment_page.dart';
 import 'package:first_project/didChangeDependenciesWidget.dart';
 import 'package:first_project/key/keyExapmpleWidget.dart';
 import 'package:first_project/layout_example/layoutRenderObject.dart';
@@ -90,7 +92,7 @@ class MyApp extends StatelessWidget {
           ChangeNotifierProvider(create: (_) => PostViewModel()),
           ChangeNotifierProvider(create: (_) => AuthenticationViewModel())
         ],
-        child: SdcardDemo(),
+        child: ProxyPage(),
       ),
     );
   }
