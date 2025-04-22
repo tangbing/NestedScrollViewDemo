@@ -1,6 +1,10 @@
 
+import 'dart:io';
+import 'dart:typed_data';
+
 import 'package:first_project/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F/proxy_page.dart';
 import 'package:first_project/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/payment_page.dart';
+import 'package:first_project/bloc/counter/CounterBloc.dart';
 import 'package:first_project/didChangeDependenciesWidget.dart';
 import 'package:first_project/key/keyExapmpleWidget.dart';
 import 'package:first_project/layout_example/layoutRenderObject.dart';
@@ -17,6 +21,7 @@ import 'package:first_project/updateWidget.dart';
 import 'package:first_project/withMixWidget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'dart:math';
 
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -27,6 +32,8 @@ import 'HeroDemo.dart';
 import 'MapWithMenuScreen/map_with_menu_screen.dart';
 import 'ParallaxRecipe.dart';
 import 'PopUtilWidget.dart';
+import 'bloc/GitHub/GithubEventPage.dart';
+import 'bloc/counter/counter_screen.dart';
 import 'customPaint/CustomCheckboxTest.dart';
 import 'custom_scrollview_demo.dart';
 import 'keyDemoWidget.dart';
@@ -49,8 +56,174 @@ class NativeMethodChannel {
 
 const Color darkBlue = Color.fromARGB(255, 18, 32, 47);
 
-void main() {
- runApp(const MyApp());
+
+class CounterCubit extends Cubit<int> {
+  CounterCubit() : super(0);
+
+  void increment() => emit(state + 1);
+}
+
+sealed class CounterEvent {}
+
+final class CounterIncrementPressed extends CounterEvent {}
+
+class CounterBloc extends Bloc<CounterEvent, int> {
+  CounterBloc() : super(0);
+
+}
+
+
+class SimpleBlocObserver extends BlocObserver{
+  @override
+  void onChange(BlocBase bloc, Change change) {
+    // TODO: implement onChange
+    super.onChange(bloc, change);
+    print('${bloc.runtimeType}$change');
+  }
+
+  @override
+  void onTransition(Bloc bloc, Transition transition) {
+    // TODO: implement onTransition
+    super.onTransition(bloc, transition);
+    print('${bloc.runtimeType}$transition');
+  }
+
+  @override
+  void onError(BlocBase bloc, Object error, StackTrace stackTrace) {
+    // TODO: implement onError
+    super.onError(bloc, error, stackTrace);
+    print('${bloc.runtimeType}$error$stackTrace');
+
+  }
+}
+
+
+Future<int> sumStream(Stream<int> stream) async {
+  int sum = 0;
+  await for (int value in stream) {
+    sum += value;
+  }
+  return sum;
+}
+
+Stream<int> countStream(int max) async* {
+  for (int i =0; i < max; i++) {
+    yield i;
+  }
+}
+
+class CounterCubit1 extends Cubit<int> {
+  CounterCubit1() : super(0);
+
+  void increment() => emit(state + 1);
+
+  @override
+  void onChange(Change<int> change) {
+    // TODO: implement onChange
+    super.onChange(change);
+    print(change);
+
+  }
+}
+
+sealed class CounterEvent1 {}
+
+final class CounterIncrementPressed1 extends CounterEvent1 {}
+
+class CounterBloc1 extends Bloc<CounterEvent1, int> {
+  CounterBloc1() : super(0) {
+    on<CounterIncrementPressed1>((event, emit) {
+      print('state: $state');
+      emit(state + 1);
+    });
+  }
+}
+
+
+Future<void> main() async {
+
+
+  Uint8List list = Uint8List.fromList([0x78, 0x56,0x34, 0x12]);
+
+  // BytesBuilder builder = BytesBuilder();
+  // builder.add([0x01, 0x02,0x03, 0x04,0x05, 0x06]);
+
+
+
+  var listtle = list.buffer.asByteData().getUint32(0, Endian.little);
+  debugPrint('little: ${listtle}');
+
+  final value = listtle.toRadixString(16);
+  debugPrint('value: ${value}');
+
+
+  Stream<int> stream = countStream(10);
+  int sum = await sumStream(stream);
+  print(sum);
+
+  final bloc = CounterBloc1();
+  final subscription = bloc.stream.listen(print);
+  bloc.add(CounterIncrementPressed1());
+
+  await Future.delayed(Duration.zero);
+
+  await Future.delayed(const Duration(seconds: 1));
+  bloc.add(CounterIncrementPressed1());
+
+  await Future.delayed(const Duration(seconds: 3));
+  bloc.add(CounterIncrementPressed1());
+  await Future.delayed(Duration.zero);
+
+  await subscription.cancel();
+  await bloc.close();
+
+  // print(bloc.state);
+  // bloc.add(CounterIncrementPressed1());
+  // await Future.delayed(Duration.zero);
+  // print(bloc.state);
+  // await bloc.close();
+
+
+
+
+  // final cubit = CounterCubit1();
+  // final subscription = cubit.stream.listen(print);
+  // cubit.increment();
+  // await Future.delayed(const Duration(seconds: 1));
+  // cubit.increment();
+  //
+  // await Future.delayed(const Duration(seconds: 3));
+  // cubit.increment();
+  // await Future.delayed(const Duration(seconds: 0));
+  //
+  // await subscription.cancel();
+  // await cubit.close();
+
+
+  CounterCubit1()
+  ..increment()
+  ..close();
+
+
+
+  // final cubit = CounterCubit();
+  // print(cubit.state);
+  // cubit.increment();
+  // print(cubit.state);
+  // cubit.close();
+
+  // final bloc = CounterBloc();
+  // print(bloc.state);
+  // bloc.add(CounterIncrementPressed());
+  // await Future.delayed(Duration.zero);
+  // print(bloc.state);
+  // await bloc.close();
+
+
+  // Bloc.observer = SimpleBlocObserver();
+  // CounterBloc()..add(CounterIncrementPressed())..close();
+
+  runApp(const MyApp());
  //  runApp(
  //    Container(
  //      width: 0.04,
@@ -86,17 +259,56 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blueAccent),
         useMaterial3: true,
       ),
-      home: MultiProvider(
-        providers: [
-          ChangeNotifierProvider(create: (_) => CounterViewModel()),
-          ChangeNotifierProvider(create: (_) => PostViewModel()),
-          ChangeNotifierProvider(create: (_) => AuthenticationViewModel())
-        ],
-        child: ProxyPage(),
-      ),
+      home: const GithubEventPage(),
     );
   }
 }
+
+
+
+class BlockMyApp extends StatelessWidget {
+  const BlockMyApp({super.key});
+
+  // This widget is the root of your application.
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Flutter Demo',
+      theme: ThemeData(
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blueAccent),
+        useMaterial3: true,
+      ),
+      home: BlocProvider(create: (context) => CounterBloc(),
+        child: const CounterScreen(),
+      ),
+
+    );
+  }
+}
+
+// class MyApp extends StatelessWidget {
+//   const MyApp({super.key});
+//
+//   // This widget is the root of your application.
+//   @override
+//   Widget build(BuildContext context) {
+//     return MaterialApp(
+//       title: 'Flutter Demo',
+//       theme: ThemeData(
+//         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blueAccent),
+//         useMaterial3: true,
+//       ),
+//       home: MultiProvider(
+//         providers: [
+//           ChangeNotifierProvider(create: (_) => CounterViewModel()),
+//           ChangeNotifierProvider(create: (_) => PostViewModel()),
+//           ChangeNotifierProvider(create: (_) => AuthenticationViewModel())
+//         ],
+//         child: ProxyPage(),
+//       ),
+//     );
+//   }
+// }
 
 
 // class MyApp extends StatelessWidget {

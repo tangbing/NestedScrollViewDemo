@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/tb/3.29.2/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/tb/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/tb/Documents/flutttercode/NestedScrollViewDemo/android/app/.cxx/Debug/473x1q27/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/tb/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/tb/Documents/flutttercode/NestedScrollViewDemo/android/app/.cxx/Debug/473x1q27/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

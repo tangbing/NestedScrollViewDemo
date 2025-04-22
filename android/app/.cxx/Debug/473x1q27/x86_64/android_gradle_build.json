@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/Users/tb/3.29.2/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/tb/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/tb/Documents/flutttercode/NestedScrollViewDemo/android/app/.cxx/Debug/473x1q27/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/tb/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/tb/Documents/flutttercode/NestedScrollViewDemo/android/app/.cxx/Debug/473x1q27/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {},
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/tb/Library/Android/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/tb/Library/Android/sdk/ndk/26.3.11579264/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

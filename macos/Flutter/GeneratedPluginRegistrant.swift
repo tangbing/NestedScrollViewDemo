@@ -9,7 +9,7 @@ import audioplayers_darwin
 import device_info_plus
 import geolocator_apple
 import path_provider_foundation
-import sqflite_darwin
+import sqflite
 
 func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
   AudioplayersDarwinPlugin.register(with: registry.registrar(forPlugin: "AudioplayersDarwinPlugin"))
