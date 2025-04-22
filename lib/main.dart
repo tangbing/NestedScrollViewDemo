@@ -34,6 +34,7 @@ import 'ParallaxRecipe.dart';
 import 'PopUtilWidget.dart';
 import 'bloc/GitHub/GithubEventPage.dart';
 import 'bloc/counter/counter_screen.dart';
+import 'bloc/timer/view/timer_page.dart';
 import 'customPaint/CustomCheckboxTest.dart';
 import 'custom_scrollview_demo.dart';
 import 'keyDemoWidget.dart';
@@ -223,7 +224,7 @@ Future<void> main() async {
   // Bloc.observer = SimpleBlocObserver();
   // CounterBloc()..add(CounterIncrementPressed())..close();
 
-  runApp(const MyApp());
+  runApp(const TimerApp());
  //  runApp(
  //    Container(
  //      width: 0.04,
@@ -245,6 +246,24 @@ Future<void> main() async {
  //    )
   //);
 
+}
+
+
+class TimerApp extends StatelessWidget {
+  const TimerApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Flutter Timer',
+      theme: ThemeData(
+        colorScheme: const ColorScheme.light(
+          primary: Color.fromRGBO(72, 74, 126, 1),
+        ),
+      ),
+      home: const TimerPage(),
+    );
+  }
 }
 
 class MyApp extends StatelessWidget {
