@@ -5,9 +5,9 @@ import 'package:flutter/widgets.dart';
 import 'package:http/http.dart' as http;
 
 class PostViewModel with ChangeNotifier {
-  List<Post> _postList = [];
+  List<PostModel> _postList = [];
 
-  List<Post> get postList => _postList;
+  List<PostModel> get postList => _postList;
 
   bool _isRefresh = false;
 
@@ -23,7 +23,7 @@ class PostViewModel with ChangeNotifier {
 
       if (response.statusCode == 200) {
         List<dynamic> jsonData = jsonDecode(response.body);
-        _postList = jsonData.map((json) => Post.fromJson(json)).toList();
+        _postList = jsonData.map((json) => PostModel.fromJson(json)).toList();
         notifyListeners();
       }
     } catch (e) {

@@ -80,7 +80,7 @@ class _HomPageState extends State<HomPage> {
         controller: pageController,
           physics: const NeverScrollableScrollPhysics(),
           children: [
-            TasbinPage(),
+            // TasbinPage(),
             ProfileMainPage(),
           ],
       ),

@@ -2,15 +2,15 @@ import 'package:http/http.dart' as http;
 
 
 
-class Post {
+class PostModel {
   final int id;
   final String title;
   final String body;
 
-  Post({required this.id, required this.title, required this.body});
+  PostModel({required this.id, required this.title, required this.body});
 
-  factory Post.fromJson(Map<String, dynamic> json) {
-    return Post(
+  factory PostModel.fromJson(Map<String, dynamic> json) {
+    return PostModel(
       id: json["id"],
       title: json["title"],
       body: json["body"],

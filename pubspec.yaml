@@ -42,7 +42,7 @@ dependencies:
   cached_network_image: any
   extended_nested_scroll_view: ^6.2.1
   loading_more_list: any
-  audioplayers: ^6.0.0
+#  audioplayers: ^6.0.0
   geolocator: ^13.0.1
   vibration: ^2.0.0
   http:
@@ -52,9 +52,12 @@ dependencies:
   flutter_map: ^7.0.2
   flutter_bloc: ^9.1.0
   bloc: ^9.0.0
+  bloc_concurrency: ^0.3.0
+
   equatable: ^2.0.7
-
-
+  #http: ^1.0.0
+  stream_transform: ^2.0.0
+#  audioplayers: ^6.4.0
 
 
 dev_dependencies:

@@ -5,6 +5,7 @@ import 'dart:typed_data';
 import 'package:first_project/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F/proxy_page.dart';
 import 'package:first_project/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/payment_page.dart';
 import 'package:first_project/bloc/counter/CounterBloc.dart';
+import 'package:first_project/bloc/infinite_list/list_app.dart';
 import 'package:first_project/didChangeDependenciesWidget.dart';
 import 'package:first_project/key/keyExapmpleWidget.dart';
 import 'package:first_project/layout_example/layoutRenderObject.dart';
@@ -28,6 +29,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';
 
 import 'AnimationValueDemo.dart';
+import 'DebounceButtonExample/DebounceButtonExample.dart';
 import 'HeroDemo.dart';
 import 'MapWithMenuScreen/map_with_menu_screen.dart';
 import 'ParallaxRecipe.dart';
@@ -224,7 +226,9 @@ Future<void> main() async {
   // Bloc.observer = SimpleBlocObserver();
   // CounterBloc()..add(CounterIncrementPressed())..close();
 
-  runApp(const TimerApp());
+  Bloc.observer = SimpleBlocObserver();
+  runApp(const DebounceWidget());
+
  //  runApp(
  //    Container(
  //      width: 0.04,
@@ -246,6 +250,24 @@ Future<void> main() async {
  //    )
   //);
 
+}
+
+
+class DebounceWidget extends StatelessWidget {
+  const DebounceWidget({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'DebounceWidget',
+      theme: ThemeData(
+        colorScheme: const ColorScheme.light(
+          primary: Color.fromRGBO(72, 74, 126, 1),
+        ),
+      ),
+      home: const DebounceButtonExample(),
+    );
+  }
 }
 
 
