@@ -41,6 +41,7 @@ import 'customPaint/CustomCheckboxTest.dart';
 import 'custom_scrollview_demo.dart';
 import 'keyDemoWidget.dart';
 import 'layout/layout6_customMultiChildLayout.dart';
+import 'my_sliver_page.dart';
 
 
 class NativeMethodChannel {
@@ -227,7 +228,11 @@ Future<void> main() async {
   // CounterBloc()..add(CounterIncrementPressed())..close();
 
   Bloc.observer = SimpleBlocObserver();
-  runApp(const DebounceWidget());
+  runApp(ScreenUtilInit(
+    designSize: const Size(375, 812),
+    minTextAdapt: true,
+    builder: (context, child) => const MaterialApp(home: MySliverPage()),
+  ));
 
  //  runApp(
  //    Container(
