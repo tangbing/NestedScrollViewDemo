@@ -4,6 +4,8 @@ import 'package:flutter/services.dart';
 
 import 'PlatformViewDemo.dart';
 
+import 'package:first_project/hero_demo.dart';
+
 void main() {
   runApp(const MyApp());
 }
@@ -35,7 +37,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const PlatformViewDemo(),
+      home: HeroAnimationWidget(),
     );
   }
 }

@@ -18,6 +18,7 @@ import 'package:first_project/mvvm_architecture/views/counter_view.dart';
 import 'package:first_project/mvvm_architecture/views/post_list_view.dart';
 import 'package:first_project/profile_main_page.dart';
 import 'package:first_project/tasbin_page.dart';
+import 'package:first_project/textfield_demo.dart';
 import 'package:first_project/updateWidget.dart';
 import 'package:first_project/withMixWidget.dart';
 import 'package:flutter/material.dart';
@@ -28,9 +29,11 @@ import 'dart:math';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';
 
-import 'AnimationValueDemo.dart';
+import 'animation/AnimationValueDemo.dart';
 import 'DebounceButtonExample/DebounceButtonExample.dart';
-import 'HeroDemo.dart';
+import 'animation/animation_demo.dart';
+import 'animation/animationed_container.dart';
+import 'hero_demo.dart';
 import 'MapWithMenuScreen/map_with_menu_screen.dart';
 import 'ParallaxRecipe.dart';
 import 'PopUtilWidget.dart';
@@ -231,7 +234,7 @@ Future<void> main() async {
   runApp(ScreenUtilInit(
     designSize: const Size(375, 812),
     minTextAdapt: true,
-    builder: (context, child) => const MaterialApp(home: MySliverPage()),
+    builder: (context, child) => const MaterialApp(home: MapWithMenuScreen()),
   ));
 
  //  runApp(
