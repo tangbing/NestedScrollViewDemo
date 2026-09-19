@@ -6,6 +6,8 @@ import 'package:first_project/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E4%BB%A3%E7%
 import 'package:first_project/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/payment_page.dart';
 import 'package:first_project/bloc/counter/CounterBloc.dart';
 import 'package:first_project/bloc/infinite_list/list_app.dart';
+import 'package:first_project/clean_architecture/features/login/presentation/bindings/login_binding.dart';
+import 'package:first_project/clean_architecture/features/login/presentation/pages/login_page.dart';
 import 'package:first_project/didChangeDependenciesWidget.dart';
 import 'package:first_project/key/keyExapmpleWidget.dart';
 import 'package:first_project/layout_example/layoutRenderObject.dart';
@@ -27,6 +29,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'dart:math';
 
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:get/get.dart';
 import 'package:provider/provider.dart';
 
 import 'animation/AnimationValueDemo.dart';
@@ -234,7 +237,16 @@ Future<void> main() async {
   runApp(ScreenUtilInit(
     designSize: const Size(375, 812),
     minTextAdapt: true,
-    builder: (context, child) => const MaterialApp(home: MapWithMenuScreen()),
+    builder: (context, child) => GetMaterialApp(
+      initialRoute: "/login",
+      getPages: [
+        GetPage(
+            name: '/login',
+            page: () => LoginPage(),
+            binding: LoginBinding(),
+        )
+      ],
+    ),
   ));
 
  //  runApp(
