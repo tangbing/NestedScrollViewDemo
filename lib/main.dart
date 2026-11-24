@@ -17,12 +17,15 @@ import 'package:first_project/mvvm_architecture/views/authentication_view.dart';
 import 'package:first_project/mvvm_architecture/views/counter_view.dart';
 import 'package:first_project/mvvm_architecture/views/post_list_view.dart';
 import 'package:first_project/profile_main_page.dart';
+import 'package:first_project/riverpod/RiverPodReadPage.dart';
+import 'package:first_project/riverpod/RiverpodAsyncPage.dart';
 import 'package:first_project/tasbin_page.dart';
 import 'package:first_project/updateWidget.dart';
 import 'package:first_project/withMixWidget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'dart:math';
 
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -36,6 +39,7 @@ import 'ParallaxRecipe.dart';
 import 'PopUtilWidget.dart';
 import 'bloc/GitHub/GithubEventPage.dart';
 import 'bloc/counter/counter_screen.dart';
+// import 'bloc/flutter_login/login_app.dart';
 import 'bloc/timer/view/timer_page.dart';
 import 'customPaint/CustomCheckboxTest.dart';
 import 'custom_scrollview_demo.dart';
@@ -142,6 +146,20 @@ class CounterBloc1 extends Bloc<CounterEvent1, int> {
   }
 }
 
+class RiverPodReadApp extends StatelessWidget {
+  const RiverPodReadApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(useMaterial3: true),
+      home: const RiverPodReadPage(),
+    );
+  }
+}
+
+
 
 Future<void> main() async {
 
@@ -226,8 +244,14 @@ Future<void> main() async {
   // Bloc.observer = SimpleBlocObserver();
   // CounterBloc()..add(CounterIncrementPressed())..close();
 
+  
+
   Bloc.observer = SimpleBlocObserver();
-  runApp(const DebounceWidget());
+  // runApp(const LoginApp());
+
+
+  // ProviderScope 是 Riverpod 的根容器，后面的 Provider 状态都放在这里。
+  runApp(const ProviderScope(child: RiverpodAsyncApp()));
 
  //  runApp(
  //    Container(
@@ -252,6 +276,18 @@ Future<void> main() async {
 
 }
 
+class RiverpodAsyncApp extends StatelessWidget {
+  const RiverpodAsyncApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(useMaterial3: true),
+      home: const RiverPodAsyncPage(),
+    );
+  }
+}
 
 class DebounceWidget extends StatelessWidget {
   const DebounceWidget({super.key});
