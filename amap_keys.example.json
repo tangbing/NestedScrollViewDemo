@@ -1,0 +1,4 @@
+{
+  "AMAP_ANDROID_KEY": "请替换为绑定当前包名和签名的 Android Key",
+  "AMAP_IOS_KEY": "请替换为绑定当前 Bundle ID 的 iOS Key"
+}
